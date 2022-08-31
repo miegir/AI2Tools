@@ -1972,7 +1972,7 @@
   "flowchart_font_marker_500": {
     "src": "Start Investigation",
     "yax": "Начать расследование",
-    "trx": "Начать расследование"
+    "trx": "Начать\nрасследование"
   },
   "flowchart_font_marker_501": {
     "src": "Summary",
@@ -1982,7 +1982,7 @@
   "flowchart_font_marker_502": {
     "src": "Start Psync",
     "yax": "Запуск Psync",
-    "trx": "Начать сомниум"
+    "trx": "Начать\nсомниум"
   },
   "flowchart_font_marker_503": {
     "src": "Unlimited Psync",
