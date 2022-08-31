@@ -1,0 +1,17 @@
+{
+  "bonusmenu_santou_common_001": {
+    "src": "Start 3rd Class Cabin Somnium?",
+    "yax": "Начать работу в Каюте 3-го класса Somnium?",
+    "trx": "Запустить сомниум \"Каюта 3-го класса\"?"
+  },
+  "bonusmenu_santou_common_002": {
+    "src": "Quit 3rd Class Cabin Somnium and return to Bonus Menu?",
+    "yax": "Выйти из Сомниума в каюте 3-го класса и вернуться к Бонусному меню?",
+    "trx": "Выйти из сомниума \"Каюта 3-го класса\" в меню бонусов?"
+  },
+  "bonusmenu_santou_common_003": {
+    "src": "\"The Bracelet\" has been unlocked in the Bonus Menu.",
+    "yax": "\"Браслет\" был разблокирован в Бонусном меню.",
+    "trx": "В меню бонусов был разблокирован \"Браслет\"."
+  }
+}

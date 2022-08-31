@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI2Tools</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="McMaster.Extensions.Hosting.CommandLine" Version="4.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI2Tools.Core\AI2Tools.Core.csproj" />
+    <ProjectReference Include="..\AI2Tools.Game\AI2Tools.Game.csproj" />
+    <ProjectReference Include="..\AI2Tools.Resources.Bundles\AI2Tools.Resources.Bundles.csproj" />
+    <ProjectReference Include="..\AI2Tools.Resources.TextMaps\AI2Tools.Resources.TextMaps.csproj" />
+  </ItemGroup>
+
+</Project>

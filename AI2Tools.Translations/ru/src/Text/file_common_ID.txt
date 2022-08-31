@@ -1,0 +1,42 @@
+{
+  "file_common_caption_001": {
+    "src": "Persons [Present]",
+    "yax": "Лица [Присутствующие]",
+    "trx": "<size=24>Персонажи [Настоящее]"
+  },
+  "file_common_caption_002": {
+    "src": "Appendix",
+    "yax": "Приложение",
+    "trx": "Приложения"
+  },
+  "file_common_caption_003": {
+    "src": "Manual",
+    "yax": "Инструкция",
+    "trx": "Руководство"
+  },
+  "file_common_caption_004": {
+    "src": "Trivia",
+    "yax": "Мелочи",
+    "trx": "Факты"
+  },
+  "file_common_caption_005": {
+    "src": "Persons [6 Years Ago]",
+    "yax": "Лица [6 Лет Назад]",
+    "trx": "<size=24>Персонажи [6 лет назад]"
+  },
+  "file_common_caption_006": {
+    "src": "0123456789",
+    "yax": "0123456789",
+    "trx": null
+  },
+  "file_common_options_001": {
+    "src": "0123456789",
+    "yax": "0123456789",
+    "trx": null
+  },
+  "file_common_monologue_500": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  }
+}

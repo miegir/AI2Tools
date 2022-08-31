@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI2Tools</RootNamespace>
+    <UseWindowsForms>True</UseWindowsForms>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Translations\**\*.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="2.0.12" />
+    <PackageReference Include="MessagePack" Version="2.4.35" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <Import Project="..\AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems" Label="Shared" />
+
+  <Import Project="..\AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems" Label="Shared" />
+
+  <Import Project="..\AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems" Label="Shared" />
+
+  <Import Project="..\AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems" Label="Shared" />
+
+</Project>

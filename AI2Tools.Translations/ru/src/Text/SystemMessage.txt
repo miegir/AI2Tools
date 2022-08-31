@@ -1,0 +1,977 @@
+{
+  "dialog_001": {
+    "src": "Yes",
+    "yax": "Да",
+    "trx": "Да"
+  },
+  "dialog_002": {
+    "src": "No",
+    "yax": "Нет",
+    "trx": "Нет"
+  },
+  "dialog_003": {
+    "src": "Empty",
+    "yax": "Пустой",
+    "trx": "Пусто"
+  },
+  "dialog_502": {
+    "src": "Incorrect input",
+    "yax": "Неверный ввод",
+    "trx": "Неверный ввод"
+  },
+  "dialog_004": {
+    "src": "Mental Lock {0} unlocked: <pos=75%>{1} second(s) left",
+    "yax": "Ментальная блокировка {0} разблокирована: <pos=75%>{1} осталось секунда(секунды)",
+    "trx": "Ментальный замок {0} разблокирован: <pos=75%>осталось {1} сек"
+  },
+  "dialog_005": {
+    "src": "Retry?",
+    "yax": "Повторить попытку?",
+    "trx": "Повторить?"
+  },
+  "dialog_006": {
+    "src": "End event and open Flowchart?",
+    "yax": "Завершите событие и откройте блок-схему?",
+    "trx": "Завершить событие и открыть хронологию?"
+  },
+  "dialog_500": {
+    "src": "Quit 3rd Class Cabin Somnium and return to Bonus Menu?",
+    "yax": "Выйти из Сомниума в каюте 3-го класса и вернуться к Бонусному меню?",
+    "trx": "Завершить сомниум каюты 3-го класса и вернуться в меню бонусов?"
+  },
+  "dialog_501": {
+    "src": "End game?",
+    "yax": "Конец игры?",
+    "trx": "Выйти из игры?"
+  },
+  "dialog_506": {
+    "src": "Restart from Checkpoint",
+    "yax": "Перезапуск с контрольной точки",
+    "trx": "Перезапустить с контрольной точки"
+  },
+  "dialog_507": {
+    "src": "Restart Psync",
+    "yax": "Перезапустить Psync",
+    "trx": "Перезапустить сомниум"
+  },
+  "dialog_508": {
+    "src": "Open Flowchart",
+    "yax": "Открытая блок-схема",
+    "trx": "Открыть хронологию"
+  },
+  "dialog_007": {
+    "src": "Start Somnium from beginning?",
+    "yax": "Начать Сомниум с самого начала?",
+    "trx": "Начать сомниум с начала?"
+  },
+  "dialog_008": {
+    "src": "End Psync and open Flowchart?",
+    "yax": "Завершить Psync и открыть блок-схему?",
+    "trx": "Завершить сомниум и открыть хронологию?"
+  },
+  "dialog_009": {
+    "src": "Perform action without using Timie?",
+    "yax": "Выполнить действие без использования Timie?",
+    "trx": "Выполнить действие, не используя Тайми?"
+  },
+  "dialog_010": {
+    "src": "Start game with this text language?\nThis cannot be changed later. ",
+    "yax": "Начать игру с этого текстового языка?\r\nЭто не может быть изменено позже. ",
+    "trx": "Начать игру на выбранном языке?\nЯзык нельзя изменить позже. "
+  },
+  "dialog_011": {
+    "src": "<color=#CC0000><size=80%>Investigation Part(QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium Part</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height>Start at this difficulty?\n<size=80%>(This can be changed in the options menu)</size>",
+    "yax": "<color=#CC0000><size=80%>Часть расследования (QTE)</size></color>\r\n{0}<высота строки=80%>\r\n―――――――――――――――――――\r\n</высота строки><цвет=#0644B9><размер=80%>Часть сомния</размер></цвет>\r\n{1}<высота строки=80%>\r\n―――――――――――――――――――\r\n</line-height>Начать с этой трудности?\r\n<размер=80%>(Это можно изменить в меню параметров)</size>",
+    "trx": "<color=#CC0000><size=80%>Режим расследования(QTE)</size></color>\n{0}<line-height=100%>\n</line-height><line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Режим сомниума</size></color>\n{1}<line-height=100%>\n</line-height><line-height=80%>\n―――――――――――――――――――\n</line-height>Начать на этой сложности?\n<size=80%>(Сложность можно изменить в настройках)</size>"
+  },
+  "dialog_503": {
+    "src": "3rd Class Cabin has been unlocked in BONUS!",
+    "yax": "Каюта 3-го класса была разблокирована в качестве БОНУСА!",
+    "trx": "В бонусах была разблокирована каюта 3-го класса!"
+  },
+  "dialog_504": {
+    "src": "Kizuna's Song and Amame's Song have been unlocked in the Bonus Menu!",
+    "yax": "Песни Кидзуны и Амаме были разблокированы в Бонусном меню!",
+    "trx": "В бонусном меню были разблокированы песни Кизуны и Амаме!"
+  },
+  "dialog_505": {
+    "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
+    "yax": "Разблокированная функция глазных яблок!\r\n《Время ожидания вопроса теперь составляет 0 секунд》\r\n《В книжке с картинками функция \"Поиграйте с глазными яблоками, которые вы встречали в прошлом\" 《\r\nОтныне тоже давайте ответы на вопросы!",
+    "trx": "Разблокирована функция айболли!\n《Время ожидания вопроса теперь 0 секунд》\n《В альбоме доступна функция \"Поиграть со встреченными в прошлом айболли\"》\nПродолжайте отвечать на вопросы!"
+  },
+  "dialog_509": {
+    "src": "Remaning Retries",
+    "yax": "Повторные Попытки",
+    "trx": "Оставшиеся попытки"
+  },
+  "dialog_510": {
+    "src": "Which Checkpoint would you like to restart from?",
+    "yax": "С какой контрольной точки вы хотели бы перезапустить?",
+    "trx": "С какой контрольной точки выполнить перезапуск?"
+  },
+  "dialog_511": {
+    "src": "Checkpoint",
+    "yax": "Пропускной пункт",
+    "trx": "Контрольная точка"
+  },
+  "dialog_512": {
+    "src": "Consumes",
+    "yax": "Потребляет",
+    "trx": "Расход"
+  },
+  "dialog_513": {
+    "src": "Return to this Checkpoint?",
+    "yax": "Вернуться на этот контрольно-пропускной пункт?",
+    "trx": "Вернуться к этой контрольной точке?"
+  },
+  "dialog_514": {
+    "src": "Mental Lock {0}",
+    "yax": "Ментальная блокировка {0}",
+    "trx": "Ментальный замок {0}"
+  },
+  "dialog_515": {
+    "src": "Return to BONUS menu?",
+    "yax": "Вернуться к БОНУСНОМУ меню?",
+    "trx": "Вернуться в меню бонусов?"
+  },
+  "difficulty_003": {
+    "src": "Story",
+    "yax": "История",
+    "trx": "История"
+  },
+  "difficulty_002": {
+    "src": "Easy",
+    "yax": "Легко",
+    "trx": "Легкая"
+  },
+  "difficulty_001": {
+    "src": "Standard",
+    "yax": "Стандарт",
+    "trx": "Обычная"
+  },
+  "r15_dialog_500": {
+    "src": "You already have 3 Kusemon.\n{1}{0}\nWhich Kusemon would you like to replace?",
+    "yax": "У вас уже есть 3 Кусемона.\r\n{1}{0}\r\nКакого Кусемона вы хотели бы заменить?",
+    "trx": "У вас уже есть 3 Куземона.\n{1}{0}\nКакой Куземон вы хотите заменить?"
+  },
+  "r15_dialog_501": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "r15_dialog_502": {
+    "src": "Rarity",
+    "yax": "Редкость",
+    "trx": "Редкость"
+  },
+  "r15_dialog_503": {
+    "src": "[C]",
+    "yax": "[C]",
+    "trx": null
+  },
+  "r15_dialog_504": {
+    "src": "[R]",
+    "yax": "[R]",
+    "trx": null
+  },
+  "r15_dialog_505": {
+    "src": "[SR]",
+    "yax": "[SR]",
+    "trx": null
+  },
+  "r15_dialog_506": {
+    "src": "[SSR]",
+    "yax": "[ССР]",
+    "trx": null
+  },
+  "r15_dialog_507": {
+    "src": "[F]",
+    "yax": "[F]",
+    "trx": null
+  },
+  "r15_dialog_508": {
+    "src": "[SC]",
+    "yax": "[SC]",
+    "trx": null
+  },
+  "r15_dialog_509": {
+    "src": "Kaniza",
+    "yax": "Каниза",
+    "trx": "Каниза"
+  },
+  "r15_dialog_510": {
+    "src": "Kagami",
+    "yax": "Кагами",
+    "trx": "Кагами"
+  },
+  "r15_dialog_511": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "Мама"
+  },
+  "r15_dialog_512": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "Пьютер"
+  },
+  "r15_dialog_513": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "r15_dialog_514": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "r15_dialog_515": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "Босс"
+  },
+  "r15_dialog_516": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "r15_dialog_517": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "r15_dialog_518": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "r15_dialog_519": {
+    "src": "F",
+    "yax": "F",
+    "trx": "Ф"
+  },
+  "r15_dialog_520": {
+    "src": "BW Bear",
+    "yax": "Медведь BW",
+    "trx": "Ч/Б медведь"
+  },
+  "r15_dialog_521": {
+    "src": "Wanderer",
+    "yax": "Странник",
+    "trx": "Странник"
+  },
+  "r15_dialog_522": {
+    "src": "Which should we replace?",
+    "yax": "Что мы должны заменить?",
+    "trx": "Кого вы хотите заменить?"
+  },
+  "r15_dialog_523": {
+    "src": "Cancel",
+    "yax": "Отменить",
+    "trx": "Отмена"
+  },
+  "r15_dialog_524": {
+    "src": "Choose a Kusemon to battle",
+    "yax": "Выберите Кусемона для битвы",
+    "trx": "Выберите Куземон для боя"
+  },
+  "r15_dialog_525": {
+    "src": "Red Assassin",
+    "yax": "Красный Убийца",
+    "trx": "Красный киллер"
+  },
+  "r15_dialog_526": {
+    "src": "Blue Assassin",
+    "yax": "Синий Убийца",
+    "trx": "Синий киллер"
+  },
+  "r15_dialog_527": {
+    "src": "Green Assassin",
+    "yax": "Зеленый Убийца",
+    "trx": "Зеленый киллер"
+  },
+  "r15_dialog_528": {
+    "src": "Mansion Leader",
+    "yax": "Особняк Лидера",
+    "trx": "Лидер особняка"
+  },
+  "r15_dialog_529": {
+    "src": "T. Mansion Leader",
+    "yax": "Т. Особняк Лидера",
+    "trx": "Т. Лидер особняка"
+  },
+  "r15_dialog_530": {
+    "src": "F",
+    "yax": "F",
+    "trx": "Ф"
+  },
+  "information_001": {
+    "src": "Checkpoint Saved",
+    "yax": "Контрольная точка Сохранена",
+    "trx": "Контрольная точка сохранена"
+  },
+  "information_500": {
+    "src": "{0} eyeballs gained!",
+    "yax": "{0} глазные яблоки набраны!",
+    "trx": "Получено {0} айболли!"
+  },
+  "log_001": {
+    "src": "Look at {0}",
+    "yax": "Посмотрите на {0}",
+    "trx": null
+  },
+  "c570_map_504": {
+    "src": "This map is to assist with your deductions.\nWhen you find the location, close the map and tell everyone.",
+    "yax": "Эта карта предназначена для того, чтобы помочь вам с выводами.\r\nКогда вы найдете нужное место, закройте карту и расскажите об этом всем.",
+    "trx": "Эта карта поможет вам сделать вывод.\nКогда вы определите место, закройте карту и расскажите всем."
+  },
+  "c570_map_500": {
+    "src": "Dvaita",
+    "yax": "Двайта",
+    "trx": "Двайта"
+  },
+  "c570_map_501": {
+    "src": "Misetan",
+    "yax": "Мисетан",
+    "trx": "Мисетан"
+  },
+  "c570_map_502": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "c570_map_503": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "timie_information_001": {
+    "src": "Add {0} seconds\nto time cost",
+    "yax": "Добавить {0} секунд\r\nк затратам времени",
+    "trx": "Добавляет {0} сек\nк расходу времени"
+  },
+  "timie_information_002": {
+    "src": "Remove {0} seconds\nfrom time cost",
+    "yax": "Удалить {0} секунд\r\nот временных затрат",
+    "trx": "Вычитает {0} сек\nиз расхода времени"
+  },
+  "timie_information_003": {
+    "src": "Time cost\nis {0} x",
+    "yax": "Затраты времени\r\nравно {0} x",
+    "trx": "Расход времени:\n{0} x"
+  },
+  "timie_information_004": {
+    "src": "Change time cost\nto 1/{0}",
+    "yax": "Изменение временных затрат\r\nдо 1/{0}",
+    "trx": "Сократить расход времени\nв {0} раз"
+  },
+  "timie_information_005": {
+    "src": "Change time cost\nto {0} seconds",
+    "yax": "Изменение временных затрат\r\nдо {0} секунд",
+    "trx": "Изменить расход времени\nна {0} сек"
+  },
+  "ui_title_001": {
+    "src": "Current Goal",
+    "yax": "Текущая цель",
+    "trx": "Текущая цель"
+  },
+  "ui_title_002": {
+    "src": "Updated Goal",
+    "yax": "Обновленная цель",
+    "trx": "Новая цель"
+  },
+  "ui_title_003": {
+    "src": "Key",
+    "yax": "Ключ",
+    "trx": "Ключ"
+  },
+  "ui_title_004": {
+    "src": "Key Found!",
+    "yax": "Ключ Найден!",
+    "trx": "Ключ найден!"
+  },
+  "ui_title_005": {
+    "src": "Updated Keys!",
+    "yax": "Обновленные Ключи!",
+    "trx": "Ключи обновлены!"
+  },
+  "ui_title_006": {
+    "src": "Depth",
+    "yax": "Глубина",
+    "trx": "Глубина"
+  },
+  "ui_title_007": {
+    "src": "Updated Depth",
+    "yax": "Обновленная глубина",
+    "trx": "Новая глубина"
+  },
+  "ui_title_008": {
+    "src": "Psync Objective",
+    "yax": "Цель Psync",
+    "trx": "Цель сомниума"
+  },
+  "ui_title_500": {
+    "src": "\"Half to Whole\" Practice Mode",
+    "yax": "Режим тренировки \"От половины до целого\"",
+    "trx": "Тренировка \"Половина в целое\""
+  },
+  "ui_title_501": {
+    "src": "\"Half to Whole\" Grand Finale",
+    "yax": "Грандиозный финал \"От половины до целого\"",
+    "trx": "Гранд-финал \"Половина в целое\""
+  },
+  "ui_title_502": {
+    "src": "The Flower That Blooms in Snow",
+    "yax": "Цветок, который расцветает в снегу",
+    "trx": "Цветок, расцветающий в снегу"
+  },
+  "ui_description_001": {
+    "src": "Next Objective",
+    "yax": "Следующая цель",
+    "trx": "Следующая цель"
+  },
+  "ui_description_002": {
+    "src": "Somnium world rules and Psync subject information",
+    "yax": "Правила мира Сомниума и информация о предмете Psync",
+    "trx": "Правила мира сомниума и информация о субъекте"
+  },
+  "ui_description_003": {
+    "src": "Current Psync progress",
+    "yax": "Текущий прогресс Psync",
+    "trx": "Прогресс псинхронизации"
+  },
+  "ui_description_004": {
+    "src": "Psync objective and information to find",
+    "yax": "Цель Psync и информация, которую нужно найти",
+    "trx": "Цель сомниума и искомая информация"
+  },
+  "ui_description_500": {
+    "src": "Current Location",
+    "yax": "Текущее местоположение",
+    "trx": "Текущее положение"
+  },
+  "ui_description_501": {
+    "src": "Unlocked",
+    "yax": "Разблокирован",
+    "trx": "Открыто"
+  },
+  "ui_description_502": {
+    "src": "Next Lock",
+    "yax": "Следующий замок",
+    "trx": "Следующий замок"
+  },
+  "purpose_difficulty_001": {
+    "src": "Difficulty: {0}",
+    "yax": "Сложность: {0}",
+    "trx": "Сложность: {0}"
+  },
+  "purpose_difficulty_002": {
+    "src": "Standard",
+    "yax": "Стандарт",
+    "trx": "Обычная"
+  },
+  "purpose_difficulty_003": {
+    "src": "Easy",
+    "yax": "Легко",
+    "trx": "Легкая"
+  },
+  "purpose_difficulty_004": {
+    "src": "Story",
+    "yax": "История",
+    "trx": "История"
+  },
+  "purpose_difficulty_detail_001": {
+    "src": "Time Reduction Speed: Normal\nInteraction Times: Normal\nRetry count: 3",
+    "yax": "Скорость сокращения времени: Нормальная\r\nВремя взаимодействия: Нормальное\r\nКоличество повторных попыток: 3",
+    "trx": "Скорость расхода времени: Обычная\nВремя взаимодействия: Обычное\nКоличество попыток: 3"
+  },
+  "purpose_difficulty_detail_002": {
+    "src": "Time Reduction Speed: 1/2\nInteraction Times: 1/2\nRetry count: 6",
+    "yax": "Скорость сокращения времени: 1/2\r\nВремя взаимодействия: 1/2\r\nКоличество повторных попыток: 6",
+    "trx": "Скорость расхода времени: 1/2\nВремя взаимодействия: 1/2\nКоличество попыток: 6"
+  },
+  "purpose_difficulty_detail_003": {
+    "src": "Time Reduction Speed: 1/4\nInteraction Times: 1/4\nRetry count: Unlimited",
+    "yax": "Скорость сокращения времени: 1/4\r\nВремя взаимодействия: 1/4\r\nКоличество повторных попыток: Неограниченно",
+    "trx": "Скорость расхода времени: 1/4\nВремя взаимодействия: 1/4\nКоличество попыток: Unlimited"
+  },
+  "scale_500": {
+    "src": "♪Re",
+    "yax": "♪Ре",
+    "trx": "♪Ре"
+  },
+  "scale_501": {
+    "src": "♪Ti",
+    "yax": "♪Ти",
+    "trx": "♪Ти" //spell-ignore-line
+  },
+  "scale_502": {
+    "src": "♪So",
+    "yax": "♪Так",
+    "trx": "♪Со"
+  },
+  "scale_503": {
+    "src": "♪Fa",
+    "yax": "♪Фа",
+    "trx": "♪Фа"
+  },
+  "scale_504": {
+    "src": "♪Do",
+    "yax": "♪Сделай",
+    "trx": "♪До"
+  },
+  "scale_505": {
+    "src": "♪La",
+    "yax": "♪Ла",
+    "trx": "♪Ла" //spell-ignore-line
+  },
+  "scale_506": {
+    "src": "♪Mi",
+    "yax": "♪Ми",
+    "trx": "♪Ми"
+  },
+  "scale_507": {
+    "src": "Check Diary",
+    "yax": "Проверьте Дневник",
+    "trx": "Поверить дневник"
+  },
+  "fiction_001": {
+    "src": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental. ",
+    "yax": "Эта история - вымышленное произведение. \r\nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным. ",
+    "trx": "Это вымышленная история. \nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным. "
+  },
+  "cautionautosave_001": {
+    "src": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game.",
+    "yax": "В этой игре есть функция автосохранения. \r\nКогда в правом нижнем углу появится значок сохранения, пожалуйста, не выходите из игры.",
+    "trx": "Эта игра использует автосохранение. \nНе выходите из игры, когда в правом нижнем углу появляется значок сохранения."
+  },
+  "title_dlc_001": {
+    "src": "DLC Ep1 released",
+    "yax": "Выпущено DLC Ep1",
+    "trx": null
+  },
+  "title_info_001": {
+    "src": "Choose save data to load",
+    "yax": "Выберите сохранить данные для загрузки",
+    "trx": "Загрузка сохраненной игры"
+  },
+  "title_info_002": {
+    "src": "Start from beginning",
+    "yax": "Начните с самого начала",
+    "trx": "Начало новой игры"
+  },
+  "title_info_003": {
+    "src": "Change settings/difficulty",
+    "yax": "Изменение настроек/сложности",
+    "trx": "Настройка параметров и сложности"
+  },
+  "title_info_004": {
+    "src": "Additional content for purchase",
+    "yax": "Дополнительный контент для покупки",
+    "trx": "Дополнительный платный контент"
+  },
+  "title_info_005": {
+    "src": "Bonus Menu",
+    "yax": "Бонусное Меню",
+    "trx": "Меню бонусов"
+  },
+  "title_info_006": {
+    "src": "Quit Game",
+    "yax": "Выйти из игры",
+    "trx": "Выход из игры"
+  },
+  "operation_guide_001": {
+    "src": "Move Cursor",
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
+  },
+  "operation_guide_002": {
+    "src": "Move Sight",
+    "yax": "Переместите Прицел",
+    "trx": "Переместить прицел"
+  },
+  "operation_guide_503": {
+    "src": "Move Camera",
+    "yax": "Переместить Камеру",
+    "trx": "Переместить камеру"
+  },
+  "operation_guide_003": {
+    "src": "Check",
+    "yax": "Проверять",
+    "trx": "Отметить"
+  },
+  "operation_guide_504": {
+    "src": "Choose Options",
+    "yax": "Выберите параметры",
+    "trx": "Выбрать параметры"
+  },
+  "operation_guide_508": {
+    "src": "Move",
+    "yax": "Подвиньте",
+    "trx": "Переместить"
+  },
+  "operation_guide_509": {
+    "src": "Controls",
+    "yax": "Управления",
+    "trx": "Управление"
+  },
+  "operation_guide_510": {
+    "src": "Use/Cancel",
+    "yax": "Использование/Отмена",
+    "trx": "Использовать/Отмена"
+  },
+  "operation_guide_004": {
+    "src": "Enter",
+    "yax": "Входить",
+    "trx": "Ввод"
+  },
+  "operation_guide_005": {
+    "src": "Close",
+    "yax": "Закрывать",
+    "trx": "Закрыть"
+  },
+  "operation_guide_006": {
+    "src": "Skip Page",
+    "yax": "Пропустить страницу",
+    "trx": "Далее"
+  },
+  "operation_guide_007": {
+    "src": "Expand",
+    "yax": "Расширять",
+    "trx": "Увеличить"
+  },
+  "operation_guide_008": {
+    "src": "Shrink",
+    "yax": "Сокращаться",
+    "trx": "Уменьшить"
+  },
+  "operation_guide_009": {
+    "src": "Move",
+    "yax": "Подвиньте",
+    "trx": "Переместить"
+  },
+  "operation_guide_010": {
+    "src": "Zoom",
+    "yax": "Увеличение",
+    "trx": "Увеличить"
+  },
+  "operation_guide_011": {
+    "src": "Snap To",
+    "yax": "Привязка К",
+    "trx": "Привязать"
+  },
+  "operation_guide_012": {
+    "src": "Change",
+    "yax": "Изменить",
+    "trx": "Изменить"
+  },
+  "operation_guide_013": {
+    "src": "Navi",
+    "yax": "Navi",
+    "trx": "Нави" //spell-ignore-line
+  },
+  "operation_guide_014": {
+    "src": "Check",
+    "yax": "Проверять",
+    "trx": "Отметить"
+  },
+  "operation_guide_500": {
+    "src": "Switch Mode",
+    "yax": "Переключение режима",
+    "trx": "Переключить режим"
+  },
+  "operation_guide_501": {
+    "src": "Hold: Mode List",
+    "yax": "Удержание: Список режимов",
+    "trx": "Удерживать: Список режимов"
+  },
+  "operation_guide_511": {
+    "src": "Background\nCharacter\n\nLyrics ON/OFF\nUI ON/OFF\n\nSwitch Camera\nCamera Zoom\nCamera Reset\n\nPlay normal speed\nFastforward/cancel\nRewind/cancel\nSlow/cancel\n\nWatch from start\nMirrored\nPause/play\n\nPlay Grand Finale\nReturn to BONUS",
+    "yax": "Фон\r\nХарактер\r\n\r\nВключение/ВЫКЛЮЧЕНИЕ текстов песен\r\nВКЛЮЧЕНИЕ/ВЫКЛЮЧЕНИЕ ПОЛЬЗОВАТЕЛЬСКОГО ИНТЕРФЕЙСА\r\n\r\nПереключить Камеру\r\nУвеличение камеры\r\nСброс камеры\r\n\r\nВоспроизведение на нормальной скорости\r\nБыстрая перемотка вперед/отмена\r\nПеремотка назад/отмена\r\nЗамедление/отмена\r\n\r\nСмотрите с самого начала\r\nОтраженный\r\nПауза/воспроизведение\r\n\r\nИграйте в Грандиозный Финал\r\nВозврат к БОНУСУ",
+    "trx": "<size=25.7>Фон\nПерсонаж\n\nТекст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\n\nПереключить камеру\nУвеличить\nСброс камеры\n\nОбычная скорость\nПеремотка/Отмена\nНазад/Отмена\nМедленно/Отмена\n\nС начала\nЗеркально\nПауза/Далее\n\nЗапустить гранд-финал\nВернуться к БОНУСАМ"
+  },
+  "operation_guide_512": {
+    "src": "Lyrics ON/OFF\nUI ON/OFF\nWatch from start\nPause/play\n\nReturn to Practice Mode\nReturn to BONUS",
+    "yax": "Включение/ВЫКЛЮЧЕНИЕ текстов песен\r\nВКЛЮЧЕНИЕ/ВЫКЛЮЧЕНИЕ ПОЛЬЗОВАТЕЛЬСКОГО ИНТЕРФЕЙСА\r\nСмотрите с самого начала\r\nПауза/воспроизведение\r\n\r\nВернитесь в режим тренировки\r\nВозврат к БОНУСУ",
+    "trx": "<size=25.7>Текст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\nС начала\nПауза/Далее\n\nВернуться к тренировке\nВернуться к БОНУСАМ"
+  },
+  "operation_guide_513": {
+    "src": "Lyrics ON/OFF\nUI ON/OFF\n\nPlay normal speed\nFast forward/cancel\nRewind/cancel\nSlow/cancel\n\nListen from Start\nPause/play\n\nReturn to BONUS",
+    "yax": "Включение/ВЫКЛЮЧЕНИЕ текстов песен\r\nВКЛЮЧЕНИЕ/ВЫКЛЮЧЕНИЕ ПОЛЬЗОВАТЕЛЬСКОГО ИНТЕРФЕЙСА\r\n\r\nВоспроизведение на нормальной скорости\r\nБыстрая перемотка вперед/отмена\r\nПеремотка назад/отмена\r\nЗамедление/отмена\r\n\r\nСлушайте с самого начала\r\nПауза/воспроизведение\r\n\r\nВозврат к БОНУСУ",
+    "trx": "<size=25.7>Текст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\n\nОбычная скорость\nПеремотка/Отмена\nНазад/Отмена\nМедленно/Отмена\n\nС начала\nПауза/Далее\n\nВернуться к БОНУСАМ"
+  },
+  "operation_guide_502": {
+    "src": "UI Display",
+    "yax": "Отображение пользовательского интерфейса",
+    "trx": "Интерфейс"
+  },
+  "operation_guide_505": {
+    "src": "Open Chart",
+    "yax": "Открытый график",
+    "trx": "Диаграмма"
+  },
+  "operation_guide_506": {
+    "src": "Move Cursor",
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
+  },
+  "operation_guide_507": {
+    "src": "Choose Options",
+    "yax": "Выберите параметры",
+    "trx": "Выбрать параметры"
+  },
+  "difficulty_title_001": {
+    "src": "Select Difficulty",
+    "yax": "Выберите сложность",
+    "trx": "Выбор сложности"
+  },
+  "difficulty_caption_001": {
+    "src": "Choose the difficulty.\nThis can be changed later.",
+    "yax": "Выберите сложность.\r\nЭто может быть изменено позже.",
+    "trx": "Выберите сложность.\nВыбор можно изменить позже."
+  },
+  "difficulty_subtitle_001": {
+    "src": "Investigation (QTE)s",
+    "yax": "Расследование (QTE)s",
+    "trx": "<size=28>Расследование (QTE)"
+  },
+  "difficulty_explanation_001": {
+    "src": "Difficulty setting for Quick Time Events (QTE)s that occur during Investigations.",
+    "yax": "Настройка сложности для событий быстрого времени (QTE), которые происходят во время расследований.",
+    "trx": "Настройка сложности для быстрых событий (QTE) во время расследования."
+  },
+  "difficulty_info_003": {
+    "src": "For players who want to focus on the story.\n・Time Limit: 3x\n・Button Mash: 1/4",
+    "yax": "Для игроков, которые хотят сосредоточиться на сюжете.\r\n・Ограничение по времени: 3 раза\r\n・Пюре из пуговиц: 1/4",
+    "trx": "Для игроков, желающих сфокусироваться на истории.\n・Ограничение времени: 3x\n・Разброс кнопок: 1/4"
+  },
+  "difficulty_info_002": {
+    "src": "Relatively easy difficulty.\n・Time Limit: 1.5x\n・Button Mash: 1/2",
+    "yax": "Относительно легкая сложность.\r\n・Ограничение по времени: 1,5 раза\r\n・Пюре из пуговиц: 1/2",
+    "trx": "Более легкий уровень.\n・Ограничение времени: 1.5x\n・Разброс кнопок: 1/2"
+  },
+  "difficulty_info_001": {
+    "src": "This is the recommended difficulty for QTEs.\nShould provide just the right amount of tension.",
+    "yax": "Это рекомендуемая сложность для QTE.\r\nДолжно обеспечивать только нужное количество натяжения.",
+    "trx": "Рекомендуемая сложность для QTE.\nОбеспечивает задуманный авторами уровень напряжения."
+  },
+  "difficulty_subtitle_002": {
+    "src": "Somnium",
+    "yax": "Сомниум",
+    "trx": "<size=28>Сомниум"
+  },
+  "difficulty_explanation_002": {
+    "src": "Difficulty setting for exploring memories in the subject's dream world.",
+    "yax": "Настройка сложности для изучения воспоминаний в мире сновидений субъекта.",
+    "trx": "Уровень сложности для исследования воспоминаний в мире снов субъекта."
+  },
+  "difficulty_info_006": {
+    "src": "For players who want to focus on the story.\nEven more time to explore.\n・Time Reduction Speed: 1/4\n・Interaction Times: 1/4\n・Retry Count: Unlimited",
+    "yax": "Для игроков, которые хотят сосредоточиться на сюжете.\r\nЕще больше времени для изучения.\r\n・Скорость сокращения времени: 1/4\r\n・Время взаимодействия: 1/4\r\n・Количество повторных попыток: Неограниченно",
+    "trx": "Для игроков, желающих сфокусироваться на истории.\nЕще больше времени для исследования.\n・Скорость расхода времени: 1/4\n・Время взаимодействия: 1/4\n・Количество попыток: Не ограничено"
+  },
+  "difficulty_info_005": {
+    "src": "Relatively easy difficulty. \nAmple time to explore.\n・Time Reduction Speed: 1/2\n・Interaction Times: 1/2\n・Retry Count: 6",
+    "yax": "Относительно легкая сложность. \r\nДостаточно времени для изучения.\r\n・Скорость сокращения времени: 1/2\r\n・Время взаимодействия: 1/2\r\n・Количество повторных попыток: 6",
+    "trx": "Более легкий уровень. \nБольше времени для исследования.\n・Скорость расхода времени: 1/2\n・Время взаимодействия: 1/2\n・Количество попыток: 6"
+  },
+  "difficulty_info_004": {
+    "src": "This is the recommended setting.\nShould provide just the right amount of tension.\n・Time Reduction Speed: Normal\n・Interaction Times: Normal\n・Retry Count: 3",
+    "yax": "Это рекомендуемая настройка.\r\nДолжно обеспечивать только нужное количество натяжения.\r\n・Скорость сокращения Времени: Нормальная\r\n・ Время взаимодействия: Нормальное\r\n・Количество повторных попыток: 3",
+    "trx": "Рекомендуемая сложность.\nОбеспечивает задуманный авторами уровень напряжения.\n・Скорость расхода времени: Normal\n・Время взаимодействия: Normal\n・Количество попыток: 3"
+  },
+  "cluelist_explanation_001": {
+    "src": "Total Time Spent",
+    "yax": "Общее Затраченное Время",
+    "trx": "Затраченное время"
+  },
+  "timer_remain_001": {
+    "src": "Remaining Time",
+    "yax": "Оставшееся Время",
+    "trx": "Оставшееся время"
+  },
+  "timer_remain_500": {
+    "src": "Real-time Countdown",
+    "yax": "Обратный отсчет в реальном времени",
+    "trx": "Отсчет в реальном времени"
+  },
+  "evaluation_500": {
+    "src": "Performance Result",
+    "yax": "Результат работы",
+    "trx": "Достигнутый результат"
+  },
+  "swing_500": {
+    "src": "Time",
+    "yax": "Время",
+    "trx": "Время"
+  },
+  "swing_501": {
+    "src": "Charge Swing",
+    "yax": "Качели заряда",
+    "trx": "Сила раскачивания"
+  },
+  "swing_502": {
+    "src": "Shoes Kicked: {0}",
+    "yax": "Обувь отброшена: {0}",
+    "trx": "Полет башмаков: {0}"
+  },
+  "swing_503": {
+    "src": "Aiba's Turn",
+    "yax": "Очередь Аиба",
+    "trx": "Ход Айбы"
+  },
+  "swing_504": {
+    "src": "Kizuna's Turn",
+    "yax": "Очередь Кидзуны",
+    "trx": "Ход Кизуны"
+  },
+  "cooking_500": {
+    "src": "Time Required",
+    "yax": "Необходимое время",
+    "trx": "Требуемое время"
+  },
+  "cooking_501": {
+    "src": "Input cooking command!",
+    "yax": "Введите команду приготовления!",
+    "trx": "Введите команду приготовления!"
+  },
+  "exsight_500": {
+    "src": "Start of Investigation",
+    "yax": "Начало расследования",
+    "trx": "Начать расследование"
+  },
+  "exsight_501": {
+    "src": "Obtain Information",
+    "yax": "Получение Информации",
+    "trx": "Получить информацию"
+  },
+  "exsight_502": {
+    "src": "Normal",
+    "yax": "Обычный",
+    "trx": "Обычный"
+  },
+  "exsight_503": {
+    "src": "X-ray",
+    "yax": "Рентген",
+    "trx": "Рентген"
+  },
+  "exsight_504": {
+    "src": "Thermo",
+    "yax": "Термо",
+    "trx": "Термо"
+  },
+  "exsight_505": {
+    "src": "Nightvision",
+    "yax": "Ночное видение",
+    "trx": "Ночное зрение"
+  },
+  "exsight_506": {
+    "src": "Sonar",
+    "yax": "Гидролокатор",
+    "trx": "Сонар"
+  },
+  "exsight_507": {
+    "src": "Reenacted",
+    "yax": "Воспроизведенный",
+    "trx": null
+  },
+  "language_select_500": {
+    "src": "Japanese",
+    "yax": "Японский",
+    "trx": "Японский"
+  },
+  "language_select_501": {
+    "src": "English",
+    "yax": "Английский",
+    "trx": "Русский"
+  },
+  "language_select_502": {
+    "src": "Simplified Chinese",
+    "yax": "Упрощенный китайский",
+    "trx": "Китайский (упрощенный)"
+  },
+  "language_select_503": {
+    "src": "Traditional Chinese",
+    "yax": "Традиционный китайский",
+    "trx": "Китайский (традиционный)"
+  },
+  "language_select_504": {
+    "src": "Advanced Brain Investigation Squad (ABIS)",
+    "yax": "Передовой отряд по исследованию мозга (ABIS)",
+    "trx": "Передовой отряд по исследованию мозга (ABIS)"
+  },
+  "language_select_505": {
+    "src": "Exciting Voltaic Versatile Gun (Evolver)",
+    "yax": "Захватывающая Вольтовая универсальная пушка (Evolver)",
+    "trx": "Восхитительное универсальное электронное ружье (Evolver)"
+  },
+  "language_select_506": {
+    "src": "Wadjet System",
+    "yax": "Система Wadjet",
+    "trx": "Система Ваджет"
+  },
+  "language_select_507": {
+    "src": "Psyncer",
+    "yax": "Псинсер",
+    "trx": "Псинкер"
+  },
+  "language_select_508": {
+    "src": "Somnium World",
+    "yax": "Мир Сомниума",
+    "trx": "Мир сомниума"
+  },
+  "language_select_509": {
+    "src": "Subconscious",
+    "yax": "Подсознание",
+    "trx": "Подсознание"
+  },
+  "language_select_510": {
+    "src": "Half Body Serial Killings",
+    "yax": "Серийные убийства с Половиной Тела",
+    "trx": "Серийные убийства с половинами тела"
+  },
+  "language_select_511": {
+    "src": "Nirvana Initiative",
+    "yax": "Инициатива \"Нирвана\"",
+    "trx": "Инициатива \"Нирвана\""
+  },
+  "language_select_512": {
+    "src": "I... Justice...",
+    "yax": "Я... Справедливость...",
+    "trx": "Я... Закон..."
+  },
+  "language_select_513": {
+    "src": "Okay, it's ready!",
+    "yax": "Хорошо, все готово!",
+    "trx": "Хорошо, все готово!"
+  },
+  "language_select_514": {
+    "src": "What?! You got a problem with that?!",
+    "yax": "Что?! У тебя с этим какие-то проблемы?!",
+    "trx": "Что?! У тебя с этим проблемы?!"
+  },
+  "language_select_515": {
+    "src": "Calm down, Mizuki... You can use my functions.",
+    "yax": "Успокойся, Мизуки... Вы можете использовать мои функции.",
+    "trx": "Спокойно, Мизуки... Ты можешь использовать мои функции."
+  },
+  "underwater_500": {
+    "src": "Descend",
+    "yax": "Спускаться",
+    "trx": "Спуск"
+  },
+  "underwater_501": {
+    "src": "Ascend ",
+    "yax": "Восходить ",
+    "trx": "Подъем "
+  },
+  "underwater_502": {
+    "src": "Strafe",
+    "yax": "Обстреливать",
+    "trx": "Движение"
+  },
+  "underwater_503": {
+    "src": "Decelerate ",
+    "yax": "Замедлить ",
+    "trx": "Замедление "
+  }
+}

@@ -1,0 +1,4732 @@
+{
+  "長い長い長い長い名前の箱": {
+    "src": "Bo-bo-bo-bo-bo-bo-box",
+    "yax": "Бо-бо-бо-бо-бо-бо-бокс",
+    "trx": "Я-я-я-я-я-я-ящик"
+  },
+  "箱": {
+    "src": "Box",
+    "yax": "Коробка",
+    "trx": "Ящик"
+  },
+  "謎のエリア": {
+    "src": "Mystery Area",
+    "yax": "Таинственная область",
+    "trx": "Таинственная область"
+  },
+  "フォークリフト": {
+    "src": "Forklift",
+    "yax": "Грузоподъемник",
+    "trx": "Погрузчик"
+  },
+  "フォークリフト２": {
+    "src": "Forklift 2",
+    "yax": "Вилочный погрузчик 2",
+    "trx": "Погрузчик 2"
+  },
+  "箱１": {
+    "src": "Box 1",
+    "yax": "Вставка 1",
+    "trx": "Ящик 1"
+  },
+  "箱２": {
+    "src": "Box 2",
+    "yax": "Вставка 2",
+    "trx": "Ящик 2"
+  },
+  "箱３_殴れ": {
+    "src": "Box 3_Punch",
+    "yax": "Вставка 3_Punch",
+    "trx": null
+  },
+  "T01_隠しアイテム１": {
+    "src": "T01_Hidden Item 1",
+    "yax": "T01_Hidden Элемент 1",
+    "trx": null
+  },
+  "T01_隠しアイテム２": {
+    "src": "T01_Hidden Item 2",
+    "yax": "T01_Hidden Элемент 2",
+    "trx": null
+  },
+  "樽": {
+    "src": "Barrel",
+    "yax": "Бочка",
+    "trx": "Бочка"
+  },
+  "箱３_叩け": {
+    "src": "Box 3_Slam",
+    "yax": "Вставка 3_Slam",
+    "trx": null
+  },
+  "M11_テスト": {
+    "src": "M11_Test",
+    "yax": "M11_Test",
+    "trx": null
+  },
+  "M11_巨大な絵本１": {
+    "src": "M11_Large Picture Book 1",
+    "yax": "M11_большая Книжка с картинками 1",
+    "trx": null
+  },
+  "M11_大きな風船": {
+    "src": "M11_Large Balloon",
+    "yax": "M11_большой воздушный шар",
+    "trx": null
+  },
+  "M11_PA_普通サイズの絵本１_読んで": {
+    "src": "M11_PA_Normal Size Picture Book 1_Read",
+    "yax": "M11_pa_нормальный Размер Книжки с картинками 1_Read",
+    "trx": null
+  },
+  "M11_巨大な絵本２": {
+    "src": "M11_Large Picture Book 2",
+    "yax": "M11_большая Книжка с картинками 2",
+    "trx": null
+  },
+  "M11_ジャングルジム": {
+    "src": "M11_Jungle Gym",
+    "yax": "M11_Jungle Тренажерный зал",
+    "trx": null
+  },
+  "M11_魔女のキャンドル": {
+    "src": "M11_Witch's Candle",
+    "yax": "Свеча m11_witch's Candle",
+    "trx": null
+  },
+  "M11_シーソー": {
+    "src": "M11_Seesaw",
+    "yax": "M11_Seesaw",
+    "trx": null
+  },
+  "M11_砂場": {
+    "src": "M11_Sandpit",
+    "yax": "M11_Sandpit",
+    "trx": null
+  },
+  "M11_大きなクッキー": {
+    "src": "M11_Large Cookie",
+    "yax": "Файл cookie M11_Large",
+    "trx": null
+  },
+  "M11_普通サイズの絵本２": {
+    "src": "M11_Normal Size Picture Book2",
+    "yax": "M11_нормальный Размер Книжки с картинками 2",
+    "trx": null
+  },
+  "M11_巨大な絵本３": {
+    "src": "M11_Large Picture Book 3",
+    "yax": "M11_большая Книжка с картинками 3",
+    "trx": null
+  },
+  "M11_巨大な絵本３_移動後": {
+    "src": "M11_Large Picture Book 3_After moving",
+    "yax": "M11_большая книжка с картинками 3_После перемещения",
+    "trx": null
+  },
+  "M11_すべり台の時計": {
+    "src": "M11_Clock on Slide",
+    "yax": "M11_Clock на слайде",
+    "trx": null
+  },
+  "M11_タイムカプセル": {
+    "src": "M11_Time Capsule",
+    "yax": "Капсула M11_Time",
+    "trx": null
+  },
+  "M11_愛緒園の玄関": {
+    "src": "M11_Aioen Entrance",
+    "yax": "M11_Aioen Вход",
+    "trx": null
+  },
+  "M11_普通サイズの絵本３": {
+    "src": "M11_Normal Size Picture Book 3",
+    "yax": "M11_нормальный Размер Книжки с картинками 3",
+    "trx": null
+  },
+  "M11_巨大な絵本４": {
+    "src": "M11_Large Picture Book 4",
+    "yax": "M11_большая Книжка с картинками 4",
+    "trx": null
+  },
+  "M11_紙切れ": {
+    "src": "M11_Piece of Paper",
+    "yax": "M11_ кусок бумаги",
+    "trx": null
+  },
+  "M11_蛙の絵": {
+    "src": "M11_Picture of Frog",
+    "yax": "M11_Портрет лягушки",
+    "trx": null
+  },
+  "M11_糸車の車輪": {
+    "src": "M11_Spinning Wheel",
+    "yax": "M11_шпиндельное колесо",
+    "trx": null
+  },
+  "M11_ブランコ": {
+    "src": "M11_Swingset",
+    "yax": "M11_Swingset",
+    "trx": null
+  },
+  "M11_隠しメダマ１": {
+    "src": "M11_Hidden Eyeballs 1",
+    "yax": "M11_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M11_隠しメダマ２": {
+    "src": "M11_Hidden Eyeballs 2",
+    "yax": "M11_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M11_隠しメダマ３": {
+    "src": "M11_Hidden Eyeballs 3",
+    "yax": "M11_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "M11_隠しメダマ４": {
+    "src": "M11_Hidden Eyeballs 4",
+    "yax": "M11_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "M11_隠しメダマ５": {
+    "src": "M11_Hidden Eyeballs 5",
+    "yax": "M11_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "M13_PA_机１_机の下に隠れて": {
+    "src": "M13_PA_Desk 1_Hide under the desk",
+    "yax": "M13_PA_Desk 1_ спрятать под столом",
+    "trx": null
+  },
+  "M13_PA_ロッカー１_ロッカーに隠れて": {
+    "src": "M13_PA_Locker 1_Hide in the locker",
+    "yax": "M13_PA_Locker 1_Hide в шкафчике",
+    "trx": null
+  },
+  "M13_PA_パーテーション１_この裏に隠れて": {
+    "src": "M13_PA_Partition 1_Hide behind it",
+    "yax": "M13_PA_Partition 1_Hide за ним",
+    "trx": null
+  },
+  "M13_PA_ドラム缶_この裏に隠れて": {
+    "src": "M13_PA_Oil Drum_Hide behind it",
+    "yax": "Барабан m13_pa_oil_hide за ним",
+    "trx": null
+  },
+  "M13_ダクト": {
+    "src": "M13_Duct",
+    "yax": "M13_Duct",
+    "trx": null
+  },
+  "M13_人工呼吸器": {
+    "src": "M13_Respirator",
+    "yax": "M13_Респиратор",
+    "trx": null
+  },
+  "M13_通気口": {
+    "src": "M13_Vent",
+    "yax": "M13_Vent",
+    "trx": null
+  },
+  "M13_PA_天井のパイプ_この上に隠れて": {
+    "src": "M13_PA_Ceiling Pipe_Hide on top of it",
+    "yax": "M13_PA_Ceiling Pipe_Hide поверх него",
+    "trx": null
+  },
+  "M13_PA_机２_机の下に隠れて": {
+    "src": "M13_PA_Desk 2_Hide under the the desk",
+    "yax": "M13_PA_Desk 2_Hide под столом",
+    "trx": null
+  },
+  "M13_PA_パーテーション２_この裏に隠れて": {
+    "src": "M13_PA_Partition 2_Hide behind it",
+    "yax": "M13_PA_Partition 2_Hide за ним",
+    "trx": null
+  },
+  "M13_PA_ロッカー２_ロッカーに隠れて": {
+    "src": "M13_PA_Locker 2_Hide in the locker",
+    "yax": "M13_PA_Locker 2_Hide в шкафчике",
+    "trx": null
+  },
+  "M13_心電計": {
+    "src": "M13_Heart Monitor",
+    "yax": "Монитор M13_Heart",
+    "trx": null
+  },
+  "M13_脳波計": {
+    "src": "M13_Electroencephalograph",
+    "yax": "M13_электроэнцефалограф",
+    "trx": null
+  },
+  "M13_ウサギ１": {
+    "src": "M13_Rabbit 1",
+    "yax": "M13_Rabbit 1",
+    "trx": null
+  },
+  "M13_PC": {
+    "src": "M13_PC",
+    "yax": "M13_PC",
+    "trx": null
+  },
+  "M13_PA_机３_机の下に隠れて": {
+    "src": "M13_PA_Desk 3_Hide under the desk",
+    "yax": "M13_PA_Desk 3_ спрятать под столом",
+    "trx": null
+  },
+  "M13_PA_パーテーション３_この裏に隠れて": {
+    "src": "M13_PA_Partition 3_Hide behind it",
+    "yax": "M13_PA_Partition 3_Hide за ним",
+    "trx": null
+  },
+  "M13_PA_ロッカー３Ａ_ロッカーに隠れて": {
+    "src": "M13_PA_Locker 3A_Hide in the locker",
+    "yax": "M13_PA_Locker 3A_Hide в шкафчике",
+    "trx": null
+  },
+  "M13_PA_作業台_作業台に隠れて": {
+    "src": "M13_PA_Work Bench_Hide in it",
+    "yax": "M13_PA_Work Bench_Hide в нем",
+    "trx": null
+  },
+  "M13_ウサギ２": {
+    "src": "M13_Rabbit 2",
+    "yax": "M13_Rabbit 2",
+    "trx": null
+  },
+  "M13_PA_子どもＡ_調べて": {
+    "src": "M13_PA_Child A_inspect",
+    "yax": "M13_PA_Child A_inspect",
+    "trx": null
+  },
+  "M13_PA_子どもＢ_調べて": {
+    "src": "M13_PA_Child B_inspect",
+    "yax": "M13_PA_Child B_inspect",
+    "trx": null
+  },
+  "M13_PA_子どもＣ_調べて": {
+    "src": "M13_PA_Child C_inspect",
+    "yax": "M13_PA_Child C_inspect",
+    "trx": null
+  },
+  "M13_PA_子どもＤ_調べて": {
+    "src": "M13_PA_Child D_inspect",
+    "yax": "M13_PA_Child D_inspect",
+    "trx": null
+  },
+  "M13_PA_子どもＥ_調べて": {
+    "src": "M13_PA_Child E_inspect",
+    "yax": "M13_PA_Child E_inspect",
+    "trx": null
+  },
+  "M13_PA_ファイル_拾って": {
+    "src": "M13_PA_File_Pick up",
+    "yax": "M13_PA_File_Pick up",
+    "trx": null
+  },
+  "M13_PA_ロッカー３Ｂ_開けて": {
+    "src": "M13_PA_Locker 3 B_Open",
+    "yax": "M13_PA_Locker 3 B_Open",
+    "trx": null
+  },
+  "M13_隠しメダマ１": {
+    "src": "M13_Hidden Eyeballs 1",
+    "yax": "M13_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M13_隠しメダマ２": {
+    "src": "M13_Hidden Eyeballs 2",
+    "yax": "M13_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M13_隠しメダマ３": {
+    "src": "M13_Hidden Eyeballs 3",
+    "yax": "M13_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "M13_隠しメダマ４": {
+    "src": "M13_Hidden Eyeballs 4",
+    "yax": "M13_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "M13_隠しメダマ５": {
+    "src": "M13_Hidden Eyeballs 5",
+    "yax": "M13_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "M15_亜麻芽": {
+    "src": "M15_Amame",
+    "yax": "M15_Amame",
+    "trx": null
+  },
+  "M15_Vokeman": {
+    "src": "M15_Vokeman",
+    "yax": "M15_Vokeman",
+    "trx": null
+  },
+  "M15_テレビ": {
+    "src": "M15_TV",
+    "yax": "M15_TV",
+    "trx": null
+  },
+  "M15_深海魚の写真": {
+    "src": "M15_Deep-sea Fish Photo",
+    "yax": "M15_Deep-Фото морской рыбы",
+    "trx": null
+  },
+  "M15_青人間": {
+    "src": "M15_Blue Figure",
+    "yax": "M15_Blue Рисунок",
+    "trx": null
+  },
+  "M15_ゾウの置物": {
+    "src": "M15_Elephant Trinket",
+    "yax": "M15_Elephant Брелок",
+    "trx": null
+  },
+  "M15_バラバラの雑誌": {
+    "src": "M15_Scattered Magazine",
+    "yax": "M15_ Рассеянный магазин",
+    "trx": null
+  },
+  "M15_NAIXの教典": {
+    "src": "M15_Naix's Teachings",
+    "yax": "Учения M15_Naix",
+    "trx": null
+  },
+  "M15_納体袋": {
+    "src": "M15_Body Bag",
+    "yax": "Сумка через плечо M15_Body",
+    "trx": null
+  },
+  "M15_米治の衣装": {
+    "src": "M15_Komeji's Outfit",
+    "yax": "Наряд M15_Komeji",
+    "trx": null
+  },
+  "M15_QRコードの看板": {
+    "src": "M15_QR Code Sign",
+    "yax": "Кодовый знак M15_QR",
+    "trx": null
+  },
+  "M15_鉄仮面": {
+    "src": "M15_Iron Mask Man",
+    "yax": "M15_Iron Человек в маске",
+    "trx": null
+  },
+  "M15_ヘッドホン": {
+    "src": "M15_Headphones",
+    "yax": "Наушники M15_Headphones",
+    "trx": null
+  },
+  "M15_レンチ": {
+    "src": "M15_Wrench",
+    "yax": "M15_Wrench",
+    "trx": null
+  },
+  "M15_割れた鉄仮面": {
+    "src": "M15_Damaged Iron Mask",
+    "yax": "M15_ Поврежденная Железная маска",
+    "trx": null
+  },
+  "M15_トライデント": {
+    "src": "M15_Trident",
+    "yax": "M15_Trident",
+    "trx": null
+  },
+  "M15_隠しメダマ１": {
+    "src": "M15_Hidden Eyeballs 1",
+    "yax": "M15_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M15_隠しメダマ２": {
+    "src": "M15_Hidden Eyeballs 2",
+    "yax": "M15_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M15_隠しメダマ３": {
+    "src": "M15_Hidden Eyeballs 3",
+    "yax": "M15_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "M15_隠しメダマ４": {
+    "src": "M15_Hidden Eyeballs 4",
+    "yax": "M15_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "M15_隠しメダマ５": {
+    "src": "M15_Hidden Eyeballs 5",
+    "yax": "M15_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R14_PA_Vokeman_選べ": {
+    "src": "R14_PA_Vokeman_Choose",
+    "yax": "R14_PA_Vokeman_Choose",
+    "trx": null
+  },
+  "R14_PA_Vokeman_選べ_ハズレ": {
+    "src": "R14_PA_Vokeman_Choose_Wrong",
+    "yax": "R14_PA_Vokeman_Choose_Wrong",
+    "trx": null
+  },
+  "R14_PA_ゾウの置物_選べ": {
+    "src": "R14_PA_Elephant Trinket_Choose",
+    "yax": "R14_PA_Elephant Trinket_Choose",
+    "trx": null
+  },
+  "R14_PA_ゾウの置物_選べ_ハズレ": {
+    "src": "R14_PA_Elephant Trinket_Choose_Wrong",
+    "yax": "R14_PA_Elephant брелок_choose_wrong",
+    "trx": null
+  },
+  "R14_PA_一輪ロボ_選べ": {
+    "src": "R14_PA_Monowheel Robot_Choose",
+    "yax": "R14_PA_Monowheel Robot_Choose",
+    "trx": null
+  },
+  "R14_PA_一輪ロボ_選べ_ハズレ": {
+    "src": "R14_PA_Monowheel Robot_Choose_Wrong",
+    "yax": "R14_PA_Monowheel Robot_Choose_Wrong",
+    "trx": null
+  },
+  "R14_PA_深海魚の写真_選べ": {
+    "src": "R14_PA_Deep-sea Fish Photo_Choose",
+    "yax": "R14_PA_Deep-фото морской рыбы на выбор",
+    "trx": null
+  },
+  "R14_PA_ヘッドホン_選べ": {
+    "src": "R14_PA_Heaphone_Choose",
+    "yax": "R14_PA_Heaphone_Choose",
+    "trx": null
+  },
+  "R14_PA_トライデント_選べ": {
+    "src": "R14_PA_Trident_Choose",
+    "yax": "R14_PA_Trident_Choose",
+    "trx": null
+  },
+  "R14_PA_うさりんぱ_選べ": {
+    "src": "R14_PA_Adorabbit_Choose",
+    "yax": "R14_PA_Adorabbit_Choose",
+    "trx": null
+  },
+  "R14_PA_オムライス_選べ": {
+    "src": "R14_PA_Omelet Rice_Choose",
+    "yax": "R14_PA_Omelet Rice_Choose",
+    "trx": null
+  },
+  "R14_PA_鉄パイプ_選べ": {
+    "src": "R14_PA_Metal Pipe_Choose",
+    "yax": "R14_PA_Metal Pipe_Choose",
+    "trx": null
+  },
+  "R14_PA_オカルト雑誌借り物_選べ": {
+    "src": "R14_PA_Occult Magazine Borrow_Choose",
+    "yax": "R14_PA_Occult Журнал заимствование_выбор",
+    "trx": null
+  },
+  "R14_PA_解答席借り物１_考えろ": {
+    "src": "R14_PA_Contestant Seat1_Think",
+    "yax": "R14_PA_Contestant Seat1_Think",
+    "trx": null
+  },
+  "R14_PA_解答席借り物１_もっと考えろ": {
+    "src": "R14_PA_Contestant Seat1_Think Harder",
+    "yax": "R14_PA_Contestant seat1_ Подумайте сильнее",
+    "trx": null
+  },
+  "R14_PA_解答席借り物２_考えろ": {
+    "src": "R14_PA_Contestant Seat2_Think",
+    "yax": "R14_PA_Contestant Seat2_Think",
+    "trx": null
+  },
+  "R14_PA_解答席借り物２_もっと考えろ": {
+    "src": "R14_PA_Contestant Seat2_Think Harder",
+    "yax": "R14_PA_Contestant seat2_ Подумайте сильнее",
+    "trx": null
+  },
+  "R14_PA_解答席借り物３_考えろ": {
+    "src": "R14_PA_Contestant Seat3_Think",
+    "yax": "R14_PA_Contestant Seat3_Think",
+    "trx": null
+  },
+  "R14_PA_解答席借り物３_もっと考えろ": {
+    "src": "R14_PA_Contestant Seat3_Think Harder",
+    "yax": "R14_PA_Contestant seat3_ Подумайте сильнее",
+    "trx": null
+  },
+  "R14_PA_解答席オカルト１_解答する": {
+    "src": "R14_PA_Contestant Seat Occut 1_Answer",
+    "yax": "R14_PA_Contestant Сиденье Закрывается 1_ответ",
+    "trx": null
+  },
+  "R14_PA_解答席オカルト２_解答する": {
+    "src": "R14_PA_Contestant Seat Occut 2_Answer",
+    "yax": "R14_PA_Contestant Сиденье Закрывается 2_ответ",
+    "trx": null
+  },
+  "R14_PA_解答席オカルト３_解答する": {
+    "src": "R14_PA_Contestant Seat Occut 3_Answer",
+    "yax": "R14_PA_Contestant Сиденье Закрывается 3_ответ",
+    "trx": null
+  },
+  "R14_PA_絆_選べ": {
+    "src": "R14_PA_Kizuna_Choose",
+    "yax": "R14_PA_Kizuna_Choose",
+    "trx": null
+  },
+  "R14_PA_みずき_選べ": {
+    "src": "R14_PA_Mizuki_Choose",
+    "yax": "R14_PA_Mizuki_Choose",
+    "trx": null
+  },
+  "R14_PA_オカルト雑誌間違い探し_選べ": {
+    "src": "R14_PA_Occult Magazine Find Difference_Choose",
+    "yax": "Журнал R14_PA_Occult Найдите Отличие_выбИрайте",
+    "trx": null
+  },
+  "R14_PA_青人間_選べ": {
+    "src": "R14_PA_Blue Figure_Choose",
+    "yax": "R14_PA_Blue Figure_Choose",
+    "trx": null
+  },
+  "R14_PA_イリス_選べ": {
+    "src": "R14_PA_Iris_Choose",
+    "yax": "R14_PA_Iris_Choose",
+    "trx": null
+  },
+  "R14_PA_祥磨_選べ": {
+    "src": "R14_PA_Shoma_Choose",
+    "yax": "R14_PA_Shoma_Choose",
+    "trx": null
+  },
+  "R14_PA_解答スイッチ_選べ": {
+    "src": "R14_PA_Buzzer_Choose",
+    "yax": "R14_PA_Buzzer_Choose",
+    "trx": null
+  },
+  "R14_PA_QRコードの看板_選べ": {
+    "src": "R14_PA_QR Code Sign_Choose",
+    "yax": "R14_PA_QR Код Sign_Choose",
+    "trx": null
+  },
+  "R14_PA_モニターＡ_調べろ": {
+    "src": "R14_PA_Monitor A_Inspect",
+    "yax": "R14_PA_Monitor A_Inspect",
+    "trx": null
+  },
+  "R14_PA_モニターＢ_調べろ": {
+    "src": "R14_PA_Monitor B_Inspect",
+    "yax": "R14_PA_Monitor B_Inspect",
+    "trx": null
+  },
+  "R14_PA_モニターＣ_調べろ": {
+    "src": "R14_PA_Monitor c_Inspect",
+    "yax": "R14_PA_Monitor c_Inspect",
+    "trx": null
+  },
+  "R14_隠しメダマ１": {
+    "src": "R14_Hidden Eyeballs 1",
+    "yax": "R14_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R14_隠しメダマ２": {
+    "src": "R14_Hidden Eyeballs 2",
+    "yax": "R14_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R14_隠しメダマ３": {
+    "src": "R14_Hidden Eyeballs 3",
+    "yax": "R14_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R14_隠しメダマ４": {
+    "src": "R14_Hidden Eyeballs 4",
+    "yax": "R14_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R14_隠しメダマ５": {
+    "src": "R14_Hidden Eyeballs 5",
+    "yax": "R14_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "早押しボタン": {
+    "src": "Answer Button",
+    "yax": "Кнопка Ответа",
+    "trx": "Кнопка ответа"
+  },
+  "ボス": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "Босс"
+  },
+  "出題者": {
+    "src": "Host",
+    "yax": "Хозяин",
+    "trx": "Ведущий"
+  },
+  "タイトル看板": {
+    "src": "Sign",
+    "yax": "Знак",
+    "trx": "Знак"
+  },
+  "大きなモニター": {
+    "src": "Big Monitor",
+    "yax": "Большой монитор",
+    "trx": "Большой монитор"
+  },
+  "モニター": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "大型カメラ": {
+    "src": "Big Camera",
+    "yax": "Большая Камера",
+    "trx": "Большая камера"
+  },
+  "長机": {
+    "src": "Long Table",
+    "yax": "Длинный стол",
+    "trx": "Длинный стол"
+  },
+  "ポット": {
+    "src": "Kettle",
+    "yax": "Чайник",
+    "trx": "Чайник"
+  },
+  "扉": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "脚立": {
+    "src": "Stepladder",
+    "yax": "Стремянка",
+    "trx": "Стремянка"
+  },
+  "ランニングタイム表示盤": {
+    "src": "Lap Time Display",
+    "yax": "Отображение времени прохождения круга",
+    "trx": null
+  },
+  "観客席": {
+    "src": "Audience Seat",
+    "yax": "Место для зрителей",
+    "trx": "Место для зрителей"
+  },
+  "照明": {
+    "src": "Lights",
+    "yax": "Огни",
+    "trx": "Освещение"
+  },
+  "大型モニター": {
+    "src": "Large Monitor",
+    "yax": "Большой монитор",
+    "trx": "Большой монитор"
+  },
+  "聖火台": {
+    "src": "Torch Stand",
+    "yax": "Подставка для факела",
+    "trx": "Подставка для факела"
+  },
+  "サッカーゴール": {
+    "src": "Soccer Goal",
+    "yax": "Футбольные ворота",
+    "trx": "Футбольные ворота"
+  },
+  "グラウンド": {
+    "src": "Field",
+    "yax": "Поле",
+    "trx": "Поле"
+  },
+  "出入口": {
+    "src": "Entrance/Exit",
+    "yax": "Вход/Выход",
+    "trx": "Вход/Выход"
+  },
+  "人影": {
+    "src": "Figure",
+    "yax": "Фигура",
+    "trx": null
+  },
+  "警官": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "鑑識官": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  },
+  "刑事": {
+    "src": "Detective",
+    "yax": "Детектив",
+    "trx": "Детектив"
+  },
+  "死体の顔": {
+    "src": "Corpse Face",
+    "yax": "Лицо Трупа",
+    "trx": "Лицо трупа"
+  },
+  "死体の首から下の部分": {
+    "src": "Corpse Body",
+    "yax": "Трупное Тело",
+    "trx": "Тело трупа"
+  },
+  "アイボゥ": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "規制線": {
+    "src": "Regulation Line",
+    "yax": "Линия регулирования",
+    "trx": "Заграждение"
+  },
+  "鑑識標識板": {
+    "src": "Evidence Marker",
+    "yax": "Маркер улик",
+    "trx": "Метка для улики"
+  },
+  "イリス": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "みずき": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "猛馬": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "米治": {
+    "src": "Komeji",
+    "yax": "Комедзи",
+    "trx": "Комедзи"
+  },
+  "死体の頭部": {
+    "src": "Corpse Face",
+    "yax": "Лицо Трупа",
+    "trx": "Лицо трупа"
+  },
+  "看板": {
+    "src": "Sign",
+    "yax": "Знак",
+    "trx": "Знак"
+  },
+  "解答者席": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Кресло участника"
+  },
+  "出題者の台": {
+    "src": "Podium",
+    "yax": "Подиум",
+    "trx": "Подиум"
+  },
+  "三脚付きカメラ": {
+    "src": "Camera Tripod",
+    "yax": "Штатив для камеры",
+    "trx": "Подставка для камеры"
+  },
+  "飾り": {
+    "src": "Decoration",
+    "yax": "Украшение",
+    "trx": "Украшение"
+  },
+  "厨房": {
+    "src": "Kitchen",
+    "yax": "Кухня",
+    "trx": "Кухня"
+  },
+  "龍木": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "カウンター": {
+    "src": "Counter",
+    "yax": "Счетчик",
+    "trx": "Стойка"
+  },
+  "テーブル": {
+    "src": "Table",
+    "yax": "Стол",
+    "trx": "Стол"
+  },
+  "椅子": {
+    "src": "Chair",
+    "yax": "Стул",
+    "trx": "Кресло"
+  },
+  "黒板メニュー": {
+    "src": "Blackboard Menu",
+    "yax": "Меню на доске",
+    "trx": "Доска с меню"
+  },
+  "メニュー": {
+    "src": "Menu",
+    "yax": "Меню",
+    "trx": "Меню"
+  },
+  "観葉植物": {
+    "src": "Houseplant",
+    "yax": "Комнатное растение",
+    "trx": "Растение"
+  },
+  "ジョッキ": {
+    "src": "Mug",
+    "yax": "Кружка",
+    "trx": "Кружка"
+  },
+  "ドラム缶": {
+    "src": "Oil Drum",
+    "yax": "Масляный барабан",
+    "trx": "Бочка с маслом"
+  },
+  "ポスター等": {
+    "src": "Posters",
+    "yax": "Плакаты",
+    "trx": "Постеры"
+  },
+  "ビールケース": {
+    "src": "Beer Case",
+    "yax": "Пивной ящик",
+    "trx": "Пивной ящик"
+  },
+  "冷蔵ケース": {
+    "src": "Refrigerated Case",
+    "yax": "Холодильный шкаф",
+    "trx": "Холодильный шкаф"
+  },
+  "ガネーシャの絵": {
+    "src": "Ganesha Picture",
+    "yax": "Изображение Ганеши",
+    "trx": "Изображение Ганеши"
+  },
+  "ドア": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "冷凍庫": {
+    "src": "Freezer",
+    "yax": "Морозилка",
+    "trx": "Холодильник"
+  },
+  "酒瓶": {
+    "src": "Alcohol Bottle",
+    "yax": "Бутылка с алкоголем",
+    "trx": "Бутылка с алкоголем"
+  },
+  "調味料": {
+    "src": "Spices",
+    "yax": "Специи",
+    "trx": "Специи"
+  },
+  "まな板": {
+    "src": "Cutting Board",
+    "yax": "Разделочная доска",
+    "trx": "Разделочная доска"
+  },
+  "包丁": {
+    "src": "Kitchen Knife",
+    "yax": "Кухонный нож",
+    "trx": "Кухонный нож"
+  },
+  "流し": {
+    "src": "Sink",
+    "yax": "Раковина",
+    "trx": "Раковина"
+  },
+  "寸胴鍋": {
+    "src": "Large Pot",
+    "yax": "Большая Кастрюля",
+    "trx": "Большая кастрюля"
+  },
+  "中華鍋": {
+    "src": "Wok",
+    "yax": "Вок",
+    "trx": "Горшок"
+  },
+  "ゴミ箱": {
+    "src": "Trash Can",
+    "yax": "Мусорный бак",
+    "trx": "Мусорный бак"
+  },
+  "ピュータ": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "Пьютер"
+  },
+  "スチール棚": {
+    "src": "Steel Shelves",
+    "yax": "Стальные Полки",
+    "trx": "Стальные полки"
+  },
+  "点いているモニター": {
+    "src": "Monitor (On)",
+    "yax": "Монитор (включен)",
+    "trx": "Монитор (вкл.)"
+  },
+  "消えているモニター": {
+    "src": "Monitor (Off)",
+    "yax": "Монитор (выключен)",
+    "trx": "Монитор (выкл.)"
+  },
+  "ブラウン管モニター": {
+    "src": "Braun-tube Style Monitor",
+    "yax": "Монитор в стиле Braun-tube",
+    "trx": "Монитор с трубкой Брауна"
+  },
+  "バインダー": {
+    "src": "Binder",
+    "yax": "Связующее вещество",
+    "trx": "Папка"
+  },
+  "ドア１": {
+    "src": "Door 1",
+    "yax": "Дверь 1",
+    "trx": "Дверь 1"
+  },
+  "ドア２": {
+    "src": "Door 2",
+    "yax": "Дверь 2",
+    "trx": "Дверь 2"
+  },
+  "ロッカー": {
+    "src": "Locker",
+    "yax": "Запирающийся шкафчик",
+    "trx": "Шкаф"
+  },
+  "Psync装置": {
+    "src": "Pysnc Machine",
+    "yax": "Машина Pysnc",
+    "trx": "Псинк-машина"
+  },
+  "机": {
+    "src": "Table",
+    "yax": "Стол",
+    "trx": "Стол"
+  },
+  "記録用カメラ": {
+    "src": "Recording Camera",
+    "yax": "Записывающая камера",
+    "trx": "Видеокамера"
+  },
+  "監視カメラ": {
+    "src": "Surveillance Camera",
+    "yax": "Камера наблюдения",
+    "trx": "Камера видеонаблюдения"
+  },
+  "マジックミラー": {
+    "src": "Two-way Mirror",
+    "yax": "Двустороннее зеркало",
+    "trx": "Двустороннее зеркало"
+  },
+  "パイプ": {
+    "src": "Pipe",
+    "yax": "Труба",
+    "trx": "Труба"
+  },
+  "伊達": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "タマ": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "エアコン": {
+    "src": "Air Conditioner",
+    "yax": "Кондиционер",
+    "trx": "Кондиционер"
+  },
+  "ダーツマシン": {
+    "src": "Darts Machine",
+    "yax": "Автомат для игры в дартс",
+    "trx": "Автомат для игры в дартс"
+  },
+  "サッカーボール": {
+    "src": "Soccer Ball",
+    "yax": "Футбольный мяч",
+    "trx": "Футбольный мяч"
+  },
+  "バレーボール": {
+    "src": "Volleyball",
+    "yax": "Волейбол",
+    "trx": "Мяч для волейбола"
+  },
+  "ラジコン": {
+    "src": "RC Car",
+    "yax": "Радиоуправляемый автомобиль",
+    "trx": "Радиоуправляемый автомобиль"
+  },
+  "大漁旗": {
+    "src": "\"Big Catch\" Flag",
+    "yax": "Флаг \"Большой улов\"",
+    "trx": "Флаг \"Большой улов\""
+  },
+  "コーヒーメーカー": {
+    "src": "Coffee Maker",
+    "yax": "Кофеварка",
+    "trx": "Кофеварка"
+  },
+  "王将の飾り駒": {
+    "src": "Shogi King Piece",
+    "yax": "Королевская фигура Сеги",
+    "trx": "Фигура короля (сёги)"
+  },
+  "タヌキの置き物": {
+    "src": "Tanuki",
+    "yax": "Тануки",
+    "trx": "Тануки"
+  },
+  "ワインボトル": {
+    "src": "Wine Bottle",
+    "yax": "Бутылка вина",
+    "trx": "Бутылка вина"
+  },
+  "墓石": {
+    "src": "Tombstone",
+    "yax": "Надгробная плита",
+    "trx": "Надгробная плита"
+  },
+  "ハロウィンのカボチャ": {
+    "src": "Pumpkin",
+    "yax": "Тыква",
+    "trx": "Тыква"
+  },
+  "デッキブラシ": {
+    "src": "Broom",
+    "yax": "Метла",
+    "trx": "Метла"
+  },
+  "絨毯": {
+    "src": "Rug",
+    "yax": "Коврик",
+    "trx": "Ковер"
+  },
+  "謎の仮面_左": {
+    "src": "Mystery Mask_Left",
+    "yax": "Таинственная маска слева",
+    "trx": "Таинственная маска (левая)"
+  },
+  "謎の仮面_右": {
+    "src": "Mystery Mask_Right",
+    "yax": "Таинственная Маска_райт",
+    "trx": "Таинственная маска (правая)"
+  },
+  "石膏像": {
+    "src": "Plaster Figure",
+    "yax": "Гипсовая фигура",
+    "trx": "Гипсовая фигура"
+  },
+  "マトリョーシカ": {
+    "src": "Matryoshka",
+    "yax": "Матрешка",
+    "trx": "Матрешка"
+  },
+  "大きな鍵": {
+    "src": "Big Key",
+    "yax": "Большой Ключ",
+    "trx": "Большой ключ"
+  },
+  "銭湯ののれん": {
+    "src": "Bath Curtain",
+    "yax": "Занавеска для ванны",
+    "trx": "Занавеска для ванны"
+  },
+  "そば屋ののれん": {
+    "src": "Soba Shop Curtain",
+    "yax": "Занавеска магазина Соба",
+    "trx": "Занавеска магазина собы"
+  },
+  "三角定規": {
+    "src": "Triangular Ruler",
+    "yax": "Треугольная линейка",
+    "trx": "Треугольная линейка"
+  },
+  "壊れた時計": {
+    "src": "Broken Clock",
+    "yax": "Сломанные Часы",
+    "trx": "Сломанные часы"
+  },
+  "浮き輪": {
+    "src": "Floatation Ring",
+    "yax": "Поплавковое кольцо",
+    "trx": "Спасательный круг"
+  },
+  "シンバル": {
+    "src": "Cymbal",
+    "yax": "Тарелки",
+    "trx": "Тарелки"
+  },
+  "ハッピーバースデー": {
+    "src": "Happy Birthday",
+    "yax": "С Днем Рождения",
+    "trx": "С днем рождения"
+  },
+  "スノーボード": {
+    "src": "Snowboard",
+    "yax": "Сноуборд",
+    "trx": "Сноуборд"
+  },
+  "スキー板": {
+    "src": "Skis",
+    "yax": "Лыжи",
+    "trx": "Лыжи"
+  },
+  "サイクリングマシーン": {
+    "src": "Stationary Bike",
+    "yax": "Велотренажер",
+    "trx": "Велотренажер"
+  },
+  "クリスマスツリー": {
+    "src": "Christmas Tree",
+    "yax": "рождественская елка",
+    "trx": "Рождественская елка"
+  },
+  "コートハンガー": {
+    "src": "Coat Hanger",
+    "yax": "Вешалка для пальто",
+    "trx": "Вешалка"
+  },
+  "地図": {
+    "src": "Map",
+    "yax": "Карта",
+    "trx": "Карта"
+  },
+  "警察のポスター": {
+    "src": "Police Poster",
+    "yax": "Полицейский плакат",
+    "trx": "Полицейский плакат"
+  },
+  "アイドルのポスター": {
+    "src": "Boy Band Poster",
+    "yax": "Плакат Бойз-бэнда",
+    "trx": "Плакат бой-бенда"
+  },
+  "折り紙チェーン": {
+    "src": "Origami Chain",
+    "yax": "Цепочка оригами",
+    "trx": "Цепочка оригами"
+  },
+  "ペナント": {
+    "src": "Pennant",
+    "yax": "Вымпел",
+    "trx": "Вымпел"
+  },
+  "デスク": {
+    "src": "Desk",
+    "yax": "Письменный стол",
+    "trx": "Письменный стол"
+  },
+  "パソコン": {
+    "src": "Computer",
+    "yax": "Компьютер",
+    "trx": "Компьютер"
+  },
+  "警官を模した人形": {
+    "src": "Police Officer Mannequin",
+    "yax": "Манекен полицейского",
+    "trx": "Манекен-полицейский"
+  },
+  "本棚": {
+    "src": "Bookshelf",
+    "yax": "Книжная полка",
+    "trx": "Книжная полка"
+  },
+  "サイドボード": {
+    "src": "Cabinet",
+    "yax": "Кабинет",
+    "trx": "Шкаф"
+  },
+  "書類や雑誌類": {
+    "src": "Papers and Magazines",
+    "yax": "Газеты и журналы",
+    "trx": "Газеты и журналы"
+  },
+  "棚": {
+    "src": "Shelves",
+    "yax": "Полки",
+    "trx": "Полки"
+  },
+  "大量の袋": {
+    "src": "Bags",
+    "yax": "Мешки",
+    "trx": "Мешки"
+  },
+  "風船": {
+    "src": "Balloon",
+    "yax": "Воздушный шар",
+    "trx": "Надувной шар"
+  },
+  "赤提灯": {
+    "src": "Red Lantern",
+    "yax": "Красный фонарь",
+    "trx": "Красный фонарь"
+  },
+  "縮んだ赤提灯": {
+    "src": "Shrunk Red Lantern",
+    "yax": "Уменьшенный Красный Фонарь",
+    "trx": "Малый красный фонарь"
+  },
+  "植木鉢": {
+    "src": "Plant Pot",
+    "yax": "Горшок для растений",
+    "trx": "Горшок для растений"
+  },
+  "リボン": {
+    "src": "Ribbon",
+    "yax": "Лента",
+    "trx": "Лента"
+  },
+  "星": {
+    "src": "Star",
+    "yax": "Звезда",
+    "trx": "Звезда"
+  },
+  "張り紙": {
+    "src": "Posters",
+    "yax": "Плакаты",
+    "trx": "Постеры"
+  },
+  "毬": {
+    "src": "Ball",
+    "yax": "Мяч",
+    "trx": "Мяч"
+  },
+  "絆": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "応太": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "ライアン": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "Лиен"
+  },
+  "テレビ": {
+    "src": "TV",
+    "yax": "ТВ",
+    "trx": "ТВ"
+  },
+  "招き猫": {
+    "src": "Lucky Cat",
+    "yax": "Счастливый Кот",
+    "trx": "Кот счастья"
+  },
+  "サイン": {
+    "src": "Autographs",
+    "yax": "Автографы",
+    "trx": "Автографы"
+  },
+  "窓": {
+    "src": "Window",
+    "yax": "Окно",
+    "trx": "Окно"
+  },
+  "丸椅子": {
+    "src": "Stool",
+    "yax": "Стул",
+    "trx": "Табурет"
+  },
+  "割り箸": {
+    "src": "Disposable Chopsticks",
+    "yax": "Одноразовые Палочки Для Еды",
+    "trx": "Одноразовые палочки"
+  },
+  "モップ": {
+    "src": "Mop",
+    "yax": "Швабра",
+    "trx": "Швабра"
+  },
+  "バケツ": {
+    "src": "Bucket",
+    "yax": "Ведро",
+    "trx": "Ведро"
+  },
+  "スツール": {
+    "src": "Stool",
+    "yax": "Стул",
+    "trx": "Табурет"
+  },
+  "電話": {
+    "src": "Phone",
+    "yax": "Телефон",
+    "trx": "Телефон"
+  },
+  "写真": {
+    "src": "Photo",
+    "yax": "Фотография",
+    "trx": "Фото"
+  },
+  "スイングドア": {
+    "src": "Swinging Door",
+    "yax": "Распашная Дверь",
+    "trx": "Распашная дверь"
+  },
+  "短冊": {
+    "src": "Tanzaku Paper",
+    "yax": "Бумага Танзаку",
+    "trx": "Тандзаку"
+  },
+  "ポスター": {
+    "src": "Poster",
+    "yax": "Плакат",
+    "trx": "Постер"
+  },
+  "カレンダー": {
+    "src": "Calendar",
+    "yax": "Календарь",
+    "trx": "Календарь"
+  },
+  "福": {
+    "src": "Fortune",
+    "yax": "Удача",
+    "trx": "Символ удачи"
+  },
+  "時計": {
+    "src": "Clock",
+    "yax": "Часы",
+    "trx": "Часы"
+  },
+  "座卓": {
+    "src": "Low Table",
+    "yax": "Низкий Столик",
+    "trx": "Низкий столик"
+  },
+  "座布団": {
+    "src": "Floor Cushion",
+    "yax": "Подушка для пола",
+    "trx": "Напольная подушка"
+  },
+  "子ども用の椅子": {
+    "src": "Kid's Seat",
+    "yax": "Детское сиденье",
+    "trx": "Детское кресло"
+  },
+  "引き戸": {
+    "src": "Sliding Door",
+    "yax": "Раздвижная Дверь",
+    "trx": "Раздвижная дверь"
+  },
+  "冷蔵庫": {
+    "src": "Refrigerator",
+    "yax": "Холодильник",
+    "trx": "Холодильник"
+  },
+  "亜麻芽": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "厳": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "黒板": {
+    "src": "Blackboard",
+    "yax": "Школьная доска",
+    "trx": "Школьная доска"
+  },
+  "教卓": {
+    "src": "Teacher's Desk",
+    "yax": "Учительский стол",
+    "trx": "Учительский стол"
+  },
+  "陳平": {
+    "src": "Chinpei",
+    "yax": "Чинпей",
+    "trx": "Чинпей"
+  },
+  "神棚": {
+    "src": "Family Altar",
+    "yax": "Семейный алтарь",
+    "trx": "Семейный алтарь"
+  },
+  "提灯": {
+    "src": "Lantern",
+    "yax": "Фонарь",
+    "trx": "Фонарь"
+  },
+  "代紋": {
+    "src": "Crest",
+    "yax": "Гребень",
+    "trx": "Герб"
+  },
+  "龍": {
+    "src": "Dragon",
+    "yax": "Дракон",
+    "trx": "Дракон"
+  },
+  "組長の机": {
+    "src": "Chairman's Desk",
+    "yax": "Стол председателя",
+    "trx": "Стол председателя"
+  },
+  "PC": {
+    "src": "PC",
+    "yax": "ПК",
+    "trx": "ПК"
+  },
+  "キーボード": {
+    "src": "Keyboard",
+    "yax": "Клавиатура",
+    "trx": "Клавиатура"
+  },
+  "マウス": {
+    "src": "Mouse",
+    "yax": "Мышь",
+    "trx": "Мышь"
+  },
+  "組長の椅子": {
+    "src": "Chairman's Chair",
+    "yax": "Председательское кресло",
+    "trx": "Стул председателя"
+  },
+  "ローテーブル": {
+    "src": "Low Table",
+    "yax": "Низкий Столик",
+    "trx": "Низкий столик"
+  },
+  "灰皿": {
+    "src": "Ashtray",
+    "yax": "Пепельница",
+    "trx": "Пепельница"
+  },
+  "ソファ": {
+    "src": "Sofa",
+    "yax": "Диван",
+    "trx": "Софа"
+  },
+  "虎の敷物": {
+    "src": "Tiger Rug",
+    "yax": "Тигровый ковер",
+    "trx": "Тигровый ковер"
+  },
+  "事務用のロッカー": {
+    "src": "Locker",
+    "yax": "Запирающийся шкафчик",
+    "trx": "Шкаф"
+  },
+  "綱領": {
+    "src": "Statement",
+    "yax": "Заявление",
+    "trx": "Инструкция"
+  },
+  "許可証": {
+    "src": "Certificate",
+    "yax": "Сертификат",
+    "trx": "Сертификат"
+  },
+  "ホワイトボード": {
+    "src": "Whiteboard",
+    "yax": "Белая доска",
+    "trx": "Белая доска"
+  },
+  "鉄製の扉": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "パーティション": {
+    "src": "Partition",
+    "yax": "Раздел",
+    "trx": "Перегородка"
+  },
+  "街灯": {
+    "src": "Light",
+    "yax": "Свет",
+    "trx": "Освещение"
+  },
+  "コイン遊具": {
+    "src": "Coin Ride",
+    "yax": "Поездка на монете",
+    "trx": "Игровой автомат"
+  },
+  "ベンチ": {
+    "src": "Bench",
+    "yax": "Скамейка",
+    "trx": "Скамейка"
+  },
+  "花壇": {
+    "src": "Flower Bed",
+    "yax": "Цветочная клумба",
+    "trx": "Цветник"
+  },
+  "ミニミニ列車": {
+    "src": "Mini Train",
+    "yax": "Мини-Поезд",
+    "trx": "Мини-поезд"
+  },
+  "飛行機": {
+    "src": "Airplane",
+    "yax": "Самолет",
+    "trx": "Самолет"
+  },
+  "事務所": {
+    "src": "Office",
+    "yax": "Офис",
+    "trx": "Контора"
+  },
+  "スカイサイクル": {
+    "src": "Sky Cycle",
+    "yax": "Небесный цикл",
+    "trx": "Воздушный велосипед"
+  },
+  "風船売り場": {
+    "src": "Balloons",
+    "yax": "Воздушные шары",
+    "trx": "Надувные шары"
+  },
+  "ステージ": {
+    "src": "Stage",
+    "yax": "Этап",
+    "trx": "Сцена"
+  },
+  "ゲート": {
+    "src": "Gate",
+    "yax": "Ворота",
+    "trx": "Арка"
+  },
+  "ゲームコーナー": {
+    "src": "Arcade",
+    "yax": "Аркада",
+    "trx": "Аркада"
+  },
+  "自販機コーナー": {
+    "src": "Vending Machine",
+    "yax": "торговый автомат",
+    "trx": "Торговый автомат"
+  },
+  "観覧車": {
+    "src": "Ferris Wheel",
+    "yax": "Колесо обозрения",
+    "trx": "Колесо обозрения"
+  },
+  "女性": {
+    "src": "Lady",
+    "yax": "Леди",
+    "trx": "Леди"
+  },
+  "祥磨": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "押入れ": {
+    "src": "Closet",
+    "yax": "Шкаф",
+    "trx": "Туалет"
+  },
+  "ロボット": {
+    "src": "Robot",
+    "yax": "Робот",
+    "trx": "Робот"
+  },
+  "ハリセン": {
+    "src": "Folding Fan",
+    "yax": "Складной вентилятор",
+    "trx": "Веер"
+  },
+  "ピコピコハンマー": {
+    "src": "Toy Hammer",
+    "yax": "Игрушечный Молоток",
+    "trx": "Игрушечный молоток"
+  },
+  "スケッチブック": {
+    "src": "Sketch Book",
+    "yax": "Альбом для рисования",
+    "trx": "Альбом для рисования"
+  },
+  "電灯": {
+    "src": "Light",
+    "yax": "Свет",
+    "trx": "Освещение"
+  },
+  "人形": {
+    "src": "Doll",
+    "yax": "Кукла",
+    "trx": "Кукла"
+  },
+  "おもちゃのロボット": {
+    "src": "Toy Robot",
+    "yax": "Игрушечный Робот",
+    "trx": "Игрушечный робот"
+  },
+  "テレビ台": {
+    "src": "TV Stand",
+    "yax": "Подставка для телевизора",
+    "trx": "Поставка для ТВ"
+  },
+  "解答ボタン": {
+    "src": "Buzzer",
+    "yax": "Зуммер",
+    "trx": "Зуммер"
+  },
+  "リモコン": {
+    "src": "Remote Control",
+    "yax": "дистанционное управление",
+    "trx": "Пульт ДУ"
+  },
+  "トロフィー": {
+    "src": "Trophy",
+    "yax": "Трофей",
+    "trx": "Трофей"
+  },
+  "機械の部品": {
+    "src": "Machine Part",
+    "yax": "Часть машины",
+    "trx": "Часть механизма"
+  },
+  "工具箱": {
+    "src": "Tool Box",
+    "yax": "Ящик для инструментов",
+    "trx": "Ящик для инструментов"
+  },
+  "謎のパーツ類": {
+    "src": "Mysterious Parts",
+    "yax": "Таинственные Части",
+    "trx": "Непонятные детали"
+  },
+  "絵": {
+    "src": "Picture",
+    "yax": "Изображение",
+    "trx": "Картина"
+  },
+  "福笑い": {
+    "src": "Lucky Laugh",
+    "yax": "Счастливый Смех",
+    "trx": "Счастливый смех"
+  },
+  "詩": {
+    "src": "Poem",
+    "yax": "Стих",
+    "trx": "Поэма"
+  },
+  "タンス": {
+    "src": "Dresser",
+    "yax": "Костюмер",
+    "trx": "Комод"
+  },
+  "コタツ": {
+    "src": "Kotatsu",
+    "yax": "Котацу",
+    "trx": "Котацу"
+  },
+  "台所": {
+    "src": "Kitchen",
+    "yax": "Кухня",
+    "trx": "Кухня"
+  },
+  "ほうき": {
+    "src": "Broom",
+    "yax": "Метла",
+    "trx": "Метла"
+  },
+  "変なぬいぐるみ": {
+    "src": "Weird Plush",
+    "yax": "Странный Плюш",
+    "trx": "Странная плюшевая игрушка"
+  },
+  "法螺鳥": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "PCのモニター": {
+    "src": "PC Monitor",
+    "yax": "Монитор ПК",
+    "trx": "Монитор ПК"
+  },
+  "像": {
+    "src": "Statue",
+    "yax": "Статуя",
+    "trx": "Статуя"
+  },
+  "バイオポッド": {
+    "src": "Biopod",
+    "yax": "Биопод",
+    "trx": "Биопод"
+  },
+  "試験管": {
+    "src": "Test Tube",
+    "yax": "Пробирка",
+    "trx": "Пробирка"
+  },
+  "ロボットアーム": {
+    "src": "Robot Arm",
+    "yax": "Рука робота",
+    "trx": "Манипулятор"
+  },
+  "中央モニター": {
+    "src": "Center Monitor",
+    "yax": "Центральный монитор",
+    "trx": "Центральный монитор"
+  },
+  "ノート": {
+    "src": "Note",
+    "yax": "Примечание",
+    "trx": "Записи"
+  },
+  "フラスコ": {
+    "src": "Flask",
+    "yax": "Колба",
+    "trx": "Колба"
+  },
+  "薬のボトル": {
+    "src": "Medicine Bottle",
+    "yax": "Флакон с лекарством",
+    "trx": "Аптечный пузырек"
+  },
+  "研究員": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "法螺鳥のノートＰＣ": {
+    "src": "Chikara's Laptop",
+    "yax": "Ноутбук Чикары",
+    "trx": "Ноутбук Чикары"
+  },
+  "牡丹井": {
+    "src": "Mamoru",
+    "yax": "Мамору",
+    "trx": "Мамору"
+  },
+  "時雨": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "マーク": {
+    "src": "Symbol",
+    "yax": "Символ",
+    "trx": "Символ"
+  },
+  "執務机": {
+    "src": "Office Desk",
+    "yax": "Офисный стол",
+    "trx": "Офисный стол"
+  },
+  "ライト": {
+    "src": "Light",
+    "yax": "Свет",
+    "trx": "Освещение"
+  },
+  "滝": {
+    "src": "Waterfall",
+    "yax": "Водопад",
+    "trx": "Водопад"
+  },
+  "池": {
+    "src": "Pond",
+    "yax": "Пруд",
+    "trx": "Пруд"
+  },
+  "ガラス細工の人形": {
+    "src": "Glass Doll",
+    "yax": "Стеклянная кукла",
+    "trx": "Стеклянная кукла"
+  },
+  "WP_カメラ01": {
+    "src": "WP_Camera 01",
+    "yax": "WP_Camera 01",
+    "trx": null
+  },
+  "死体": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "照明の電源スイッチ": {
+    "src": "Light Switch",
+    "yax": "Выключатель света",
+    "trx": "Выключатель"
+  },
+  "解答者席１": {
+    "src": "Contestant Seat 1",
+    "yax": "Место участника 1",
+    "trx": "Кресло участника 1"
+  },
+  "解答者席２": {
+    "src": "Contestant Seat 2",
+    "yax": "Место участника 2",
+    "trx": "Кресло участника 2"
+  },
+  "解答者席３": {
+    "src": "Contestant Seat 3",
+    "yax": "Место участника 3",
+    "trx": "Кресло участника 3"
+  },
+  "出題者用の演台": {
+    "src": "Host Podium",
+    "yax": "Ведущий Подиум",
+    "trx": "Подиум ведущего"
+  },
+  "クイズ番組のセット": {
+    "src": "Quiz Show Set",
+    "yax": "Набор для викторины",
+    "trx": "Декорации викторины"
+  },
+  "巨大モニター": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "Огромный монитор"
+  },
+  "モニター１": {
+    "src": "Monitor 1",
+    "yax": "Монитор 1",
+    "trx": "Монитор 1"
+  },
+  "モニター２": {
+    "src": "Monitor 2",
+    "yax": "Монитор 2",
+    "trx": "Монитор 2"
+  },
+  "カメラ１": {
+    "src": "Camera 1",
+    "yax": "Камера 1",
+    "trx": "Камера 1"
+  },
+  "カメラ２": {
+    "src": "Camera 2",
+    "yax": "Камера 2",
+    "trx": "Камера 2"
+  },
+  "カメラ３": {
+    "src": "Camera 3",
+    "yax": "Камера 3",
+    "trx": "Камера 3"
+  },
+  "電気ポット": {
+    "src": "Electric Kettle",
+    "yax": "Электрический Чайник",
+    "trx": "Электрический чайник"
+  },
+  "社殿": {
+    "src": "Shrine",
+    "yax": "Святыня",
+    "trx": "Храм"
+  },
+  "しめ縄": {
+    "src": "Sacred Straw Rope",
+    "yax": "Священная Соломенная веревка",
+    "trx": "Священная соломенная веревка"
+  },
+  "鈴と鈴緒": {
+    "src": "Bell Rope",
+    "yax": "Колокольная веревка",
+    "trx": "Колокольная веревка"
+  },
+  "賽銭箱": {
+    "src": "Offering Box",
+    "yax": "Коробка для подношений",
+    "trx": "Коробка для подношений"
+  },
+  "狛犬": {
+    "src": "Guardian Dog",
+    "yax": "Собака-охранник",
+    "trx": "Собака-охранник"
+  },
+  "灯籠": {
+    "src": "Lantern",
+    "yax": "Фонарь",
+    "trx": "Фонарь"
+  },
+  "手水舎": {
+    "src": "Chozuya",
+    "yax": "Чозуя",
+    "trx": "Тёдзуя"
+  },
+  "石碑": {
+    "src": "Stone Monument",
+    "yax": "Каменный памятник",
+    "trx": "Каменный монумент"
+  },
+  "花": {
+    "src": "Flower",
+    "yax": "Цветок",
+    "trx": "Цветок"
+  },
+  "樹木": {
+    "src": "Tree",
+    "yax": "Дерево",
+    "trx": "Дерево"
+  },
+  "鳥居": {
+    "src": "Torii",
+    "yax": "Тории",
+    "trx": "Тории"
+  },
+  "Nonuple_X": {
+    "src": "Nonuple-X",
+    "yax": "Неупорядоченный-X",
+    "trx": "Девятеричный X"
+  },
+  "Psyncギア": {
+    "src": "Psync Gear",
+    "yax": "Механизм Psync",
+    "trx": "Механизм псинк-машины"
+  },
+  "Psyncチェア左": {
+    "src": "Left Psync Chair",
+    "yax": "Левое Кресло Psync",
+    "trx": "Левое кресло псинк-машины"
+  },
+  "Psyncチェア右": {
+    "src": "Right Psync Chair",
+    "yax": "Правое Кресло Psync",
+    "trx": "Правое кресло псинк-машины"
+  },
+  "Vokeman": {
+    "src": "Vokeman",
+    "yax": "Вокеман",
+    "trx": "Плеер"
+  },
+  "グラス": {
+    "src": "Glass",
+    "yax": "Стекло",
+    "trx": "Стекло"
+  },
+  "亜麻芽_視線": {
+    "src": "Amame_Gaze",
+    "yax": "Amame_Gaze",
+    "trx": null
+  },
+  "仮面の女": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "海": {
+    "src": "Ocean",
+    "yax": "Океан",
+    "trx": "Океан"
+  },
+  "コンテナ": {
+    "src": "Container",
+    "yax": "Контейнер",
+    "trx": "Контейнер"
+  },
+  "木箱": {
+    "src": "Wooden Box",
+    "yax": "Деревянный Ящик",
+    "trx": "Деревянный ящик"
+  },
+  "クレーン": {
+    "src": "Crane",
+    "yax": "Кран",
+    "trx": "Кран"
+  },
+  "係船柱": {
+    "src": "Mooring Post",
+    "yax": "Причальный столб",
+    "trx": "Швартовая тумба"
+  },
+  "倉庫": {
+    "src": "Storage Room",
+    "yax": "Складское помещение",
+    "trx": "Склад"
+  },
+  "冷凍倉庫": {
+    "src": "Cold Storage Warehouse",
+    "yax": "Склад холодного хранения",
+    "trx": "Морозильный склад"
+  },
+  "噴水": {
+    "src": "Fountain",
+    "yax": "Фонтан",
+    "trx": "Фонтан"
+  },
+  "コンクリート製ベンチ": {
+    "src": "Concrete Bench",
+    "yax": "Бетонная скамья",
+    "trx": "Бетонная скамья"
+  },
+  "機械室": {
+    "src": "Machine Shed",
+    "yax": "Машинный сарай",
+    "trx": "Машинный сарай"
+  },
+  "自動販売機": {
+    "src": "Vending Machine",
+    "yax": "торговый автомат",
+    "trx": "Торговый автомат"
+  },
+  "木製ベンチ": {
+    "src": "Wooden Bench",
+    "yax": "Деревянная скамья",
+    "trx": "Деревянная скамья"
+  },
+  "案内板": {
+    "src": "Guide Post",
+    "yax": "Направляющий Столб",
+    "trx": "Схема парка"
+  },
+  "机の上": {
+    "src": "Desktop",
+    "yax": "Рабочий стол",
+    "trx": "Рабочий стол"
+  },
+  "机の正面": {
+    "src": "Desk Front",
+    "yax": "Стойка регистрации",
+    "trx": "Стойка регистрации"
+  },
+  "北東の像": {
+    "src": "North-East Statue",
+    "yax": "Северо-Восточная статуя",
+    "trx": "Северо-восточная статуя"
+  },
+  "北東の床": {
+    "src": "North-East Floor",
+    "yax": "Северо-Восточный этаж",
+    "trx": "Северо-восточная секция"
+  },
+  "南東の像": {
+    "src": "South-East Statue",
+    "yax": "Юго-Восточная статуя",
+    "trx": "Юго-восточная статуя"
+  },
+  "南東の床": {
+    "src": "South-East Floor",
+    "yax": "Юго-Восточный этаж",
+    "trx": "Юго-восточная секция"
+  },
+  "北西の像": {
+    "src": "North-West Statue",
+    "yax": "Северо-Западная статуя",
+    "trx": "Северо-западная статуя"
+  },
+  "南西の像": {
+    "src": "South-West Statue",
+    "yax": "Юго-Западная статуя",
+    "trx": "Юго-западная статуя"
+  },
+  "観葉植物１": {
+    "src": "Houseplant 1",
+    "yax": "Комнатное растение 1",
+    "trx": "Растение 1"
+  },
+  "観葉植物２": {
+    "src": "Houseplant 2",
+    "yax": "Комнатное растение 2",
+    "trx": "Растение 2"
+  },
+  "観葉植物３": {
+    "src": "Houseplant 3",
+    "yax": "Комнатное растение 3",
+    "trx": "Растение 3"
+  },
+  "観葉植物４": {
+    "src": "Houseplant 4",
+    "yax": "Комнатное растение 4",
+    "trx": "Растение 4"
+  },
+  "ガラス像": {
+    "src": "Glass Statue",
+    "yax": "Стеклянная статуя",
+    "trx": "Стеклянная статуя"
+  },
+  "壁１": {
+    "src": "Wall 1",
+    "yax": "Стена 1",
+    "trx": "Стена 1"
+  },
+  "壁２": {
+    "src": "Wall 2",
+    "yax": "Стена 2",
+    "trx": "Стена 2"
+  },
+  "壁３": {
+    "src": "Wall 3",
+    "yax": "Стена 3",
+    "trx": "Стена 3"
+  },
+  "壁４": {
+    "src": "Wall 4",
+    "yax": "Стена 4",
+    "trx": "Стена 4"
+  },
+  "儀式台": {
+    "src": "Ritual Platform",
+    "yax": "Ритуальная платформа",
+    "trx": "Ритуальная платформа"
+  },
+  "砂": {
+    "src": "Sand",
+    "yax": "Песок",
+    "trx": "Песок"
+  },
+  "かがり火": {
+    "src": "Brazier",
+    "yax": "Жаровня",
+    "trx": "Жаровня"
+  },
+  "柱": {
+    "src": "Pillar",
+    "yax": "Столб",
+    "trx": "Колонна"
+  },
+  "エレベーターの扉": {
+    "src": "Elevator",
+    "yax": "Лифт",
+    "trx": "Лифт"
+  },
+  "稚枝利一": {
+    "src": "Riichi Chieda",
+    "yax": "Риичи Чиеда",
+    "trx": "Риичи Чиеда"
+  },
+  "ステップ遊具": {
+    "src": "Playground Steps",
+    "yax": "Ступеньки детской площадки",
+    "trx": "Пеньки"
+  },
+  "シーソー": {
+    "src": "Seesaw",
+    "yax": "Колебаться",
+    "trx": "Качели-балансир"
+  },
+  "ジャングルジム": {
+    "src": "Jungle Gym",
+    "yax": "Тренажерный зал в Джунглях",
+    "trx": "Гимнастические джунгли"
+  },
+  "スプリング遊具": {
+    "src": "Spring Playset",
+    "yax": "Весенний игровой набор",
+    "trx": "Качалка на пружине"
+  },
+  "お城の滑り台": {
+    "src": "Castle Slide",
+    "yax": "Слайд замка",
+    "trx": "Замок-горка"
+  },
+  "シンボルツリー": {
+    "src": "Tree",
+    "yax": "Дерево",
+    "trx": "Дерево"
+  },
+  "ブランコ": {
+    "src": "Swingset",
+    "yax": "Набор качелей",
+    "trx": "Качели"
+  },
+  "砂場": {
+    "src": "Sandbox",
+    "yax": "Песочница",
+    "trx": "Песочница"
+  },
+  "建物": {
+    "src": "Building",
+    "yax": "Здание",
+    "trx": "Здание"
+  },
+  "ママ": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "Мама"
+  },
+  "ビールサーバー": {
+    "src": "Beer Tap",
+    "yax": "Пивной кран",
+    "trx": "Пивной кран"
+  },
+  "バーカウンター": {
+    "src": "Bar Counter",
+    "yax": "Барная стойка",
+    "trx": "Барная стойка"
+  },
+  "ラジオ": {
+    "src": "Radio",
+    "yax": "Радио",
+    "trx": "Радио"
+  },
+  "映画のポスター": {
+    "src": "Movie Poster",
+    "yax": "Афиша фильма",
+    "trx": "Афиша фильма"
+  },
+  "フライヤー": {
+    "src": "Flyer",
+    "yax": "Листовка",
+    "trx": "Флаер"
+  },
+  "ハンガー": {
+    "src": "Hanger",
+    "yax": "Вешалка",
+    "trx": "Вешалка"
+  },
+  "カウンター上の酒瓶": {
+    "src": "Alcohol",
+    "yax": "Алкоголь",
+    "trx": "Алкоголь"
+  },
+  "水晶玉": {
+    "src": "Crystal Ball",
+    "yax": "Хрустальный шар",
+    "trx": "Хрустальный шар"
+  },
+  "本": {
+    "src": "Book",
+    "yax": "Книга",
+    "trx": "Книга"
+  },
+  "受付嬢": {
+    "src": "Receptionist",
+    "yax": "Секретарь",
+    "trx": "Секретарь приемной"
+  },
+  "抽象画": {
+    "src": "Abstract Painting",
+    "yax": "Абстрактная живопись",
+    "trx": "Абстрактная картина"
+  },
+  "自動ドア": {
+    "src": "Automatic Door",
+    "yax": "Автоматическая Дверь",
+    "trx": "Автоматическая дверь"
+  },
+  "マガジンラック": {
+    "src": "Magazine Rack",
+    "yax": "Стеллаж для журналов",
+    "trx": "Стеллаж для журналов"
+  },
+  "ハイテーブル": {
+    "src": "High Table",
+    "yax": "Высокий стол",
+    "trx": "Высокий стол"
+  },
+  "ハイスツール": {
+    "src": "High Stool",
+    "yax": "Высокий Табурет",
+    "trx": "Высокий табурет"
+  },
+  "ロゴプレート": {
+    "src": "Logo",
+    "yax": "Логотип",
+    "trx": "Логотип"
+  },
+  "受付カウンター": {
+    "src": "Reception Desk",
+    "yax": "Стойка регистрации",
+    "trx": "Стойка регистрации"
+  },
+  "石像１": {
+    "src": "Stone Statue 1",
+    "yax": "Каменная статуя 1",
+    "trx": "Каменная статуя 1"
+  },
+  "石像２": {
+    "src": "Stone Statue 2",
+    "yax": "Каменная статуя 2",
+    "trx": "Каменная статуя 2"
+  },
+  "石像３": {
+    "src": "Stone Statue 3",
+    "yax": "Каменная статуя 3",
+    "trx": "Каменная статуя 3"
+  },
+  "机１": {
+    "src": "Desk 1",
+    "yax": "Стол 1",
+    "trx": "Стол 1"
+  },
+  "机２": {
+    "src": "Desk 2",
+    "yax": "Стол 2",
+    "trx": "Стол 2"
+  },
+  "机３": {
+    "src": "Desk 3",
+    "yax": "Стол 3",
+    "trx": "Стол 3"
+  },
+  "机４": {
+    "src": "Desk 4",
+    "yax": "Стол 4",
+    "trx": "Стол 4"
+  },
+  "机５": {
+    "src": "Desk 5",
+    "yax": "Стол 5",
+    "trx": "Стол 5"
+  },
+  "バイオポッド正解": {
+    "src": "Biopod Correct",
+    "yax": "Биопод Правильно",
+    "trx": "Нормальный биопод"
+  },
+  "バイオポッド１": {
+    "src": "Biopod 1",
+    "yax": "Биопод 1",
+    "trx": "Биопод 1"
+  },
+  "バイオポッド２": {
+    "src": "Biopod 2",
+    "yax": "Биопод 2",
+    "trx": "Биопод 2"
+  },
+  "バイオポッド３": {
+    "src": "Biopod 3",
+    "yax": "Биопод 3",
+    "trx": "Биопод 3"
+  },
+  "スピーカー": {
+    "src": "Speaker",
+    "yax": "Оратор",
+    "trx": "Колонка"
+  },
+  "大きな窓": {
+    "src": "Big Window",
+    "yax": "Большое окно",
+    "trx": "Большое окно"
+  },
+  "ハンガーラック": {
+    "src": "Clothes Rack",
+    "yax": "Вешалка для одежды",
+    "trx": "Вешалка для одежды"
+  },
+  "服": {
+    "src": "Clothes",
+    "yax": "Одежда",
+    "trx": "Одежда"
+  },
+  "ベンチプレスの器具": {
+    "src": "Bench Press",
+    "yax": "Жим лежа",
+    "trx": "Скамья для жима"
+  },
+  "コルクボード": {
+    "src": "Corkboard",
+    "yax": "Пробковая доска",
+    "trx": "Пробковая доска"
+  },
+  "サイドチェスト": {
+    "src": "Small Cabinet",
+    "yax": "Небольшой Шкаф",
+    "trx": "Небольшой шкаф"
+  },
+  "オーディオセット": {
+    "src": "Audio Set",
+    "yax": "Аудиосистема",
+    "trx": "Аудиосистема"
+  },
+  "ぬいぐるみ": {
+    "src": "Plushie",
+    "yax": "Плюшевый",
+    "trx": "Плюшевая игрушка"
+  },
+  "３人掛けのソファ": {
+    "src": "Sofa",
+    "yax": "Диван",
+    "trx": "Диван"
+  },
+  "クッション": {
+    "src": "Cushion",
+    "yax": "Подушка",
+    "trx": "Подушка"
+  },
+  "カーペット": {
+    "src": "Rug",
+    "yax": "Коврик",
+    "trx": "Коврик"
+  },
+  "ベッド": {
+    "src": "Bed",
+    "yax": "Кровать",
+    "trx": "Кровать"
+  },
+  "キッチン": {
+    "src": "Kitchen",
+    "yax": "Кухня",
+    "trx": "Кухня"
+  },
+  "鍋": {
+    "src": "Pot",
+    "yax": "Горшок",
+    "trx": "Горшок"
+  },
+  "小窓": {
+    "src": "Small Window",
+    "yax": "Маленькое Окошко",
+    "trx": "Маленькое окно"
+  },
+  "ランドセル": {
+    "src": "School Bag",
+    "yax": "школьный портфель",
+    "trx": "Школьный портфель"
+  },
+  "鉄パイプ": {
+    "src": "Metal Pipe",
+    "yax": "Металлическая Труба",
+    "trx": "Металлическая труба"
+  },
+  "運転手": {
+    "src": "Driver",
+    "yax": "Водитель",
+    "trx": "Водитель"
+  },
+  "マネキン": {
+    "src": "Mannequin",
+    "yax": "Манекен",
+    "trx": "Манекен"
+  },
+  "ロープ": {
+    "src": "Rope",
+    "yax": "Веревка",
+    "trx": "Веревка"
+  },
+  "お湯": {
+    "src": "Hot Water",
+    "yax": "горячая вода",
+    "trx": "Горячая вода"
+  },
+  "足跡": {
+    "src": "Footprint",
+    "yax": "След",
+    "trx": "След"
+  },
+  "東の扉": {
+    "src": "East Door",
+    "yax": "Восточная дверь",
+    "trx": "Восточная дверь"
+  },
+  "西の扉": {
+    "src": "West Door",
+    "yax": "Западная дверь",
+    "trx": "Западная дверь"
+  },
+  "マネキン１": {
+    "src": "Mannequin 1",
+    "yax": "Манекен 1",
+    "trx": "Манекен 1"
+  },
+  "マネキン２": {
+    "src": "Mannequin 2",
+    "yax": "Манекен 2",
+    "trx": "Манекен 2"
+  },
+  "セット": {
+    "src": "Set",
+    "yax": "Набор",
+    "trx": null//TBT
+  },
+  "看護師": {
+    "src": "Nurse",
+    "yax": "Медсестра",
+    "trx": "Медсестра"
+  },
+  "カーテン": {
+    "src": "Curtain",
+    "yax": "Занавес",
+    "trx": "Штора"
+  },
+  "生体情報モニター": {
+    "src": "Vitals Monitor",
+    "yax": "Монитор жизненно важных показателей",
+    "trx": "Монитор жизненных показателей"
+  },
+  "床頭台": {
+    "src": "Bedside Table",
+    "yax": "прикроватный столик",
+    "trx": "Прикроватный столик"
+  },
+  "出入口のドア": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "トイレのドア": {
+    "src": "Bathroom Door",
+    "yax": "Дверь в Ванную Комнату",
+    "trx": "Дверь в ванную"
+  },
+  "洗面台": {
+    "src": "Sink",
+    "yax": "Раковина",
+    "trx": "Раковина"
+  },
+  "戸棚": {
+    "src": "Cabinet",
+    "yax": "Кабинет",
+    "trx": "Шкаф"
+  },
+  "ノートPC": {
+    "src": "Laptop PC",
+    "yax": "Портативный компьютер",
+    "trx": "Портативный компьютер"
+  },
+  "WP_TL_カメラ01": {
+    "src": "WP_TL_Camera 01",
+    "yax": "WP_TL_Camera 01",
+    "trx": null
+  },
+  "瞳": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "玄関": {
+    "src": "Entrance",
+    "yax": "Вход",
+    "trx": "Вход"
+  },
+  "靴箱": {
+    "src": "Shoebox",
+    "yax": "Обувная коробка",
+    "trx": "Обувная коробка"
+  },
+  "フロアスタンド": {
+    "src": "Lamp",
+    "yax": "Лампа",
+    "trx": "Лампа"
+  },
+  "食器棚": {
+    "src": "Dining Set",
+    "yax": "Обеденный Сервиз",
+    "trx": "Обеденный сервиз"
+  },
+  "ダイニングテーブル": {
+    "src": "Dining Table",
+    "yax": "Обеденный стол",
+    "trx": "Обеденный стол"
+  },
+  "電子レンジ": {
+    "src": "Microwave",
+    "yax": "Микроволновая печь",
+    "trx": "Микроволновая печь"
+  },
+  "キッチンカウンター": {
+    "src": "Kitchen Counter",
+    "yax": "Кухонная стойка",
+    "trx": "Кухонная стойка"
+  },
+  "ミニコンポ": {
+    "src": "Stereo Set",
+    "yax": "Стереосистема",
+    "trx": "Стереосистема"
+  },
+  "お茶": {
+    "src": "Tea",
+    "yax": "Чай",
+    "trx": "Чай"
+  },
+  "副教材等": {
+    "src": "Teaching Materials",
+    "yax": "Учебные материалы",
+    "trx": "Учебные материалы"
+  },
+  "シーリングファン": {
+    "src": "Ceiling Fan",
+    "yax": "Потолочный вентилятор",
+    "trx": "Потолочный вентилятор"
+  },
+  "謎の物体等": {
+    "src": "Mysterious Object",
+    "yax": "Таинственный Объект",
+    "trx": "Таинственный объект"
+  },
+  "木製の樽": {
+    "src": "Wooden Barrel",
+    "yax": "Деревянная бочка",
+    "trx": "Деревянная бочка"
+  },
+  "厨房のドア": {
+    "src": "Kitchen Door",
+    "yax": "Кухонная Дверь",
+    "trx": "Кухонная дверь"
+  },
+  "厨房の窓": {
+    "src": "Kitchen Window",
+    "yax": "Кухонное окно",
+    "trx": "Кухонное окно"
+  },
+  "マーメイドの写真": {
+    "src": "Mermaid Photo",
+    "yax": "Фотография Русалки",
+    "trx": "Фотография русалки"
+  },
+  "レジ": {
+    "src": "Cash Register",
+    "yax": "Кассовый аппарат",
+    "trx": "Кассовый аппарат"
+  },
+  "トライデント": {
+    "src": "Trident",
+    "yax": "Трезубец",
+    "trx": "Трезубец"
+  },
+  "イカリ": {
+    "src": "Anchor",
+    "yax": "Якорь",
+    "trx": "Якорь"
+  },
+  "ライアン_視線": {
+    "src": "Lien_Gaze",
+    "yax": "Lien_Gaze",
+    "trx": null
+  },
+  "稚枝": {
+    "src": "Riichi",
+    "yax": "Риичи",
+    "trx": "Риичи"
+  },
+  "ストレッチャー": {
+    "src": "Stretcher",
+    "yax": "Носилки",
+    "trx": "Носилки"
+  },
+  "研究員たち": {
+    "src": "Researchers",
+    "yax": "Исследователи",
+    "trx": "Исследователи"
+  },
+  "世島": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "石橋": {
+    "src": "Bridge",
+    "yax": "Мост",
+    "trx": "Мост"
+  },
+  "小さな島": {
+    "src": "Small Island",
+    "yax": "Маленький Остров",
+    "trx": "Маленький остров"
+  },
+  "庭石": {
+    "src": "Garden Stone",
+    "yax": "Садовый камень",
+    "trx": "Садовый камень"
+  },
+  "休憩所": {
+    "src": "Rest Area",
+    "yax": "Зона отдыха",
+    "trx": "Зона отдыха"
+  },
+  "屋敷": {
+    "src": "Mansion",
+    "yax": "Особняк",
+    "trx": "Особняк"
+  },
+  "トピアリー": {
+    "src": "Topiary",
+    "yax": "Топиарий",
+    "trx": "Топиарий"
+  },
+  "ミニバー": {
+    "src": "Minibar",
+    "yax": "Мини-бар",
+    "trx": "Мини-бар"
+  },
+  "ボトル": {
+    "src": "Bottle",
+    "yax": "Бутылка",
+    "trx": "Бутылка"
+  },
+  "シャンパンクーラー": {
+    "src": "Champagne Cooler",
+    "yax": "Охладитель шампанского",
+    "trx": "Охладитель шампанского"
+  },
+  "シート": {
+    "src": "Seat",
+    "yax": "Сиденье",
+    "trx": "Сиденье"
+  },
+  "イリス_視線": {
+    "src": "Iris_Gaze",
+    "yax": "Iris_Gaze",
+    "trx": null
+  },
+  "はてな": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "テアラァ": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "テルミット爆弾": {
+    "src": "Thermite Bomb",
+    "yax": "Термитная бомба",
+    "trx": "Термитная бомба"
+  },
+  "ハシゴ": {
+    "src": "Ladder",
+    "yax": "Лестница",
+    "trx": "Лестница"
+  },
+  "橋": {
+    "src": "Bridge",
+    "yax": "Мост",
+    "trx": "Мост"
+  },
+  "瓦礫": {
+    "src": "Rubble",
+    "yax": "Обломок",
+    "trx": "Обломок"
+  },
+  "みずき妹18": {
+    "src": "Mizuki Little Sister (18)",
+    "yax": "Младшая сестра Мизуки (18)",
+    "trx": "Младшая сестра Мизуки (18)"
+  },
+  "ハーフウェイライン": {
+    "src": "Halfway Line",
+    "yax": "Промежуточная линия",
+    "trx": "Промежуточная линия"
+  },
+  "小さな物体": {
+    "src": "Small Object",
+    "yax": "Небольшой Предмет",
+    "trx": "Небольшой предмет"
+  },
+  "温度が違う場所": {
+    "src": "Warm Area",
+    "yax": "Теплая Зона",
+    "trx": "Теплая зона"
+  },
+  "絆_視線": {
+    "src": "Kizuna_Gaze",
+    "yax": "Kizuna_Gaze",
+    "trx": null
+  },
+  "黒板_後": {
+    "src": "Blackboard_Behind",
+    "yax": "Blackboard_Behind",
+    "trx": null
+  },
+  "石碑死体がないほうの側面": {
+    "src": "Side Stone Monument (No Corpse)",
+    "yax": "Боковой Каменный памятник (Без Трупа)",
+    "trx": "Каменный монумент (без трупа)"
+  },
+  "石碑死体があるほうの側面": {
+    "src": "Side Stone Monument (Corpse)",
+    "yax": "Боковой каменный памятник (Труп)",
+    "trx": "Каменный монумент (с трупом)"
+  },
+  "旧機械室": {
+    "src": "Old Machine Shed",
+    "yax": "Старый Сарай Для Машин",
+    "trx": "Старый сарай для машин"
+  },
+  "ウッドベランダの椅子": {
+    "src": "Wooden Veranda Chair",
+    "yax": "Деревянный Стул Для Веранды",
+    "trx": "Деревянный стул на веранде"
+  },
+  "噴水ベンチ": {
+    "src": "Fountain Bench",
+    "yax": "Скамейка у фонтана",
+    "trx": "Скамейка у фонтана"
+  },
+  "赤い風船": {
+    "src": "Red Balloon",
+    "yax": "Красный воздушный шар",
+    "trx": "Красный воздушный шар"
+  },
+  "近くのデスク": {
+    "src": "Close Desk",
+    "yax": "Закрыть Стол",
+    "trx": "Ближний стол"
+  },
+  "遠くのデスク": {
+    "src": "Far Desk",
+    "yax": "Дальний стол",
+    "trx": "Дальний стол"
+  },
+  "日記帳": {
+    "src": "Diary",
+    "yax": "Дневник",
+    "trx": "Дневник"
+  },
+  "血痕": {
+    "src": "Bloodstain",
+    "yax": "Кровавое пятно",
+    "trx": "Кровавое пятно"
+  },
+  "歯": {
+    "src": "Tooth",
+    "yax": "Зуб",
+    "trx": "Зуб"
+  },
+  "鉄板Ａ": {
+    "src": "Metal Plate A",
+    "yax": "Металлическая Пластина A",
+    "trx": "Металлическая Пластина A"
+  },
+  "鉄板Ｂ": {
+    "src": "Metal Plate B",
+    "yax": "Металлическая пластина B",
+    "trx": "Металлическая пластина B"
+  },
+  "電源スイッチ": {
+    "src": "Power Switch",
+    "yax": "переключатель питания",
+    "trx": "Выключатель питания"
+  },
+  "天井裏の電源ケーブル": {
+    "src": "Ceiling Power Cables",
+    "yax": "Потолочные Силовые Кабели",
+    "trx": "Потолочные силовые кабели"
+  },
+  "なんか気になる場所": {
+    "src": "Suspicious Area",
+    "yax": "Подозрительная область",
+    "trx": "Подозрительная область"
+  },
+  "隠しスイッチ": {
+    "src": "Hidden Switch",
+    "yax": "Скрытый переключатель",
+    "trx": "Скрытый выключатель"
+  },
+  "壁の裏の電源ケーブル": {
+    "src": "Wall Power Cables",
+    "yax": "Настенные Силовые Кабели",
+    "trx": "Настенные силовые кабели"
+  },
+  "四角い穴": {
+    "src": "Square Hole",
+    "yax": "Квадратное Отверстие",
+    "trx": "Квадратное отверстие"
+  },
+  "フットスイッチ": {
+    "src": "Foot Switch",
+    "yax": "Ножной переключатель",
+    "trx": "Ножной выключатель"
+  },
+  "排気ダクト": {
+    "src": "Exhaust Duct",
+    "yax": "Вытяжной канал",
+    "trx": "Вытяжной канал"
+  },
+  "通気口": {
+    "src": "Vent",
+    "yax": "Выходное отверстие",
+    "trx": "Вентиляционное отверстие"
+  },
+  "通気口２": {
+    "src": "Vent 2",
+    "yax": "Вентиляционное отверстие 2",
+    "trx": "Вентиляционное отверстие 2"
+  },
+  "円形の機械": {
+    "src": "Circular Machine",
+    "yax": "Циркулярный станок",
+    "trx": "Круглая машина"
+  },
+  "もうひとつの機械": {
+    "src": "Other Machine",
+    "yax": "Другая Машина",
+    "trx": "Другая машина"
+  },
+  "換気口": {
+    "src": "Vent",
+    "yax": "Выходное отверстие",
+    "trx": "Вентиляционное отверстие"
+  },
+  "手帳のようなもの": {
+    "src": "Handbook",
+    "yax": "Руководство",
+    "trx": "Руководство"
+  },
+  "タンク": {
+    "src": "Tank",
+    "yax": "Бак",
+    "trx": "Бак"
+  },
+  "サンドバッグ": {
+    "src": "Punching Bag",
+    "yax": "Боксерская груша",
+    "trx": "Боксерская груша"
+  },
+  "トレーニング器具": {
+    "src": "Training Equipment",
+    "yax": "Тренажерное Оборудование",
+    "trx": "Тренажерное оборудование"
+  },
+  "タイヤ": {
+    "src": "Tire",
+    "yax": "Шина",
+    "trx": "Шина"
+  },
+  "上の階の机": {
+    "src": "Upper Floor Desk",
+    "yax": "Письменный стол на верхнем Этаже",
+    "trx": "Письменный стол на верхнем этаже"
+  },
+  "下の階の机": {
+    "src": "Lower Floor Desk",
+    "yax": "Письменный стол на нижнем Этаже",
+    "trx": "Письменный стол на нижнем этаже"
+  },
+  "シンク": {
+    "src": "Sink",
+    "yax": "Раковина",
+    "trx": "Раковина"
+  },
+  "トイレ": {
+    "src": "Toilet",
+    "yax": "Туалет",
+    "trx": "Туалет"
+  },
+  "シャワーとバスタブ": {
+    "src": "Shower and Bathtub",
+    "yax": "Душ и ванна",
+    "trx": "Душ и ванна"
+  },
+  "シンボル": {
+    "src": "Symbol",
+    "yax": "Символ",
+    "trx": "Символ"
+  },
+  "操作不能のパソコン": {
+    "src": "Non-functioning PC",
+    "yax": "Неработающий ПК",
+    "trx": "Неработающий ПК"
+  },
+  "貼り紙": {
+    "src": "Poster",
+    "yax": "Плакат",
+    "trx": "Плакат"
+  },
+  "下へ": {
+    "src": "Below",
+    "yax": "Ниже",
+    "trx": "Вниз"
+  },
+  "上へ": {
+    "src": "Above",
+    "yax": "Выше",
+    "trx": "Наверх"
+  },
+  "木の根元": {
+    "src": "Tree Root",
+    "yax": "Корень дерева",
+    "trx": "Корень дерева"
+  },
+  "タイムカプセル": {
+    "src": "Time Capsule",
+    "yax": "Капсула времени",
+    "trx": "Капсула времени"
+  },
+  "死体_位置": {
+    "src": "Corpse_position",
+    "yax": "Положение трупа",
+    "trx": null
+  },
+  "男": {
+    "src": "Man",
+    "yax": "Человек",
+    "trx": "Человек"
+  },
+  "NAIXの奴": {
+    "src": "Naix",
+    "yax": "Наикс",
+    "trx": null
+  },
+  "ロケット弾": {
+    "src": "Rocket",
+    "yax": "Ракета",
+    "trx": "Ракета"
+  },
+  "熊の乗り物": {
+    "src": "Bear Ride",
+    "yax": "Поездка на медведе",
+    "trx": "Поездка на медведе"
+  },
+  "ルミノール反応Ａ": {
+    "src": "Luminol Reaction A",
+    "yax": "Реакция люминола А",
+    "trx": "Реакция люминола А"
+  },
+  "ルミノール反応Ｂ": {
+    "src": "Luminol Reaction B",
+    "yax": "Реакция люминола В",
+    "trx": "Реакция люминола В"
+  },
+  "その場で動く遊具": {
+    "src": "Stationary Rocking Ride",
+    "yax": "Стационарная Качалка",
+    "trx": "Стационарная качалка"
+  },
+  "ミニ列車": {
+    "src": "Mini Train",
+    "yax": "Мини-Поезд",
+    "trx": "Мини-поезд"
+  },
+  "飛行機のアトラクション": {
+    "src": "Airplane Ride",
+    "yax": "Полет на самолете",
+    "trx": "Полет на самолете"
+  },
+  "ハンドル": {
+    "src": "Handle",
+    "yax": "Ручка",
+    "trx": "Ручка"
+  },
+  "メーター": {
+    "src": "Meter",
+    "yax": "Метр",
+    "trx": "Метр"
+  },
+  "ミラー": {
+    "src": "Mirror",
+    "yax": "Зеркало",
+    "trx": "Зеркало"
+  },
+  "手すり": {
+    "src": "Handrail",
+    "yax": "Поручень",
+    "trx": "Поручень"
+  },
+  "天井": {
+    "src": "Ceiling",
+    "yax": "Потолок",
+    "trx": "Потолок"
+  },
+  "装置": {
+    "src": "Device",
+    "yax": "Устройство",
+    "trx": "Устройство"
+  },
+  "ケーブル": {
+    "src": "Cable",
+    "yax": "Кабель",
+    "trx": "Кабель"
+  },
+  "鉄の扉": {
+    "src": "Iron Door",
+    "yax": "Железная Дверь",
+    "trx": "Железная дверь"
+  },
+  "足場": {
+    "src": "Scaffold",
+    "yax": "Подмостки",
+    "trx": "Подмостки"
+  },
+  "階段": {
+    "src": "Stair",
+    "yax": "Ступенька",
+    "trx": "Ступенька"
+  },
+  "制御室": {
+    "src": "Control Room",
+    "yax": "Диспетчерская",
+    "trx": "Диспетчерская"
+  },
+  "ネエネ": {
+    "src": "Bibi",
+    "yax": "Биби",
+    "trx": "Биби"
+  },
+  "旗": {
+    "src": "Flag",
+    "yax": "Флаг",
+    "trx": "Флаг"
+  },
+  "壁": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "ファイル": {
+    "src": "File",
+    "yax": "Файл",
+    "trx": "Файл"
+  },
+  "屋蓑": {
+    "src": "Minoya",
+    "yax": "Миноя",
+    "trx": null//TBT
+  },
+  "ALFREEの缶": {
+    "src": "ALFREE Can",
+    "yax": "ЭЛФРИ Может",
+    "trx": "Банка ALFREE"
+  },
+  "クリームソーダ": {
+    "src": "Cream Soda",
+    "yax": "Крем-сода",
+    "trx": "Крем-сода"
+  },
+  "M0_取調室_椅子": {
+    "src": "M0_Interrogation Room_Chair",
+    "yax": "m0_интеррогационная комната_ Кресло",
+    "trx": null
+  },
+  "M0_取調室_マジックミラー": {
+    "src": "M0_Interrogation Room_Two-way Mirror",
+    "yax": "M0_Interrogation Room_Two-way Зеркало",
+    "trx": null
+  },
+  "M0_伊達宅_PA_シチュー_調べろ": {
+    "src": "M0_Date House_PA_Stew_Inspect",
+    "yax": "M0_Date House_PA_Stew_Inspect",
+    "trx": null
+  },
+  "M0_Ｒ_かがり火": {
+    "src": "M0_Ｒ_Brazier",
+    "yax": "m0_Ｒ_brazier",
+    "trx": null
+  },
+  "M0_Ｒ_たいまつ": {
+    "src": "M0_Ｒ_Torch",
+    "yax": "m0_Ｒ_torch",
+    "trx": null
+  },
+  "M0_Ｒ_柱_PA_龍木_声を掛けて": {
+    "src": "M0_Ｒ_Pillar_PA_Ryuki_Talk to him",
+    "yax": "M0_Ｒ_pillar_pa_ryuki_ Поговори с ним",
+    "trx": null
+  },
+  "M0_Ｒ_Evolver": {
+    "src": "M0_Ｒ_Evolver",
+    "yax": "m0_Ｒ_evolver",
+    "trx": null
+  },
+  "M0_Ｒ_ブランデー": {
+    "src": "M0_Ｒ_Brandy",
+    "yax": "m0_Ｒ_brandy",
+    "trx": null
+  },
+  "M0_Ｒ_龍木Ａ": {
+    "src": "M0_Ｒ_Ryuki A",
+    "yax": "M0_Ｒ_ryuki A",
+    "trx": null
+  },
+  "M0_Ｒ_龍木Ｂ": {
+    "src": "M0_Ｒ_Ryuki B",
+    "yax": "M0_Ｒ_ryuki B",
+    "trx": null
+  },
+  "M0_Ｒ_龍木Ｃ": {
+    "src": "M0_Ｒ_Ryuki C",
+    "yax": "M0_Ｒ_ryuki C",
+    "trx": null
+  },
+  "M0_Ｒ_祭壇_PA_警察のID_拾って": {
+    "src": "M0_Ｒ_Altar_PA_Police ID_Pick Up",
+    "yax": "M0_Ｒ_altar_pa_police ID_Pick Up",
+    "trx": null
+  },
+  "M0_Ｍ_義眼": {
+    "src": "M0_Ｍ_False Eye",
+    "yax": "m0_Ｍ_false Глаз",
+    "trx": null
+  },
+  "M0_Ｍ_鳥かご_PA_家族写真": {
+    "src": "M0_M_Bird Cage_PA_Family Photo",
+    "yax": "M0_M_Bird Cage_PA_Family Фото",
+    "trx": null
+  },
+  "M0_Ｍ_柱１_PA_龍木_声を掛けて": {
+    "src": "M0_Ｒ_Pillar1_PA_Ryuki_Talk to him",
+    "yax": "M0_Ｒ_pillar1_pa_ryuki_ Поговори с ним",
+    "trx": null
+  },
+  "M0_Ｍ_ボスの部屋_PA_コーヒーメーカー_これで慰めて": {
+    "src": "M0_Ｍ_Boss's Room_PA_Coffe Maker_Cheer Up",
+    "yax": "Комната m0__B_boss's Room_PA_Coffe Maker_Cheer Up",
+    "trx": null
+  },
+  "M0_Ｍ_ボスの部屋_PA_鞠夫くん_これで慰めて": {
+    "src": "M0_Ｍ_Boss's Room_PA_Mario_Cheer Up",
+    "yax": "Комната m0_Ｍ_boss_pa_mario_cheer Up",
+    "trx": null
+  },
+  "M0_Ｍ_ボスの部屋_PA_ジャックオランタン_これで慰めて": {
+    "src": "M0_Ｍ_Boss's Room_PA_Jackolantern_Cheer Up",
+    "yax": "Комната m0_Ｍ_boss_pa_jackolantern_cheer Up",
+    "trx": null
+  },
+  "M0_Ｍ_Evolver": {
+    "src": "M0_Ｒ_Evolver",
+    "yax": "m0_Ｒ_evolver",
+    "trx": null
+  },
+  "M0_Ｍ_たいまつ": {
+    "src": "M0_Ｒ_Torch",
+    "yax": "m0_Ｒ_torch",
+    "trx": null
+  },
+  "M0_Ｍ_メリゴ_PA_鏡のドア": {
+    "src": "M0_M_Merry Go Round_PA_Mirror Door",
+    "yax": "M0_M_Merry Обойди_pa_mirror Дверь",
+    "trx": null
+  },
+  "M0_Ｍ_時限爆弾": {
+    "src": "M0_Ｍ_Time Bomb",
+    "yax": "m0_Ｍ_ Бомба замедленного действия",
+    "trx": null
+  },
+  "M0_Ｍ_靴": {
+    "src": "M0_Ｍ_Shoe",
+    "yax": "m0_Ｍ_шоу",
+    "trx": null
+  },
+  "M0_Ｍ_鉄パイプ": {
+    "src": "M0_Ｍ_Metal Pipe",
+    "yax": "m0_Ｍ_металлическая труба",
+    "trx": null
+  },
+  "M0_Ｍ_うさりんぱ_PA_調べろ": {
+    "src": "M0_M_Adorabbit_PA_Inspect",
+    "yax": "M0_M_Adorabbit_PA_Inspect",
+    "trx": null
+  },
+  "M0_Ｍ_柱２_PA_龍木_声を掛けて": {
+    "src": "M0_Ｒ_Pillar2_PA_Ryuki_Talk to him",
+    "yax": "M0_Ｒ_pillar2_pa_ryuki_ Поговори с ним",
+    "trx": null
+  },
+  "M0_Ｍ_ブラフマン_PA_もつ煮_これで慰めて": {
+    "src": "M0_Ｍ_Brahman_PA_Intestine Stew_Cheer Up",
+    "yax": "M0_Ｍ_brahman_pa_ Тушеное мясо в кишечнике - взбодриться",
+    "trx": null
+  },
+  "M0_Ｍ_ブラフマン_PA_お冷_これで慰めて": {
+    "src": "M0_Ｍ_Brahman_PA_Cold Water_Cheer Up",
+    "yax": "M0_Ｍ_brahman_pa_cold Water_Cheer Up",
+    "trx": null
+  },
+  "M0_Ｍ_ブラフマン_PA_ブランデー_これで慰めて": {
+    "src": "M0_Ｍ_Brahman_PA_Brandy_Cheer Up",
+    "yax": "M0_Ｍ_brahman_pa_brandy_cheer Up",
+    "trx": null
+  },
+  "M0_Ｍ_ブラフマン_PA_ガネーシャの絵_これで慰めて": {
+    "src": "M0_Ｍ_Brahman_PA_Picture of Ganesha_Cheer Up",
+    "yax": "m0_Ｍ_brahman_pa_ Изображение Ганеши_чир вверх",
+    "trx": null
+  },
+  "M0_Ｍ_龍木_祭壇_PA_最後": {
+    "src": "M0_Ｍ_Ryuki_Altar_PA_最後",
+    "yax": "m0_Ｍ_ryuki_altar_pa_最後",
+    "trx": null
+  },
+  "M0_隠しメダマ１": {
+    "src": "M0_Hidden Eyeballs 1",
+    "yax": "M0_Крытые Глазные яблоки 1",
+    "trx": null
+  },
+  "M0_隠しメダマ２": {
+    "src": "M0_Hidden Eyeballs 2",
+    "yax": "M0_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M0_隠しメダマ３": {
+    "src": "M0_Hidden Eyeballs 3",
+    "yax": "M0_Крытые Глазные яблоки 3",
+    "trx": null
+  },
+  "M0_隠しメダマ４": {
+    "src": "M0_Hidden Eyeballs 4",
+    "yax": "M0_Крытые Глазные яблоки 4",
+    "trx": null
+  },
+  "M0_隠しメダマ５": {
+    "src": "M0_Hidden Eyeballs 5",
+    "yax": "M0_Крытые Глазные яблоки 5",
+    "trx": null
+  },
+  "M14_ＰＣ１": {
+    "src": "M14_ＰＣ１",
+    "yax": "m14_ＰＣ１",
+    "trx": null
+  },
+  "M14_ＰＣ２": {
+    "src": "M14_ＰＣ１",
+    "yax": "m14_ＰＣ１",
+    "trx": null
+  },
+  "M14_ＰＣ３": {
+    "src": "M14_ＰＣ１",
+    "yax": "m14_ＰＣ１",
+    "trx": null
+  },
+  "M14_ボタンＡ_黒": {
+    "src": "M14_Button A_Black",
+    "yax": "M14_Button A_Black",
+    "trx": null
+  },
+  "M14_ボタンＢ_黒": {
+    "src": "M14_Button B_Black",
+    "yax": "M14_Button B_Black",
+    "trx": null
+  },
+  "M14_ボタンＣ_黒": {
+    "src": "M14_Button C_Black",
+    "yax": "M14_Button C_Black",
+    "trx": null
+  },
+  "M14_ボタンＤ_黒": {
+    "src": "M14_Button D_Black",
+    "yax": "M14_Button D_Black",
+    "trx": null
+  },
+  "M14_ボタンＥ_黒": {
+    "src": "M14_Button E_Black",
+    "yax": "M14_Button E_Black",
+    "trx": null
+  },
+  "M14_PA_謎の球体１_調べて": {
+    "src": "M14_PA_Mysterious Sphere_Inspect",
+    "yax": "M14_PA_Mysterious Sphere_Inspect",
+    "trx": null
+  },
+  "M14_PA_文字盤_赤_調べて": {
+    "src": "M14_PA_Letter Board_Red_Inspect",
+    "yax": "M14_PA_Letter Board_Red_Inspect",
+    "trx": null
+  },
+  "M14_PA_ＴminusＲ_赤_調べて": {
+    "src": "M14_PA_ＴminusＲ_Red_Inspect",
+    "yax": "m14_pa_minus_red_inspect",
+    "trx": null
+  },
+  "M14_PA_ＵminusＥ_赤_調べて": {
+    "src": "M14_PA_ＵminusＥ_Red_Inspect",
+    "yax": "m14_pa_minus_red_inspect",
+    "trx": null
+  },
+  "M14_PA_ＮplusＡ_赤_調べて": {
+    "src": "M14_PA_ＮplusＡ_Red_Inspect",
+    "yax": "M14_pa_ＡplusＡ_red_inspect",
+    "trx": null
+  },
+  "M14_PA_ＩminusＸ_赤_調べて": {
+    "src": "M14_PA_ＩminusＸ_Red_Inspect",
+    "yax": "m14_pa_minus_red_inspect",
+    "trx": null
+  },
+  "M14_PA_青のロッカー_赤_調べて": {
+    "src": "M14_PA_Blue Locker_Red_Inspect",
+    "yax": "M14_PA_Blue Locker_Red_Inspect",
+    "trx": null
+  },
+  "M14_PA_緑のロッカー_赤_調べて": {
+    "src": "M14_PA_Green Locker_Red_Inspect",
+    "yax": "M14_PA_Green Locker_Red_Inspect",
+    "trx": null
+  },
+  "M14_PA_黄色のロッカー_赤_調べて": {
+    "src": "M14_PA_Yellow Locker_Red_Inspect",
+    "yax": "M14_PA_Yellow Locker_Red_Inspect",
+    "trx": null
+  },
+  "M14_PA_ドア_赤_調べて": {
+    "src": "M14_PA_Door_Red_Inspect",
+    "yax": "M14_PA_Door_Red_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の球体２_調べて": {
+    "src": "M14_PA_Mysterious Sphere2_Inspect",
+    "yax": "M14_PA_Mysterious Sphere2_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎のオブジェＡ_金_調べて": {
+    "src": "M14_PA_Mysterious Object A_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Object A_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎のオブジェＢ_金_調べて": {
+    "src": "M14_PA_Mysterious Object B_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Object B_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎のオブジェＣ_金_調べて": {
+    "src": "M14_PA_Mysterious Object C_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Object C_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_ドア_金_調べて": {
+    "src": "M14_PA_Door_Gold_Inspect",
+    "yax": "M14_PA_Door_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の絵Ａ_金_調べて": {
+    "src": "M14_PA_Mysterious Picture A_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Picture A_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の絵Ｂ_金_調べて": {
+    "src": "M14_PA_Mysterious Picture B_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Picture B_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の絵Ｃ_金_調べて": {
+    "src": "M14_PA_Mysterious Picture C_Gold_Inspect",
+    "yax": "M14_PA_Mysterious Picture C_Gold_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の球体３_調べて": {
+    "src": "M14_PA_Mysterious Sphere3_Inspect",
+    "yax": "M14_PA_Mysterious Sphere3_Inspect",
+    "trx": null
+  },
+  "M14_PA_教典_黒１_調べて": {
+    "src": "M14_PA_Teachings_Black1_Inspect",
+    "yax": "M14_PA_Teachings_Black1_Inspect",
+    "trx": null
+  },
+  "M14_PA_教典_黒１_もっと考えて": {
+    "src": "M14_PA_Teachings_Black1_Think More",
+    "yax": "m14_pa_teachings_black1_ Подумайте еще",
+    "trx": null
+  },
+  "M14_PA_教典_黒１_完全に理解するまで考えて": {
+    "src": "M14_PA_Teachings_Black1_Epiphany",
+    "yax": "M14_PA_Teachings_Black1_Epiphany",
+    "trx": null
+  },
+  "M14_PA_教典_黒２_調べて": {
+    "src": "M14_PA_Teachings_Black2_Inspect",
+    "yax": "M14_PA_Teachings_Black2_Inspect",
+    "trx": null
+  },
+  "M14_PA_教典_黒２_もっと考えて": {
+    "src": "M14_PA_Teachings_Black2_Think More",
+    "yax": "m14_pa_teachings_black2_ Подумайте еще",
+    "trx": null
+  },
+  "M14_PA_教典_黒２_完全に理解するまで考えて": {
+    "src": "M14_PA_Teachings_Black2_Epiphany",
+    "yax": "M14_PA_Teachings_Black2_Epiphany",
+    "trx": null
+  },
+  "M14_PA_教典_黒３_調べて": {
+    "src": "M14_PA_Teachings_Black3_Inspect",
+    "yax": "M14_PA_Teachings_Black3_Inspect",
+    "trx": null
+  },
+  "M14_PA_教典_黒３_もっと考えて": {
+    "src": "M14_PA_Teachings_Black3_Think More",
+    "yax": "m14_pa_teachings_black3_ Подумайте еще",
+    "trx": null
+  },
+  "M14_PA_教典_黒３_完全に理解するまで考えて": {
+    "src": "M14_PA_Teachings_Black3_Epiphany",
+    "yax": "M14_PA_Teachings_Black3_Epiphany",
+    "trx": null
+  },
+  "M14_PA_ドア_黒_調べて": {
+    "src": "M14_PA_Door_Black_Inspect",
+    "yax": "M14_PA_Door_Black_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の球体４_調べて": {
+    "src": "M14_PA_Mysterious Sphere4_Inspect",
+    "yax": "M14_PA_Mysterious Sphere4_Inspect",
+    "trx": null
+  },
+  "M14_PA_謎の球体５_調べて": {
+    "src": "M14_PA_Mysterious Sphere5_Inspect",
+    "yax": "M14_PA_Mysterious Sphere5_Inspect",
+    "trx": null
+  },
+  "M14_PA_洗面台_船_調べる": {
+    "src": "M14_PA_Sink_Boat_Inspect",
+    "yax": "M14_PA_Sink_Boat_Inspect",
+    "trx": null
+  },
+  "M14_PA_ベッド_船_調べる": {
+    "src": "M14_PA_Bed_Boat_Inspect",
+    "yax": "M14_PA_Bed_Boat_Inspect",
+    "trx": null
+  },
+  "M14_PA_鏡_船_調べる": {
+    "src": "M14_PA_Mirror_Boat_Inspect",
+    "yax": "M14_PA_Mirror_Boat_Inspect",
+    "trx": null
+  },
+  "M14_PA_ポットとストーブ_船_調べる": {
+    "src": "M14_PA_Pot and Stove_Boat_Inpsect",
+    "yax": "M14_PA_Pot и Stove_Boat_Inpsect",
+    "trx": null
+  },
+  "M14_PA_青いトランク_船_調べる": {
+    "src": "M14_PA_Blue Trunk_Boat_Inpsect",
+    "yax": "M14_PA_Blue Trunk_Boat_Inpsect",
+    "trx": null
+  },
+  "M14_PA_５のドア_船_調べる": {
+    "src": "M14_PA_Door 5_Boat_Inspect",
+    "yax": "M14_PA_Door 5_Boat_Inspect",
+    "trx": null
+  },
+  "M14_PA_赤いトランク_船_調べる": {
+    "src": "M14_PA_Red Trunk_Boat_Inpsect",
+    "yax": "M14_PA_Red Trunk_Boat_Inpsect",
+    "trx": null
+  },
+  "M14_PA_窓_船_調べる": {
+    "src": "M14_PA_Window_Boat_Inspect",
+    "yax": "M14_PA_Window_Boat_Inspect",
+    "trx": null
+  },
+  "M14_隠しメダマ１": {
+    "src": "M14_Hidden Eyeballs 1",
+    "yax": "M14_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M14_隠しメダマ２": {
+    "src": "M14_Hidden Eyeballs 2",
+    "yax": "M14_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M14_隠しメダマ３": {
+    "src": "M14_Hidden Eyeballs 3",
+    "yax": "M14_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "M14_隠しメダマ４": {
+    "src": "M14_Hidden Eyeballs 4",
+    "yax": "M14_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "M14_隠しメダマ５": {
+    "src": "M14_Hidden Eyeballs 5",
+    "yax": "M14_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "M24_PA_ピッキングツール_拾って": {
+    "src": "M24_PA_Picking Tool_Pick up",
+    "yax": "M24_PA_Picking Tool_Pick up",
+    "trx": null
+  },
+  "M24_金庫Ａ": {
+    "src": "M24_SafeＡ",
+    "yax": "m24_safeＡ",
+    "trx": null
+  },
+  "M24_ドア": {
+    "src": "M24_Door",
+    "yax": "M24_Door",
+    "trx": null
+  },
+  "M24_ALFREE": {
+    "src": "M24_ALFREE",
+    "yax": "M24_ALFREE",
+    "trx": null
+  },
+  "M24_金庫Ｂ": {
+    "src": "M24_Safe Ｂ",
+    "yax": "M24_Safe Ｂ",
+    "trx": null
+  },
+  "M24_PA_金庫Ｂのメモ_もっと考えて": {
+    "src": "M24_PA_Safe B's Memo_Think More",
+    "yax": "M24_pa_safe's Memo_ Подумайте еще",
+    "trx": null
+  },
+  "M24_PA_金庫Ｂのメモ_完全に理解するまで考えて": {
+    "src": "M14_PA_Safe B's Memo_Epiphany",
+    "yax": "Мемуаро_эпифания M14_PA_Safe B.",
+    "trx": null
+  },
+  "M24_PA_青いポリバケツ_フタを開けて": {
+    "src": "M24_PA_Blue Trash Can_Open Lid",
+    "yax": "M24_PA_Blue Мусорный бак_открытая крышка",
+    "trx": null
+  },
+  "M24_PA_黄色いポリバケツ_フタを開けて": {
+    "src": "M24_PA_Yellow Trash Can_Open Lid",
+    "yax": "M24_PA_Yellow Мусорный бак_открытая крышка",
+    "trx": null
+  },
+  "M24_PA_ピンクのポリバケツ_フタを開けて": {
+    "src": "M24_PA_Pink Trash Can_Open Lid",
+    "yax": "M24_PA_Pink Мусорный бак_открытая крышка",
+    "trx": null
+  },
+  "M24_PA_白いポリバケツ_フタを開けて": {
+    "src": "M24_PA_White Trash Can_Open Lid",
+    "yax": "M24_PA_White Мусорный бак_открытая крышка",
+    "trx": null
+  },
+  "M24_金庫Ｃ": {
+    "src": "M24_Safe C",
+    "yax": "M24_Safe C",
+    "trx": null
+  },
+  "M24_ラジカセ": {
+    "src": "M24_Radio Cassette",
+    "yax": "Кассета M24_Radio",
+    "trx": null
+  },
+  "M24_PA_鉄製の金庫_鉄製の金庫を開けて": {
+    "src": "M24_PA_Metal Safe_Open Metal Safe",
+    "yax": "M24_PA_Metal safe_открытый металлический сейф",
+    "trx": null
+  },
+  "M24_PA_マスク_頭にかぶって": {
+    "src": "M24_PA_Mask_Wear It On Head",
+    "yax": "M24_pa_mask_ Наденьте Его На Голову",
+    "trx": null
+  },
+  "M24_PA_仮面_顔につけて": {
+    "src": "M24_PA_Mask_Wear It On Face",
+    "yax": "M24_pa_mask_ Наденьте Его На Лицо",
+    "trx": null
+  },
+  "M24_PA_眼帯_顔につけて": {
+    "src": "M24_PA_Eye Patch_Wear It On Face",
+    "yax": "M24_PA_Eye patch_ Наденьте Его На Лицо",
+    "trx": null
+  },
+  "M24_PA_金庫Ｅ_顔を認証して": {
+    "src": "M24_PA_Safe E_Authenticate Face",
+    "yax": "M24_PA_Safe E_Authenticate Лицо",
+    "trx": null
+  },
+  "M24_PA_純金の金庫_純金の金庫を開けて": {
+    "src": "M24_PA_Pure Gold Safe_Open Pure Gold Safe",
+    "yax": "M24_PA_Pure Gold safe_открыть Сейф из чистого золота",
+    "trx": null
+  },
+  "M24_PA_車いす_どかして": {
+    "src": "M24_PA_Wheel Chair_Move Aside",
+    "yax": "M24_PA_Wheel Кресло сдвинуть в сторону",
+    "trx": null
+  },
+  "M24_タイムカプセル": {
+    "src": "M24_Time Capsule",
+    "yax": "Капсула M24_Time",
+    "trx": null
+  },
+  "M24_PA_天井の鍵穴_調べて": {
+    "src": "M24_PA_Keyhole In Ceiling_Investigate",
+    "yax": "M24_PA_Keyhole В потолке_инвестировать",
+    "trx": null
+  },
+  "M24_PA_ガネーシャの絵_調べて": {
+    "src": "M24_PA_Paint of Ganesha_Investigate",
+    "yax": "M24_PA_Paint Ганеши_инвестировать",
+    "trx": null
+  },
+  "M24_PA_少女の像_調べて": {
+    "src": "M24_PA_Statue of a Young Girl_Investigate",
+    "yax": "M24_PA_Статья молодой девушки_инвестировать",
+    "trx": null
+  },
+  "M24_金庫Ｄ": {
+    "src": "M24_Safe D",
+    "yax": "M24_Safe D",
+    "trx": null
+  },
+  "M24_隠しメダマ１": {
+    "src": "M24_Hidden Eyeballs 1",
+    "yax": "M24_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M24_隠しメダマ２": {
+    "src": "M24_Hidden Eyeballs 2",
+    "yax": "M24_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "M24_隠しメダマ３": {
+    "src": "M24_Hidden Eyeballs 3",
+    "yax": "M24_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "M24_隠しメダマ４": {
+    "src": "M24_Hidden Eyeballs 4",
+    "yax": "M24_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "M24_隠しメダマ５": {
+    "src": "M24_Hidden Eyeballs 5",
+    "yax": "M24_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R12_PA_破れた本１左_調べろ": {
+    "src": "R12_PA_Ripped Book 1 Left_Inspect",
+    "yax": "R12_PA_Ripped Книга 1 Left_Inspect",
+    "trx": null
+  },
+  "R12_PA_破れた教典１右_調べろ": {
+    "src": "R12_PA_Ripped Teachings 1 Right_Inspect",
+    "yax": "R12_PA_Ripped = 1 Right_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典２_調べろ": {
+    "src": "R12_PA_Teachings 2_Inspect",
+    "yax": "R12_PA_Teachings 2_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典２_もっと考えろ": {
+    "src": "R12_PA_Teachings 2_Think More",
+    "yax": "R12_PA_Teachings 2_ Подумайте еще",
+    "trx": null
+  },
+  "R12_PA_教典２_完全に理解するまで考えろ": {
+    "src": "R12_PA_Teachings 2_Epiphany",
+    "yax": "R12_PA_Teachings 2_ Крещение",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ａ２_調べろ": {
+    "src": "R12_PA_Skull A2_Inspect",
+    "yax": "R12_PA_Skull A2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｂ２_調べろ": {
+    "src": "R12_PA_Skull B2_Inspect",
+    "yax": "R12_PA_Skull B2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｃ２_調べろ": {
+    "src": "R12_PA_Skull C2_Inspect",
+    "yax": "R12_PA_Skull C2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｄ２_調べろ": {
+    "src": "R12_PA_Skull D2_Inspect",
+    "yax": "R12_PA_Skull D2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｅ２_調べろ": {
+    "src": "R12_PA_Skull E2_Inspect",
+    "yax": "R12_PA_Skull E2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｆ２_調べろ": {
+    "src": "R12_PA_Skull F2_Inspect",
+    "yax": "R12_PA_Skull F2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｇ２_調べろ": {
+    "src": "R12_PA_Skull G2_Inspect",
+    "yax": "R12_PA_Skull G2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｈ２_調べろ": {
+    "src": "R12_PA_Skull H2_Inspect",
+    "yax": "R12_PA_Skull H2_Inspect",
+    "trx": null
+  },
+  "R12_PA_頭蓋骨Ｉ２_調べろ": {
+    "src": "R12_PA_Skull I2_Inspect",
+    "yax": "R12_PA_Skull I2_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典３_調べろ": {
+    "src": "R12_PA_Teachings 3_Inspect",
+    "yax": "R12_PA_Teachings 3_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典３_もっと考えろ": {
+    "src": "R12_PA_Teachings 3_Think More",
+    "yax": "R12_PA_Teachings 3_ Подумайте еще",
+    "trx": null
+  },
+  "R12_PA_教典３_完全に理解するまで考えろ": {
+    "src": "R12_PA_Teachings 3_Epiphany",
+    "yax": "R12_PA_Teachings 3_Epiphany",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＡ３_調べろ": {
+    "src": "R12_PA_Hand Sign A3_Inspect",
+    "yax": "R12_PA_Hand Знак A3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＢ３_調べろ": {
+    "src": "R12_PA_Hand Sign B3_Inspect",
+    "yax": "R12_PA_Hand Знак B3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＣ３_調べろ": {
+    "src": "R12_PA_Hand Sign C3_Inspect",
+    "yax": "R12_PA_Hand Знак C3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＤ３_調べろ": {
+    "src": "R12_PA_Hand Sign D3_Inspect",
+    "yax": "R12_PA_Hand Знак D3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＥ３_調べろ": {
+    "src": "R12_PA_Hand Sign E3_Inspect",
+    "yax": "R12_PA_Hand Знак E3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＦ３_調べろ": {
+    "src": "R12_PA_Hand Sign F3_Inspect",
+    "yax": "R12_PA_Hand Знак F3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＧ３_調べろ": {
+    "src": "R12_PA_Hand Sign G3_Inspect",
+    "yax": "R12_PA_Hand Знак G3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＨ３_調べろ": {
+    "src": "R12_PA_Hand Sign H3_Inspect",
+    "yax": "R12_PA_Hand Знак H3_Inspect",
+    "trx": null
+  },
+  "R12_PA_ハンドサインＩ３_調べろ": {
+    "src": "R12_PA_Hand Sign I3_Inspect",
+    "yax": "R12_PA_Hand Знак I3_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典４_調べろ": {
+    "src": "R12_PA_Teachings 4_Inspect",
+    "yax": "R12_PA_Teachings 4_Inspect",
+    "trx": null
+  },
+  "R12_PA_教典４_もっと考えろ": {
+    "src": "R12_PA_Teachings 4_Think More",
+    "yax": "R12_PA_Teachings 4_ Подумайте еще",
+    "trx": null
+  },
+  "R12_PA_教典４_完全に理解するまで考えろ": {
+    "src": "R12_PA_Teachings 4_Epiphany",
+    "yax": "R12_PA_Teachings 4_Epiphany",
+    "trx": null
+  },
+  "R12_赤い教典Ａ４": {
+    "src": "R12_Red Teachings A4",
+    "yax": "R12_Red - A4",
+    "trx": null
+  },
+  "R12_赤い教典Ｂ４": {
+    "src": "R12_Red Teachings B4",
+    "yax": "R12_Red - B4",
+    "trx": null
+  },
+  "R12_赤い教典Ｃ４": {
+    "src": "R12_Red Teachings C4",
+    "yax": "R12_Red - C4",
+    "trx": null
+  },
+  "R12_赤い教典Ｄ４": {
+    "src": "R12_Red Teachings D4",
+    "yax": "R12_Red - D4",
+    "trx": null
+  },
+  "R12_赤い教典Ｅ４": {
+    "src": "R12_Red Teachings E4",
+    "yax": "R12_Red - E4",
+    "trx": null
+  },
+  "R12_目玉Ａ４": {
+    "src": "R12_Eyeball A4",
+    "yax": "R12_Eyeball A4",
+    "trx": null
+  },
+  "R12_目玉Ｂ４": {
+    "src": "R12_Eyeball B4",
+    "yax": "R12_Eyeball B4",
+    "trx": null
+  },
+  "R12_目玉Ｃ４": {
+    "src": "R12_Eyeball C4",
+    "yax": "R12_Eyeball C4",
+    "trx": null
+  },
+  "R12_目玉Ｄ４": {
+    "src": "R12_Eyeball D4",
+    "yax": "R12_Eyeball D4",
+    "trx": null
+  },
+  "R12_PA_教典５_調べろ": {
+    "src": "R12_PA_Teachings 5_Inspect",
+    "yax": "R12_PA_Teachings 5_Inspect",
+    "trx": null
+  },
+  "R12_PA_黄金の教典５_開け": {
+    "src": "R12_PA_Golden Teachings 5_Open",
+    "yax": "R12_PA_Golden, 5_открытый",
+    "trx": null
+  },
+  "R12_隠しメダマ１": {
+    "src": "R12_Hidden Eyeballs 1",
+    "yax": "R12_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R12_隠しメダマ２": {
+    "src": "R12_Hidden Eyeballs 2",
+    "yax": "R12_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R12_隠しメダマ３": {
+    "src": "R12_Hidden Eyeballs 3",
+    "yax": "R12_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R12_隠しメダマ４": {
+    "src": "R12_Hidden Eyeballs 4",
+    "yax": "R12_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R12_隠しメダマ５": {
+    "src": "R12_Hidden Eyeballs 5",
+    "yax": "R12_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R24_Ｍ_米治の衣装": {
+    "src": "R24_M_Komeji's Costume",
+    "yax": "Костюм R24_M_Komeji",
+    "trx": null
+  },
+  "R24_PA_Ｍ_模型１_調べろ": {
+    "src": "R24_PA_M_Model 1_Inspect",
+    "yax": "R24_PA_M_Model 1_Inspect",
+    "trx": null
+  },
+  "R24_PA_Ｓ_テープ_これで直せ": {
+    "src": "R24_PA_S_Tape_Fix with",
+    "yax": "R24_PA_S_Tape_Fix с",
+    "trx": null
+  },
+  "R24_PA_Ｓ_はさみ_これで直せ": {
+    "src": "R24_PA_S_Scissors_Fix with",
+    "yax": "R24_PA_S_Scissors_Fix с",
+    "trx": null
+  },
+  "R24_PA_Ｓ_のり_これで直せ": {
+    "src": "R24_PA_S_Glue_Fix with",
+    "yax": "R24_PA_S_Glue_Fix с",
+    "trx": null
+  },
+  "R24_PA_Ｓ_ドライバー_これで直せ": {
+    "src": "R24_PA_S_Screwdriver_Fix with",
+    "yax": "R24_PA_S_Screwdriver_Fix с",
+    "trx": null
+  },
+  "R24_PA_Ｓ_ピコピコハンマー_これで直せ": {
+    "src": "R24_PA_S_Picopico Hammer_Fix with",
+    "yax": "R24_PA_S_Picopico Hammer_Fix с",
+    "trx": null
+  },
+  "R24_Ｍ_テレビ": {
+    "src": "R24_M_Television",
+    "yax": "R24_M_Television",
+    "trx": null
+  },
+  "R24_PA_Ｍ_模型２_調べろ": {
+    "src": "R24_PA_M_Model_Inspect",
+    "yax": "R24_PA_M_Model_Inspect",
+    "trx": null
+  },
+  "R24_Ｓ_スーツケース": {
+    "src": "R24_S_Suitcase",
+    "yax": "R24_S_Suitcase",
+    "trx": null
+  },
+  "R24_Ｓ_米治の似顔絵": {
+    "src": "A drawing of Komeji's face...?",
+    "yax": "Рисунок лица Комедзи...?",
+    "trx": null
+  },
+  "R24_PA_Ｍ_ノート_読め": {
+    "src": "R24_PA_M_Notebook_Read",
+    "yax": "R24_PA_M_Notebook_Read",
+    "trx": null
+  },
+  "R24_Ｍ_算数のノート": {
+    "src": "R24_M_Math_Notebook",
+    "yax": "R24_M_Math_Notebook",
+    "trx": null
+  },
+  "R24_Ｍ_国語のノート": {
+    "src": "R24_M_Linguistics_Notebook",
+    "yax": "R24_M_Linguistics_Notebook",
+    "trx": null
+  },
+  "R24_Ｍ_理科のノート": {
+    "src": "R24_M_Science Notebook",
+    "yax": "Записная книжка R24_M_Science",
+    "trx": null
+  },
+  "R24_Ｍ_社会のノート": {
+    "src": "R24_M_Social Studies Notebook",
+    "yax": "R24_M_Social Studies Тетрадь",
+    "trx": null
+  },
+  "R24_Ｍ_ぼろぼろのノート": {
+    "src": "R24_M_Worn out Notebook",
+    "yax": "R24_m_ ИзноШеНный ноутбук",
+    "trx": null
+  },
+  "R24_Ｍ_タンス": {
+    "src": "R24_M_Dresser",
+    "yax": "R24_M_Dresser",
+    "trx": null
+  },
+  "R24_Ｍ_一輪ロボ": {
+    "src": "R24_M_One-Wheeled Robot",
+    "yax": "R24_m_ Одноколесный робот",
+    "trx": null
+  },
+  "R24_Ｍ_冷蔵庫": {
+    "src": "R24_M_Refrigerator",
+    "yax": "R24_M_Refrigerator",
+    "trx": null
+  },
+  "R24_Ｍ_金色の紙片": {
+    "src": "R24_M_Golden Pieces of Paper",
+    "yax": "R24_M_Golden Кусочки бумаги",
+    "trx": null
+  },
+  "R24_PA_Ｌ_金メダル_拾え": {
+    "src": "R24_PA_L__Gold Medal_Pick Up",
+    "yax": "R24_PA_L__Золотая медаль_подбери",
+    "trx": null
+  },
+  "R24_Ｌ_おもちゃのロボ": {
+    "src": "R24_L_Toy Robot",
+    "yax": "Робот R24_L_Toy",
+    "trx": null
+  },
+  "R24_Ｍ_鍋": {
+    "src": "R24_M_Pot",
+    "yax": "R24_M_Pot",
+    "trx": null
+  },
+  "R24_隠しメダマ１": {
+    "src": "R24_Hidden Eyeballs 1",
+    "yax": "R24_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R24_隠しメダマ２": {
+    "src": "R24_Hidden Eyeballs 2",
+    "yax": "R24_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R24_隠しメダマ３": {
+    "src": "R24_Hidden Eyeballs 3",
+    "yax": "R24_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R24_隠しメダマ４": {
+    "src": "R24_Hidden Eyeballs 4",
+    "yax": "R24_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R24_隠しメダマ５": {
+    "src": "R24_Hidden Eyeballs 5",
+    "yax": "R24_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R11_ロボットアーム制御ＰＣ": {
+    "src": "R11_Robot Arm Control PC",
+    "yax": "R11_Robot Arm Control PC",
+    "trx": null
+  },
+  "R11_PA_ロボットアーム制御ＰＣ_調べろ": {
+    "src": "R11_PA_Robot Arm Control PC_Inspect",
+    "yax": "R11_PA_Robot Arm Control PC_Inspect",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｌ２の石像_起動しろ": {
+    "src": "R11_PA_Small Room L2 Stone Statue_Activate",
+    "yax": "R11_PA_Small Room L2 Каменная статуэтка_активировать",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｌ２Ｌ１通路_進め": {
+    "src": "R11_PA_Small Room L2 Pathway_Proceed",
+    "yax": "R11_PA_Small Room L2 Pathway_Proceed",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｌ１の石像_起動しろ": {
+    "src": "R11_PA_Small Room L1 Stone Statue_Activate",
+    "yax": "R11_PA_Small Room L1 Каменная статуэтка_активировать",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｌ１Ｒ１通路_進め": {
+    "src": "R11_PA_Small Room L1R1 Pathway_Proceed",
+    "yax": "R11_PA_Small Room L1R1 Pathway_Proceed",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｒ１の石像_起動しろ": {
+    "src": "R11_PA_Small Room R1 Stone Statue_Activate",
+    "yax": "R11_PA_Small Room R1 Каменная статуэтка_активировать",
+    "trx": null
+  },
+  "R11_PA_誰かの石像_起動しろ": {
+    "src": "R11_PA_Someone's Stone Statue_Activate",
+    "yax": "R11_pa_someone's Stone Statue_Activate Каменная статуэтка_активировать",
+    "trx": null
+  },
+  "R11_PA_小部屋Ｒ２の石像_起動しろ": {
+    "src": "R11_PA_Small Room R2 Stone Statue_Activate",
+    "yax": "R11_PA_Small Room R2 Каменная статуэтка_активировать",
+    "trx": null
+  },
+  "R11_PA_石像ＮＡ_調べろ": {
+    "src": "R11_PA_Stone Statue A_Inspect",
+    "yax": "R11_PA_Stone Статуя A_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像マサイ族の戦士_調べろ": {
+    "src": "R11_PA_Stone Statue Masai Warrior_Inspect",
+    "yax": "R11_PA_Stone Статуя масайского Воина_инСпекция",
+    "trx": null
+  },
+  "R11_PA_石像レーサー_調べろ": {
+    "src": "R11_PA_Stone Statue Racer_Inspect",
+    "yax": "R11_PA_Stone Статуя Racer_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像漁師_調べろ": {
+    "src": "R11_PA_Stone Statue Fisherman_Inspect",
+    "yax": "R11_PA_Stone Статуя рыбака_инспекция",
+    "trx": null
+  },
+  "R11_PA_石像宇宙飛行士_調べろ": {
+    "src": "R11_PA_Stone Statue Astronaut__Inspect",
+    "yax": "R11_PA_Stone Статуя астронавта__Осмотрите",
+    "trx": null
+  },
+  "R11_PA_石像考古学者_調べろ": {
+    "src": "R11_PA_Stone Statue Archaeologist_Inspect",
+    "yax": "R11_pa_каменная статуя археолог_инспектор",
+    "trx": null
+  },
+  "R11_PA_石像ギャンブラー_調べろ": {
+    "src": "R11_PA_Stone Statue Gambler_Inspect",
+    "yax": "Статуя R11_PA_Stone Gambler_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像法螺鳥_調べろ": {
+    "src": "R11_PA_Stone Statue Chikara_Inspect",
+    "yax": "R11_pa_каменная статуя Chikara_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像Ⅸ_調べろ": {
+    "src": "R11_PA_Stone Statue IX_Inspect",
+    "yax": "R11_PA_Stone Статуя IX_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像デバッガ_調べろ": {
+    "src": "R11_PA_Stone Statue Debugger_Inspect",
+    "yax": "R11_PA_Stone Статуя Debugger_Inspect",
+    "trx": null
+  },
+  "R11_PA_石像祈祷師_調べろ": {
+    "src": "R11_PA_Stone Statue Shaman_Inspect",
+    "yax": "R11_pa_каменная статуя Шаман_инспекция",
+    "trx": null
+  },
+  "R11_PA_Ｌ１への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to L1_Move",
+    "yax": "R11_PA_Mainroom, Дверь в L1_Move",
+    "trx": null
+  },
+  "R11_PA_Ｌ２への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to L2_Move",
+    "yax": "R11_PA_Mainroom, Дверь в L2_Move",
+    "trx": null
+  },
+  "R11_PA_Ｌ３への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to L3_Move",
+    "yax": "R11_PA_Mainroom, Дверь в L3_Move",
+    "trx": null
+  },
+  "R11_PA_Ｒ１への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to R1_Move",
+    "yax": "R11_PA_Mainroom, Дверь в R1_Move",
+    "trx": null
+  },
+  "R11_PA_Ｒ２への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to R2_Move",
+    "yax": "R11_PA_Mainroom, Дверь в R2_Move",
+    "trx": null
+  },
+  "R11_PA_Ｒ３への扉メインルーム_移動しろ": {
+    "src": "R11_PA_Mainroom, Door to R3_Move",
+    "yax": "R11_PA_Mainroom, Дверь в R3_Move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｌ１_移動しろ": {
+    "src": "R11_PA_Small Room L1, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната L1, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｌ２_移動しろ": {
+    "src": "R11_PA_Small Room L2, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната L2, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｌ３_移動しろ": {
+    "src": "R11_PA_Small Room L3, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната L3, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｒ１_移動しろ": {
+    "src": "R11_PA_Small Room R1, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната R1, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｒ２_移動しろ": {
+    "src": "R11_PA_Small Room R2, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната R2, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_メインルームへの扉小部屋Ｒ３_移動しろ": {
+    "src": "R11_PA_Small Room R3, Door to Mainroom_Move",
+    "yax": "R11_PA_Small Комната R3, Дверь в главную комнату_move",
+    "trx": null
+  },
+  "R11_PA_Ｌ３Ｒ３への通路_移動しろ": {
+    "src": "R11_PA_Pathway to L3R3_Move",
+    "yax": "R11_PA_Pathway к L3R3_Move",
+    "trx": null
+  },
+  "R11_PA_モニター_モニターを見ろ": {
+    "src": "R11_PA_Monitor_Look at Monitor",
+    "yax": "R11_PA_Monitor_Look на мониторе",
+    "trx": null
+  },
+  "R11_隠しメダマ１": {
+    "src": "R11_Hidden Eyeballs 1",
+    "yax": "R11_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R11_隠しメダマ２": {
+    "src": "R11_Hidden Eyeballs 2",
+    "yax": "R11_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R11_隠しメダマ３": {
+    "src": "R11_Hidden Eyeballs 3",
+    "yax": "R11_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R11_隠しメダマ４": {
+    "src": "R11_Hidden Eyeballs 4",
+    "yax": "R11_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R11_隠しメダマ５": {
+    "src": "R11_Hidden Eyeballs 5",
+    "yax": "R11_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R15_クセモンポイント_カガミ": {
+    "src": "R15_Kusemon Point_Kagami",
+    "yax": "R15_Kusemon Point_Kagami",
+    "trx": null
+  },
+  "R15_クセモンポイント_ママ": {
+    "src": "R15_Kusemon Point_Mama",
+    "yax": "R15_Kusemon Point_Mama",
+    "trx": null
+  },
+  "R15_クセモンポイント_ピュータ": {
+    "src": "R15_Kusemon Point_Pewta",
+    "yax": "R15_Kusemon Point_Pewta",
+    "trx": null
+  },
+  "R15_クセモンポイント_応太": {
+    "src": "R15_Kusemon Point_Ota",
+    "yax": "R15_Kusemon Point_Ota",
+    "trx": null
+  },
+  "R15_クセモンポイント_猛馬": {
+    "src": "R15_Kusemon Point_Moma",
+    "yax": "R15_Kusemon Point_Moma",
+    "trx": null
+  },
+  "R15_クセモンポイント_ボス": {
+    "src": "R15_Kusemon Point_Boss",
+    "yax": "R15_Kusemon Point_Boss",
+    "trx": null
+  },
+  "R15_クセモンポイント_伊達": {
+    "src": "R15_Kusemon Point_Date",
+    "yax": "r15_kusemon_пункт_дата",
+    "trx": null
+  },
+  "R15_クセモンポイント_アイボゥ": {
+    "src": "R15_Kusemon Point_Aiba",
+    "yax": "R15_Kusemon Point_Aiba",
+    "trx": null
+  },
+  "R15_クセモンポイント_みずき": {
+    "src": "R15_Kusemon Point_Mizuki",
+    "yax": "R15_Kusemon Point_Mizuki",
+    "trx": null
+  },
+  "R15_クセモンポイント_Ｆ": {
+    "src": "R15_Kusemon Point_F",
+    "yax": "R15_Kusemon Point_F",
+    "trx": null
+  },
+  "R15_PA_トピアリー_卵_白黒のクマ_拾え": {
+    "src": "R15_PA_Topiary_Egg_Black and White Bear)_Pick Up",
+    "yax": "r15_pa_topiary_egg_ Черный и Белый Медведь)_ Подбери",
+    "trx": null
+  },
+  "R15_PA_トピアリー_卵_風来人_拾え": {
+    "src": "R15_PA_Topiary_Egg_Wanderer_Pick Up",
+    "yax": "R15_PA_Topiary_Egg_Wanderer_Pick Up",
+    "trx": null
+  },
+  "R15_PA_１つめのふすま": {
+    "src": "R15_PA_1st Sliding Door",
+    "yax": "R15_PA_1st Раздвижная дверь",
+    "trx": null
+  },
+  "R15_PA_２つめのふすま": {
+    "src": "R15_PA_2nd Sliding Door",
+    "yax": "R15_PA_2nd Раздвижная дверь",
+    "trx": null
+  },
+  "R15_PA_３つめのふすま": {
+    "src": "R15_PA_3rd Sliding Door",
+    "yax": "R15_PA_3rd Раздвижная дверь",
+    "trx": null
+  },
+  "R15_PA_４つめのふすま": {
+    "src": "R15_PA_4th Sliding Door",
+    "yax": "r15_pa_4-я Раздвижная дверь",
+    "trx": null
+  },
+  "R15_第１の刺客": {
+    "src": "R15_1st Assassin",
+    "yax": "R15_1st Убийца",
+    "trx": null
+  },
+  "R15_屋敷リーダー": {
+    "src": "R15_Mansion Leader",
+    "yax": "R15_Mansion Лидер",
+    "trx": null
+  },
+  "R15_真の屋敷リーダー": {
+    "src": "R15_True Mansion Leader",
+    "yax": "R15_True Особняк Лидера",
+    "trx": null
+  },
+  "R15_PA_西のバリケード": {
+    "src": "R15_PA_West Barricade",
+    "yax": "R15_PA_West Баррикада",
+    "trx": null
+  },
+  "R15_PA_東のバリケード": {
+    "src": "R15_PA_East Barricade",
+    "yax": "R15_PA_East Баррикада",
+    "trx": null
+  },
+  "R15_PA_西のふすま": {
+    "src": "R15_PA_West Sliding Door",
+    "yax": "Раздвижная дверь R15_PA_West",
+    "trx": null
+  },
+  "R15_PA_北のふすま": {
+    "src": "R15_PA_North Sliding Door",
+    "yax": "R15_PA_North Раздвижная дверь",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー０": {
+    "src": "R15_PA_Wrong Topiary 0",
+    "yax": "R15_PA_Wrong Топиарий 0",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー１": {
+    "src": "R15_PA_Wrong Topiary 1",
+    "yax": "R15_PA_Wrong Топиарий 1",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー２": {
+    "src": "R15_PA_Wrong Topiary 2",
+    "yax": "R15_PA_Wrong Топиарий 2",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー３": {
+    "src": "R15_PA_Wrong Topiary 3",
+    "yax": "R15_PA_Wrong Топиарий 3",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー４": {
+    "src": "R15_PA_Wrong Topiary 4",
+    "yax": "R15_PA_Wrong Топиарий 4",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー５": {
+    "src": "R15_PA_Wrong Topiary 5",
+    "yax": "R15_PA_Wrong Топиарий 5",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー６": {
+    "src": "R15_PA_Wrong Topiary 6",
+    "yax": "R15_PA_Wrong Топиарий 6",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー７": {
+    "src": "R15_PA_Wrong Topiary 7",
+    "yax": "R15_PA_Wrong Топиарий 7",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー８": {
+    "src": "R15_PA_Wrong Topiary 8",
+    "yax": "R15_PA_Wrong Топиарий 8",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー９": {
+    "src": "R15_PA_Wrong Topiary 9",
+    "yax": "R15_PA_Wrong Топиарий 9",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー１０": {
+    "src": "R15_PA_Wrong Topiary 10",
+    "yax": "R15_PA_Wrong Топиарий 10",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー１１": {
+    "src": "R15_PA_Wrong Topiary 11",
+    "yax": "R15_PA_Wrong Топиарий 11",
+    "trx": null
+  },
+  "R15_PA_はずれのトピアリー１２": {
+    "src": "R15_PA_Wrong Topiary 12",
+    "yax": "R15_PA_Wrong Топиарий 12",
+    "trx": null
+  },
+  "R15_PA_開かないふすま１": {
+    "src": "R15_PA_Sliding door that won't open 1",
+    "yax": "R15_pa_ Раздвижная дверь, которая не открывается 1",
+    "trx": null
+  },
+  "R15_PA_開かないふすま２": {
+    "src": "R15_PA_Sliding door that won't open 2",
+    "yax": "R15_pa_ Раздвижная дверь, которая не открывается 2",
+    "trx": null
+  },
+  "R15_隠しメダマ１": {
+    "src": "R11_Hidden Eyeballs 1",
+    "yax": "R11_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R15_隠しメダマ２": {
+    "src": "R11_Hidden Eyeballs 2",
+    "yax": "R11_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R15_隠しメダマ３": {
+    "src": "R11_Hidden Eyeballs 3",
+    "yax": "R11_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R15_隠しメダマ４": {
+    "src": "R11_Hidden Eyeballs 4",
+    "yax": "R11_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R15_隠しメダマ５": {
+    "src": "R11_Hidden Eyeballs 5",
+    "yax": "R11_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "R13_小ステージ": {
+    "src": "R13_Small Stage",
+    "yax": "R13_Малая ступень",
+    "trx": null
+  },
+  "R13_自販機コーナー前ベンチ": {
+    "src": "R13_Bench in front of Vending machine corner",
+    "yax": "R13_Bench в углу перед торговым автоматом",
+    "trx": null
+  },
+  "R13_風船売り場": {
+    "src": "R13_Balloons Shops",
+    "yax": "Магазины R13_Balloons",
+    "trx": null
+  },
+  "R13_射撃ゲーム": {
+    "src": "R13_Shooting Game",
+    "yax": "R13_Shooting Игра",
+    "trx": null
+  },
+  "R13_回転する飛行機": {
+    "src": "R13_Spinning Airplane",
+    "yax": "R13_штопорный самолет",
+    "trx": null
+  },
+  "R13_スーツケース": {
+    "src": "R13_Suitcase",
+    "yax": "R13_Suitcase",
+    "trx": null
+  },
+  "R13_ミニミニ列車": {
+    "src": "R13_Mini Train",
+    "yax": "Поезд R13_Mini",
+    "trx": null
+  },
+  "R13_スカイサイクル": {
+    "src": "R13_Sky Cycle",
+    "yax": "Цикл R13_Sky",
+    "trx": null
+  },
+  "R13_観覧車": {
+    "src": "R13_Ferris Wheel",
+    "yax": "Колесо обозрения R13_Ferris",
+    "trx": null
+  },
+  "R13_PA_小ステージ_調べろ": {
+    "src": "R13_PA_Small Stage_Inspect",
+    "yax": "R13_PA_Small Stage_Inspect",
+    "trx": null
+  },
+  "R13_PA_自販機コーナー前ベンチ_調べろ": {
+    "src": "R13_PA_Bench in front of Vending machine corner",
+    "yax": "R13_PA_Bench в углу перед торговым автоматом",
+    "trx": null
+  },
+  "R13_PA_風船売り場_調べろ": {
+    "src": "R13_PA_Balloons Shop_Inspect",
+    "yax": "R13_PA_Balloons Shop_Inspect",
+    "trx": null
+  },
+  "R13_PA_ゲート前_声をかけて": {
+    "src": "R13_PA_Front of Gate_Talk",
+    "yax": "R13_PA_Front из Gate_Talk",
+    "trx": null
+  },
+  "R13_PA_ゲート前_調べろ": {
+    "src": "R13_PA_Front of Gate_Inspect",
+    "yax": "R13_PA_Front of Gate_Inspect",
+    "trx": null
+  },
+  "R13_PA_射撃ゲーム_調べろ": {
+    "src": "R13_PA_Shooting Game_Inspect",
+    "yax": "R13_PA_Shooting Game_Inspect",
+    "trx": null
+  },
+  "R13_PA_回転する飛行機_調べろ": {
+    "src": "R13_PA_Spinning Airplane_Inspect",
+    "yax": "R13_PA_Spinning Airplane_Inspect",
+    "trx": null
+  },
+  "R13_PA_ミニミニ列車_調べろ": {
+    "src": "R13_PA_Mini Train_Inspect",
+    "yax": "R13_PA_Mini Train_Inspect",
+    "trx": null
+  },
+  "R13_PA_スカイサイクル_調べろ": {
+    "src": "R13_PA_Sky Cycle_Inspect",
+    "yax": "R13_PA_Sky Cycle_Inspect",
+    "trx": null
+  },
+  "R13_PA_観覧車_調べろ": {
+    "src": "R13_PA_Ferris Wheel_Inspect",
+    "yax": "R13_PA_Ferris Wheel_Inspect",
+    "trx": null
+  },
+  "R13_隠しメダマ１": {
+    "src": "R13_Hidden Eyeballs 1",
+    "yax": "R13_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "R13_隠しメダマ２": {
+    "src": "R13_Hidden Eyeballs 2",
+    "yax": "R13_Крытые глазные яблоки 2",
+    "trx": null
+  },
+  "R13_隠しメダマ３": {
+    "src": "R13_Hidden Eyeballs 3",
+    "yax": "R13_Крытые глазные яблоки 3",
+    "trx": null
+  },
+  "R13_隠しメダマ４": {
+    "src": "R13_Hidden Eyeballs 4",
+    "yax": "R13_Крытые глазные яблоки 4",
+    "trx": null
+  },
+  "R13_隠しメダマ５": {
+    "src": "R13_Hidden Eyeballs 5",
+    "yax": "R13_Крытые глазные яблоки 5",
+    "trx": null
+  },
+  "M12_PA_厳の料理ノート_読め": {
+    "src": "M12_PA_Gen's Cooking Note_Read",
+    "yax": "Кулинарная заметка M12_PA_Gen для чтения",
+    "trx": null
+  },
+  "M12_PA_厳の料理ノート": {
+    "src": "M12_PA_Gen's Cooking Note",
+    "yax": "Кулинарная заметка M12_PA_Gen",
+    "trx": null
+  },
+  "M12_出入口": {
+    "src": "M12_Door",
+    "yax": "M12_Door",
+    "trx": null
+  },
+  "M12_テーブル席": {
+    "src": "M2_Table Seat",
+    "yax": "M2_Table Сиденье",
+    "trx": null
+  },
+  "M12_冷凍庫": {
+    "src": "M12_Freezer",
+    "yax": "M12_Freezer",
+    "trx": null
+  },
+  "M12_ガネーシャの絵": {
+    "src": "M12_Ganesha's Art",
+    "yax": "Искусство m12_ganesha's Art",
+    "trx": null
+  },
+  "M12_隠しメダマ１": {
+    "src": "M12_Hidden Eyeballs 1",
+    "yax": "M12_Крытые глазные яблоки 1",
+    "trx": null
+  },
+  "M12_厳の料理サラダ": {
+    "src": "M12_Gen's Cooking Salad",
+    "yax": "Кулинарный салат m12_gen's",
+    "trx": null
+  },
+  "M12_厳の料理メインディッシュ": {
+    "src": "M12_Gen's Cooking Main Dish",
+    "yax": "Основное блюдо m12_gen's Cooking",
+    "trx": null
+  },
+  "M12_厳の料理デザート": {
+    "src": "M12_Gen's Cooking Desert",
+    "yax": "Кулинарный десерт m12_gen's Cooking Desert",
+    "trx": null
+  },
+  "M12_亜麻芽": {
+    "src": "M15_Amame",
+    "yax": "M15_Amame",
+    "trx": null
+  },
+  "M12_厳": {
+    "src": "M12_Gen",
+    "yax": "M12_Gen",
+    "trx": null
+  },
+  "M12_隠しメダマ２": {
+    "src": "M12_Hidden Eyeballs 2",
+    "yax": "M12_Крытые глазные яблоки 2",
+    "trx": null
+  }
+}

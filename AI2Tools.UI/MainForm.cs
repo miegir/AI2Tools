@@ -1,0 +1,232 @@
+﻿using System.Reflection;
+using Microsoft.Extensions.Logging;
+
+namespace AI2Tools;
+
+public partial class MainForm : Form
+{
+    private record ManifestResource(Assembly Assembly, string Name)
+    {
+        public override string ToString() => Name;
+
+        public Stream OpenRead() => Assembly.GetManifestResourceStream(Name)
+            ?? throw new InvalidOperationException($"Stream not found: '{Name}'.");
+    }
+
+    private record ActionContext(
+        ManifestResource Resource,
+        GamePipeline Pipeline,
+        CancellationToken CancellationToken = default);
+
+    private static readonly Properties.Settings Settings = Properties.Settings.Default;
+
+    private readonly ILogger logger;
+    private Game? game;
+
+    public MainForm()
+    {
+        InitializeComponent();
+
+        logger = new ListBoxLogger(LogBox);
+    }
+
+    private void MainForm_Load(object sender, EventArgs e)
+    {
+        PopulateResources();
+
+        var gamePath = Settings.GamePath;
+        if (!string.IsNullOrEmpty(gamePath))
+        {
+            OpenGame(gamePath);
+        }
+    }
+
+    private void GamePathBrowseButton_Click(object sender, EventArgs e)
+    {
+        if (GamePathBrowseDialog.ShowDialog() == DialogResult.OK)
+        {
+            OpenGame(GamePathBrowseDialog.FileName);
+        }
+    }
+
+    private void PopulateResources()
+    {
+        ResourceNameBox.Items.Clear();
+
+        var assembly = GetType().Assembly;
+
+        foreach (var name in assembly.GetManifestResourceNames())
+        {
+            if (!name.EndsWith(".zip", StringComparison.OrdinalIgnoreCase))
+            {
+                continue;
+            }
+
+            var index = ResourceNameBox.Items.Add(new ManifestResource(assembly, name));
+
+            if (Settings.ResourceName == name)
+            {
+                ResourceNameBox.SelectedIndex = index;
+            }
+        }
+
+        if (ResourceNameBox.Items.Count > 0 && ResourceNameBox.SelectedIndex < 0)
+        {
+            ResourceNameBox.SelectedIndex = 0;
+        }
+
+        UpdateActions();
+    }
+
+    private void OpenGame(string gamePath)
+    {
+        GamePathBox.Text = gamePath;
+        TextLanguageBox.Items.Clear();
+
+        game = new Game(logger, gamePath);
+
+        foreach (var language in game.EnumerateTextLanguages())
+        {
+            var index = TextLanguageBox.Items.Add(language);
+
+            if (string.Equals(language, Settings.TextLanguage, StringComparison.OrdinalIgnoreCase))
+            {
+                TextLanguageBox.SelectedIndex = index;
+            }
+            else if (TextLanguageBox.SelectedIndex < 0
+                && string.Equals(language, "en", StringComparison.OrdinalIgnoreCase))
+            {
+                TextLanguageBox.SelectedIndex = index;
+            }
+        }
+
+        if (TextLanguageBox.Items.Count > 0 && TextLanguageBox.SelectedIndex < 0)
+        {
+            TextLanguageBox.SelectedIndex = 0;
+        }
+
+        if (UpdateActions())
+        {
+            RollButton.Focus();
+        }
+
+        Settings.GamePath = gamePath;
+        Settings.Save();
+    }
+
+    private bool UpdateActions()
+    {
+        var canPatch = ResourceNameBox.SelectedIndex >= 0
+            && TextLanguageBox.SelectedIndex >= 0;
+
+        TextLanguageBox.Enabled = canPatch;
+        TextLanguageLabel.Enabled = canPatch;
+        RollButton.Enabled = canPatch;
+        UnrollButton.Enabled = canPatch;
+        CancellationButton.Enabled = false;
+
+        return canPatch;
+    }
+
+    private void TextLanguageBox_SelectionChangeCommitted(object sender, EventArgs e)
+    {
+        var textLanguage = TextLanguageBox.Text;
+        if (!string.IsNullOrEmpty(textLanguage))
+        {
+            Settings.TextLanguage = textLanguage;
+            Settings.Save();
+        }
+    }
+
+    private void ResourceNameBox_SelectionChangeCommitted(object sender, EventArgs e)
+    {
+        var resourceName = ResourceNameBox.Text;
+        if (!string.IsNullOrEmpty(resourceName))
+        {
+            Settings.ResourceName = resourceName;
+            Settings.Save();
+        }
+    }
+
+    private void PerformAction(Action<ActionContext> action, bool canCancel = false)
+    {
+        if (game == null)
+        {
+            return;
+        }
+
+        if (ResourceNameBox.SelectedItem is not ManifestResource selectedResource)
+        {
+            return;
+        }
+
+        var cts = new CancellationTokenSource();
+
+        var context = new ActionContext(
+            Pipeline: game.CreatePipeline(TextLanguageBox.Text),
+            Resource: selectedResource,
+            CancellationToken: cts.Token);
+
+        Enable(false);
+        LogBox.Items.Clear();
+        CancellationButton.Click += CancelHandler;
+
+        Task.Factory.StartNew(() =>
+        {
+            try
+            {
+                action(context);
+
+                logger.LogInformation("Done.");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.GetBaseException().ToString());
+            }
+        }, cts.Token).ContinueWith(_ =>
+        {
+            BeginInvoke(() =>
+            {
+                CancellationButton.Click -= CancelHandler;
+                Enable(true);
+            });
+            cts.Dispose();
+        });
+
+        void Enable(bool enable)
+        {
+            ResourceNameLabel.Enabled = enable;
+            ResourceNameBox.Enabled = enable;
+            GamePathLabel.Enabled = enable;
+            GamePathBox.Enabled = enable;
+            GamePathBrowseButton.Enabled = enable;
+            TextLanguageLabel.Enabled = enable;
+            TextLanguageBox.Enabled = enable;
+            RollButton.Enabled = enable;
+            UnrollButton.Enabled = enable;
+            CancellationButton.Enabled = !enable && canCancel;
+        }
+
+        void CancelHandler(object? sender, EventArgs e)
+        {
+            cts.Cancel();
+        }
+    }
+
+    private void RollButton_Click(object sender, EventArgs e)
+    {
+        PerformAction(context =>
+        {
+            using var stream = context.Resource.OpenRead();
+            using var container = new ObjectContainer(stream);
+            context.Pipeline.Unpack(
+                new UnpackArguments(
+                    Container: container));
+        });
+    }
+
+    private void UnrollButton_Click(object sender, EventArgs e)
+    {
+        PerformAction(context => context.Pipeline.Unroll());
+    }
+}

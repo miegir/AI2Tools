@@ -1,0 +1,147 @@
+{
+  "saveload_message_001": {
+    "src": "Previous Save Data",
+    "yax": "Предыдущие Сохраненные Данные",
+    "trx": "Последнее сохранение"
+  },
+  "saveload_kakugo_l_001": {
+    "src": "Choose Save Data to Load",
+    "yax": "Выберите Сохранить данные для загрузки",
+    "trx": "Выберите сохранение для загрузки"
+  },
+  "saveload_kakugo_l_002": {
+    "src": "Save Date",
+    "yax": "Сохранить Дату",
+    "trx": "Дата сохранения"
+  },
+  "saveload_kakugo_l_003": {
+    "src": "Play Time",
+    "yax": "Время игры",
+    "trx": "Время игры"
+  },
+  "saveload_kakugo_l_004": {
+    "src": "There is no Manual Save Data",
+    "yax": "Ручное сохранение данных отсутствует",
+    "trx": "Ручное сохранение отсутствует"
+  },
+  "saveload_kakugo_l_005": {
+    "src": "There is no Auto Save Data",
+    "yax": "Автоматическое сохранение данных отсутствует",
+    "trx": "Автосохранение отсутствует"
+  },
+  "saveload_common_001": {
+    "src": "Save the current game?",
+    "yax": "Сохранить текущую игру?",
+    "trx": "Сохранить текущую игру?"
+  },
+  "saveload_common_002": {
+    "src": "Data is being saved\nDo not turn off the game",
+    "yax": "Данные сохраняются\r\nНе выключайте игру",
+    "trx": "Выполняется сохранение\nНе завершайте игру"
+  },
+  "saveload_common_003": {
+    "src": "Data is being saved\nDo not turn off the game",
+    "yax": "Данные сохраняются\r\nНе выключайте игру",
+    "trx": "Выполняется сохранение\nНе завершайте игру"
+  },
+  "saveload_common_004": {
+    "src": "Data is saved",
+    "yax": "Данные сохраняются",
+    "trx": "Сохранение завершено"
+  },
+  "saveload_common_005": {
+    "src": "Not enough storage\nData was not saved ",
+    "yax": "Недостаточно места для хранения\r\nДанные не были сохранены ",
+    "trx": "Недостаточно места\nСохранение не выполнено "
+  },
+  "saveload_common_006": {
+    "src": "Data was not saved",
+    "yax": "Данные не были сохранены",
+    "trx": "Сохранение не выполнено"
+  },
+  "saveload_common_007": {
+    "src": "Data is not saved\nClose Save Menu?",
+    "yax": "Данные не сохраняются\r\nЗакрыть меню Сохранения?",
+    "trx": "Сохранение не выполнено\nЗакрыть меню сохранения?"
+  },
+  "saveload_common_008": {
+    "src": "Not enough storage\nCould not Auto Save\nRetry?",
+    "yax": "Недостаточно места для хранения\r\nНе удалось выполнить автоматическое сохранение\r\nПовторить попытку?",
+    "trx": "Недостаточно места\nНе удается выполнить автосохранение\nПопробовать снова?"
+  },
+  "saveload_common_009": {
+    "src": "Load this save data?",
+    "yax": "Загрузить эти сохраненные данные?",
+    "trx": "Загрузить это сохранение?"
+  },
+  "saveload_common_010": {
+    "src": "Loading\nDo not turn off the game",
+    "yax": "Погрузка\r\nНе выключайте игру",
+    "trx": "Идет загрузка\nНе завершайте игру"
+  },
+  "saveload_common_011": {
+    "src": "Loading\nDo not turn off the game",
+    "yax": "Погрузка\r\nНе выключайте игру",
+    "trx": "Идет загрузка\nНе завершайте игру"
+  },
+  "saveload_common_012": {
+    "src": "Data loaded",
+    "yax": "Загруженные данные",
+    "trx": "Загрузка завершена"
+  },
+  "saveload_common_013": {
+    "src": "Could not find Save Data\nCould not load data",
+    "yax": "Не удалось найти Сохраненные данные\r\nНе удалось загрузить данные",
+    "trx": "Не удается найти сохранение\nЗагрузка невозможна"
+  },
+  "saveload_common_014": {
+    "src": "File is corrupted\nCould not load data",
+    "yax": "Файл поврежден\r\nНе удалось загрузить данные",
+    "trx": "Файл поврежден\nЗагрузка невозможна"
+  },
+  "saveload_common_015": {
+    "src": "Could not load data",
+    "yax": "Не удалось загрузить данные",
+    "trx": "Загрузка невозможна"
+  },
+  "saveload_common_016": {
+    "src": "Data is not loaded\nClose Load Menu?",
+    "yax": "Данные не загружаются\r\nЗакрыть меню загрузки?",
+    "trx": "Данные не загружены\nЗакрыть меню загрузки?"
+  },
+  "saveload_common_500": {
+    "src": "Controller was disconnected.\nReconnect the controller and press the A button.",
+    "yax": "Контроллер был отключен.\r\nСнова подключите контроллер и нажмите кнопку A.",
+    "trx": "Контроллер был отключен.\nПодключите контроллер и нажмите кнопку A."
+  },
+  "saveload_common_501": {
+    "src": "Sign-in has been changed.",
+    "yax": "Вход в систему был изменен.",
+    "trx": "Учетная запись изменена."
+  },
+  "saveload_common_502": {
+    "src": "Cannot make consecutive saves.\nPlease wait ~10 seconds and try again.",
+    "yax": "Не удается сделать последовательные сохранения.\r\nПожалуйста, подождите ~ 10 секунд и повторите попытку.",
+    "trx": "Слишком частое сохранение.\nПодождите ~10 секунд и попробуйте снова."
+  },
+  "saveload_common_503": {
+    "src": "Couldn't sign in.\nExiting the game...",
+    "yax": "Не удалось войти в систему.\r\nВыход из игры...",
+    "trx": "Не удается выполнить вход.\nЗавершение игры..."
+  },
+  "saveload_common_504": {
+    "src": "Profile has been changed.",
+    "yax": "Профиль был изменен.",
+    "trx": "Профиль был изменен."
+  },
+  "saveload_common_505": {
+    "src": "Cannot proceed due to the change in profile.\nExiting the game...",
+    "yax": "Не удается продолжить из-за изменения профиля.\r\nВыход из игры...",
+    "trx": "Не удается продолжить из-за изменения профиля.\nЗавершение игры..."
+  },
+  "saveload_common_506": {
+    "src": "※Warning※\nPre-existing auto save data will be overwritten and a new game will be started.\nProceed?",
+    "yax": "※Предупреждение※\r\nРанее существовавшие данные автосохранения будут перезаписаны, и будет запущена новая игра.\r\nПродолжить?",
+    "trx": "※Предупреждение※\nСуществующее автосохранение будет перезаписано и начнется новая игра.\nПродолжить?"
+  }
+}

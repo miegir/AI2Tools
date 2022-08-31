@@ -1,0 +1,122 @@
+{
+  "location_500": {
+    "src": "Naix Japan Branch",
+    "yax": "Филиал Naix в Японии",
+    "trx": "Японское отделение Naix"
+  },
+  "location_501": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "location_502": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "location_503": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "location_504": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "Марбл"
+  },
+  "location_505": {
+    "src": "Talent Agency Lemniscate",
+    "yax": "Агентство талантов Lemniscate",
+    "trx": "Агентство талантов Лемнискейт"
+  },
+  "location_506": {
+    "src": "Aioen Garden",
+    "yax": "Сад Айоен",
+    "trx": "Сад Айоен"
+  },
+  "location_507": {
+    "src": "Date Residence",
+    "yax": "Дата Проживания",
+    "trx": "Резиденция Датэ"
+  },
+  "location_508": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "location_509": {
+    "src": "Golden Yokocho",
+    "yax": "Золотой Йокочо",
+    "trx": "Голден Йокотё"
+  },
+  "location_510": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "location_511": {
+    "src": "ABIS HQ",
+    "yax": "ШТАБ-КВАРТИРА АБИС",
+    "trx": "Штаб-квартира ABIS"
+  },
+  "location_512": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "location_513": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "location_514": {
+    "src": "Department Store Misetan",
+    "yax": "Универмаг Misetan",
+    "trx": "Универмаг Мисетан"
+  },
+  "location_515": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "location_516": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "location_517": {
+    "src": "Sejima Mansion",
+    "yax": "Особняк Сэдзима",
+    "trx": "Поместье Седзимы"
+  },
+  "location_518": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "location_519": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "location_520": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "location_521": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "location_522": {
+    "src": "Abandoned Factory",
+    "yax": "Заброшенный завод",
+    "trx": "Заброшенная фабрика"
+  },
+  "location_523": {
+    "src": "Horadori Institute of Genetics",
+    "yax": "Институт генетики Горадори",
+    "trx": "Институт генетики Хорадори"
+  }
+}

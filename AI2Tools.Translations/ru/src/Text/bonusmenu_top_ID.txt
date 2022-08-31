@@ -1,0 +1,132 @@
+{
+  "bonusmenu_top_message_001": {
+    "src": "Outfit",
+    "yax": "Снаряжение",
+    "trx": "Одежда"
+  },
+  "bonusmenu_top_message_002": {
+    "src": "Dream Album",
+    "yax": "Альбом мечты",
+    "trx": "Альбом сновидений"
+  },
+  "bonusmenu_top_message_003": {
+    "src": "Swap Performance",
+    "yax": "Производительность подкачки",
+    "trx": null
+  },
+  "bonusmenu_top_message_004": {
+    "src": "Kizuna's Song",
+    "yax": "Песня Кидзуны",
+    "trx": "Песня Кизуны"
+  },
+  "bonusmenu_top_message_005": {
+    "src": "Amame's Song",
+    "yax": "Песня Амаме",
+    "trx": "Песня Амаме"
+  },
+  "bonusmenu_top_message_006": {
+    "src": "3rd Class Cabin",
+    "yax": "Каюта 3-го класса",
+    "trx": "Каюта 3-го класса"
+  },
+  "bonusmenu_top_message_007": {
+    "src": "???",
+    "yax": "???",
+    "trx": null
+  },
+  "bonusmenu_top_message_008": {
+    "src": "Eyeballs:",
+    "yax": "Глазные яблоки:",
+    "trx": "Получено глаз:"
+  },
+  "bonusmenu_top_common_001": {
+    "src": "Not enough eyeballs.",
+    "yax": "Не хватает глазных яблок.",
+    "trx": "Не хватает глаз."
+  },
+  "bonusmenu_top_common_002": {
+    "src": "This content is locked. \nYou will be able to unlock it as the story progresses.",
+    "yax": "Это содержимое заблокировано. \r\nВы сможете разблокировать его по мере развития сюжета.",
+    "trx": "Это содержимое заблокировано. \nВы сможете разблокировать его по мере развития сюжета."
+  },
+  "bonusmenu_top_common_003": {
+    "src": "This item has already been obtained. \nThe costume can be used via \"Aiba's Room\" and \"Tama's Room.\"",
+    "yax": "Этот предмет уже получен. \r\nКостюм можно использовать через \"Комнату Айбы\" и \"Комнату Тамы\".",
+    "trx": "Этот предмет уже получен. \nКостюм можно использовать через \"Комнату Айбы\" и \"Комнату Тамы\"."
+  },
+  "bonusmenu_top_common_004": {
+    "src": "Unable to obtain while Locked. \nObtaining an evaluation will unlock this feature.",
+    "yax": "Невозможно получить доступ, пока он заблокирован. \r\nПолучение оценки разблокирует эту функцию.",
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nДостижение результата разблокирует этот элемент."
+  },
+  "bonusmenu_top_common_005": {
+    "src": "Unable to obtain while Locked. \nClearing a Somnium with more than 1 second left will unlock this feature.",
+    "yax": "Невозможно получить доступ, пока он заблокирован. \r\nОчистка Сомниума с запасом более 1 секунды разблокирует эту функцию.",
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \r\nЗавершение сомниума с запасом более 1 секунды разблокирует этот элемент."
+  },
+  "bonusmenu_top_common_500": {
+    "src": "Eyeball Cost",
+    "yax": "Стоимость глазного яблока",
+    "trx": "Стоимость в глазах"
+  },
+  "bonusmenu_top_common_501": {
+    "src": "Purchase?",
+    "yax": "Покупка?",
+    "trx": "Приобрести?"
+  },
+  "bonusmenu_top_common_505": {
+    "src": "Unable to obtain while Locked. \nFind 5 hidden eyeballs within the Somnium stage to unlock.",
+    "yax": "Невозможно получить доступ, пока он заблокирован. \r\nНайдите 5 скрытых глазных яблок на стадии Сомниума, чтобы разблокировать их.",
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nНайдите 5 скрытых глазных яблок внутри сомниума, чтобы разблокировать его."
+  },
+  "bonusmenu_top_common_506": {
+    "src": "Unable to obtain while Locked. \nUnlock all dream albums to unlock.",
+    "yax": "Невозможно получить доступ, пока он заблокирован. \r\nРазблокируйте все альбомы мечты, чтобы разблокировать их.",
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nРазблокируйте все альбомы сновидений, чтобы разблокировать этот элемент."
+  },
+  "bonusmenu_top_common_502": {
+    "src": "Kizuna's Song",
+    "yax": "Песня Кидзуны",
+    "trx": "Песня Кизуны"
+  },
+  "bonusmenu_top_common_503": {
+    "src": "Amame's Song",
+    "yax": "Песня Амаме",
+    "trx": "Песня Амаме"
+  },
+  "bonusmenu_top_common_504": {
+    "src": "3rd Class Cabin",
+    "yax": "Каюта 3-го класса",
+    "trx": "Каюта 3-го класса"
+  },
+  "bonus_menu_aiba_001": {
+    "src": "Yay!",
+    "yax": "Ура!",
+    "trx": "Ура!"
+  },
+  "bonus_menu_aiba_002": {
+    "src": "Show me too!",
+    "yax": "Покажи мне тоже!",
+    "trx": "И мне покажи!"
+  },
+  "bonus_menu_aiba_003": {
+    "src": "Good choice!",
+    "yax": "Хороший выбор!",
+    "trx": "Хороший выбор!"
+  },
+  "bonus_menu_aiba_004": {
+    "src": "Hm hm, hm hmmm♪",
+    "yax": "Хм, хм, хм, хммм♪",
+    "trx": "Хм, хм, хм, хммм♪" //spell-ignore-line
+  },
+  "bonus_menu_aiba_005": {
+    "src": "Hurry and check it out! Come on!",
+    "yax": "Поторопитесь и проверьте это! Давай же!",
+    "trx": "Проверь поскорее! Ну же!"
+  },
+  "bonus_menu_aiba_006": {
+    "src": "Woo, woo!",
+    "yax": "Ву, ву!",
+    "trx": "☯️Ву, ву!" //spell-ignore-line
+  }
+}

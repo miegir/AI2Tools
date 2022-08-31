@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 1525773207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c020d319199a6584c1371293aca05010
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57e6d5d99f48d96514b0861aa8c1fa5c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Fonts/Build/map#en-font.asset
+- Assets/Fonts/Build/information#en-font.asset
+- Assets/Fonts/Build/m11_joy#en-font.asset
+- Assets/Fonts/Build/timie_infomation#en-font.asset
+- Assets/Fonts/Build/term#en-font.asset
+- Assets/Fonts/Build/ui_title#en-font.asset
+- Assets/Fonts/Build/purpose_difficulty#en-font.asset
+- Assets/Fonts/Build/operationguide#en-font.asset
+- Assets/Fonts/Build/list#en-font.asset
+- Assets/Fonts/Build/somnium_guide#en-font.asset
+- Assets/Fonts/Build/psynctarget#en-font.asset
+- Assets/Fonts/Build/announcement#en-font.asset
+- Assets/Fonts/Build/file_common#en-font.asset
+- Assets/Fonts/Build/lock#en-font.asset
+- Assets/Fonts/Build/telop_end#en-font.asset
+- Assets/Fonts/Build/language#en-font.asset
+- Assets/Fonts/Build/command#en-font.asset
+- Assets/Fonts/Build/GranthamLane#en-font.asset
+- Assets/Fonts/Build/options#en-font.asset
+- Assets/Fonts/Build/marker#en-font.asset
+- Assets/Fonts/Build/kakugo_l#en-font.asset
+- Assets/Fonts/Build/tutorial_title#en-font.asset
+- Assets/Fonts/Build/keyrule#en-font.asset
+- Assets/Fonts/Build/choice#en-font.asset
+- Assets/Fonts/Build/purpose#en-font.asset
+- Assets/Fonts/Build/location#en-font.asset
+- Assets/Fonts/Build/header#en-font.asset
+- Assets/Fonts/Build/display#en-font.asset
+- Assets/Fonts/Build/somnium_target#en-font.asset
+- Assets/Fonts/Build/map_command#en-font.asset
+- Assets/Fonts/Build/aisight#en-font.asset
+- Assets/Fonts/Build/purpose_difficulty_detail#en-font.asset
+- Assets/Fonts/Build/dialog#en-font.asset
+- Assets/Fonts/Build/mapname#en-font.asset
+- Assets/Fonts/Build/kakugo#en-font.asset
+- Assets/Fonts/Build/somnium_guide_big#en-font.asset
+- Assets/Fonts/Build/clue_detail#en-font.asset
+- Assets/Fonts/Build/purpose_briefing#en-font.asset
+- Assets/Fonts/Build/search_start#en-font.asset
+- Assets/Fonts/Build/QDE#en-font.asset
+- Assets/Fonts/Build/dot16#en-font.asset
+- Assets/Fonts/Build/tutorial#en-font.asset
+- Assets/Fonts/Build/waza#en-font.asset
+- Assets/Fonts/Build/map_target#en-font.asset
+- Assets/Fonts/Build/caption#en-font.asset
+- Assets/Fonts/Build/kafu_techno#en-font.asset
+- Assets/Fonts/Build/prompt#en-font.asset
+- Assets/Fonts/Build/monologue#en-font.asset
+- Assets/Fonts/Build/name#en-font.asset
+- Assets/Fonts/Build/message#en-font.asset
+- Assets/Fonts/Build/chapter#en-font.asset
+Dependencies: []

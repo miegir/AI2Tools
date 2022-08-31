@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI2Tools</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="..\AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems" Label="Shared" />
+
+  <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="2.0.12" />
+    <PackageReference Include="BCnEncoder.Net.ImageSharp" Version="1.1.1" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="2.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI2Tools.Core\AI2Tools.Core.csproj" />
+  </ItemGroup>
+
+</Project>

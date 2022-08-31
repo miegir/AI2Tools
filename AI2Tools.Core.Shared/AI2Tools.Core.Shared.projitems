@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>6116926f-4aae-45e6-87d9-89769be3b703</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AI2Tools</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BundleCompressionType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DelegateObjectSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)EnumerableExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileDestination.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileState.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileTarget.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IObjectSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IResource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IStreamSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ObjectContainer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ObjectEntry.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ObjectPath.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ObjectSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UnpackArguments.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1597 @@
+{
+  "character_001": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_002": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_003": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_004": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_005": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_006": {
+    "src": "Falco",
+    "yax": "Фалько",
+    "trx": "Фалько"
+  },
+  "character_007": {
+    "src": "Falco",
+    "yax": "Фалько",
+    "trx": "Фалько"
+  },
+  "character_008": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_009": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_011": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_012": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_013": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_014": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_015": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "character_016": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "character_017": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "character_018": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_019": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_020": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_021": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_022": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_023": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_024": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_025": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_026": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_027": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_028": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_029": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_030": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_031": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "character_032": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_033": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "character_034": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "character_035": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_036": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_037": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "character_038": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_039": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "character_040": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "Босс"
+  },
+  "character_041": {
+    "src": "Renju",
+    "yax": "Рэндзю",
+    "trx": "Рендзю"
+  },
+  "character_042": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_043": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "character_044": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "character_045": {
+    "src": "Komeji",
+    "yax": "Комедзи",
+    "trx": "Комедзи"
+  },
+  "character_046": {
+    "src": "Komeji",
+    "yax": "Комедзи",
+    "trx": "Комедзи"
+  },
+  "character_047": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_048": {
+    "src": "Mayumi",
+    "yax": "Маюми",
+    "trx": "Маюми"
+  },
+  "character_049": {
+    "src": "Rohan",
+    "yax": "Рохан",
+    "trx": "Рохан"
+  },
+  "character_050": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_051": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_052": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_053": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_054": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_055": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_056": {
+    "src": "Saito",
+    "yax": "Сайто",
+    "trx": "Сайто"
+  },
+  "character_057": {
+    "src": "Culprit",
+    "yax": "Преступник",
+    "trx": "Убийца"
+  },
+  "character_058": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_059": {
+    "src": "Falco",
+    "yax": "Фалько",
+    "trx": "Фалько"
+  },
+  "character_060": {
+    "src": "Falco",
+    "yax": "Фалько",
+    "trx": "Фалько"
+  },
+  "character_061": {
+    "src": "Manaka",
+    "yax": "Манака",
+    "trx": "Манака"
+  },
+  "character_062": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "Пьютер"
+  },
+  "character_063": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "character_064": {
+    "src": "Shoko",
+    "yax": "Секо",
+    "trx": "Сёко"
+  },
+  "character_065": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "Мама"
+  },
+  "character_066": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "character_067": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_068": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  },
+  "character_069": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  },
+  "character_070": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  },
+  "character_071": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_072": {
+    "src": "Police Officer 1",
+    "yax": "Сотрудник полиции 1",
+    "trx": "Полицейский 1"
+  },
+  "character_073": {
+    "src": "Police Officer 2",
+    "yax": "Сотрудник полиции 2",
+    "trx": "Полицейский 2"
+  },
+  "character_074": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_075": {
+    "src": "Akasaka",
+    "yax": "Акасака",
+    "trx": "Акасака"
+  },
+  "character_076": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_077": {
+    "src": "Receptionist",
+    "yax": "Секретарь",
+    "trx": "Секретарь"
+  },
+  "character_078": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_079": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_080": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_081": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_082": {
+    "src": "SAT Captain",
+    "yax": "СИДЕЛ капитан",
+    "trx": "Капитан SAT"
+  },
+  "character_083": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_084": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_085": {
+    "src": "SAT Member",
+    "yax": "Член СБ",
+    "trx": "Член SAT"
+  },
+  "character_086": {
+    "src": "Nurse",
+    "yax": "Медсестра",
+    "trx": "Медсестра"
+  },
+  "character_087": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_088": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_089": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_090": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_091": {
+    "src": "Yakuzas",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_092": {
+    "src": "Bodyguard",
+    "yax": "Телохранитель",
+    "trx": "Телохранитель"
+  },
+  "character_093": {
+    "src": "Bodyguard",
+    "yax": "Телохранитель",
+    "trx": "Телохранитель"
+  },
+  "character_094": {
+    "src": "Bodyguard",
+    "yax": "Телохранитель",
+    "trx": "Телохранитель"
+  },
+  "character_095": {
+    "src": "Bodyguard",
+    "yax": "Телохранитель",
+    "trx": "Телохранитель"
+  },
+  "character_096": {
+    "src": "Mermaid",
+    "yax": "Русалка",
+    "trx": "Русалка"
+  },
+  "character_097": {
+    "src": "Takero",
+    "yax": "Такеро",
+    "trx": "Такеро"
+  },
+  "character_098": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "character_099": {
+    "src": "Renju",
+    "yax": "Рэндзю",
+    "trx": "Рендзю"
+  },
+  "character_100": {
+    "src": "Driver",
+    "yax": "Водитель",
+    "trx": "Водитель"
+  },
+  "character_101": {
+    "src": "#89",
+    "yax": "#89",
+    "trx": null
+  },
+  "character_102": {
+    "src": "#89",
+    "yax": "#89",
+    "trx": null
+  },
+  "character_103": {
+    "src": "F",
+    "yax": "F",
+    "trx": "Ф"
+  },
+  "character_104": {
+    "src": "Culprit",
+    "yax": "Преступник",
+    "trx": "Убийца"
+  },
+  "character_105": {
+    "src": "Yakuza Underling",
+    "yax": "Подчиненный якудзы",
+    "trx": "Подчиненный Якудзы"
+  },
+  "character_106": {
+    "src": "Yakuza Street Boss",
+    "yax": "Уличный босс Якудзы",
+    "trx": "Уличный босс Якудзы"
+  },
+  "character_107": {
+    "src": "Phone Announcer",
+    "yax": "Телефонный диктор",
+    "trx": "Диктор"
+  },
+  "character_108": {
+    "src": "Radio Announcer",
+    "yax": "Диктор радио",
+    "trx": "Диктор"
+  },
+  "character_109": {
+    "src": "Kappa",
+    "yax": "Каппа",
+    "trx": "Каппа"
+  },
+  "character_110": {
+    "src": "Merman",
+    "yax": "Водяной",
+    "trx": "Водяной"
+  },
+  "character_111": {
+    "src": "Chef",
+    "yax": "Шеф-повар",
+    "trx": "Шеф"
+  },
+  "character_112": {
+    "src": "Line Cook",
+    "yax": "Линейный повар",
+    "trx": "Линейный повар"
+  },
+  "character_113": {
+    "src": "Plaster Figure",
+    "yax": "Гипсовая фигура",
+    "trx": "Гипсовая фигура"
+  },
+  "character_114": {
+    "src": "Priest",
+    "yax": "Священник",
+    "trx": "Жрец"
+  },
+  "character_115": {
+    "src": "Mannequin",
+    "yax": "Манекен",
+    "trx": "Манекен"
+  },
+  "character_116": {
+    "src": "Voice",
+    "yax": "Голос",
+    "trx": "Голос"
+  },
+  "character_117": {
+    "src": "A-set",
+    "yax": "A-набор",
+    "trx": "А-сет"
+  },
+  "character_118": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "character_119": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_120": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_121": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_122": {
+    "src": "Horse",
+    "yax": "Лошадь",
+    "trx": "Конь"
+  },
+  "character_123": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_124": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_125": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_126": {
+    "src": "Polar Bear",
+    "yax": "полярный медведь",
+    "trx": "Полярный медведь"
+  },
+  "character_127": {
+    "src": "Patron A",
+    "yax": "Покровитель А",
+    "trx": "Покровитель А"
+  },
+  "character_128": {
+    "src": "Patron B",
+    "yax": "Покровитель В",
+    "trx": "Покровитель Б"
+  },
+  "character_129": {
+    "src": "Gangster A",
+    "yax": "Гангстер А",
+    "trx": "Гангстер А"
+  },
+  "character_130": {
+    "src": "Victim D",
+    "yax": "Жертва D",
+    "trx": "Жертва Г"
+  },
+  "character_131": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_132": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_133": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_134": {
+    "src": "Victim A",
+    "yax": "Жертва А",
+    "trx": "Жертва А"
+  },
+  "character_135": {
+    "src": "Victim B",
+    "yax": "Жертва В",
+    "trx": "Жертва Б"
+  },
+  "character_136": {
+    "src": "Victim C",
+    "yax": "Жертва C",
+    "trx": "Жертва В"
+  },
+  "character_137": {
+    "src": "Kid",
+    "yax": "Ребенок",
+    "trx": "Ребенок"
+  },
+  "character_138": {
+    "src": "Torso",
+    "yax": "Туловище",
+    "trx": "Торс"
+  },
+  "character_139": {
+    "src": "PA System",
+    "yax": "Система PA",
+    "trx": "Система PA"
+  },
+  "character_140": {
+    "src": "Gangster",
+    "yax": "Гангстер",
+    "trx": "Гангстер"
+  },
+  "character_141": {
+    "src": "All",
+    "yax": "Все",
+    "trx": "Все"
+  },
+  "character_142": {
+    "src": "Victim",
+    "yax": "Жертва",
+    "trx": "Жертва"
+  },
+  "character_143": {
+    "src": "Guest",
+    "yax": "Гость",
+    "trx": "Гость"
+  },
+  "character_144": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_145": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_146": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_147": {
+    "src": "Mayumi",
+    "yax": "Маюми",
+    "trx": "Маюми"
+  },
+  "character_148": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_149": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_150": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "character_151": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "character_152": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "character_153": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "character_154": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "character_155": {
+    "src": "Bibi",
+    "yax": "Биби",
+    "trx": "Биби"
+  },
+  "character_156": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "character_157": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_158": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "Лиен"
+  },
+  "character_159": {
+    "src": "Riichi",
+    "yax": "Риичи",
+    "trx": "Риичи"
+  },
+  "character_160": {
+    "src": "Riichi",
+    "yax": "Риичи",
+    "trx": "Риичи"
+  },
+  "character_161": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "character_162": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "character_163": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "character_164": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_165": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_166": {
+    "src": "Uru",
+    "yax": "Уру",
+    "trx": "Уру"
+  },
+  "character_167": {
+    "src": "Detective",
+    "yax": "Детектив",
+    "trx": "Детектив"
+  },
+  "character_168": {
+    "src": "Host",
+    "yax": "Хозяин",
+    "trx": "Ведущий"
+  },
+  "character_169": {
+    "src": "Blue Person",
+    "yax": "Синий Человек",
+    "trx": "Синий человек"
+  },
+  "character_170": {
+    "src": "Blue Person",
+    "yax": "Синий Человек",
+    "trx": "Синий человек"
+  },
+  "character_171": {
+    "src": "Blue Person",
+    "yax": "Синий Человек",
+    "trx": "Синий человек"
+  },
+  "character_172": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_173": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_174": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_175": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_176": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_177": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_178": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_179": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_180": {
+    "src": "Chinpei",
+    "yax": "Чинпей",
+    "trx": "Чинпей"
+  },
+  "character_181": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_182": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_183": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_184": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "character_185": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_186": {
+    "src": "Mamoru",
+    "yax": "Мамору",
+    "trx": "Мамору"
+  },
+  "character_187": {
+    "src": "Mermaid",
+    "yax": "Русалка",
+    "trx": "Русалка"
+  },
+  "character_188": {
+    "src": "Mermaid",
+    "yax": "Русалка",
+    "trx": "Русалка"
+  },
+  "character_189": {
+    "src": "Mermaid",
+    "yax": "Русалка",
+    "trx": "Русалка"
+  },
+  "character_190": {
+    "src": "Patron A1",
+    "yax": "Покровитель A1",
+    "trx": "Покровитель A1"
+  },
+  "character_191": {
+    "src": "Patron A2",
+    "yax": "Патрон А2",
+    "trx": "Покровитель A2"
+  },
+  "character_192": {
+    "src": "Patron A3",
+    "yax": "Патрон А3",
+    "trx": "Покровитель A3"
+  },
+  "character_193": {
+    "src": "Patron B1",
+    "yax": "Покровитель B1",
+    "trx": "Покровитель B1"
+  },
+  "character_194": {
+    "src": "Patron B2",
+    "yax": "Патрон B2",
+    "trx": "Покровитель B2"
+  },
+  "character_195": {
+    "src": "Patron B3",
+    "yax": "Патрон B3",
+    "trx": "Покровитель B3"
+  },
+  "character_196": {
+    "src": "Store Manager",
+    "yax": "Менеджер магазина",
+    "trx": "Менеджер магазина"
+  },
+  "character_197": {
+    "src": "Voice",
+    "yax": "Голос",
+    "trx": "Голос"
+  },
+  "character_198": {
+    "src": "Voice",
+    "yax": "Голос",
+    "trx": "Голос"
+  },
+  "character_199": {
+    "src": "Staff",
+    "yax": "Персонал",
+    "trx": "Сотрудник"
+  },
+  "character_200": {
+    "src": "Staff",
+    "yax": "Персонал",
+    "trx": "Сотрудник"
+  },
+  "character_201": {
+    "src": "Staff",
+    "yax": "Персонал",
+    "trx": "Сотрудник"
+  },
+  "character_202": {
+    "src": "Man",
+    "yax": "Человек",
+    "trx": "Человек"
+  },
+  "character_203": {
+    "src": "Man",
+    "yax": "Человек",
+    "trx": "Человек"
+  },
+  "character_204": {
+    "src": "Loan Shark",
+    "yax": "Ростовщик",
+    "trx": "Ростовщик"
+  },
+  "character_205": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_206": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_207": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_208": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_209": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_210": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_211": {
+    "src": "Scientists",
+    "yax": "Ученые",
+    "trx": "Исследователи"
+  },
+  "character_212": {
+    "src": "Scientist",
+    "yax": "Ученый",
+    "trx": "Ученый"
+  },
+  "character_213": {
+    "src": "Escaped Prisoner",
+    "yax": "Сбежавший заключенный",
+    "trx": "Сбежавший заключенный"
+  },
+  "character_214": {
+    "src": "NAIX Member",
+    "yax": "Член NAIX",
+    "trx": "Член NAIX"
+  },
+  "character_216": {
+    "src": "Guest",
+    "yax": "Гость",
+    "trx": "Гость"
+  },
+  "character_217": {
+    "src": "Guest",
+    "yax": "Гость",
+    "trx": "Гость"
+  },
+  "character_218": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "character_219": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_220": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_221": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_222": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_223": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_224": {
+    "src": "Gangster",
+    "yax": "Гангстер",
+    "trx": "Гангстер"
+  },
+  "character_225": {
+    "src": "Gangster",
+    "yax": "Гангстер",
+    "trx": "Гангстер"
+  },
+  "character_226": {
+    "src": "Gangster",
+    "yax": "Гангстер",
+    "trx": "Гангстер"
+  },
+  "character_227": {
+    "src": "Gangster",
+    "yax": "Гангстер",
+    "trx": "Гангстер"
+  },
+  "character_228": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_229": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_230": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_231": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_232": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_233": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_234": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_235": {
+    "src": "Security Guard",
+    "yax": "охранник",
+    "trx": "Охранник"
+  },
+  "character_236": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "character_237": {
+    "src": "Yakuza Members",
+    "yax": "Члены Якудза",
+    "trx": "Члены Якудзы"
+  },
+  "character_238": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_239": {
+    "src": "Enemy Members",
+    "yax": "Вражеские члены",
+    "trx": "Враги"
+  },
+  "character_240": {
+    "src": "Mizuki's Team and Enemy Members",
+    "yax": "Команда Мизуки и вражеские члены",
+    "trx": "Команда Мизуки и враги"
+  },
+  "character_241": {
+    "src": "Announcement",
+    "yax": "Объявление",
+    "trx": "Объявление"
+  },
+  "character_242": {
+    "src": "Tiger Rug",
+    "yax": "Тигровый ковер",
+    "trx": "Тигровый ковер"
+  },
+  "character_243": {
+    "src": "Mizuki and Masked Woman",
+    "yax": "Мизуки и Женщина в маске",
+    "trx": "Мизуки и женщина в маске"
+  },
+  "character_500": {
+    "src": "Mysterious Voice",
+    "yax": "Таинственный Голос",
+    "trx": "Таинственный голос"
+  },
+  "character_501": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_502": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_503": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_504": {
+    "src": "Mario",
+    "yax": "Марио",
+    "trx": "Марио"
+  },
+  "character_505": {
+    "src": "Mansion Boss",
+    "yax": "Босс особняка",
+    "trx": "Босс особняка"
+  },
+  "character_506": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_507": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_508": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_509": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_510": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_511": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_512": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_513": {
+    "src": "Blue Figure",
+    "yax": "Синяя Фигура",
+    "trx": "Синяя фигура"
+  },
+  "character_514": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_515": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_516": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_517": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_518": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "character_519": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "character_520": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_521": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_522": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_523": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "character_524": {
+    "src": "Doll",
+    "yax": "Кукла",
+    "trx": "Кукла"
+  },
+  "character_525": {
+    "src": "Jin",
+    "yax": "Джин",
+    "trx": "Джин"
+  },
+  "character_526": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "character_527": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "character_528": {
+    "src": "Person A",
+    "yax": "Человек, А",
+    "trx": "Персона А"
+  },
+  "character_529": {
+    "src": "Person B",
+    "yax": "Лицо В",
+    "trx": "Персона Б"
+  },
+  "character_530": {
+    "src": "Person C",
+    "yax": "Лицо С",
+    "trx": "Персона В"
+  },
+  "character_531": {
+    "src": "Person D",
+    "yax": "Лицо D",
+    "trx": "Персона Г"
+  },
+  "character_532": {
+    "src": "Both",
+    "yax": "Оба",
+    "trx": "Обе"
+  },
+  "character_533": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_534": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_535": {
+    "src": "Man",
+    "yax": "Человек",
+    "trx": "Человек"
+  },
+  "character_536": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_537": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_538": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_539": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_540": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_541": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_542": {
+    "src": "NAIX Members",
+    "yax": "Члены NAIX",
+    "trx": "Члены NAIX"
+  },
+  "character_543": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "character_544": {
+    "src": "Host",
+    "yax": "Хозяин",
+    "trx": "Ведущий"
+  },
+  "character_545": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_546": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_547": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_548": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "character_549": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_550": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "character_551": {
+    "src": "Bibi",
+    "yax": "Биби",
+    "trx": "Биби"
+  },
+  "character_552": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "character_553": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_554": {
+    "src": "Researcher",
+    "yax": "Исследователь",
+    "trx": "Исследователь"
+  },
+  "character_555": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_556": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "character_557": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_558": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "character_559": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_560": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "Лиен"
+  },
+  "character_561": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_562": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_563": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "character_564": {
+    "src": "Man",
+    "yax": "Человек",
+    "trx": "Человек"
+  },
+  "character_565": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_566": {
+    "src": "SAT Members",
+    "yax": "Члены СБ",
+    "trx": "Члены SAT"
+  },
+  "character_567": {
+    "src": "Mamoru",
+    "yax": "Мамору",
+    "trx": "Мамору"
+  },
+  "character_568": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_569": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_570": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "character_571": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "character_572": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_573": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "character_574": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "character_575": {
+    "src": "Mafia",
+    "yax": "Мафия",
+    "trx": "Мафия"
+  },
+  "character_576": {
+    "src": "Mafia",
+    "yax": "Мафия",
+    "trx": "Мафия"
+  },
+  "character_577": {
+    "src": "Mafia",
+    "yax": "Мафия",
+    "trx": "Мафия"
+  }
+}

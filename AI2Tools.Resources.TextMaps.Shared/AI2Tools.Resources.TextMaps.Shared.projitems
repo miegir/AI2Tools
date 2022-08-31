@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>5f410e45-ebb8-467e-93a3-8b207e9b1687</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AI2Tools</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)TextCompressor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextMapManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextMapResource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextMapTranslation.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,372 @@
+{
+  "chapter_500": {
+    "src": "2/15",
+    "yax": "2/15",
+    "trx": "15.02"
+  },
+  "chapter_501": {
+    "src": "Not All A Dream",
+    "yax": "Не Все Это Сон",
+    "trx": "Это не совсем сон"
+  },
+  "chapter_502": {
+    "src": "Ryuki Chapter 5 R1 Beginning",
+    "yax": "Рюки Глава 5 R1 Начало",
+    "trx": "Рюки, Глава 5 R1 Начало"
+  },
+  "chapter_503": {
+    "src": "2/10",
+    "yax": "2/10",
+    "trx": "10.02"
+  },
+  "chapter_504": {
+    "src": "Mizuki Chapter 0",
+    "yax": "Мидзуки Глава 0",
+    "trx": "Мизуки, Глава 0"
+  },
+  "chapter_505": {
+    "src": "Alone",
+    "yax": "Один",
+    "trx": "Одна"
+  },
+  "chapter_506": {
+    "src": "2/11",
+    "yax": "2/11",
+    "trx": "11.02"
+  },
+  "chapter_507": {
+    "src": "Ryuki Chapter Diverge",
+    "yax": "Глава Рюки Расходится",
+    "trx": "Рюки, Отклонение"
+  },
+  "chapter_508": {
+    "src": "遐ｴ邯ｻ逋ｾ蜃ｺ",
+    "yax": "遐ｴ邯ｻ逋ｾ蜃ｺ",
+    "trx": null
+  },
+  "chapter_509": {
+    "src": "Dispossessed",
+    "yax": "Обездоленные",
+    "trx": "Обездоленные"
+  },
+  "chapter_510": {
+    "src": "Ryuki Chapter 0",
+    "yax": "Рюки Глава 0",
+    "trx": "Рюки, Глава 0"
+  },
+  "chapter_511": {
+    "src": "Of Arms and Of Man",
+    "yax": "Из Оружия и Из Людей",
+    "trx": "Из оружия и людей"
+  },
+  "chapter_512": {
+    "src": "2/14",
+    "yax": "2/14",
+    "trx": "14.02"
+  },
+  "chapter_513": {
+    "src": "Mizuki Chapter 4 M2",
+    "yax": "Мидзуки Глава 4 М2",
+    "trx": "Мизуки, Глава 4 М2"
+  },
+  "chapter_514": {
+    "src": "Who's There",
+    "yax": "Кто Там",
+    "trx": "Кто там"
+  },
+  "chapter_515": {
+    "src": "All That We Are",
+    "yax": "Все, Что Мы Есть",
+    "trx": "Всё, что мы есть"
+  },
+  "chapter_516": {
+    "src": "Mizuki Chapter 5 M2",
+    "yax": "Мидзуки Глава 5 М2",
+    "trx": "Мизуки, Глава 5 М2"
+  },
+  "chapter_517": {
+    "src": "Ryuki Chapter 4 R2",
+    "yax": "Рюки Глава 4 R2",
+    "trx": "Рюки, Глава 4 R2"
+  },
+  "chapter_518": {
+    "src": "Past Its Ken",
+    "yax": "Мимо Своего Кена",
+    "trx": "Вне его пределов"
+  },
+  "chapter_519": {
+    "src": "2/12",
+    "yax": "2/12",
+    "trx": "12.02"
+  },
+  "chapter_520": {
+    "src": "Nothing to Be Done",
+    "yax": "Ничего Не Поделаешь",
+    "trx": "Нечего делать"
+  },
+  "chapter_521": {
+    "src": "Ryuki Chapter 2",
+    "yax": "Рюки Глава 2",
+    "trx": "Рюки, Глава 2"
+  },
+  "chapter_522": {
+    "src": "Joy for Anguish",
+    "yax": "Радость за Страдание",
+    "trx": "Радость страдания"
+  },
+  "chapter_523": {
+    "src": "2/13",
+    "yax": "2/13",
+    "trx": "13.02"
+  },
+  "chapter_524": {
+    "src": "Ryuki Chapter 3 R2",
+    "yax": "Рюки Глава 3 R2",
+    "trx": "Рюки, Глава 3 R2"
+  },
+  "chapter_525": {
+    "src": "Mizuki Chapter 3 M1",
+    "yax": "Мидзуки Глава 3 M1",
+    "trx": "Мизуки, Глава 3 M1"
+  },
+  "chapter_526": {
+    "src": "Hell",
+    "yax": "Ад",
+    "trx": "Ад"
+  },
+  "chapter_527": {
+    "src": "Kizuna and Lien Route: END",
+    "yax": "Маршрут Кидзуны и Лиена: КОНЕЦ",
+    "trx": "История Кизуны и Лиена: КОНЕЦ"
+  },
+  "chapter_528": {
+    "src": "End Where I Begun",
+    "yax": "Конец Там, Где Я Начал",
+    "trx": "Конец там же, где и начало"
+  },
+  "chapter_529": {
+    "src": "Mizuki Chapter 1",
+    "yax": "Мидзуки Глава 1",
+    "trx": "Мизуки, Глава 1"
+  },
+  "chapter_530": {
+    "src": "Anyone Imagines",
+    "yax": "Кто-Нибудь Воображает",
+    "trx": "Чье-то воображение"
+  },
+  "chapter_531": {
+    "src": "Ryuki Chapter 1",
+    "yax": "Рюки Глава 1",
+    "trx": "Рюки, Глава 1"
+  },
+  "chapter_532": {
+    "src": "Converge Chapter 0",
+    "yax": "Сходимся Глава 0",
+    "trx": "Общее, Глава 0"
+  },
+  "chapter_533": {
+    "src": "A Strange Tale",
+    "yax": "Странная История",
+    "trx": "Странная история"
+  },
+  "chapter_534": {
+    "src": "Gen and Amame Route: END",
+    "yax": "Маршрут Gen и Amame: КОНЕЦ",
+    "trx": "История Гена и Амаме: КОНЕЦ"
+  },
+  "chapter_535": {
+    "src": "Mizuki Chapter 5 M3",
+    "yax": "Мидзуки Глава 5 М3",
+    "trx": "Мизуки, Глава 5 М3"
+  },
+  "chapter_536": {
+    "src": "Sweet Silent Thought",
+    "yax": "Сладкая Тихая Мысль",
+    "trx": "Тихая благородная мысль"
+  },
+  "chapter_537": {
+    "src": "Ryuki Chapter 3 R2",
+    "yax": "Рюки Глава 3 R2",
+    "trx": "Рюки, Глава 3 R2"
+  },
+  "chapter_538": {
+    "src": "Farewell",
+    "yax": "Прощание",
+    "trx": "Прощание"
+  },
+  "chapter_539": {
+    "src": "Go",
+    "yax": "Иди",
+    "trx": "Движение"
+  },
+  "chapter_540": {
+    "src": "Pass Mildly Away",
+    "yax": "Мягко Скончаться",
+    "trx": "Тихо умереть"
+  },
+  "chapter_541": {
+    "src": "Mizuki Chapter 5 M1",
+    "yax": "Мидзуки Глава 5 M1",
+    "trx": "Мизуки, Глава 5 M1"
+  },
+  "chapter_542": {
+    "src": "The End of Craving",
+    "yax": "Конец страстному желанию",
+    "trx": "Конец устремления"
+  },
+  "chapter_543": {
+    "src": "Complete",
+    "yax": "Полный",
+    "trx": "Конец"
+  },
+  "chapter_544": {
+    "src": "Last",
+    "yax": "Последний",
+    "trx": "Окончание"
+  },
+  "chapter_545": {
+    "src": "2/22",
+    "yax": "2/22",
+    "trx": "22.02"
+  },
+  "chapter_546": {
+    "src": "Braver Than All Flowers",
+    "yax": "Храбрее Всех Цветов",
+    "trx": "Храбрее всех цветов"
+  },
+  "chapter_547": {
+    "src": "Epilogue",
+    "yax": "Эпилог",
+    "trx": "Эпилог"
+  },
+  "chapter_548": {
+    "src": "Ought to Know",
+    "yax": "Должен Знать",
+    "trx": "Нужно знать"
+  },
+  "chapter_549": {
+    "src": "Ryuki Chapter 4 R1",
+    "yax": "Рюки Глава 4 R1",
+    "trx": "Рюки, Глава 4 R1"
+  },
+  "chapter_550": {
+    "src": "The Mind of God",
+    "yax": "Разум Божий",
+    "trx": "Разум Божий"
+  },
+  "chapter_551": {
+    "src": "Left Behind",
+    "yax": "оставленный позади",
+    "trx": "Оставленное позади"
+  },
+  "chapter_552": {
+    "src": "Mizuki Chapter 2",
+    "yax": "Мидзуки Глава 2",
+    "trx": "Мизуки, Глава 2"
+  },
+  "chapter_553": {
+    "src": "Well-Known",
+    "yax": "общеизвестный",
+    "trx": "Хорошо известный"
+  },
+  "chapter_554": {
+    "src": "Bid the Soldiers Shoot",
+    "yax": "Прикажите солдатам Стрелять",
+    "trx": "Пусть солдаты стреляют"
+  },
+  "chapter_555": {
+    "src": "Mizuki Chapter 4 M3",
+    "yax": "Мидзуки Глава 4 М3",
+    "trx": "Мизуки, Глава 4 М3"
+  },
+  "chapter_556": {
+    "src": "Case Unsolved",
+    "yax": "Нераскрытое дело",
+    "trx": "Дело не раскрыто"
+  },
+  "chapter_557": {
+    "src": "The Expense of Spirit",
+    "yax": "Расход духа",
+    "trx": "Расход духа"
+  },
+  "chapter_558": {
+    "src": "Mizuki Chapter 3",
+    "yax": "Мидзуки Глава 3",
+    "trx": "Мизуки, Глава 3"
+  },
+  "chapter_559": {
+    "src": "Traveler",
+    "yax": "Путешественник",
+    "trx": "Путник"
+  },
+  "chapter_560": {
+    "src": "Explosion Route : END",
+    "yax": "Маршрут взрыва: КОНЕЦ",
+    "trx": "История взрыва: КОНЕЦ"
+  },
+  "chapter_561": {
+    "src": "Visions",
+    "yax": "Видения",
+    "trx": "Видения"
+  },
+  "chapter_562": {
+    "src": "Mizuki Chapter 4 M1",
+    "yax": "Мидзуки Глава 4 M1",
+    "trx": "Мизуки, Глава 4 M1"
+  },
+  "chapter_563": {
+    "src": "Smiles for Tears",
+    "yax": "Улыбки вместо слез",
+    "trx": "Улыбки за слезы"
+  },
+  "chapter_564": {
+    "src": "Ryuki Chapter 3 R1",
+    "yax": "Рюки Глава 3 R1",
+    "trx": "Рюки, Глава 3 R1"
+  },
+  "chapter_565": {
+    "src": "In Truth",
+    "yax": "По правде говоря",
+    "trx": "По правде говоря"
+  },
+  "chapter_566": {
+    "src": "Ryuki Chapter 5 R1",
+    "yax": "Рюки Глава 5 R1",
+    "trx": "Рюки, Глава 5 R1"
+  },
+  "chapter_567": {
+    "src": "She Was the Universe",
+    "yax": "Она Была Вселенной",
+    "trx": "Она была Вселенной"
+  },
+  "chapter_568": {
+    "src": "Bats490 Video",
+    "yax": "Видео Bats490",
+    "trx": "Видео Bats490"
+  },
+  "chapter_569": {
+    "src": "All This Happened, More or Less",
+    "yax": "Все Это Произошло, Более или Менее",
+    "trx": "Всё это произошло, более или менее"
+  },
+  "chapter_570": {
+    "src": "Komeji and Shoma Route: END",
+    "yax": "Маршрут Комедзи и Сема: КОНЕЦ",
+    "trx": "История Комедзи и Шомы: КОНЕЦ"
+  },
+  "chapter_571": {
+    "src": "All Living Things",
+    "yax": "Все Живые Существа",
+    "trx": "Все живые существа"
+  },
+  "chapter_572": {
+    "src": "Mizuki Chapter 3 M2",
+    "yax": "Мидзуки Глава 3 М2",
+    "trx": "Мизуки, Глава 3 М2"
+  },
+  "chapter_573": {
+    "src": "I Found Me",
+    "yax": "Я Нашел Себя",
+    "trx": "Я нашел себя"
+  }
+}

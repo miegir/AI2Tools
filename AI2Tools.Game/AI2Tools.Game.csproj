@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI2Tools</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="..\AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems" Label="Shared" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI2Tools.Resources.Bundles\AI2Tools.Resources.Bundles.csproj" />
+    <ProjectReference Include="..\AI2Tools.Resources.TextMaps\AI2Tools.Resources.TextMaps.csproj" />
+  </ItemGroup>
+
+</Project>

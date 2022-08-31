@@ -1,0 +1,77 @@
+{
+  "bonusmenu_swap_actors_001": {
+    "src": "Converge Part Chapter 0 Stadium 1",
+    "yax": "Сходящаяся часть Глава 0 Стадион 1",
+    "trx": "Общее, Глава 0, Стадион 1"
+  },
+  "bonusmenu_swap_actors_002": {
+    "src": "Converge Part Chapter 0 Stadium 2",
+    "yax": "Сходящаяся часть Глава 0 Стадион 2",
+    "trx": "Общее, Глава 0, Стадион 2"
+  },
+  "bonusmenu_swap_actors_003": {
+    "src": "Converge Part Chapter 0 Dvaita",
+    "yax": "Сходящаяся часть Глава 0 Двайта",
+    "trx": "Общее, Глава 0, Двайта"
+  },
+  "bonusmenu_swap_actors_004": {
+    "src": "Ryuki Part Chapter 1 Matsuhita Diner",
+    "yax": "Рюки Часть Глава 1 Закусочная Мацухита",
+    "trx": "История Рюки, Глава 1, Закусочная Мацуситы"
+  },
+  "bonusmenu_swap_actors_005": {
+    "src": "Ryuki Part Chapter 1 Sunfish Pocket",
+    "yax": "Рюки Часть Глава 1 Карман Солнечной Рыбы",
+    "trx": "История Рюки, Глава 1, Sunfish Pocket"
+  },
+  "bonusmenu_swap_actors_006": {
+    "src": "Ryuki Part Chapter 2 Underground Cathedral",
+    "yax": "Рюки Часть Глава 2 Подземный собор",
+    "trx": "История Рюки, Глава 2, Подземный собор"
+  },
+  "bonusmenu_swap_actors_007": {
+    "src": "Ryuki Part Chapter 3 Aioen",
+    "yax": "Рюки Часть 3 Глава Айоен",
+    "trx": "История Рюки, Глава 3, Айоен"
+  },
+  "bonusmenu_swap_actors_008": {
+    "src": "Ryuki Part Chapter 3 Horadori Institute",
+    "yax": "Рюки Часть Глава 3 Институт Хорадори",
+    "trx": "История Рюки, Глава 3, Институт Хорадори"
+  },
+  "bonusmenu_swap_actors_009": {
+    "src": "Ryuki Part Chapter 3 Warehouse District",
+    "yax": "Рюки Часть Глава 3 Складской район",
+    "trx": "История Рюки, Глава 3, Складской район"
+  },
+  "bonusmenu_swap_actors_010": {
+    "src": "Ryuki Part Chapter 3 Dvaita",
+    "yax": "Рюки Часть Глава 3 Двайта",
+    "trx": "История Рюки, Глава 3, Двайта"
+  },
+  "bonusmenu_swap_actors_011": {
+    "src": "Mizuki Part Chapter 1 Horadori Institute",
+    "yax": "Мидзуки Часть Глава 1 Институт Хорадори",
+    "trx": "История Мизуки, Глава 1, Институт Хорадори"
+  },
+  "bonusmenu_swap_actors_012": {
+    "src": "Mizuki Part Chapter 5 Stadium 1",
+    "yax": "Мидзуки Часть Глава 5 Стадион 1",
+    "trx": "История Мизуки, Глава 5, Стадион 1"
+  },
+  "bonusmenu_swap_actors_013": {
+    "src": "Mizuki Part Chapter 5 Stadium 2",
+    "yax": "Мидзуки Часть Глава 5 Стадион 2",
+    "trx": "История Мизуки, Глава 5, Стадион 2"
+  },
+  "bonusmenu_swap_actors_014": {
+    "src": "Mizuki Part Chapter 5 Aioen 1",
+    "yax": "Мидзуки Часть Глава 5 Айоен 1",
+    "trx": "История Мизуки, Глава 5, Айоен 1"
+  },
+  "bonusmenu_swap_actors_015": {
+    "src": "Mizuki Part Chapter 5 Aioen 2",
+    "yax": "Мидзуки Часть Глава 5 Айоен 2",
+    "trx": "История Мизуки, Глава 5, Айоен 2"
+  }
+}

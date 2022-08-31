@@ -1,0 +1,87 @@
+{
+  "optionmenu_top_buttonguide_001": {
+    "src": "Investigation Material\n<size=70%>\nCheck Information on in-game terms and details of characters",
+    "yax": "Материалы расследования\r\n<размер=70%>\r\nПроверьте информацию о внутриигровых условиях и деталях персонажей",
+    "trx": "Материалы расследования\n<size=70%>\nУзнать внутриигровые термины и характеристики персонажей"
+  },
+  "optionmenu_top_buttonguide_002": {
+    "src": "Performance Review\n<size=70%>\nCheck Performance Review of Police Work\nCheck Grades and Rewards",
+    "yax": "Обзор эффективности\r\n<размер=70%>\r\nПроверка эффективности работы полиции\r\nПроверьте оценки и награды",
+    "trx": "Эффективность\n<size=70%>\nПросмотреть обзор эффективности полицейского, класс и награды"
+  },
+  "optionmenu_top_buttonguide_003": {
+    "src": "Aiba's Room\n<size=70%>\nChange Aiba's Costume and receive life counseling",
+    "yax": "Комната Айбы\r\n<размер=70%>\r\nСмените костюм Aiba и получите консультацию по вопросам жизни",
+    "trx": "Комната Айбы\n<size=70%>\nВыбрать костюм Айбы и получить консультацию о жизни"
+  },
+  "optionmenu_top_buttonguide_004": {
+    "src": "Time Chart\n<size=70%>\nCheck the Timeline of the story\nMove to different stories from the flowchart",
+    "yax": "График времени\r\n<размер=70%>\r\nПроверьте временную шкалу истории\r\nПереход к другим историям из блок-схемы",
+    "trx": "Хронология\n<size=70%>\nПросмотреть хронологию\nПерейти на другую историю из хронологии"
+  },
+  "optionmenu_top_buttonguide_005": {
+    "src": "Settings\n<size=70%>\nVoice, Control Type, Text\nChange Difficulty Setting",
+    "yax": "Настройки\r\n<размер=70%>\r\nГолос, Тип управления, Текст\r\nИзмените настройку Сложности",
+    "trx": "Настройки\n<size=70%>\nВыбрать озвучку, параметры управления и текста\nИзменить сложность"
+  },
+  "optionmenu_top_buttonguide_006": {
+    "src": "Record\n<size=70%>\nSave story progress",
+    "yax": "Запись\r\n<размер=70%>\r\nСохранить ход истории",
+    "trx": "Сохранение\n<size=70%>\nСохранить прогресс в истории"
+  },
+  "optionmenu_top_buttonguide_007": {
+    "src": "Finish\n<size=70%>\nFinish Game\nReturn to Title Screen",
+    "yax": "Заканчивать\r\n<размер=70%>\r\nЗакончить игру\r\nВернуться к титульному экрану",
+    "trx": "Завершение\n<size=70%>\nЗавершить игру\nВернуться в главное меню"
+  },
+  "optionmenu_top_buttonguide_008": {
+    "src": "Bonus\n<size=70%>\nExit game and \nopen bonus menu",
+    "yax": "Бонус\r\n<размер=70%>\r\nВыйти из игры и \r\nоткройте бонусное меню",
+    "trx": "Бонус\n<size=70%>\nВыйти из игры и \nоткрыть меню бонусов"
+  },
+  "optionmenu_top_buttonguide_009": {
+    "src": "Tama's Room\n<size=70%>\nChange Tama's Costume and receive life counseling",
+    "yax": "Комната Тамы\r\n<размер=70%>\r\nПереодень костюм Тамы и получи консультацию по вопросам жизни",
+    "trx": "Комната Тамы\n<size=70%>\nВыбрать костюм Тамы и получить консультацию о жизни"
+  },
+  "optionmenu_top_operationguide_001": {
+    "src": "Select Menu",
+    "yax": "Выберите меню",
+    "trx": "Выбрать меню"
+  },
+  "optionmenu_top_operationguide_002": {
+    "src": "Select",
+    "yax": "Выбрать",
+    "trx": "Открыть"
+  },
+  "optionmenu_top_operationguide_500": {
+    "src": "Logging",
+    "yax": "Регистрация",
+    "trx": "Журнал"
+  },
+  "optionmenu_top_medama_001": {
+    "src": "Eyeballs Obtained:",
+    "yax": "Глазные Яблоки, Полученные:",
+    "trx": "Получено глаз:"
+  },
+  "optionmenu_top_medama_002": {
+    "src": "0123456789",
+    "yax": "0123456789",
+    "trx": null
+  },
+  "optionmenu_font_common_001": {
+    "src": "End game and return to Title Menu?\n※Unsaved progress will be lost\n",
+    "yax": "Завершить игру и вернуться в меню заголовка?\r\n※ Несохраненный прогресс будет потерян",
+    "trx": "Завершить игру и вернуться в главное меню?\n※Несохраненный прогресс будет потерян\n"
+  },
+  "optionmenu_font_common_002": {
+    "src": "Save and open BONUS from Title Screen?",
+    "yax": "Сохранить и открыть БОНУС с титульного экрана?",
+    "trx": "Сохранить игру и открыть БОНУС из главного меню?"
+  },
+  "optionmenu_font_common_500": {
+    "src": "Change Profile",
+    "yax": "Изменить профиль",
+    "trx": "Изменить профиль"
+  }
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>15786129-b366-48d1-80e7-4012e2925f7b</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AI2Tools</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BundleFile.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BundleManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BundleResource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BundleWriter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FontAssetReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FontAssetData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PhysicalObjectSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextAssetReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Texture2DAssetReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Texture2DData.cs" />
+  </ItemGroup>
+</Project>

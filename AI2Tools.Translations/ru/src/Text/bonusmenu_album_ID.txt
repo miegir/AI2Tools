@@ -1,0 +1,307 @@
+{
+  "bonusmenu_album_001": {
+    "src": "Mizuki Part Chapter 0  Ryuki A 1",
+    "yax": "Мидзуки Часть Глава 0 Рюки A 1",
+    "trx": "История Мизуки, Глава 0  Рюки A 1"
+  },
+  "bonusmenu_album_002": {
+    "src": "Mizuki Part Chapter 0  Ryuki A 2",
+    "yax": "Мидзуки Часть Глава 0 Рюки A 2",
+    "trx": "История Мизуки, Глава 0  Рюки A 2"
+  },
+  "bonusmenu_album_003": {
+    "src": "Mizuki Part Chapter 0  Ryuki A 3",
+    "yax": "Мидзуки Часть Глава 0 Рюки A 3",
+    "trx": "История Мизуки, Глава 0  Рюки A 3"
+  },
+  "bonusmenu_album_004": {
+    "src": "Mizuki Part Chapter 0  Ryuki A 4",
+    "yax": "Мидзуки Часть Глава 0 Рюки A 4",
+    "trx": "История Мизуки, Глава 0  Рюки A 4"
+  },
+  "bonusmenu_album_005": {
+    "src": "Mizuki Part Chapter 0  Ryuki B 1",
+    "yax": "Мидзуки Часть Глава 0 Рюки B 1",
+    "trx": "История Мизуки, Глава 0  Рюки B 1"
+  },
+  "bonusmenu_album_006": {
+    "src": "Mizuki Part Chapter 0  Ryuki B 2",
+    "yax": "Мидзуки Часть Глава 0 Рюки B 2",
+    "trx": "История Мизуки, Глава 0  Рюки B 2"
+  },
+  "bonusmenu_album_007": {
+    "src": "Mizuki Part Chapter 0  Ryuki B 3",
+    "yax": "Мидзуки Часть Глава 0 Рюки B 3",
+    "trx": "История Мизуки, Глава 0  Рюки B 3"
+  },
+  "bonusmenu_album_008": {
+    "src": "Ryuki Part Chapter 1  Chikara A 1",
+    "yax": "Рюки Часть Глава 1 Чикара A 1",
+    "trx": "История Рюки, Глава 1  Чикара A 1"
+  },
+  "bonusmenu_album_009": {
+    "src": "Ryuki Part Chapter 1  Chikara A 2",
+    "yax": "Рюки Часть Глава 1 Чикара A 2",
+    "trx": "История Рюки, Глава 1  Чикара A 2"
+  },
+  "bonusmenu_album_010": {
+    "src": "Ryuki Part Chapter 1  Chikara B 1",
+    "yax": "Рюки Часть Глава 1 Чикара B 1",
+    "trx": "История Рюки, Глава 1  Чикара B 1"
+  },
+  "bonusmenu_album_011": {
+    "src": "Ryuki Part Chapter 1  Chikara B 2",
+    "yax": "Рюки Часть Глава 1 Чикара B 2",
+    "trx": "История Рюки, Глава 1  Чикара B 2"
+  },
+  "bonusmenu_album_012": {
+    "src": "Ryuki Part Chapter 2  Tokiko A 1",
+    "yax": "Рюки Часть Глава 2 Токико A 1",
+    "trx": "История Рюки, Глава 2  Токико A 1"
+  },
+  "bonusmenu_album_013": {
+    "src": "Ryuki Part Chapter 2  Tokiko A 2",
+    "yax": "Рюки Часть Глава 2 Токико A 2",
+    "trx": "История Рюки, Глава 2  Токико A 2"
+  },
+  "bonusmenu_album_014": {
+    "src": "Ryuki Part Chapter 2  Tokiko B 1",
+    "yax": "Рюки Часть Глава 2 Токико B 1",
+    "trx": "История Рюки, Глава 2  Токико B 1"
+  },
+  "bonusmenu_album_015": {
+    "src": "Ryuki Part Chapter 2  Tokiko B 2",
+    "yax": "Рюки Часть Глава 2 Токико B 2",
+    "trx": "История Рюки, Глава 2  Токико B 2"
+  },
+  "bonusmenu_album_016": {
+    "src": "Ryuki Part Chapter 3  Komeji A 1",
+    "yax": "Рюки Часть Глава 3 Комедзи A 1",
+    "trx": "История Рюки, Глава 3  Комедзи A 1"
+  },
+  "bonusmenu_album_017": {
+    "src": "Ryuki Part Chapter 3  Komeji A 2",
+    "yax": "Рюки Часть Глава 3 Комедзи A 2",
+    "trx": "История Рюки, Глава 3  Комедзи A 2"
+  },
+  "bonusmenu_album_018": {
+    "src": "Ryuki Part Chapter 3  Komeji B 1",
+    "yax": "Рюки Часть Глава 3 Комедзи B 1",
+    "trx": "История Рюки, Глава 3  Комедзи B 1"
+  },
+  "bonusmenu_album_019": {
+    "src": "Ryuki Part Chapter 3  Komeji B 2",
+    "yax": "Рюки Часть Глава 3 Комедзи B 2",
+    "trx": "История Рюки, Глава 3  Комедзи B 2"
+  },
+  "bonusmenu_album_020": {
+    "src": "Ryuki Part Chapter 4  Amame A 1",
+    "yax": "Рюки Часть Глава 4 Амаме A 1",
+    "trx": "История Рюки, Глава 4  Амаме A 1"
+  },
+  "bonusmenu_album_021": {
+    "src": "Ryuki Part Chapter 4  Amame A 2",
+    "yax": "Рюки Часть Глава 4 Амаме A 2",
+    "trx": "История Рюки, Глава 4  Амаме A 2"
+  },
+  "bonusmenu_album_022": {
+    "src": "Ryuki Part Chapter 4  Amame B 1",
+    "yax": "Рюки Часть Глава 4 Амаме B 1",
+    "trx": "История Рюки, Глава 4  Амаме B 1"
+  },
+  "bonusmenu_album_023": {
+    "src": "Ryuki Part Chapter 4  Amame B 2",
+    "yax": "Рюки Часть Глава 4 Амаме B 2",
+    "trx": "История Рюки, Глава 4  Амаме B 2"
+  },
+  "bonusmenu_album_024": {
+    "src": "Ryuki Part Chapter 4  Shoma A 1",
+    "yax": "Рюки Часть Глава 4 Шома A 1",
+    "trx": "История Рюки, Глава 4  Шома A 1"
+  },
+  "bonusmenu_album_025": {
+    "src": "Ryuki Part Chapter 4  Shoma A 2",
+    "yax": "Рюки Часть Глава 4 Шома A 2",
+    "trx": "История Рюки, Глава 4  Шома A 2"
+  },
+  "bonusmenu_album_026": {
+    "src": "Ryuki Part Chapter 4  Shoma A 3",
+    "yax": "Рюки Часть Глава 4 Шома A 3",
+    "trx": "История Рюки, Глава 4  Шома A 3"
+  },
+  "bonusmenu_album_027": {
+    "src": "Ryuki Part Chapter 4  Shoma B 1",
+    "yax": "Рюки Часть Глава 4 Шома B 1",
+    "trx": "История Рюки, Глава 4  Шома B 1"
+  },
+  "bonusmenu_album_028": {
+    "src": "Ryuki Part Chapter 4  Shoma B 2",
+    "yax": "Рюки Часть Глава 4 Шома B 2",
+    "trx": "История Рюки, Глава 4  Шома B 2"
+  },
+  "bonusmenu_album_029": {
+    "src": "Ryuki Part Chapter 5  Iris A 1",
+    "yax": "Рюки Часть Глава 5 Айрис A 1",
+    "trx": "История Рюки, Глава 5  Айрис A 1"
+  },
+  "bonusmenu_album_030": {
+    "src": "Ryuki Part Chapter 5  Iris A 2",
+    "yax": "Рюки Часть Глава 5 Айрис A 2",
+    "trx": "История Рюки, Глава 5  Айрис A 2"
+  },
+  "bonusmenu_album_031": {
+    "src": "Ryuki Part Chapter 5  Iris B 1",
+    "yax": "Рюки Часть Глава 5 Айрис B 1",
+    "trx": "История Рюки, Глава 5  Айрис B 1"
+  },
+  "bonusmenu_album_032": {
+    "src": "Ryuki Part Chapter 5  Iris B 2",
+    "yax": "Рюки Часть Глава 5 Айрис B 2",
+    "trx": "История Рюки, Глава 5  Айрис B 2"
+  },
+  "bonusmenu_album_033": {
+    "src": "Mizuki Part Chapter 1  Kizuna A 1",
+    "yax": "Мидзуки Часть Глава 1 Кизуна A 1",
+    "trx": "История Мизуки, Глава 1  Кизуна A 1"
+  },
+  "bonusmenu_album_034": {
+    "src": "Mizuki Part Chapter 1  Kizuna A 2",
+    "yax": "Мидзуки Часть Глава 1 Кизуна A 2",
+    "trx": "История Мизуки, Глава 1  Кизуна A 2"
+  },
+  "bonusmenu_album_035": {
+    "src": "Mizuki Part Chapter 1  Kizuna A 3",
+    "yax": "Мидзуки Часть Глава 1 Кизуна A 3",
+    "trx": "История Мизуки, Глава 1  Кизуна A 3"
+  },
+  "bonusmenu_album_036": {
+    "src": "Mizuki Part Chapter 1  Kizuna B 1",
+    "yax": "Мидзуки Часть Глава 1 Кизуна B 1",
+    "trx": "История Мизуки, Глава 1  Кизуна B 1"
+  },
+  "bonusmenu_album_037": {
+    "src": "Mizuki Part Chapter 1  Kizuna B 2",
+    "yax": "Мидзуки Часть Глава 1 Кизуна B 2",
+    "trx": "История Мизуки, Глава 1  Кизуна B 2"
+  },
+  "bonusmenu_album_038": {
+    "src": "Mizuki Part Chapter 2  Gen A 1",
+    "yax": "Мидзуки Часть Глава 2 Ген A 1",
+    "trx": "История Мизуки, Глава 2  Ген A 1"
+  },
+  "bonusmenu_album_039": {
+    "src": "Mizuki Part Chapter 2  Gen A 2",
+    "yax": "Мидзуки Часть Глава 2 Ген A 2",
+    "trx": "История Мизуки, Глава 2  Ген A 2"
+  },
+  "bonusmenu_album_040": {
+    "src": "Mizuki Part Chapter 2  Gen B 1",
+    "yax": "Мидзуки Часть Глава 2 Ген B 1",
+    "trx": "История Мизуки, Глава 2  Ген B 1"
+  },
+  "bonusmenu_album_041": {
+    "src": "Mizuki Part Chapter 2  Gen B 2",
+    "yax": "Мидзуки Часть Глава 2 Gen B 2",
+    "trx": "История Мизуки, Глава 2  Ген B 2"
+  },
+  "bonusmenu_album_042": {
+    "src": "Mizuki Part Chapter 3  Masked Woman A 1",
+    "yax": "Мидзуки Часть 3 Глава Женщина В маске A 1",
+    "trx": "История Мизуки, Глава 3  Женщина в маске A 1"
+  },
+  "bonusmenu_album_043": {
+    "src": "Mizuki Part Chapter 3  Masked Woman A 2",
+    "yax": "Мидзуки Часть 3 Глава Женщина В маске A 2",
+    "trx": "История Мизуки, Глава 3  Женщина в маске A 2"
+  },
+  "bonusmenu_album_044": {
+    "src": "Mizuki Part Chapter 3  Masked Woman B 1",
+    "yax": "Мизуки Часть Глава 3 Женщина в маске B 1",
+    "trx": "История Мизуки, Глава 3  Женщина в маске B 1"
+  },
+  "bonusmenu_album_045": {
+    "src": "Mizuki Part Chapter 3  Masked Woman B 2",
+    "yax": "Мизуки Часть 3 Глава 3 Женщина в маске B 2",
+    "trx": "История Мизуки, Глава 3  Женщина в маске B 2"
+  },
+  "bonusmenu_album_046": {
+    "src": "Mizuki Part Chapter 4  Tearer A 1",
+    "yax": "Мидзуки Часть Глава 4 Разрыватель A 1",
+    "trx": "История Мизуки, Глава 4  Рассекатель A 1"
+  },
+  "bonusmenu_album_047": {
+    "src": "Mizuki Part Chapter 4  Tearer A 2",
+    "yax": "Мидзуки Часть Глава 4 Разрыватель A 2",
+    "trx": "История Мизуки, Глава 4  Рассекатель A 2"
+  },
+  "bonusmenu_album_048": {
+    "src": "Mizuki Part Chapter 4  Tearer B 1",
+    "yax": "Мидзуки Часть Глава 4 Разрыватель B 1",
+    "trx": "История Мизуки, Глава 4  Рассекатель B 1"
+  },
+  "bonusmenu_album_049": {
+    "src": "Mizuki Part Chapter 4  Tearer B 2",
+    "yax": "Мидзуки Часть 4 Глава 4 Разрыватель B 2",
+    "trx": "История Мизуки, Глава 4  Рассекатель B 2"
+  },
+  "bonusmenu_album_050": {
+    "src": "Mizuki Part Chapter 4  Lien A 1",
+    "yax": "Мидзуки Часть Глава 4 Залоговое удержание A 1",
+    "trx": "История Мизуки, Глава 4  Лиен A 1"
+  },
+  "bonusmenu_album_051": {
+    "src": "Mizuki Part Chapter 4  Lien A 2",
+    "yax": "Мидзуки Часть Глава 4 Залоговое Удержание 2",
+    "trx": "История Мизуки, Глава 4  Лиен 2"
+  },
+  "bonusmenu_album_052": {
+    "src": "Mizuki Part Chapter 4  Lien B 1",
+    "yax": "Мидзуки Часть Глава 4 Залоговое удержание B 1",
+    "trx": "История Мизуки, Глава 4  Лиен B 1"
+  },
+  "bonusmenu_album_053": {
+    "src": "Mizuki Part Chapter 4  Lien B 2",
+    "yax": "Мидзуки Часть Глава 4 Залоговое удержание B 2",
+    "trx": "История Мизуки, Глава 4  Лиен B 2"
+  },
+  "bonusmenu_album_054": {
+    "src": "Mizuki Part Chapter 5  Amame A 1",
+    "yax": "Мидзуки Часть Глава 5 Амаме A 1",
+    "trx": "История Мизуки, Глава 5  Амаме A 1"
+  },
+  "bonusmenu_album_055": {
+    "src": "Mizuki Part Chapter 5  Amame A 2",
+    "yax": "Мидзуки Часть Глава 5 Амаме A 2",
+    "trx": "История Мизуки, Глава 5  Амаме A 2"
+  },
+  "bonusmenu_album_056": {
+    "src": "Mizuki Part Chapter 5  Amame A 3",
+    "yax": "Мидзуки Часть Глава 5 Амаме A 3",
+    "trx": "История Мизуки, Глава 5  Амаме A 3"
+  },
+  "bonusmenu_album_057": {
+    "src": "Mizuki Part Chapter 5  Amame B 1",
+    "yax": "Мидзуки Часть Глава 5 Амаме B 1",
+    "trx": "История Мизуки, Глава 5  Амаме B 1"
+  },
+  "bonusmenu_album_058": {
+    "src": "Mizuki Part Chapter 5  Amame B 2",
+    "yax": "Мидзуки Часть Глава 5 Амаме B 2",
+    "trx": "История Мизуки, Глава 5  Амаме B 2"
+  },
+  "bonusmenu_album_059": {
+    "src": "Mizuki Part Chapter 5  Amame B 3",
+    "yax": "Мидзуки Часть Глава 5 Амаме B 3",
+    "trx": "История Мизуки, Глава 5  Амаме B 3"
+  },
+  "bonusmenu_album_060": {
+    "src": "Mizuki Part Chapter 5  Amame B 4",
+    "yax": "Мидзуки Часть Глава 5 Амаме B 4",
+    "trx": "История Мизуки, Глава 5  Амаме B 4"
+  },
+  "bonusmenu_album_061": {
+    "src": "Dream Album Complete!",
+    "yax": "Альбом Мечты Завершен!",
+    "trx": "Альбом сновидений завершен!"
+  }
+}

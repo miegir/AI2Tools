@@ -1,0 +1,112 @@
+{
+  "bonusmenu_cloth_001": {
+    "src": "Mizuki/Ryuki Outfit",
+    "yax": "Наряд Мизуки/Рюки",
+    "trx": "Одежда Мизуки/Рюки"
+  },
+  "bonusmenu_cloth_002": {
+    "src": "Cat Ears",
+    "yax": "Кошачьи Уши",
+    "trx": "Кошачьи ушки"
+  },
+  "bonusmenu_cloth_003": {
+    "src": "Mermaid Outfit",
+    "yax": "Наряд Русалки",
+    "trx": "Наряд русалки"
+  },
+  "bonusmenu_cloth_004": {
+    "src": "Cat Paws and Tail",
+    "yax": "Кошачьи Лапы и Хвост",
+    "trx": "Кошачьи лапы и хвост"
+  },
+  "bonusmenu_cloth_005": {
+    "src": "Entomologist/Prison Garb",
+    "yax": "Энтомолог/Тюремная одежда",
+    "trx": "Энтомолог/Тюремная одежда"
+  },
+  "bonusmenu_cloth_006": {
+    "src": "T-shirt: Smart/Cute",
+    "yax": "Футболка: Нарядная/Симпатичная",
+    "trx": "Футболка: Нарядная/Симпатичная"
+  },
+  "bonusmenu_cloth_007": {
+    "src": "Former CEO Glasses",
+    "yax": "Бывший генеральный директор Очки",
+    "trx": "Очки бывшего генерального директора"
+  },
+  "bonusmenu_cloth_008": {
+    "src": "T-shirt: ABIS",
+    "yax": "Футболка: ABIS",
+    "trx": "Футболка: ABIS"
+  },
+  "bonusmenu_cloth_009": {
+    "src": "Hero Belt",
+    "yax": "Пояс Героя",
+    "trx": "Пояс героя"
+  },
+  "bonusmenu_cloth_010": {
+    "src": "Wanderer Hat",
+    "yax": "Шляпа странника",
+    "trx": "Шляпа странника"
+  },
+  "bonusmenu_cloth_011": {
+    "src": "Chibi Tama",
+    "yax": "Чиби Тама",
+    "trx": "Чиби-Тама" //spell-ignore-line
+  },
+  "bonusmenu_cloth_012": {
+    "src": "Chibi Aiba",
+    "yax": "Чиби Айба",
+    "trx": "Чиби-Айба" //spell-ignore-line
+  },
+  "bonusmenu_cloth_013": {
+    "src": "K Head",
+    "yax": "K Голова",
+    "trx": "Голова K"
+  },
+  "bonusmenu_cloth_014": {
+    "src": "Burning Hand",
+    "yax": "Горящая Рука",
+    "trx": "Горящие руки"
+  },
+  "bonusmenu_cloth_015": {
+    "src": "Q Head",
+    "yax": "Q Головка",
+    "trx": "Голова Q"
+  },
+  "bonusmenu_cloth_016": {
+    "src": "Robot Arm",
+    "yax": "Рука робота",
+    "trx": "Руки робота"
+  },
+  "bonusmenu_cloth_017": {
+    "src": "Despair Bear Head",
+    "yax": "Отчаяние Медвежья Голова",
+    "trx": "Медвежья голова Goodbye Despair"
+  },
+  "bonusmenu_cloth_018": {
+    "src": "Ador-Pet",
+    "yax": "Обожаемый Питомец",
+    "trx": "Обожаемый питомец"
+  },
+  "bonusmenu_cloth_019": {
+    "src": "T-shirt: AI2",
+    "yax": "Футболка: AI2",
+    "trx": "Футболка: AI2"
+  },
+  "bonusmenu_cloth_020": {
+    "src": "Black Hair",
+    "yax": "Черные Волосы",
+    "trx": "Черные волосы"
+  },
+  "bonusmenu_cloth_021": {
+    "src": "Blue Person",
+    "yax": "Синий Человек",
+    "trx": "Синий человек"
+  },
+  "bonusmenu_cloth_022": {
+    "src": "Bracelet",
+    "yax": "Браслет",
+    "trx": "Браслет"
+  }
+}

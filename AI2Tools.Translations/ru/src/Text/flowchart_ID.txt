@@ -1,0 +1,2182 @@
+{
+  "flowchart_title_500": {
+    "src": "2/10 Converge Chapter 0\nA Strange Tale",
+    "yax": "2/10 Сходятся Глава 0\nСтранная История",
+    "trx": "10.02, Общее, Глава 0\nСтранная история"
+  },
+  "flowchart_title_501": {
+    "src": "2/10 Mizuki Chapter 0\nNew Investigation",
+    "yax": "2/10 Мизуки Глава 0\nНовое расследование",
+    "trx": "10.02, Мизуки, Глава 0\nНовое расследование"
+  },
+  "flowchart_title_502": {
+    "src": "2/10 Ryuki Chapter 0\nDispossessed",
+    "yax": "2/10 Рюки Глава 0\nОбездоленные",
+    "trx": "10.02, Рюки, Глава 0\nОбездоленные"
+  },
+  "flowchart_title_503": {
+    "src": "2/11 Ryuki Chapter 1\nAnyone Imagines",
+    "yax": "2/11 Рюки Глава 1\nКто-Нибудь Воображает",
+    "trx": "11.02, Рюки, Глава 1\nЧье-то воображение"
+  },
+  "flowchart_title_504": {
+    "src": "2/11 Ryuki Chapter 1\nNefarious Institute",
+    "yax": "2/11 Рюки Глава 1\nГнусный институт",
+    "trx": "11.02, Рюки, Глава 1\nГнусный институт"
+  },
+  "flowchart_title_505": {
+    "src": "2/11 Ryuki Chapter 1\nOught to Know",
+    "yax": "2/11 Рюки Глава 1\nДолжен Знать",
+    "trx": "11.02, Рюки, Глава 1\nНужно знать"
+  },
+  "flowchart_title_506": {
+    "src": "2/12 Ryuki Chapter 2\nNothing to Be Done",
+    "yax": "2/12 Рюки Глава 2\nНичего Не Поделаешь",
+    "trx": "12.02, Рюки, Глава 2\nНечего делать"
+  },
+  "flowchart_title_507": {
+    "src": "2/12 Ryuki Chapter 2\nNaixatloz's Intentions",
+    "yax": "2/12 Рюки Глава 2\nНамерения Найшатлоза",
+    "trx": "12.02, Рюки, Глава 2\nНамерения Naixatloz"
+  },
+  "flowchart_title_508": {
+    "src": "2/12 Ryuki Chapter 2\nGo",
+    "yax": "2/12 Рюки Глава 2\nИди",
+    "trx": "12.02, Рюки, Глава 2\nДвижение"
+  },
+  "flowchart_title_509": {
+    "src": "2/13 Ryuki Chapter 3\nFarewell",
+    "yax": "2/13 Рюки Глава 3\nПрощание",
+    "trx": "13.02, Рюки, Глава 3\nПрощание"
+  },
+  "flowchart_title_510": {
+    "src": "2/13 Ryuki Chapter 3\nNeed Info",
+    "yax": "2/13 Рюки Глава 3\nНужна информация",
+    "trx": "13.02, Рюки, Глава 3\nНужна информация"
+  },
+  "flowchart_title_511": {
+    "src": "2/13 Ryuki Chapter 3 R2\nJoy for Anguish",
+    "yax": "2/13 Рюки Глава 3 R2\nРадость за Страдание",
+    "trx": "13.02, Рюки, Глава 3 R2\nРадость страдания"
+  },
+  "flowchart_title_512": {
+    "src": "2/14 Ryuki Chapter 4 R2\nI Found Me",
+    "yax": "2/14 Рюки Глава 4 R2\nЯ Нашел Себя",
+    "trx": "14.02, Рюки, Глава 4 R2\nЯ нашел себя"
+  },
+  "flowchart_title_513": {
+    "src": "2/14 Ryuki Chapter 4 R2\nNested Insecurities",
+    "yax": "2/14 Рюки Глава 4 R2\nВложенная Неуверенность",
+    "trx": "14.02, Рюки, Глава 4 R2\nВложенная неуверенность"
+  },
+  "flowchart_title_514": {
+    "src": "2/14 Ryuki Chapter 4 R2\nPast Its Ken",
+    "yax": "2/14 Рюки Глава 4 R2\nМимо Своего Кена",
+    "trx": "14.02, Рюки, Глава 4 R2\nВне его пределов"
+  },
+  "flowchart_title_515": {
+    "src": "2/13 Ryuki Chapter 3 R1\nSmiles for Tears",
+    "yax": "2/13 Рюки Глава 3 R1\nУлыбки вместо слез",
+    "trx": "13.02, Рюки, Глава 3 R1\nУлыбки за слезы"
+  },
+  "flowchart_title_516": {
+    "src": "2/14 Ryuki Chapter 4 R1\nWell-Known",
+    "yax": "2/14 Рюки Глава 4 R1\nобщеизвестный",
+    "trx": "14.02, Рюки, Глава 4 R1\nХорошо известный"
+  },
+  "flowchart_title_517": {
+    "src": "2/14 Ryuki Chapter 4 R1\nNearly Interesting",
+    "yax": "2/14 Рюки Глава 4 R1\nПочти Интересно",
+    "trx": "14.02, Рюки, Глава 4 R1\nПочти интересно"
+  },
+  "flowchart_title_518": {
+    "src": "2/14 Ryuki Chapter 4 R1\nThe Mind of God",
+    "yax": "2/14 Рюки Глава 4 R1\nРазум Бога",
+    "trx": "14.02, Рюки, Глава 4 R1\nРазум Божий"
+  },
+  "flowchart_title_519": {
+    "src": "2/15 Ryuki Chapter 5 R1\nNot All A Dream",
+    "yax": "2/15 Рюки Глава 5 R1\nНе Все Это Сон",
+    "trx": "15.02, Рюки, Глава 5 R1\nЭто не совсем сон"
+  },
+  "flowchart_title_520": {
+    "src": "2/15 Ryuki Chapter 5 R1\nNemesis Identified",
+    "yax": "2/15 Рюки Глава 5 R1\nНемезида Идентифицирована",
+    "trx": "15.02, Рюки, Глава 5 R1\nНемезис идентифицирован"
+  },
+  "flowchart_title_521": {
+    "src": "2/15 Ryuki Chapter 5 R1\nShe Was the Universe",
+    "yax": "2/15 Рюки Глава 5 R1\nОна Была Вселенной",
+    "trx": "15.02, Рюки, Глава 5 R1\nОна была Вселенной"
+  },
+  "flowchart_title_522": {
+    "src": "2/10 Mizuki Chapter 0\nAlone",
+    "yax": "2/10 Мизуки Глава 0\nОдин",
+    "trx": "10.02, Мизуки, Глава 0\nОдна"
+  },
+  "flowchart_title_523": {
+    "src": "2/11 Mizuki Chapter 1\nPass Mildly Away",
+    "yax": "2/11 Мидзуки Глава 1\nМягко Скончаться",
+    "trx": "11.02, Мизуки, Глава 1\nТихо умереть"
+  },
+  "flowchart_title_524": {
+    "src": "2/11 Mizuki Chapter 1\nNostalgic Idol",
+    "yax": "2/11 Мидзуки Глава 1\nНостальгический Идол",
+    "trx": "11.02, Мизуки, Глава 1\nНостальгический идол"
+  },
+  "flowchart_title_525": {
+    "src": "2/11 Mizuki Chapter 1\nEnd Where I Begun",
+    "yax": "2/11 Мидзуки Глава 1\nКонец Там, Где Я Начал",
+    "trx": "11.02, Мизуки, Глава 1\nКонец там же, где и начало"
+  },
+  "flowchart_title_526": {
+    "src": "2/12 Mizuki Chapter 2\nTraveler",
+    "yax": "2/12 Мидзуки Глава 2\nПутешественник",
+    "trx": "12.02, Мизуки, Глава 2\nПутник"
+  },
+  "flowchart_title_527": {
+    "src": "2/12 Mizuki Chapter 2\nNecessary Intervention",
+    "yax": "2/12 Мидзуки Глава 2\nНеобходимое вмешательство",
+    "trx": "12.02, Мизуки, Глава 2\nНеобходимое вмешательство"
+  },
+  "flowchart_title_528": {
+    "src": "2/12 Mizuki Chapter 2\nLeft Behind",
+    "yax": "2/12 Мидзуки Глава 2\nоставленный позади",
+    "trx": "12.02, Мизуки, Глава 2\nОставленное позади"
+  },
+  "flowchart_title_529": {
+    "src": "2/13 Mizuki Chapter 3\nThe Expense of Spirit",
+    "yax": "2/13 Мидзуки Глава 3\nРасход духа",
+    "trx": "13.02, Мизуки, Глава 3\nРасход духа"
+  },
+  "flowchart_title_530": {
+    "src": "2/13 Mizuki Chapter 3\nNeurotic Inception",
+    "yax": "2/13 Мидзуки Глава 3\nНевротическое Начало",
+    "trx": "13.02, Мизуки, Глава 3\nНевротическое начало"
+  },
+  "flowchart_title_531": {
+    "src": "2/13 Mizuki Chapter 3 M1\nHell",
+    "yax": "2/13 Мидзуки Глава 3 M1\nАд",
+    "trx": "13.02, Мизуки, Глава 3 M1\nАд"
+  },
+  "flowchart_title_532": {
+    "src": "2/14 Mizuki Chapter 4 M1\nVisions",
+    "yax": "2/14 Мидзуки Глава 4 M1\nВидения",
+    "trx": "14.02, Мизуки, Глава 4 M1\nВидения"
+  },
+  "flowchart_title_533": {
+    "src": "2/14 Mizuki Chapter 4 M1\nNonentity Incognito",
+    "yax": "2/14 Мидзуки Глава 4 M1\nНичтожество Инкогнито",
+    "trx": "14.02, Мизуки, Глава 4 M1\nПустота инкогнито"
+  },
+  "flowchart_title_534": {
+    "src": "2/14 Mizuki Chapter 4 M1\nIn Truth",
+    "yax": "2/14 Мидзуки Глава 4 M1\nПо правде говоря",
+    "trx": "14.02, Мизуки, Глава 4 M1\nПо правде говоря"
+  },
+  "flowchart_title_535": {
+    "src": "2/15 Mizuki Chapter 5 M1\nBirths",
+    "yax": "2/15 Мидзуки Глава 5 M1\nРождения",
+    "trx": "15.02, Мизуки, Глава 5 M1\nРождения"
+  },
+  "flowchart_title_536": {
+    "src": "2/15 Mizuki Chapter 5 M1\nNightmare Irreconcilable",
+    "yax": "2/15 Мидзуки Глава 5 M1\nКошмар Непримиримый",
+    "trx": "15.02, Мизуки, Глава 5 M1\nНепримиримый кошмар"
+  },
+  "flowchart_title_537": {
+    "src": "2/15 Mizuki Chapter 5 M1\nThe End of Craving",
+    "yax": "2/15 Мидзуки Глава 5 M1\nКонец страстному желанию",
+    "trx": "15.02, Мизуки, Глава 5 M1\nКонец устремления"
+  },
+  "flowchart_title_538": {
+    "src": "2/22 Epilogue\nBraver Than All Flowers",
+    "yax": "2/22 Эпилог\nХрабрее Всех Цветов",
+    "trx": "22.02, Эпилог\nХрабрее всех цветов"
+  },
+  "flowchart_title_539": {
+    "src": "2/13 Mizuki Chapter 3 M2\nAll Living Things",
+    "yax": "2/13 Мидзуки Глава 3 М2\nВсе Живые Существа",
+    "trx": "13.02, Мизуки, Глава 3 M2\nВсе живые существа"
+  },
+  "flowchart_title_540": {
+    "src": "2/14 Mizuki Chapter 4 M2\nOf Arms and Of Man",
+    "yax": "2/14 Глава Мидзуки 4 М2\nИз Оружия и Из Людей",
+    "trx": "14.02, Мизуки, Глава 4 M2\nИз оружия и людей"
+  },
+  "flowchart_title_541": {
+    "src": "2/14 Mizuki Chapter 4 M2\nNovel Ingress",
+    "yax": "2/14 Глава Мидзуки 4 М2\nНовое Проникновение",
+    "trx": "14.02, Мизуки, Глава 4 M2\nНовое проникновение"
+  },
+  "flowchart_title_542": {
+    "src": "2/14 Mizuki Chapter 4 M2\nWho's There",
+    "yax": "2/14 Глава Мидзуки 4 М2\nКто Там",
+    "trx": "14.02, Мизуки, Глава 4 M2\nКто там"
+  },
+  "flowchart_title_543": {
+    "src": "2/15 Mizuki Chapter 5 M2\nAll That We Are",
+    "yax": "2/15 Глава Мидзуки 5 М2\nВсе, Что Мы Есть",
+    "trx": "15.02, Мизуки, Глава 5 M2\nВсё, что мы есть"
+  },
+  "flowchart_title_544": {
+    "src": "2/14 Mizuki Chapter 4 M3\nBid the Soldiers Shoot",
+    "yax": "2/14 Мидзуки Глава 4 М3\nПрикажите солдатам Стрелять",
+    "trx": "14.02, Мизуки, Глава 4 M3\nПусть солдаты стреляют"
+  },
+  "flowchart_title_545": {
+    "src": "2/15 Mizuki Chapter 5 M3 \nSweet Silent Thought",
+    "yax": "2/15 Мидзуки Глава 5 М3 \nСладкая Тихая Мысль",
+    "trx": "15.02, Мизуки, Глава 5 M3 \nТихая благородная мысль"
+  },
+  "flowchart_title_546": {
+    "src": "2/11 Ryuki Diverge\n遐ｴ邯ｻ逋ｾ蜃ｺ",
+    "yax": "2/11 Рюки Расходятся\n遐ｴ邯ｻ逋ｾ蜃ｺ",
+    "trx": "11.02, Рюки, Отклонение\n遐ｴ邯ｻ逋ｾ蜃ｺ"
+  },
+  "flowchart_title_547": {
+    "src": "2/15 Ryuki Diverge\nAll This Happened, More or Less",
+    "yax": "2/15 Рюки Расходятся\nВсе Это Произошло, Более или Менее",
+    "trx": "15.02, Рюки, Отклонение\nВсё это произошло, более или менее"
+  },
+  "flowchart_other_message_500": {
+    "src": "This chapter is locked. To unlock it,\nyou have to clear other chapters.",
+    "yax": "Эта глава заблокирована. Чтобы разблокировать его,\nвы должны очистить другие главы.",
+    "trx": "Эта глава блокирована. Чтобы ее разблокировать,\nвам нужно пройти другие главы."
+  },
+  "flowchart_other_message_501": {
+    "src": "You have not reached this chapter. You have to\nchoose an alternate path in the previous Somnium.",
+    "yax": "Вы не дошли до этой главы. Ты должен\nвыберите альтернативный путь в предыдущем Сомниуме.",
+    "trx": "Вы не дошли до этой главы. Вам нужно\nвыбрать другой путь в предшествующем сомниуме."
+  },
+  "flowchart_summary_500": {
+    "src": "On 2/10, Ryuki comes across a shocking sight while participating in a livestreamed quiz show. \n6 years later, in the falling snow, Mizuki is shot at in the empty stadium...\n",
+    "yax": "На 2/10 Рюки сталкивается с шокирующим зрелищем, участвуя в викторине, транслируемой в прямом эфире. \n6 лет спустя, под падающим снегом, в Мизуки стреляют на пустом стадионе...",
+    "trx": "10 января Рюки становится свидетелем шокирующего зрелища, участвуя в викторине, транслируемой в прямом эфире. \n6 лет спустя, под падающим снегом, в Мизуки стреляют на пустом стадионе...\n"
+  },
+  "flowchart_summary_501": {
+    "src": "Ryuki saw Jin Furue's right half appear out of nowhere in the studio. There was a signboard with the words Fray to Free and a QR code... Accessing the QR code lead to a suspicious video. After seeing this, Ryuki starts to hallucinate. Right after that...Jin's right half explodes into a crimson flame. \n6 years later, after fighting off the shooter, Mizuki finds the left half of a corpse in the middle of the stadium. It is the other half of Jin Furue she saw 6 years ago... Why after 6 years...? Ryuki was on that case, so he should have some clues... Mizuki decides to Psync into Ryuki's brain.",
+    "yax": "Рюки увидел, как правая половина Джин Фуруэ появилась в студии из ниоткуда. Там была вывеска с надписью \"Fray to Free\" и QR-кодом... Доступ к QR-коду приводит к подозрительному видео. Увидев это, у Рюки начинаются галлюцинации. Сразу после этого... правая половина Джина взрывается малиновым пламенем. \n6 лет спустя, отбившись от стрелка, Мизуки находит левую половину трупа посреди стадиона. Это вторая половина Цзинь Фуруэ, которую она видела 6 лет назад... Почему после 6 лет...? Рюки занимался этим делом, так что у него должны быть какие-то зацепки... Мизуки решает подключиться к мозгу Рюки.",
+    "trx": "Рюки увидел, как из ниоткуда в студии появилась правая половина тела Джина Фуруэ, а также табличка с надписью \"Fray to Free\" и QR-кодом... Ссылка из QR-кода ведет на подозрительное видео. После его просмотра у Рюки начинаются галлюцинации. Сразу после этого... правая половина Джина взрывается и сгорает багровым пламенем. \n6 лет спустя, отбившись от стрелка, Мизуки посреди стадиона находит левую половину трупа. Это вторая половина тела Джина Фуруэ, первую половину которого она видела 6 лет назад... Почему через 6 лет...? Этим делом занимался Рюки, так что у него должны быть какие-то зацепки... Мизуки решает подключиться к мозгу Рюки."
+  },
+  "flowchart_summary_502": {
+    "src": "Subject: Ryuki\nObjective: Dispel Ryuki's hallucinations and find the truth!\nSummary: Ryuki is trapped by hallucinations.\nHelp him overcome them and\ndiscover the truth.",
+    "yax": "Тема: Рюки\nЦель: Развеять галлюцинации Рюки и найти правду!\nКраткое описание: Рюки попал в ловушку галлюцинаций.\nПомогите ему преодолеть их и\nоткройте для себя правду.",
+    "trx": "Субъект: Рюки\nЦель: Развеять галлюцинации Рюки и найти правду!\nКраткое описание: Рюки попал в ловушку галлюцинаций.\nПомогите ему преодолеть их и раскройте правду."
+  },
+  "flowchart_summary_503": {
+    "src": "The subject (Psyncee) does not remember what happens in the Somnium world. Therefore, Ryuki doesn't know what happened during the Psync. But he does feel as though something very sensitive was touched upon...",
+    "yax": "Субъект (Псинси) не помнит, что происходит в мире Сомниума. Поэтому Рюки не знает, что произошло во время Psync. Но он действительно чувствует, как будто затронуто что-то очень чувствительное...",
+    "trx": "Субъект псинхронизации не помнит, что случилось в мире Сомниума. Поэтому Рюки не знает, что произошло во время псинхронизации. Но он чувствует себя так, как будто было затронуто что-то очень чувствительное..."
+  },
+  "flowchart_summary_504": {
+    "src": "Even after being taken to the interrogation room, Ryuki is still dazed and drunk. \nMizuki's questions don't get through to him.\nWho was that person in the Somnium? Ryuki doesn't answer. After persistent questioning, Ryuki finally opens his mouth. \nYou might not like what you hear.\nRyuki starts to tell Mizuki what happened 6 years ago, 2/11...",
+    "yax": "Даже после того, как его отвели в комнату для допросов, Рюки все еще ошеломлен и пьян. \nВопросы Мизуки не доходят до него.\nКто был тот человек в Сомниуме? Рюки не отвечает. После настойчивых расспросов Рюки наконец открывает рот. \nВам может не понравиться то, что вы услышите.\nРюки начинает рассказывать Мизуки, что произошло 6 лет назад, 2/11...",
+    "trx": "Даже после того, как его отвели в комнату для допросов, Рюки все еще ошеломлен и пьян. \nВопросы Мизуки до него не доходят.\nКем был тот человек в сомниуме? Рюки не отвечает. После настойчивых расспросов Рюки наконец открывает рот. \nНо то, что вы услышите, может вам не понравиться.\nРюки начинает рассказывать Мизуки о том, что произошло 6 лет назад, 11 февраля..."
+  },
+  "flowchart_summary_505": {
+    "src": "6 years ago, 2/11. Ryuki begins his investigation at Studio Dvaita with his partner AI-Ball, Tama. He starts by talking to the people at the scene. \n",
+    "yax": "6 лет назад, 2/11. Рюки начинает свое расследование в студии Двайта со своим партнером АЙ-Боллом Тамой. Он начинает с разговора с людьми на месте происшествия. ",
+    "trx": "6 лет назад, 11 февраля. Рюки начинает свое расследование в студии Двайта вместе с его напарницей Тамой — искусственным интеллектом в его глазу. Он начинает с разговора с людьми на месте происшествия. "
+  },
+  "flowchart_summary_506": {
+    "src": "He learns that about half a year ago, there was a similar QR video called Bats490 posted online. There was a hidden code in the video that lead to a specific place. People who went there never returned. They all said, \"I know the secret of the world...\"\nMizuki tells Ryuki that Shoma solved the code, so he visits him. After finally getting Shoma to open up, he reveals the specific place was Horadori Institute of Genetics. \nRyuki heads there and asks Chikara, the head of the institute, about Bats490. \nChikara says he knows nothing, but a simplified version of Psyncing called \"Wink Psync,\" reveals he was lying. Ryuki decides to go deeper into Chikara's brain...",
+    "yax": "Он узнает, что около полугода назад в Интернете было размещено аналогичное QR-видео под названием Bats490. В видео был скрытый код, который вел в определенное место. Люди, которые отправились туда, никогда не возвращались. Все они сказали: \"Я знаю тайну мира...\"\nМизуки говорит Рюки, что Сема разгадал код, поэтому он навещает его. После того, как Шома наконец раскрылся, он рассказывает, что конкретным местом был Институт генетики Хорадори. \nРюки направляется туда и спрашивает Чикару, главу института, о летучих Мышах490. \nЧикара говорит, что он ничего не знает, но упрощенная версия Psyncing под названием \"Wink Psync\" показывает, что он лгал. Рюки решает глубже проникнуть в мозг Чикары...",
+    "trx": "Он узнает, что примерно полгода назад в Интернете было размещено аналогичное QR-видео под названием Bats490. В видео был скрытый код, который вел в определенное место. Люди, отправившиеся туда, никогда не возвращались. Все они говорили: \"Я знаю секрет этого мира...\"\nМизуки сообщает Рюки, что Шома разгадал код, поэтому Рюки навещает его. Начав наконец говорить, Шома рассказывает, что определенным местом являлся Институт генетики Хорадори. \nРюки направляется туда и спрашивает Чикару, главу института, о видео Bats490. \nЧикара прикидывается, что ничего не знает, но упрощенная версия псинхронизации под названием \"Винк-псинк\" показывает, что он лгал. Рюки решает поглубже проникнуть в мозг Чикары..."
+  },
+  "flowchart_summary_507": {
+    "src": "Subject: Chikara\nObjective: Uncover the secret Chikara is hiding.\nSummary: There is no doubt Chikara is hiding something.\nOpen the door to expose what he is hiding!",
+    "yax": "Тема: Чикара\nЦель: Раскрыть тайну, которую скрывает Чикара.\nКраткое описание: Нет никаких сомнений, что Чикара что-то скрывает.\nОткрой дверь, чтобы показать, что он скрывает!",
+    "trx": "Субъект: Чикара\nЦель: Раскрыть тайну, которую скрывает Чикара.\nКраткое описание: Нет никаких сомнений, что Чикара что-то скрывает.\nОткройте дверь, чтобы раскрыть его секрет!"
+  },
+  "flowchart_summary_508": {
+    "src": "Inside Chikara's Somnium, Ryuki and Tama saw something...\nA member of Naix creating the Bats490 video. \nRyuki decides to head to Naix Japan Branch to talk to Tokiko, the president. \n",
+    "yax": "Внутри Сомниума Чикары Рюки и Тама кое-что увидели...\nУчастник Naix, создающий видео Bats490. \nРюки решает отправиться в японское отделение Naix, чтобы поговорить с Токико, президентом. ",
+    "trx": "Внутри сомниума Чикары Рюки и Тама кое-что увидели...\nЧлена Naix, создающего видео Bats490. \nРюки решает отправиться в японское отделение Naix, чтобы поговорить с Токико, его президентом. "
+  },
+  "flowchart_summary_509": {
+    "src": "Tokiko admits Bats490 was created to recruit new members. But she says it's not related to the QR video. During the conversation, she mentions \"Frayer.\" \"Fray\" was a word on the signboard. It's hard to believe it's coincidence, but Tokiko insists its just a \"bug.\" She says that is also the case with Jin's body being found...\nAfter an investigation, it is determined that the appearance of the body was only made to look as though supernatural forces were involved. The show director, Chinpei, says that he lent the studio to a person named \"Tearer.\" Tearer sends a message to go to Sekiba High... Ryuki immediately heads there...and finds Chikara's right half stuck to the blackboard.",
+    "yax": "Токико признает, что Bats490 был создан для привлечения новых членов. Но она говорит, что это не связано с QR-видео. Во время разговора она упоминает \"Фрейера\". На вывеске было написано \"Драка\". Трудно поверить, что это совпадение, но Токико настаивает, что это просто \"ошибка\". Она говорит, что так же обстоит дело и с найденным телом Джина...\nПосле расследования установлено, что внешний вид тела был создан только для того, чтобы выглядеть так, как будто в этом были замешаны сверхъестественные силы. Режиссер шоу, Чинпей, говорит, что он одолжил студию человеку по имени \"Слезоточивый\". Тирер посылает сообщение, чтобы пойти в школу Секиба... Рюки немедленно направляется туда... и обнаруживает, что правая половина Чикары прилипла к доске.",
+    "trx": "Токико признает, что видео Bats490 было создано для привлечения новых членов. Но она говорит также, что оно не связано с QR-видео. Во время разговора она упоминает \"Фрейера\". На вывеске было написано \"Fray\". Трудно поверить, что это совпадение, но Токико настаивает, что это всего лишь \"баг\". Она говорит, что то же самое касается и найденного тела Джина...\nПосле расследования стало понятно, что появление тела было специально спланировано таким образом, чтобы казалось, как будто в этом были замешаны сверхъестественные силы. Режиссер шоу, Чинпей, говорит, что он одолжил студию человеку по имени \"Рассекатель\". Рассекатель отправляет сообщение, в котором просит придти в школу Секиба... Рюки немедленно направляется туда... и обнаруживает правую половину тела Чикары, прилипшую к школьной доске."
+  },
+  "flowchart_summary_510": {
+    "src": "Upset at being manipulated, Ryuki heads to Ikume Shrine to relax. There, he asks Tama to replay the scene from Sekiba High. In that virtual reality, he decides to perform a careful investigation...\n",
+    "yax": "Расстроенный тем, что им манипулируют, Рюки направляется в храм Икуме, чтобы расслабиться. Там он просит Таму воспроизвести сцену из школы Секиба. В этой виртуальной реальности он решает провести тщательное расследование...",
+    "trx": "Расстроенный тем, что им манипулировали, Рюки направляется в храм Икуме, чтобы расслабиться. Там он просит Таму воспроизвести сцену из школы Секиба. В этой виртуальной реальности он решает провести тщательное расследование...\n"
+  },
+  "flowchart_summary_511": {
+    "src": "The investigation only reveals that Chikara's organs were all removed. Who is Tearer...? In any case, there is a high likelihood that Tokiko is involved...\nRyuki returns to Tokiko to tell her Jin's body didn't teleport and Simulation Theory is just occult nonsense. Tokiko counters his argument and says her goal is to reach Moksha and she does not fear death. She then destroys her glass doll. After watching Tokiko's eccentric actions, Ryuki decides to perform a Wink Psync. In it, he sees Tokiko threatening someone...",
+    "yax": "Расследование показывает только, что все органы Чикары были удалены. Кто слезливее...? В любом случае, существует высокая вероятность того, что в этом замешана Токико...\nРюки возвращается к Токико, чтобы сказать ей, что тело Джина не телепортировалось, а Теория симуляции - просто оккультная чушь. Токико опровергает его доводы и говорит, что ее цель - достичь Мокши, и она не боится смерти. Затем она уничтожает свою стеклянную куклу. Понаблюдав за эксцентричными действиями Токико, Рюки решает выполнить Подмигивание Psync. В нем он видит Токико, угрожающую кому-то...",
+    "trx": "Расследование показывает только то, что все органы Чикары были удалены. Кто такой Рассекатель...? В любом случае, высока вероятность того, что в этом замешана Токико...\nРюки возвращается к Токико, чтобы сказать ей, что тело Джина не телепортировалось, а теория симуляции — всего лишь оккультная чушь. Токико опровергает его доводы и говорит, что ее цель — достичь Мокши, и что она не боится смерти. Затем она разбивает свою стеклянную куклу. Понаблюдав за эксцентричными действиями Токико, Рюки решает выполнить Винк-псинк. При этом он видит, как Токико кому-то угрожает..."
+  },
+  "flowchart_summary_512": {
+    "src": "Subject: Tokiko\nObjective: Stare into Tokiko's abyss.\nSummary: It seems like Tokiko was threatening someone.\nBy peeking into her mind's abyss, you might\ndiscover something...",
+    "yax": "Тема: Токико\nЦель: Заглянуть в бездну Токико.\nКраткое описание: Похоже, Токико кому-то угрожала.\nЗаглянув в бездну ее разума, вы могли бы\nоткройте для себя что-нибудь...",
+    "trx": "Субъект: Токико\nЦель: Заглянуть в бездну Токико.\nКраткое описание: Похоже, что Токико кому-то угрожала.\nЗаглянув в бездну ее разума, вы можете\nчто-нибудь обнаружить..."
+  },
+  "flowchart_summary_513": {
+    "src": "Ryuki sees Gen and Shoma inside Tokiko's brain. He also sees a plan for the Nirvana Initiative... Ryuki asks her about these things. Tokiko leaves without answering, telling Ryuki to return to the president's office at 10PM...\n",
+    "yax": "Рюки видит Гена и Сему в мозгу Токико. Он также видит план для инициативы Nirvana... Рюки спрашивает ее об этих вещах. Токико уходит, не ответив, сказав Рюки вернуться в кабинет президента в 10 вечера...",
+    "trx": "В мозгу Токико Рюки видит Гена и Шому. Также он видит там план инициативы \"Нирвана\"... Рюки расспрашивает ее об этих вещах. Токико уходит, не ответив, при этом попросив Рюки вернуться в кабинет президента в 10 вечера..."
+  },
+  "flowchart_summary_514": {
+    "src": "Ryuki decides to talk to Gen and Shoma... Gen is a swing and miss. As for Shoma, he learns information regarding a video called the Nirvana Trial, but that's all. Exhausted, Ryuki heads to Yoyagi Park... There, he decides to watch the Nirvana Trial which causes him to hallucinate and lose consciousness. \nHe awakes at night. He hurries to the president's office only to find Tokiko's right half. The culprit must be Tearer, but how did they get in and out? To find the truth, Ryuki and Tama start an investigation. Beyond the waterfall is an elevator... Ryuki gets on and heads underground... He chases after a suspicious person, but they get away. ",
+    "yax": "Рюки решает поговорить с Джен и Шомой... Ген - это замах и промах. Что касается Семы, то он узнает информацию о видео под названием the Nirvana Trial, но это все. Измученный Рюки направляется в парк Йояги... Там он решает посмотреть испытание Нирваной, которое вызывает у него галлюцинации и потерю сознания. \nОн просыпается ночью. Он спешит в кабинет президента только для того, чтобы найти правую половину Токико. Преступник, должно быть, Тирер, но как они вошли и вышли? Чтобы докопаться до истины, Рюки и Тама начинают расследование. За водопадом находится лифт... Рюки садится в машину и направляется под землю... Он гонится за подозрительным человеком, но они убегают. ",
+    "trx": "Рюки решает поговорить с Геном и Шомой... От Гена ничего добиться не получается. Из Шомы же удается лишь вытянуть информацию о видео под названием Nirvana Trial. Измученный Рюки направляется в парк Йояги... Там он решает посмотреть видео Nirvana Trial, что вызывает у него галлюцинации и потерю сознания. \nПросыпается он ночью. Он спешит в на встречу с Токико, но находит в ее кабинете правую половину ее тела. Преступником должен быть Рассекатель, но как вошел туда и вышел? Чтобы докопаться до истины, Рюки и Тама начинают расследование. За водопадом они находят лифт... Рюки садится в кабину и отправляется в ней под землю... Он гонится там за подозрительным человеком, но тому удается сбежать. "
+  },
+  "flowchart_summary_515": {
+    "src": "Ryuki gets an earful from Boss for his previous day's work, resulting in a demotion... She says if he can solve the case in 3 days, she'll cancel the demotion. That being said, solving this case in 3 days is impossible... A dejected Ryuki heads back to Ikume Shrine.\n",
+    "yax": "Рюки получает нагоняй от босса за свою вчерашнюю работу, что приводит к понижению в должности... Она говорит, что если он сможет раскрыть дело за 3 дня, она отменит понижение в должности. Тем не менее, раскрыть это дело за 3 дня невозможно... Удрученный Рюки направляется обратно в храм Икуме.",
+    "trx": "Рюки получает нагоняй от босса за вчерашний провал и в результате понижение в должности... Однако босс обещает отменить понижение, если он сможет раскрыть дело за 3 дня. Но раскрыть это дело за 3 дня невозможно... Удрученный Рюки направляется в храм Икуме.\n"
+  },
+  "flowchart_summary_516": {
+    "src": "After reminiscing about his late brother, Ryuki continues his investigation. At Aioen, he asks Riichi about his investments in Horadori Institute but gets no leads... Lien shows up and proposes to Kizuna with a glass slipper. Kizuna puts her reply on hold and decides to bury the slipper in the garden. Later, on the Ferris wheel, Ryuki asks Shoma about why he lied. He just complains about his father, leaving the answer unknown. Ryuki finds out about Komeji's debt, Gen and Amame's quarrel, and talks to Iris about the increasing number of people who have gone missing after watching the video... Then, the Masked Woman approaches him... Who is she...? The most curious piece of information was the hidden room in Horadori Institute that Lien mentioned. Ryuki decides to head to Horadori Institute...only to run into Komeji with a concealed gun...",
+    "yax": "Вспомнив о своем покойном брате, Рюки продолжает свое расследование. В Aioen он спрашивает Риичи о его инвестициях в Институт Хорадори, но не получает никаких зацепок... Появляется Лиен и делает предложение Кидзуне с помощью хрустальной туфельки. Кидзуна откладывает свой ответ и решает закопать туфельку в саду. Позже, на колесе обозрения, Рюки спрашивает Сему о том, почему он солгал. Он просто жалуется на своего отца, оставляя ответ неизвестным. Рюки узнает о долге Комедзи, ссоре Гена и Амаме и рассказывает Айрис об увеличении числа людей, пропавших без вести после просмотра видео... Затем к нему подходит Женщина в Маске... Кто она? .. Самой любопытной информацией была потайная комната в Институте Орадори, о которой упоминал Лиен. Рюки решает отправиться в Институт Хорадори...только для того, чтобы наткнуться на Комедзи со спрятанным пистолетом...",
+    "trx": "Рюки предается воспоминаниям о своем покойном брате, после чего продолжает расследование. В Айоен он расспрашивает Риичи об его инвестициях в Институт Хорадори, но не получает никаких зацепок... Появляется Лиен и делает предложение Кизуне, используя хрустальную туфельку. Кизуна оттягивает свой ответ и решает закопать туфельку в саду. Позже, на колесе обозрения, Рюки спрашивает Шому о том, почему он солгал. Но тот лишь жалуется на своего отца, ничего не прояснив. Рюки узнает о долге Комедзи, ссоре Гена и Амаме и рассказывает Айрис о росте количества людей, пропавших без вести после просмотра видео... Затем к нему подходит женщина в маске... Кто она...? Самой стоящей зацепкой является информация о потайной комнате в институте Хорадори, о которой упоминал Лиен. Рюки решает отправиться в институт Хорадори... и натыкается там на Комедзи, прячущего пистолет..."
+  },
+  "flowchart_summary_517": {
+    "src": "Subject: Komeji\nObjective: Find out what Andes Komeji is hiding\nSummary: In this world inundated with Yoneharu's ideals, \nfind out the truth and get information on \nwhat he is hiding.",
+    "yax": "Тема: Комедзи\nЦель: Выяснить, что скрывает Андес Комеджи\nКраткое содержание: В этом мире, наводненном идеалами Йонехару, \nузнайте правду и получите информацию о \nчто он скрывает.",
+    "trx": "Субъект: Комедзи\nЦель: Выяснить, что скрывает Андес Комедзи\nКраткое содержание: В этом наводненном идеалами Йонехару мире вам предстоит узнать правду и получить информацию о том, что он скрывает."
+  },
+  "flowchart_summary_518": {
+    "src": "In Komeji's brain, Ryuki and Tama discover the envelope from Horadori Institute. It seems to be related to Shoma. They decide to question Shoma with Komeji's help. However, Komeji is still sleeping... They  need to wait until he wakes up. \n",
+    "yax": "В мозгу Комедзи Рюки и Тама обнаруживают конверт из Института Хорадори. Похоже, это связано с Шомой. Они решают допросить Сему с помощью Комедзи. Однако Комедзи все еще спит... Им нужно подождать, пока он не проснется. ",
+    "trx": "Рюки и Тама обнаруживают в мозгу Комедзи конверт из института Хорадори. Похоже, он как-то связан с Шомой. Они решают допросить Шому при помощи Комедзи. Комедзи, однако, все еще спит... Им нужно подождать, пока он не проснется. "
+  },
+  "flowchart_summary_519": {
+    "src": "One hour later, Ryuki and Komeji head to the Enda residence. Shoma is nowhere to be found, and they discover he has been abducted by Tearer. Using his smartphone's GPS, they discover he is at the Harbor Warehouse District. Ryuki takes the panicking Komeji with him to investigate. \nWhen they arrive, in the distance a researcher is holding Shoma. Seeing that, Komeji gives a strange shriek and rushes toward them. A battle begins. Komeji is easily defeated, but with the help of Mizuki and the Masked Woman, they fight off the enemies. Ryuki retreats with Shoma and Komeji but gets injured while protecting them. The last person to come help is Date. With Date's porno mag power, they are able to finish off the enemies. ",
+    "yax": "Час спустя Рюки и Комедзи направляются в резиденцию Энды. Сему нигде не найти, и они обнаруживают, что он был похищен Тирером. Используя GPS его смартфона, они обнаруживают, что он находится в районе складов Харбор. Рюки берет паникующего Комедзи с собой на расследование. \nКогда они прибывают, вдалеке исследователь держит Сему. Увидев это, Комедзи издает странный крик и бросается к ним. Начинается битва. Комедзи легко побеждают, но с помощью Мизуки и Женщины в Маске они отбиваются от врагов. Рюки отступает вместе с Шомой и Комедзи, но получает травму, защищая их. Последний человек, который пришел на помощь, - это Дата. С помощью силы порномага Date они способны прикончить врагов. ",
+    "trx": "Спустя час Рюки и Комедзи направляются в резиденцию семьи Энда. Шомы нигде не видно, и обнаруживается, что его похитил Рассекатель. При помощи GPS на его смартфоне они обнаруживают, что он находится в районе портовых складов. Рюки берет паникующего Комедзи с собой. \nПрибыв на место, вдалеке они видят исследователя, который держит Шому. Комедзи издает странный крик и бросается к ним. Начинается битва. Комедзи легко побеждают, но с помощью Мизуки и женщины в маске они отбиваются от врагов. Рюки отступает вместе с Шомой и Комедзи, но, защищая их, получает ранение. В последний момент на помощь приходит Датэ. Используя силу порножурналов Датэ, им удается наконец прикончить врагов. "
+  },
+  "flowchart_summary_520": {
+    "src": "Around midnight on the 14th, Ryuki asks Date and Mizuki if they can bring Shoma, Komeji, and the Masked Woman to their home. Ryuki believes it would be easier to talk to him there instead of an interrogation room. \n",
+    "yax": "Около полуночи 14-го Рюки спрашивает Дейта и Мизуки, могут ли они привести Сему, Комедзи и Женщину в Маске к себе домой. Рюки считает, что с ним было бы легче поговорить там, а не в комнате для допросов. ",
+    "trx": "Около полуночи 14 февраля Рюки предлагает Датэ и Мизуки пригласить Шому, Комедзи и женщину в маске к себе домой. Рюки считает, что с ним было бы легче поговорить там, а не в комнате для допросов. "
+  },
+  "flowchart_summary_521": {
+    "src": "There was another reason they went to the Date residence. Ryuki was injured and needs first aid somewhere close to the warehouse district. \nRyuki immediately asks Shoma about the Horadori Institute envelope. Shoma doesn't answer.\nRyuki performs a Wink Psync on the Masked Woman... He sees a nurse which informs the Masked Woman on 2/11 of her remaining life expectancy. She seems dejected by the news.\nThe priority right now is to find out Shoma's relationship with Horadori Institute. It is time for Ryuki to perform a Psync on Shoma...",
+    "yax": "Была еще одна причина, по которой они отправились в резиденцию Свиданий. Рюки был ранен и нуждается в первой помощи где-то недалеко от района складов. \nРюки немедленно спрашивает Сему о конверте Института Хорадори. Сема не отвечает.\nРюки выполняет Псинхронизацию Подмигивания Женщине в Маске... Он видит медсестру, которая сообщает Женщине в Маске 2/11 о ее оставшейся продолжительности жизни. Она, кажется, удручена этой новостью.\nПервоочередная задача сейчас - выяснить отношения Семы с Институтом Хорадори. Пришло время Рюки провести псинхронизацию с Шомой...",
+    "trx": "Была еще одна причина, по которой они отправились в резиденцию Датэ. Рюки был ранен и нуждается в первой помощи недалеко от складского района. \nРюки сразу же спрашивает Шому о конверте из института Хорадори. Шома не отвечает.\nРюки выполняет винк-псинк с женщиной в маске... Он видит медсестру, которая 11 февраля сообщает женщине в маске о том, сколько ей осталось жить. Она, кажется, удручена этой новостью.\nПервоочередная задача сейчас — раскрыть взаимосвязь Шомы с институтом Хорадори. Пришло время Рюки провести псинхронизацию с Шомой..."
+  },
+  "flowchart_summary_522": {
+    "src": "Subject: Shoma\nObjective: Recover Shoma's memories\nSummary: Shoma seems to know the secret of Horadori Institute.\nBy repairing his wounded heart, you might\ndiscover repressed memories.",
+    "yax": "Тема: Шома\nЦель: Восстановить воспоминания Шомы\nКраткое описание: Шома, похоже, знает секрет Института Хорадори.\nИсцелив его раненое сердце, вы могли бы\nоткройте для себя подавленные воспоминания.",
+    "trx": "Субъект: Шома\nЦель: Восстановить воспоминания Шомы\nКраткое описание: Шома, похоже, знает секрет института Хорадори.\nИсцелив его раненое сердце, вы можете\nобнаружить его скрытые воспоминания."
+  },
+  "flowchart_summary_523": {
+    "src": "Shoma's heart holds overflowing love for his father, Komeji. Thanks to Ryuki and Tama's Psync, Shoma is able to be true to his feelings... Now, they should be able to hear the truth from Shoma. \n",
+    "yax": "Сердце Семы переполнено любовью к своему отцу, Комедзи. Благодаря Psync Рюки и Тамы, Сема может быть верен своим чувствам... Теперь они должны иметь возможность услышать правду от Шомы. ",
+    "trx": "Сердце Шомы переполнено любовью к его отцу, Комедзи. Благодаря псинхронизации, выполненной Рюки и Тамой, Шома вновь может быть верен своим чувствам... Теперь они смогут узнать от Шомы правду. "
+  },
+  "flowchart_summary_524": {
+    "src": "After decoding Bats490, Shoma headed to the NAIX cathedral. There, he listened to Tokiko and adopted Naix's teachings. \nAt Horadori Institute, Shoma was tricked by Chikara and had genome experiments done on him, though he did not know what exactly was done...\nWhen Shoma was abducted by the researchers, he met Tearer. Tearer shared his true name with him...\nAt dawn, Shoma gives his repaired origami gold medal to Komeji and tells him that he's the best dad and best comedian in the world.",
+    "yax": "Расшифровав Bats490, Шома направился в собор НАИКС. Там он слушал Токико и перенял учение Найкса. \nВ Институте Хорадори Чикара обманул Сему и провел над ним эксперименты с геномом, хотя он и не знал, что именно было сделано...\nКогда Сема был похищен исследователями, он встретил Тирера. Тирер поделился с ним своим настоящим именем...\nНа рассвете Сема дарит Комеджи свою отремонтированную золотую медаль оригами и говорит ему, что он лучший папа и лучший комик в мире.",
+    "trx": "Расшифровав видео Bats490, Шома оправился в собор NAIX. Там он выслушал речь Токико и принял учение Naix. \nВ институте Хорадори Чикара обманом проводил над Шомой эксперименты с геномом, однако детали этих экспериментов Шоме неизвестны...\nКогда Шома был похищен исследователями, он встретил Рассекателя. Рассекатель раскрыл ему свое настоящее имя...\nНа рассвете Шома дарит Комедзи отремонтированную золотую медаль оригами и говорит ему, что он лучший папа и лучший комик в мире."
+  },
+  "flowchart_summary_525": {
+    "src": "Komeji found something important to someone at Misetan Rooftop Amusement Park and took it with him in a suitcase. He wanted to threaten the owner... What is this \"important thing\"?\n",
+    "yax": "Комедзи нашел что-то важное для кого-то в парке развлечений на крыше Мисетана и взял это с собой в чемодане. Он хотел угрожать владельцу... Что это за \"важная вещь\"?",
+    "trx": "Комедзи нашел в парке развлечений на крыше Мисетан какую-то важную для кого-то вещь и взял это с собой в чемодане. Он хотел шантажировать владельца... Что это за \"важная вещь\"?"
+  },
+  "flowchart_summary_526": {
+    "src": "Komeji became part of an illegal gun trade to pay off his debts. He was nowhere near paying it off, and ultimately Shoma was used to threaten him. That's when Komeji found the \"important thing.\" The owner was Tearer. Komeji was going to use it to get money from Tearer. Ryuki heads to the Enda residence to find it. That's when he is contacted by Tearer and told to meet them at Studio Dvaita... Ryuki goes there right away. He finds Shoma and the three girls from Sekiba High...along with Komeji's right half in a bodybag. Shoma screams and runs  out. Ryuki goes to the amusement park to look for him. He sees Shoma run into the Ferris wheel, and...",
+    "yax": "Комедзи стал частью незаконной торговли оружием, чтобы расплатиться со своими долгами. Он был далек от того, чтобы расплатиться с ним, и в конечном счете Шому использовали, чтобы угрожать ему. Именно тогда Комедзи нашел \"важную вещь\". Владелец был более слезливым. Комедзи собирался использовать его, чтобы получить деньги от Тиррера. Рюки направляется в резиденцию Энды, чтобы найти его. Именно тогда с ним связывается Tearer и говорит встретиться с ними в Studio Dvaita... Рюки сразу же отправляется туда. Он находит Сему и трех девочек из средней школы Секиба...вместе с правой половиной Комедзи в мешке для трупов. Сема кричит и выбегает. Рюки отправляется в парк развлечений, чтобы найти его. Он видит, как Сема врезается в колесо обозрения, и...",
+    "trx": "Комедзи ввязался в незаконную торговлю оружием, чтобы расплатиться со своими долгами. Но он все равно никак не мог с ними расплатиться, и в конечном счете ему стали угрожать, используя Шому. Именно тогда Комедзи нашел эту \"важную вещь\". Она принадлежала Рассекателю. Комедзи намеревался использовать эту вещь, чтобы получить деньги от Рассекателя. Рюки направляется в резиденцию семьи Энда, чтобы найти ее. В этот момент с ним связывается Рассекатель и просит встретиться с ними в студии Двайта... Рюки сразу же отправляется туда. Он находит там Шому и трех девушек из средней школы Секиба... а также правую половину тела Комедзи в мешке для трупов. Шома с криком убегает. Рюки отправляется в парк развлечений, чтобы найти его. Он видит, как Шома садится на колесо обозрения, и..."
+  },
+  "flowchart_summary_527": {
+    "src": "Around midnight on the 14th, Tama announces that it's Valentine's Day, but Ryuki doesn't care. He stands in front of the Ferris wheel waiting for Shoma to get out.\n",
+    "yax": "Около полуночи 14-го числа Тама объявляет, что сегодня День святого Валентина, но Рюки это не волнует. Он стоит перед колесом обозрения и ждет, когда Сема выйдет.",
+    "trx": "Около полуночи 14-го февраля Тама объявляет, что наступил День святого Валентина, но Рюки это не волнует. Он стоит перед колесом обозрения и ждет, когда Шома оттуда выйдет."
+  },
+  "flowchart_summary_528": {
+    "src": "Shoma wasn't even on the Ferris wheel; he disappeared. How? It is now morning. Ryuki reenacts the scene at the studio using Tama's virtual reality function. He finds out that Amame met Tearer. He decides to look for Amame. In the process of looking for her, Ryuki discovers that Amame may have met Tokiko, Tokiko and Chikara's relationship, and the TC-PERGE virus, among other things. Having trouble finding Amame, he goes to Sunfish Pocket to find her there. She has lost her voice. If she can't talk, there's only one thing he can do: Psync.  ",
+    "yax": "Семы даже не было на чертовом колесе; он исчез. Как? Сейчас утро. Рюки воспроизводит сцену в студии, используя функцию виртуальной реальности Tama. Он узнает, что Амаме встретила Тирера. Он решает поискать Амаме. В процессе ее поисков Рюки обнаруживает, что Амаме, возможно, встречалась с Токико, отношения Токико и Чикары, а также вирус TC-PERGE, среди прочего. Испытывая трудности с поиском Амаме, он отправляется в Карман Солнечной Рыбы, чтобы найти ее там. Она потеряла голос. Если она не может говорить, есть только одна вещь, которую он может сделать: Psync.  ",
+    "trx": "Шомы не оказалось на колесе обозрения; он исчез. Как? Сейчас утро. Рюки воспроизводит сцену в студии, используя функцию виртуальной реальности Тамы. Он узнает, что Амаме видела Рассекателя. Он решает поискать Амаме. В процессе ее поисков Рюки обнаруживает, что Амаме, возможно, встречалась с Токико, узнает об отношениях Токико и Чикары, о вирусе TC-PERGE и других вещах. Оставив безуспешные попытки найти Амаме, он отправляется в кафе Sunfish Pocket и обнаруживает ее там. Она потеряла дар речи. Так как она не может говорить, есть только один способ получить информацию: псинхронизация. "
+  },
+  "flowchart_summary_529": {
+    "src": "Subject: Amame\nObjective: Get information on Tearer\nSummary: Amame made contact with Tearer.\nBy competing in the quiz show, you might \nbe able to gain information about Tearer.",
+    "yax": "Тема: Amame\nЦель: Получить информацию о Tearer\nКраткое описание: Амаме вступила в контакт с Тирером.\nУчаствуя в викторине, вы можете \nбыть в состоянии получить информацию о Tearer.",
+    "trx": "Субъект: Амаме\nЦель: Получить информацию о Рассекателе\nКраткое описание: Амаме вступила в контакт с Рассекателем.\nВам придется участвовать в викторине, \nчтобы иметь возможность получить информацию о Рассекателе."
+  },
+  "flowchart_summary_530": {
+    "src": "Amame said \"Nirvana... Collected... Genocide...\" in her dream. It must be related to the Nirvana Initiative. Does it mean the missing people who watched the video are being gathered and killed...?\n",
+    "yax": "Амаме сказал: \"Нирвана... Собранный... Геноцид...\" в ее сне. Это должно быть связано с инициативой Nirvana. Означает ли это, что пропавших людей, которые смотрели видео, собирают и убивают...?",
+    "trx": "В своем сне Амаме произнесла \"Нирвана... Собрала... Геноцид...\". Видимо, это имеет отношение к инициативе \"Нирвана\". Означает ли это, что пропавших людей, которые смотрели видео, собирают и убивают...?"
+  },
+  "flowchart_summary_531": {
+    "src": "Are the rumors true? Ryuki gets a call from Aiba.\nShe says it's an emergency: Kizuna has gone missing.\nAiba asks him to help look for Kizuna. \nLien mentions that Kizuna and the others were going to watch a video together. Could Kizuna have watched the video and gone missing? Ryuki gets a bad feeling in his stomach, Amame's words circling around in his head \"Nirvana... Collected... Genocide...\"",
+    "yax": "Правдивы ли эти слухи? Рюки звонит Айба.\nОна говорит, что это чрезвычайная ситуация: Кидзуна пропал без вести.\nАйба просит его помочь найти Кидзуну. \nЛиен упоминает, что Кидзуна и остальные собирались вместе посмотреть видео. Мог ли Кидзуна посмотреть видео и пропасть? У Рюки появляется неприятное ощущение в животе, в голове крутятся слова Амаме: \"Нирвана... Собранный... Геноцид...\"",
+    "trx": "Правдивы ли эти слухи? Рюки звонит Айба.\nОна рассказывает, что случилось происшествие: Кизуна пропала без вести.\nАйба просит его помочь найти Кизуну. \nЛиен упоминает, что Кизуна и остальные собирались вместе посмотреть видео. Могла ли Кизуна посмотреть видео и пропасть, как остальные? В животе у Рюки появляется неприятное ощущение, а в голове крутятся слова, произнесенные Амаме: \"Нирвана... Собрала... Геноцид...\""
+  },
+  "flowchart_summary_532": {
+    "src": "Ryuki is exhausted from the events of the night before. Kizuna is nowhere to be found. Boss points out that if she went missing because of the video, Tearer might be behind it. She orders Ryuki to continue the search...\n",
+    "yax": "Рюки устал от событий прошлой ночи. Кидзуны нигде нет. Босс указывает, что если она пропала без вести из-за видео, то за этим может стоять Тирер. Она приказывает Рюки продолжать поиски...",
+    "trx": "Рюки устал от событий прошлой ночи. Кизуны нигде нет. Босс отмечает, что если она пропала без вести из-за видео, то за этим может стоять Рассекатель. Она приказывает Рюки продолжать поиски..."
+  },
+  "flowchart_summary_533": {
+    "src": "Ryuki goes all over the city to look for Kizuna. During his search, he runs into Date and Mizuki among others. They decide to work together to find Kizuna... That's when Date gets some unexpected information... A man in an iron mask is at the Sejima residence. Ryuki rushes over there. There, he sees So and Iris collapsed in front of him. Without knowing the circumstances, Ryuki takes Iris and talks to her. She overheard So and Tearer talking in the garden. But due to a concussion, she can't remember the details. A Wink Psync reveals the phrase \"execution chamber.\" Kizuna must be there... If Ryuki can access Iris's memory...",
+    "yax": "Рюки ходит по всему городу в поисках Кидзуны. Во время своих поисков он сталкивается с Датой и Мизуки среди прочих. Они решают работать вместе, чтобы найти Кидзуну... Вот тогда-то Дата и получает неожиданную информацию... Человек в железной маске находится в резиденции Седжима. Рюки бросается туда. Там он видит, что Так и Айрис рухнули перед ним. Не зная обстоятельств, Рюки берет Айрис и разговаривает с ней. Она подслушала разговор Со и Тирера в саду. Но из-за сотрясения мозга она не может вспомнить деталей. Подмигивание Psync показывает фразу \"камера казни\". Кидзуна должен быть там... Если Рюки сможет получить доступ к памяти Айрис...",
+    "trx": "Рюки обходит весь город в поисках Кизуны. Во время своих поисков он сталкивается в том числе с Датэ и Мизуки. Они решают сотрудничать в поисках Кизуны... В этот момент Датэ получает неожиданную информацию... Человек в железной маске находится в резиденции Седзимы. Рюки бросается туда. В резиденции он находит Со, а Айрис теряет перед ним сознание. Не понимая, что происходит, Рюки забирает Айрис и разговаривает с ней. Она подслушала в саду разговор между Со и Рассекателем. Но из-за сотрясения мозга она не может вспомнить деталей. Винк-псинк открывает фразу \"камера для казни\". Кизуна должна быть там... Как же Рюки получить доступ к памяти Айрис..."
+  },
+  "flowchart_summary_534": {
+    "src": "Subject: Iris\nObjective: Make Iris remember what she heard\nSummary: Iris eavesdropped on a conversation between So \nand the suspected culprit, but she lost her memory.\nRetrace Iris's steps and make her remember!",
+    "yax": "Тема: Ирис\nЦель: Заставить Айрис вспомнить то, что она услышала\nКраткое описание: Айрис подслушала разговор между Таким \nи предполагаемый преступник, но она потеряла память.\nПроследите шаги Айрис и заставьте ее вспомнить!",
+    "trx": "Субъект: Айрис\nЦель: Заставить Айрис вспомнить то, что она услышала\nКраткое описание: Айрис подслушала разговор между Со \nи подозреваемым, но она потеряла память.\nПроследите действия Айрис и заставьте ее вспомнить!"
+  },
+  "flowchart_summary_535": {
+    "src": "The Psync revealed that Tearer said the execution chamber was in the abyss of nine Xs. Kizuna must be there, but where is it?\n",
+    "yax": "Psync показал, что Тирер сказал, что камера казни находится в бездне девяти Иксов. Кидзуна должен быть там, но где он?",
+    "trx": "При псинхронизации удалось обнаружить, как Рассекатель сказал, что камера для казни находится в бездне девяти Иксов. Кизуна должна быть там, но где это?"
+  },
+  "flowchart_summary_536": {
+    "src": "The execution chamber is the Naix cathedral. Ryuki arrives with Date, Mizuki, Lien, and Gen. They see Kizuna, tied up. They defeat the groups of Naix members that attack them and reach Kizuna. However, there is a bomb behind her. Tearer has the detonator. Tearer reveals his true name and then presses it. They are all surrounded by explosive fire... An injured Mizuki and Kizuna are carried out by Gen and Lien. Date and Ryuki are stuck in the rubble. Date gives Ryuki his broken Aiba and disappears under the falling rubble. Ryuki lets out a howling cry.",
+    "yax": "Камера казни находится в соборе Наи. Рюки прибывает с Датой, Мизуки, Лиен и Генералом. Они видят связанного Кидзуну. Они побеждают группы членов Naix, которые нападают на них, и добираются до Кидзуны. Однако за ней стоит бомба. У Разрывателя есть детонатор. Разрыватель раскрывает свое истинное имя, а затем нажимает на него. Все они окружены взрывоопасным огнем... Раненых Мизуки и Кидзуну выносят Ген и Лиен. Дата и Рюки застряли в развалинах. Дата отдает Рюки свою сломанную Айбу и исчезает под падающими обломками. Рюки издает воющий крик.",
+    "trx": "Камера для казни находится в соборе Naix. Рюки прибывает на место вместе с Датэ, Мизуки, Лиеном и Геном. Они видят связанную Кизуну. Они побеждают несколько напавших на них групп из членов Naix, и добираются до Кизуны. Однако за ней установлена бомба. Рассекатель держит в руке детонатор. Рассекатель раскрывает свое истинное имя, после чего активирует бомбу. Они оказываются в эпицентре взрыва... Раненых Мизуки и Кизуну выносят Ген и Лиен. Датэ и Рюки застряли под завалом. Датэ отдает Рюки свою сломанную Айбу и исчезает под падающими обломками. Рюки издает воющий крик."
+  },
+  "flowchart_summary_537": {
+    "src": "Ryuki's Somnium reveals the  name \"Dahlia Boat.\" 6 years ago, he and Mizuki heard the word \"boat\"... But where does \"dahlia\" come from? Why did Ryuki know that name...?\n",
+    "yax": "Сон Рюки раскрывает название \"Лодка Далии\". 6 лет назад он и Мизуки услышали слово \"лодка\"... Но откуда взялось слово \"георгин\"? Почему Рюки знал это имя?..",
+    "trx": "Из сомниума Рюки становится известно имя \"Dahlia Boat\". 6 лет назад они с Мизуки услышали слово \"Boat\"... Но откуда взялось слово \"Dahlia\"? Откуда Рюки знал это слово?.."
+  },
+  "flowchart_summary_538": {
+    "src": "After finishing the Psync, Mizuki takes Ryuki to the interrogation room. Ryuki is still dazed and drunk, but she can't slow down for him. Mizuki questions Ryuki.\nWhy did you reverse Psync? How do you know the name?\nRyuki suddenly lets out a creepy laugh and loses consciousness. Aiba advises Mizuki that Ryuki's neural connections have gone haywire and not to continue pressing him. Mizuki resolves to continue the investigation.",
+    "yax": "После завершения Psync Мизуки отводит Рюки в комнату для допросов. Рюки все еще ошеломлен и пьян, но она не может притормозить ради него. Мизуки расспрашивает Рюки.\nПочему вы отменили Psync? Откуда ты знаешь это имя?\nРюки внезапно издает жуткий смешок и теряет сознание. Айба советует Мизуки, что нейронные связи Рюки вышли из строя, и не продолжать давить на него. Мизуки решает продолжить расследование.",
+    "trx": "Завершив псинхронизацию, Мизуки отводит Рюки в комнату для допросов. Рюки все еще ошеломлен и пьян, но она не может отступить. Мизуки расспрашивает Рюки.\nС чего вдруг обратная псинхронизация? Откуда ты знаешь это имя?\nРюки внезапно издает жуткий смешок и теряет сознание. Айба подсказывает Мизуки, что нейронные связи Рюки дали сбой, и просит перестать давить на него. Мизуки решает продолжить расследование."
+  },
+  "flowchart_summary_539": {
+    "src": "February 11. A day after Jin's left half was found at the Stadium. Mizuki goes to Boss to get information about the case. All she finds out is that Ryuki is dangerously unstable and unreliable. \n",
+    "yax": "11 февраля. На следующий день после того, как левая половина Джина была найдена на Стадионе. Мизуки идет к Боссу, чтобы получить информацию об этом деле. Все, что она узнает, это то, что Рюки опасно неуравновешен и ненадежен. ",
+    "trx": "11 февраля. Следующий день после того, как на стадионе была найдена левая половина тела Джина. Мизуки отправляется к Боссу, чтобы получить информацию об этом деле. Но она узнает лишь то, что Рюки опасно неуравновешен и ненадежен. "
+  },
+  "flowchart_summary_540": {
+    "src": "Mizuki uses Aiba's VR function to investigate the stadium. The results show a one-wheeled robot carried the corpse. Was it Shoma's...? Mizuki starts an investigation on Shoma. In the process, she finds out about the video and the Nirvana Trial and runs into a disturbed Ryuki. He says he's headed to Ikume Shrine and leaves. After that, she gets info on Shoma from Gen and she heads to Horadori Institute... She's surrounded by hostile researchers but is rescued by the Masked Woman. After the battle, Kizuna shows up, but something is wrong with there. Mizuki performs a Wink Psync and sees Chikara with a creepy smile on his face...",
+    "yax": "Мизуки использует функцию виртуальной реальности Aiba, чтобы исследовать стадион. Результаты показывают, что труп нес одноколесный робот. Это был Шома?.. Мизуки начинает расследование в отношении Семы. В процессе она узнает о видео и испытании Nirvana и сталкивается с обеспокоенным Рюки. Он говорит, что направляется в храм Икуме, и уходит. После этого она получает информацию о Семе от Гена и направляется в Институт Хорадори... Она окружена враждебно настроенными исследователями, но ее спасает Женщина в Маске. После битвы появляется Кидзуна, но с ним что-то не так. Мизуки выполняет Psync подмигивания и видит Чикару с жуткой улыбкой на лице...",
+    "trx": "Мизуки использует функцию виртуальной реальности Айбы, чтобы исследовать стадион. В результате выясняется, что труп доставил на место одноколесный робот. Робот Шомы...? Мизуки начинает расследование в отношении Шомы. В процессе она узнает о Nirvana Trial и сталкивается с обеспокоенным Рюки. Он говорит, что направляется в храм Икуме, и уходит. Затем она получает от Гена информацию о Шоме и направляется в институт Хорадори... Она окружена враждебно настроенными исследователями, но ее спасает женщина в маске. После битвы появляется Кизуна, но с ней что-то не так. Мизуки выполняет винк-псинк и видит Чикару с жуткой улыбкой на лице..."
+  },
+  "flowchart_summary_541": {
+    "src": "Subject: Kizuna\nObjective: Find the mystery Kizuna hid away\nSummary: Kizuna knows something about Chikara. \nFollowing her story might uncover\nsome hidden memories.",
+    "yax": "Тема: Кидзуна\nЦель: Найти тайну, которую спрятал Кидзуна.\nКраткое описание: Кидзуна кое-что знает о Чикаре. \nСледование ее истории может раскрыть\nкакие-то скрытые воспоминания.",
+    "trx": "Субъект: Кизуна\nЦель: Найти тайну, которую скрывает Кизуна.\nКраткое описание: Кизуна что-то знает о Чикаре. \nЗнакомство с ее историей может раскрыть\nкакие-то спрятанные воспоминания."
+  },
+  "flowchart_summary_542": {
+    "src": "In Kizuna's Psync, Mizuki discovers a terrifying truth in Riichi Chieda's diary: there are genome experiments being carried out at Horadori Institute. Mizuki and Kizuna head to Aioen to find out more about this...\n",
+    "yax": "В Psync Кидзуны Мизуки обнаруживает ужасающую правду в дневнике Риичи Чиэды: в Институте Хорадори проводятся эксперименты с геномом. Мизуки и Кидзуна отправляются в Айоен, чтобы узнать об этом побольше...",
+    "trx": "При псинхронизации Кизуны Мизуки обнаруживает в дневнике Риичи Чиеды ужасающую правду: в институте Хорадори проводятся эксперименты с геномом. Мизуки и Кизуна отправляются в Айоен, чтобы узнать об этом побольше..."
+  },
+  "flowchart_summary_543": {
+    "src": "Mizuki and Kizuna discover more.\nThere was a particular child. A child born from a genome-modified egg. Chikara was performing  experiments in search of eternal youth. The results were unexpected. The child was born with superhuman athletic ability. That child was taken in at Aioen and was adopted by a family when she was 3... Her name was Mizuki. The family name was Okiura...\nMizuki is shocked...\nMy genome was modified... Mom and Daddy weren't my real parents...",
+    "yax": "Мизуки и Кидзуна узнают больше.\nТам был один конкретный ребенок. Ребенок, рожденный из яйцеклетки с измененным геномом. Чикара проводил эксперименты в поисках вечной молодости. Результаты оказались неожиданными. Ребенок родился со сверхчеловеческими спортивными способностями. Этот ребенок был взят в Айоен и был усыновлен семьей, когда ей было 3 года... Ее звали Мизуки. Фамилия семьи была Окиура...\nМизуки в шоке...\nМой геном был изменен... Мама и папа не были моими настоящими родителями...",
+    "trx": "Мизуки и Кизуна узнают кое-что.\nБыл один конкретный ребенок. Ребенок, рожденный из яйцеклетки с измененным геномом. Чикара проводил эксперименты в поисках вечной молодости. Результаты оказались неожиданными. Ребенок родился со сверхчеловеческими спортивными способностями. Этот ребенок воспитывался в Айоен, после чего в 3 года был усыновлен одной семьей... Ребенка звали Мизуки. Фамилия семьи — Окиура...\nМизуки в шоке...\nМой геном был изменен... Мама и папа не были моими настоящими родителями..."
+  },
+  "flowchart_summary_544": {
+    "src": "Early in the morning, there is a report of a body being found at Yoyagi Park. Mizuki heads there and sees Chikara's left half on a stone monument... Mizuki was demoralized because of the events of the previous day, but she restarts her investigation. \n",
+    "yax": "Ранним утром поступило сообщение об обнаружении тела в парке Йояги. Мизуки направляется туда и видит левую половину Чикары на каменном памятнике... Мизуки была деморализована из-за событий предыдущего дня, но она возобновляет свое расследование. ",
+    "trx": "Ранним утром поступило сообщение о том, что парке Йояги обнаружено тело. Мизуки направляется туда и видит левую половину тела Чикары на каменном монументе... Мизуки была деморализована из-за событий предыдущего дня, но она возобновляет свое расследование. "
+  },
+  "flowchart_summary_545": {
+    "src": "While investigating the area, Mizuki finds a challenge from Tearer. \nFind three red and blue balloons.\nMizuki starts the investigation. In the process, she finds out that Ryuki shot at a civilian. \nBoss calls it an unprecedented scandal. \nMizuki finds 2 balloons: 1 at Aioen and another at Ikume Shrine... Where is the last one?\nInfo from Boss implicates Gen, so Mizuki heads to Brahman... Looking in the trash can in the kitchen, she finds a popped balloon. Mizuki interrogates Gen, but he doesn't answer. He doesn't tell her about the piece of paper in the balloon. Mizuki decides to go into Gen's brain. ",
+    "yax": "Исследуя местность, Мизуки сталкивается с вызовом от Тирера. \nНайдите три красных и синих воздушных шара.\nМизуки начинает расследование. В процессе она узнает, что Рюки стрелял в гражданского. \nБосс называет это беспрецедентным скандалом. \nМизуки находит 2 воздушных шара: 1 в Айоен и еще один в храме Икуме... Где же последний?\nИнформация от Босса указывает на Гена, поэтому Мизуки направляется к Брахману... Заглядывая в мусорное ведро на кухне, она находит лопнувший воздушный шарик. Мизуки допрашивает Гена, но тот не отвечает. Он не говорит ей о клочке бумаги в воздушном шаре. Мизуки решает проникнуть в мозг Джен. ",
+    "trx": "Исследуя место происшествия, Мизуки сталкивается с вызовом от Рассекателя. \nТребуется найти три красных с синим воздушных шара.\nМизуки начинает поиски. В процессе она узнает, что Рюки стрелял в гражданского. \nБосс называет это беспрецедентным скандалом. \nМизуки находит 2 воздушных шара: 1 в Айоен и еще один в храме Икуме... Где же последний?\nИнформация от Босса указывает на Гена, поэтому Мизуки направляется в Брахман... Заглянув в мусорное ведро на кухне, она находит лопнувший воздушный шар. Мизуки допрашивает Гена, но тот не отвечает. Он не рассказывает ей о листке бумаги в воздушном шаре. Мизуки решает проникнуть в мозг Гена. "
+  },
+  "flowchart_summary_546": {
+    "src": "Subject: Gen\nObjective: Find the last clue Gen is hiding\nSummary: Gen definitely knows something about the last clue.\nWhere it was hidden, what was written on it...\nFind out the critical information!",
+    "yax": "Тема: Gen\nЦель: Найти последнюю подсказку, которую скрывает Ген.\nКраткое описание: Джен определенно что-то знает о последней подсказке.\nГде он был спрятан, что на нем было написано...\nУзнайте самую важную информацию!",
+    "trx": "Субъект: Ген\nЦель: Найти последнюю подсказку, которую скрывает Ген.\nКраткое описание: Ген определенно что-то знает о последней подсказке.\nГде она была спрятана, что в ней написано...\nУзнайте самую важную информацию!"
+  },
+  "flowchart_summary_547": {
+    "src": "In Gen's Somnium, a piece of paper is found. It's most likely what was in the balloon. Gen had found it in the warehouse district. It's unknown why he was hiding it. One mystery remains...\n",
+    "yax": "В Сомниуме Гена обнаружен клочок бумаги. Скорее всего, это то, что было в воздушном шаре. Джен нашла его в районе складов. Неизвестно, почему он это скрывал. Остается одна загадка...",
+    "trx": "В сомниуме Гена обнаружен бумажный листок. Скорее всего, он и находился в воздушном шаре. Ген нашел его в районе складов. Неизвестно, почему он это скрывал. Остается одна загадка..."
+  },
+  "flowchart_summary_548": {
+    "src": "The 3 pieces of paper together point to Horadori Institute, underground.\nMizuki heads to Horadori Institute. She gets Lien to open the back door, and the two of them head in. \nThey think there must be a hidden room in the basement. During their search, Mizuki hears from Lien about a virus called TC-PERGE. It causes people to act insane and supposedly research is being done on it at Horadori Institute. \nEventually the two of them find a hidden staircase that leads to...",
+    "yax": "3 листочка бумаги вместе указывают на подземный институт Хорадори.\nМизуки направляется в Институт Хорадори. Она просит Лин открыть заднюю дверь, и они вдвоем заходят внутрь. \nОни думают, что в подвале должна быть потайная комната. Во время их поисков Мизуки слышит от Лиен о вирусе под названием TC-PERGE. Это заставляет людей вести себя безумно, и, предположительно, в Институте Хорадори проводятся исследования по этому поводу. \nВ конце концов они вдвоем находят потайную лестницу, которая ведет к...",
+    "trx": "3 листка бумаги указывают на подземелье в институте Хорадори.\nМизуки направляется в институт Хорадори. Она просит Лиена открыть заднюю дверь, и они вдвоем заходят внутрь. \nОни полагают, что в подвале должна быть потайная комната. Во время поисков Мизуки слышит от Лиена о вирусе под названием TC-PERGE. Он заставляет людей вести себя безумно, и, предположительно, в институте Хорадори проводятся его исследования. \nВ конце концов они вдвоем находят потайную лестницу, которая ведет в..."
+  },
+  "flowchart_summary_549": {
+    "src": "Mizuki and Lien step into the Horadori Institute basement. There is a space inside. At first glance, there doesn't appear to be anything special, but they look around for clues. Mizuki and Aiba start their investigation...\n",
+    "yax": "Мизуки и Лиен входят в подвал Института Хорадори. Внутри есть свободное место. На первый взгляд кажется, что здесь нет ничего особенного, но они оглядываются в поисках улик. Мизуки и Айба начинают свое расследование...",
+    "trx": "Мизуки и Лиен спускаются в подвал института Хорадори. Внутри есть комната. На первый взгляд кажется, что в ней нет ничего особенного, но они осматриваются в поисках улик. Мизуки и Айба начинают свое расследование..."
+  },
+  "flowchart_summary_550": {
+    "src": "Under Horadori Institute, Tokiko's left half and 2 slicing machines are found. After checking them, Mizuki goes into a cell to find Tearer's diary. Inside are entries about the Nirvana Initiative and TC-PERGE. \nMizuki gathers more info. It's unrelated to the case, but Lien digs up the time capsule. Eventually, Mizuki ends up at Ikume Shrine in the evening...\nShe gets in a fight with Naix and is again helped by the Masked Woman. \nShe says she was raised at Aioen. Since she received genome treatment at Horadori Institute, she developed heart issues and went blind in one eye. At the end of the conversation, she collapses after a seizure...",
+    "yax": "Под институтом Горадори найдена левая половина Токико и 2 машины для нарезки. Проверив их, Мизуки идет в камеру, чтобы найти дневник Тирера. Внутри находятся записи об инициативе Nirvana и TC-PERGE. \nМизуки собирает больше информации. Это не имеет отношения к делу, но Лиен выкапывает капсулу времени. В конце концов, вечером Мизуки оказывается в храме Икуме...\nОна ввязывается в драку с Найксом, и ей снова помогает Женщина в Маске. \nОна говорит, что выросла в Айоене. С тех пор как она прошла геномное лечение в Институте Орадори, у нее появились проблемы с сердцем, и она ослепла на один глаз. В конце разговора она падает в обморок после припадка...",
+    "trx": "Под институтом Хорадори найдена левая половина тела Токико и 2 машины для рассечения. Осмотрев их, Мизуки идет в камеру, где найти дневник Рассекателя. В нем есть записи об инициативе \"Нирвана\" и TC-PERGE. \nМизуки собирает дополнительную информацию. Это не имеет отношения к делу, но Лиен выкапывает капсулу времени. В конце концов, вечером Мизуки оказывается в храме Икуме...\nОна ввязывается в драку с Naix, и ей снова помогает женщина в маске. \nОна рассказывает, что выросла в Айоен. С тех пор как она прошла геномное лечение в институте Хорадори, у нее появились проблемы с сердцем, и она ослепла на один глаз. В конце разговора она падает в обморок после припадка..."
+  },
+  "flowchart_summary_551": {
+    "src": "Subject: Masked Woman\nObjective: Find the secret hidden in the nightmare\nSummary: The Masked Woman is trapped in a nightmare.\nIf she can escape her trauma,\nthe truth will be revealed. ",
+    "yax": "Тема: Женщина в маске\nЦель: Найти тайну, скрытую в кошмаре\nКраткое описание: Женщина в маске попала в ловушку кошмара.\nЕсли она сможет избежать своей травмы,\nистина будет раскрыта. ",
+    "trx": "Субъект: Женщина в маске\nЦель: Найти тайну, скрытую в кошмаре\nКраткое описание: Женщина в маске попала в ловушку кошмара.\nЕсли она сможет избежать своей травмы,\nбудет раскрыта истина. "
+  },
+  "flowchart_summary_552": {
+    "src": "Inside the Masked Woman's brain are the inhumane experiments of Chikara. At the end of the nightmare, someone mentioned that the initiative was proceeding as planned. Was it Tearer...? Has the Masked Woman met Tearer before...?\n",
+    "yax": "В мозгу Женщины в Маске происходят бесчеловечные эксперименты Чикары. В конце кошмара кто-то упомянул, что инициатива продвигается по плану. Было ли это более слезливым...? Встречалась ли Женщина в Маске с Тирером раньше?..",
+    "trx": "В мозгу женщины в маске запечатлелись бесчеловечные эксперименты Чикары. В конце этого кошмара кто-то упомянул, что инициатива идет по плану. Это был Рассекатель...? Встречались ли женщина в маске и Рассекатель ранее?.."
+  },
+  "flowchart_summary_553": {
+    "src": "The Masked Woman explains the Nirvana Initiative is an attempt to cause \"bugs\" that will lead humanity to Moksha, but nothing beyond that. Mizuki and Aiba decide to find out on their own. From the information they gather, they theorize that a rocket will be launched from the rooftop of Misetan. Mizuki and the Masked Woman head to the scene immediately. They find Ryuki absentmindedly staring at the Ferris wheel. Out of nowhere, the Masked Woman beats up Ryuki. Mizuki is shocked. As a result of their search, they find the rocket. Unfortunately it's too late: Tearer mocks them and claims that the rehearsal has been a success. ",
+    "yax": "Женщина в маске объясняет, что инициатива \"Нирвана\" - это попытка вызвать \"ошибки\", которые приведут человечество к Мокше, но ничего сверх этого. Мизуки и Айба решают выяснить это самостоятельно. Исходя из собранной ими информации, они предполагают, что ракета будет запущена с крыши Мисетана. Мизуки и Женщина в Маске немедленно отправляются на место происшествия. Они обнаруживают, что Рюки рассеянно смотрит на колесо обозрения. Из ниоткуда Женщина в Маске избивает Рюки. Мизуки в шоке. В результате своих поисков они находят ракету. К сожалению, уже слишком поздно: Тирер издевается над ними и утверждает, что репетиция прошла успешно. ",
+    "trx": "Женщина в маске объясняет, что инициатива \"Нирвана\" — это попытка вызвать \"баги\", которые приведут человечество к Мокше, но ничего кроме этого. Мизуки и Айба решают выяснить это самостоятельно. Исходя из собранной ими информации, они предполагают, что ракета будет запущена с крыши Мисетана. Мизуки и женщина в маске немедленно отправляются на место. Они обнаруживают, что Рюки рассеянно смотрит на колесо обозрения. Ни с того ни с сего женщина в маске избивает Рюки. Мизуки в шоке. В результате своих поисков они находят ракету. К сожалению, уже слишком поздно: Рассекатель смеется над ними и утверждает, что репетиция прошла успешно. "
+  },
+  "flowchart_summary_554": {
+    "src": "At dawn, Komeji's left half is found at Misetan. Mizuki heads to the scene to start her investigation. As a result, she finds out that at 5:00AM on the 11th, there was a trespasser acting strangely. What does this all mean...?\n",
+    "yax": "На рассвете левую половину Комедзи находят в Мисетане. Мизуки отправляется на место происшествия, чтобы начать свое расследование. В результате она узнает, что в 5:00 утра 11-го числа нарушитель границы вел себя странно. Что все это значит...?",
+    "trx": "На рассвете в Мисетане находят левую половину тела Комедзи. Мизуки отправляется на место происшествия, чтобы начать свое расследование. В результате она узнает, что в 5:00 11-го февраля появлялся какой-то странный нарушитель. Что все это значит...?"
+  },
+  "flowchart_summary_555": {
+    "src": "At 5:00AM on the 11th, someone removed the left half of a body from the stage. It was Komeji. Komeji was trying to blackmail Tearer with the body. Mizuki finds more clues to continue her investigation. \nAt around 11:00PM, Lien informs her of Kizuna's disappearance. Using GPS, they track her phone. Mizuki heads to the abandoned factory. There, she finds Tearer. She gets in a fight with armed enemies. Mizuki fights them off with ease. But immediately after, she's immobilized by Ryuki's stun bullet. Date comes to the rescue. Tearer is knocked out after being shot by Date's tranquilizer. Mizuki then decides to go into Tearer's brain to find out where Kizuna went. ",
+    "yax": "В 5:00 утра 11-го числа кто-то убрал левую половину тела со сцены. Это был Комедзи. Комеджи пытался шантажировать Тирера телом. Мизуки находит больше улик, чтобы продолжить свое расследование. \nОколо 11:00 вечера Лиен сообщает ей об исчезновении Кидзуны. Используя GPS, они отслеживают ее телефон. Мизуки направляется на заброшенную фабрику. Там она находит Тирера. Она ввязывается в драку с вооруженными врагами. Мизуки с легкостью отбивается от них. Но сразу же после этого она обездвижена парализующей пулей Рюки. Дата приходит на помощь. Тирер вырубается после того, как его подстрелили транквилизатором Дэйта. Затем Мизуки решает проникнуть в мозг Тирера, чтобы выяснить, куда делся Кидзуна. ",
+    "trx": "В 5:00 11-го февраля числа некто забрал левую половину тела с места происшествия. И это был Комедзи. Комедзи пытался шантажировать Рассекателя найденным телом. Продолжая расследование, Мизуки находит другие улики. \nОколо 23:00 Лиен сообщает ей об исчезновении Кизуны. Используя GPS, они отслеживают ее телефон. Мизуки направляется на заброшенную фабрику. Там она обнаруживает Рассекателя. Она ввязывается в драку с вооруженными врагами. Мизуки с легкостью отбивается от них. Но сразу же после этого ее обездвиживает парализующая пуля Рюки. Датэ приходит на помощь. Датэ стреляет в Рассекателя транквилизатором, и тот вырубается. Мизуки решает проникнуть в мозг Рассекателя, чтобы выяснить, куда делась Кизуна. "
+  },
+  "flowchart_summary_556": {
+    "src": "Subject: Tearer\nObjective: Uncover the hidden truth of the iron mask!\nSummary: Tearer seems to know something about\nthe HB case... Uncover the hidden truth\nbehind the iron mask!",
+    "yax": "Тема: Разрыватель\nЦель: Раскройте скрытую правду о железной маске!\nКраткое описание: Тирр, похоже, знает что-то о\nдело НВ... Раскройте скрытую правду\nза железной маской!",
+    "trx": "Тема: Рассекатель\nЦель: Раскройте правду о железной маске!\nКраткое описание: Рассекатель, похоже, знает что-то о\nделе ПТ... Раскройте правду, кроющуюся\nза железной маской!"
+  },
+  "flowchart_summary_557": {
+    "src": "Jin Furue's parents were Tokiko and Chikara. Tearer's Psync revealed this. However, it is still unknown who Tearer is... He seems to have looked up to Tokiko and even called her \"Mom.\"\n",
+    "yax": "Родителями Дзин Фуруэ были Токико и Чикара. Psync Tearer показал это. Однако до сих пор неизвестно, кто такой Тирер... Кажется, он смотрел на Токико снизу вверх и даже называл ее \"мамой\".",
+    "trx": "Родителями Джина Фуруэ были Токико и Чикара. Это обнаружилось в сомниуме Рассекателя. Однако до сих пор неизвестно, кто такой Рассекатель... Кажется, он смотрел на Токико снизу вверх и даже называл ее \"мамой\"."
+  },
+  "flowchart_summary_558": {
+    "src": "Mizuki heads to the abandoned factory to look for Date... There, she sees Tokiko. Tokiko admits she is Jin Furue's mother and that Chikara is the father. \nChikara said that Jin must be the \"Almighty.\"\nThat's when Tearer makes an appearance. Tearer talks about the Nirvana Initiative and says he needs to exterminate some rats before he can continue.\nDate comes to the rescue to save Mizuki again. Date's shot shatters Tearer's mask. His face is revealed and Mizuki is shocked... It is Jin Furue's, who is already dead...",
+    "yax": "Мизуки направляется на заброшенную фабрику, чтобы найти Дату... Там она видит Токико. Токико признается, что она мать Дзин Фуруэ, а отец - Чикара. \nЧикара сказал, что Джин, должно быть, \"Всемогущий\".\nВот тогда-то и появляется Тирер. Тирер рассказывает об инициативе Nirvana и говорит, что ему нужно уничтожить несколько крыс, прежде чем он сможет продолжить.\nДата приходит на помощь, чтобы снова спасти Мизуки. Выстрел Дэйта разбивает маску Слезоточивого. Его лицо открыто, и Мизуки в шоке... Это Цзинь Фуруэ, который уже мертв...",
+    "trx": "Мизуки возвращается на заброшенную фабрику, чтобы найти Датэ... Там она встречает Токико. Токико признается, что она является матерью Джина Фуруэ, а его отец — Чикара. \nЧикара называл Джина \"Almighty\".\nВ этот момент появляется Рассекатель. Рассекатель рассказывает об инициативе \"Нирвана\" и говорит, что ему нужно уничтожить несколько крыс, прежде чем он сможет продолжить.\nДатэ приходит на помощь, снова спасая Мизуки. Выстрел Датэ разбивает маску Рассекателя. Его лицо открывается, и Мизуки в шоке... Им оказался Джин Фуруэ, который уже мертв..."
+  },
+  "flowchart_summary_559": {
+    "src": "繝槭ぃ繝悶Ν縺ｫ縺ｦ窶ｦ縺ｾ縺ｾ縺御ｺ代≧窶ｦ\nHB騾」邯壽ｮｺ莠ｺ莠倶ｻｶ窶ｦ縺ゅ↑縺溘ワ繧ゅ≧繧上°縺」縺ｦ繧九ｓ縺倥ｃ繝翫う窶ｦ迥ｯ莠ｺ縺ｮ縺ｦ縺ゅΛ繧。窶ｦ繧ｽ繝取ｭ」菴薙´隱ｰ繝翫ヮ繧ｫ窶ｦ\n",
+    "yax": "繝槭ぃ繝悶Ν縺ｫ縺ｦ窶ｦ縺ｾ縺ｾ縺御ｺ代≧窶ｦ\nHB騾\"邯壽ｮｺ莠ｺ莠倶ｻｶ窶ｦ縺ゅ↑縺溘ワ繧ゅ≧°繧上 縺\"縺ｦ繧九ｓ縺倥ｃ繝翫う窶ｦ迥ｯ莠ｺ縺ｮ縺ｦ縺ゅΛ繧。窶ｦ繧ｽ繝取ｭ\"菴薙隱ｰ繝翫ヮ繧ｫ窶ｦ",
+    "trx": null
+  },
+  "flowchart_summary_560": {
+    "src": "Mizuki was born from the modified DNA of the Masked Woman. Mizuki used to call her \"Bibi\" when she was younger. Bibi and Mizuki head to Brahman. They find Date, and inside the freezer, the left half of a body. Everyone explains the situation. Afterward, Mizuki heads to the cathedral and finds a hand-written letter from Tokiko, and everything starts to make sense. \nAnother hidden passage leads to another cathedral. She finds Ryuki lamenting his mistakes... After a pep talk from Date, Ryuki recovers, and everyone formulates a plan. Uru's Nirvana Initiative is most likely going to start soon. They need Amame to look for more clues... But Gen and Shoma stand in their way. ",
+    "yax": "Мизуки родилась из модифицированной ДНК Женщины в Маске. Мизуки называла ее \"Биби\", когда она была моложе. Биби и Мизуки направляются к Брахману. Они находят Финик, а в морозильнике - левую половину тела. Все объясняют ситуацию. После этого Мизуки направляется в собор и находит написанное от руки письмо от Токико, и все начинает обретать смысл. \nЕще один потайной ход ведет в другой собор. Она находит Рюки, сокрушающегося о своих ошибках... После напутственной речи от Date Рюки приходит в себя, и все формулируют план. Инициатива Uru Nirvana, скорее всего, скоро начнется. Им нужна помощь, чтобы найти больше улик... Но Джен и Шома стоят у них на пути. ",
+    "trx": "Мизуки родилась из модифицированной ДНК женщины в маске. В детстве Мизуки называла ее \"Биби\". Биби с Мизуки направляются в Брахман. Они находят Датэ, а в морозильнике — левую половину тела. Они обмениваются информацией. После этого Мизуки направляется в собор, где находит написанное от руки письмо от Токико, и все начинает обретать смысл. \nЕще один потайной ход ведет в другой собор. В нем она находит Рюки, сокрушающегося о своих ошибках... После напутственной речи от Датэ Рюки приходит в себя, и все присутствующие разрабатывают план. Инициатива \"Нирвана\", разработанная Уру, скорее всего, скоро начнется. Им нужна Амаме, чтобы найти дополнительные подсказки... Но Ген и Шома встают у них на пути. "
+  },
+  "flowchart_summary_561": {
+    "src": "Subject: Amame\nObjective: Uncover Amame's secret\nSummary: Amame knows info about the Nirvana Initiative,\nbut for some reason, she's hiding it...\nUse the intel you got from Ryuki to find out.",
+    "yax": "Тема: Amame\nЦель: Раскрыть секрет Амаме\nКраткое описание: Amame знает информацию об инициативе Nirvana,\nно по какой-то причине она это скрывает...\nИспользуй информацию, которую ты получил от Рюки, чтобы выяснить это.",
+    "trx": "Субъект: Амаме\nЦель: Раскрыть секрет Амаме\nКраткое описание: Амаме знает информацию об инициативе \"Нирвана\", но по какой-то причине ее скрывает...\nИспользуйте информацию, которую вы получили от Рюки, чтобы выяснить все."
+  },
+  "flowchart_summary_562": {
+    "src": "Mizuki Psyncs into Amame to find a terrible truth. \nTearer, Uru Somezuki, was killed by Amame. Tokiko wasn't killed, she committed suicide. But why?\n",
+    "yax": "Мизуки проникает в Амаме, чтобы узнать ужасную правду. \nРазрушитель, Уру Сомедзуки, был убит Амаме. Токико не была убита, она покончила с собой. Но почему?",
+    "trx": "Проникнув в сомниум Амаме, Мизуки узнает ужасную правду. \nРассекатель, Уру Сомедзуки, был убит Амаме. Токико не была убита, она покончила с собой. Но почему?"
+  },
+  "flowchart_summary_563": {
+    "src": "Amame's confession reveals what lead to Uru's murder. Amame acknowledges that she committed a crime and expresses remorse, but...\nThat still doesn't explain Tokiko. There's no time to think about it. The Nirvana Initiative is about to start. We need to find out where it's happening!\nThat's when Mizuki remembers, \"the intersection between the warp and weft, that's where the seam can occur.\" With this and where the half bodies were found in mind, they determine the location: the stadium. They race there right away and are met by a large number of enemies. What is Mizuki's plan? Can she stop the spread of TC-PERGE?! With snow falling strong, the final battle begins. ",
+    "yax": "Признание Амаме раскрывает то, что привело к убийству Уру. Амаме признает, что совершила преступление, и выражает раскаяние, но...\nЭто все еще не объясняет Токико. Нет времени думать об этом. Инициатива \"Нирвана\" вот-вот начнется. Нам нужно выяснить, где это происходит!\nИменно тогда Мизуки вспоминает: \"Пересечение основы и утка - вот где может возникнуть шов\". Учитывая это и то, где были найдены половинки тел, они определяют местоположение: стадион. Они сразу же устремляются туда, и их встречает большое количество врагов. Каков план Мизуки? Может ли она остановить распространение TC-PERGE?! С сильным снегопадом начинается финальная битва. ",
+    "trx": "Признание Амаме раскрывает факты, которые привели к убийству Уру. Амаме признает, что совершила преступление, и выражает раскаяние, но...\nЭто все еще не объясняет смерть Токико. Нет времени думать об этом. Инициатива \"Нирвана\" вот-вот начнется. Нужно выяснить, где это произойдет!\nИменно тогда Мизуки вспоминает: \"пересечение основы и утка — вот где может возникнуть шов\". Учитывая это и места, в которых были найдены половины тел, они определяют местоположение: стадион. Они сразу же устремляются туда, и встречаются с большим количеством врагов. Что планирует Мизуки? Сможет ли она остановить распространение TC-PERGE?! Под сильным снегопадом начинается финальная битва. "
+  },
+  "flowchart_summary_564": {
+    "src": "A week later, Friday 2/22. Mizuki and Bibi head to Boss's office. Boss congratulates Mizuki and Bibi's work and says she'll give them a gift. She says their friends know where the gift is...\n",
+    "yax": "Неделю спустя, в пятницу 2/22. Мизуки и Биби направляются в кабинет Босса. Босс поздравляет Мизуки и Биби с работой и говорит, что сделает им подарок. Она говорит, что их друзья знают, где находится подарок...",
+    "trx": "22 февраля, пятница, неделю спустя. Мизуки и Биби отправляются в кабинет Босса. Босс поздравляет Мизуки и Биби с завершением работы и говорит, что сделает им подарок. Она сообщает, что их друзья знают, где находится этот подарок..."
+  },
+  "flowchart_summary_565": {
+    "src": "Mizuki and Bibi go around and gather info from their friends. They learn their gift is at the stadium. A one-wheeled robot brings them a gift box. Inside is Ryuki. They can hear Tama's voice as well. Yes, the two of them are safe and sound.\nAfter that, Lien holds Kizuna... The two of them start dancing a congratulatory dance. The others gather. Things are heating up. \nThe stadium was shaking with happiness as joyous voices echo forever.",
+    "yax": "Мизуки и Биби ходят по округе и собирают информацию у своих друзей. Они узнают, что их дар находится на стадионе. Одноколесный робот приносит им подарочную коробку. Внутри находится Рюки. Они также могут слышать голос Тамы. Да, они оба целы и невредимы.\nПосле этого Лиен удерживает Кидзуну... Они вдвоем начинают танцевать поздравительный танец. Остальные собираются. Ситуация накаляется. \nСтадион дрожал от счастья, а радостные голоса эхом отдавались вечно.",
+    "trx": "Мизуки и Биби ходят по округе и собирают информацию у своих друзей. Они узнают, что их подарок находится на стадионе. Одноколесный робот привозит подарочную коробку. Внутри находится Рюки. Они также слышат голос Тамы. Да, они оба целы и невредимы.\nПосле этого Лиен берет Кизуну на руки... Они вдвоем начинают танцевать поздравительный танец. Собираются остальные. Становится горячее. \nСтадион дрожит от счастья, а радостные голоса раздаются эхом до бесконечности."
+  },
+  "flowchart_summary_566": {
+    "src": "Inside the Masked Woman's brain is Chikara's inhumane human experiments. At the end is someone Mizuki knows well. \n18 years old... The only successful specimen from the Horadori experiments...\n",
+    "yax": "В мозгу Женщины в Маске находятся бесчеловечные эксперименты Чикары над людьми. В конце есть кто-то, кого Мизуки хорошо знает. \n18 лет... Единственный успешный образец из экспериментов Хорадори...",
+    "trx": "В мозгу женщины в маске запечатлелись бесчеловечные эксперименты Чикары над людьми. В конце этого кошмара был кто-то, кого Мизуки хорошо знает. \nЕго возраст — 18 лет... Единственный успешный образец среди подопытных Хорадори..."
+  },
+  "flowchart_summary_567": {
+    "src": "Mizuki talks to the Masked Woman in the interrogation room. Apparently, Chikara succeeded with his experiments of eternal life and youth. He couldn't completely stop aging, but he was able to slow it down to a crawl. \nThe Masked Woman explains he could alter the DNA of even an adult human.\nMizuki asks if Shoma is a victim of the experiments as well.\nThe Masked Woman responds that yes, he is cursed with eternal youth...",
+    "yax": "Мизуки разговаривает с Женщиной в маске в комнате для допросов. По-видимому, Чикара преуспел в своих экспериментах с вечной жизнью и молодостью. Он не мог полностью остановить старение, но смог замедлить его до ползания. \nЖенщина в маске объясняет, что он может изменить ДНК даже взрослого человека.\nМизуки спрашивает, не является ли Сема тоже жертвой экспериментов.\nЖенщина в Маске отвечает, что да, он проклят вечной молодостью...",
+    "trx": "Мизуки разговаривает с женщиной в маске в комнате для допросов. Судя по всему, Чикара преуспел в своих экспериментах с вечной жизнью и молодостью. Он не смог полностью остановить старение, но у него получилось очень сильно его замедлить. \nЖенщина в маске объясняет, что он может изменить ДНК даже взрослого человека.\nМизуки спрашивает, не является ли Шома еще одной жертвой экспериментов.\nЖенщина в маске отвечает, что да, он проклят вечной молодостью..."
+  },
+  "flowchart_summary_568": {
+    "src": "Mizuki heads to the Enda Residence to meet with Shoma. There, she hears about the hidden safe in the cathedral. Apparently there is a file hidden there regarding Tokiko's secret. \n",
+    "yax": "Мизуки направляется в резиденцию Энды, чтобы встретиться с Семой. Там она слышит о спрятанном сейфе в соборе. Очевидно, там спрятан файл, касающийся секрета Токико. ",
+    "trx": "Мизуки направляется в резиденцию семьи Энда, чтобы встретиться с Шомой. Там она узнает о том, что в соборе спрятан сейф. Очевидно, в нем находится папка, касающаяся секрета Токико. "
+  },
+  "flowchart_summary_569": {
+    "src": "The stairs that lead down to the cathedral collapsed because of the explosion 6 years ago, but Shoma says there is another way. Mizuki investigates but finds the door is locked.\nMizuki goes to the park to look for Lien, the master locksmith. She sees Kizuna. Kizuna says to Lien that she wants to break up with him.\nMizuki sympathizes with Lien but asks him to help with her investigation. Lien won't listen. Mizuki performs a Wink Psync on Lien. She discovers that since Lien opened a lock somewhere, he saw something related to the HB case. ",
+    "yax": "Лестница, ведущая вниз к собору, обрушилась из-за взрыва 6 лет назад, но Шома говорит, что есть другой путь. Мизуки исследует, но обнаруживает, что дверь заперта.\nМизуки отправляется в парк на поиски Лиена, мастера-слесаря. Она видит Кидзуну. Кидзуна говорит Лиен, что она хочет порвать с ним.\nМизуки сочувствует Лиену, но просит его помочь ей в расследовании. Лиен не хочет слушать. Мизуки выполняет Псинхронизацию подмигивания на Лиен. Она обнаруживает, что с тех пор, как Лиен где-то открыл замок, он увидел что-то, связанное с делом HB. ",
+    "trx": "Лестница, спускающаяся в собор, обрушилась при взрыве 6 лет назад, но Шома сообщает, что есть другой путь. Мизуки идет туда, но обнаруживает, что дверь заперта.\nМизуки отправляется в парк на поиски Лиена, мастера-слесаря. Она встречает там Кизуну. Кизуна говорит Лиену, что она хочет порвать с ним.\nМизуки сочувствует Лиену, но просит его помочь ей в расследовании. Лиен не хочет слушать. Мизуки выполняет винк-псинк с Лиеном. Она обнаруживает, что однажды Лиен открыл какой-то замок и увидел нечто, связанное с делом ПТ. "
+  },
+  "flowchart_summary_570": {
+    "src": "Subject: Lien\nObjective: Open Lien's secret safe \nSummary: Lien seems to have information about the HB case.\nBy unlocking the safe, you might discover the secret.",
+    "yax": "Тема: Залоговое удержание\nЦель: Открыть секретный сейф Лена. \nКраткое описание: У Lien, похоже, есть информация о деле HB.\nОткрыв сейф, вы можете раскрыть секрет.",
+    "trx": "Субъект: Лиен\nЦель: Открыть потайной сейф Лена. \nКраткое описание: У Лиена, похоже, есть информация о деле ПТ.\nОткрыв сейф, вы можете раскрыть секрет."
+  },
+  "flowchart_summary_571": {
+    "src": "By syncing into Lien, a important truth is uncovered. \nLien unlocked the freezer at Brahman for Gen. When he opened the door...he saw the left half of a corpse.",
+    "yax": "При синхронизации с Lien раскрывается важная истина. \nЛиен открыл морозильную камеру в Брахмане для генерала. Когда он открыл дверь... он увидел левую половину трупа.",
+    "trx": "При псинхронизации с Лиеном раскрывается важная информация. \nЛиен открыл в Брахмане морозильную камеру по просьбе Гена. Когда он открыл дверь... он увидел там левую половину трупа."
+  },
+  "flowchart_summary_572": {
+    "src": "Mizuki takes Lien to Brahman. Gen is nowhere to be found, but she doesn't have time to get permission from the owner. She needs to confirm what she saw in Lien's Somnium...\nMizuki orders Lien to open the lock on the freezer. Lien begrudgingly obliges and unlocks the freezer. Inside the freezer is...\n\"Who is this...?\"\nIt is the left half of an unknown person... There's a distinct mark on the face, but Mizuki doesn't know who it is...\nGen and Amame arrive at the scene, so Mizuki decides to start a conversation with everyone there.",
+    "yax": "Мизуки отводит Лиен к Брахману. Джен нигде не видно, но у нее нет времени получить разрешение от владельца. Ей нужно подтвердить то, что она видела в Сомниуме Лиен...\nМизуки приказывает Лиен открыть замок на морозильнике. Лиен неохотно соглашается и открывает морозильник. Внутри находится морозильная камера...\n\"Кто это?..\"\nЭто левая половина неизвестного человека... На лице отчетливая отметина, но Мизуки не знает, кто это...\nГен и Амаме прибывают на место происшествия, поэтому Мизуки решает начать разговор со всеми присутствующими.",
+    "trx": "Мизуки отводит Лиена в Брахман. Гена нигде не видно, но у нее нет времени спрашивать разрешение у владельца. Ей нужно подтвердить то, что она видела в сомниуме Лиена...\nМизуки приказывает Лиену открыть замок на морозильнике. Лиен неохотно соглашается и открывает морозильник. Внутри морозильника...\n\"Кто это...?\"\nЭто левая половина тела неизвестного человека... На лице видна отчетливая отметина, но Мизуки не знает, кто это...\nГен и Амаме прибывают на место происшествия, поэтому Мизуки решает поговорить со всеми присутствующими."
+  },
+  "flowchart_summary_573": {
+    "src": "Gen, Lien, and Amame are interrogated by Mizuki. The three of them say they know nothing about the body. Gen will not answer why there's a corpse in the freezer.\n",
+    "yax": "Ген, Лиен и Амаме допрашиваются Мизуки. Все трое говорят, что ничего не знают о теле. Джен не ответит, почему в морозильной камере лежит труп.",
+    "trx": "Мизуки допрашивает Гена, Лиена и Амаме. Все трое говорят, что ничего не знают о теле. Ген не говорит, почему в морозильной камере лежит труп."
+  },
+  "flowchart_summary_574": {
+    "src": "Mizuki leaves the restaurant to find she's surrounded by SAT. A battle begins, but another Gen shows up at the scene. \nThe true identity of the other Gen is Date. Date gets rid of the enemies with perverted powers, and they all head to the old machine room in the park. \nMizuki asks Date about the 6 years he was gone. She finds out it was Amame who asked Gen to hide the corpse. \nAgain they are attacked by SAT. Mizuki surrenders, but Amame steals a gun and runs out. Gen gets mobbed trying to help her. Seeing this, Amame pulls the trigger. The SAT is given permission to shoot and the echo of shots resonate into the night. Gen is shot protecting Amame... Gen passes away as he tells Amame how grateful he is to her. ",
+    "yax": "Мизуки выходит из ресторана и обнаруживает, что ее окружает САТ. Начинается битва, но на месте происшествия появляется другой Ген. \nИстинная личность другого поколения - это Дата. Дата избавляется от врагов с извращенными способностями, и все они направляются в старую машинную комнату в парке. \nМизуки спрашивает Дейта о тех 6 годах, когда его не было. Она узнает, что это Амаме попросила Джена спрятать труп. \nСнова на них нападает СБ. Мизуки сдается, но Амаме крадет пистолет и убегает. Джен окружает толпа, пытающаяся ей помочь. Видя это, Амаме нажимает на спусковой крючок. СБ получает разрешение на съемку, и эхо выстрелов разносится в ночи. Ген застрелен, защищая Амаме... Ген умирает, когда говорит Амаме, как он ей благодарен. ",
+    "trx": "Мизуки выходит из ресторана, и тут ее окружает SAT. Начинается битва, но тут вдруг появляется другой Ген. \nИстинная личность другого Гена — это Датэ. Датэ избавляется от врагов при помощи своих извращенных способностей, и все они направляются в старое машинное отделение в парке. \nМизуки спрашивает Датэ о том, что он делал все эти 6 лет. Она узнает, что спрятать труп у Гена попросила Амаме. \nНа них снова нападает SAT. Мизуки сдается, но Амаме крадет пистолет и убегает. На пытающегося ей помочь Гена набрасывается толпа. Видя это, Амаме нажимает на спусковой крючок. SAT получает добро стрелять на поражение, и в ночи разносится эхо выстрелов. Ген застрелен, защищая Амаме... Умирая, Ген говорит Амаме, как он ей благодарен. "
+  },
+  "flowchart_summary_575": {
+    "src": "Lien's feelings for Kizuna are pure, like a young child's. That's all that can be concluded by syncing into him. No clues to the HB case. Mizuki is troubled by this because she can't really take out her anger on him. \n",
+    "yax": "Чувства Лиен к Кидзуне чисты, как у маленького ребенка. Это все, что можно сделать, синхронизировавшись с ним. Никаких зацепок к делу НВ. Мизуки это беспокоит, потому что она не может по-настоящему выместить на нем свой гнев. ",
+    "trx": "Чувства Лиен к Кизуне чисты, как у младенца. Из его сомниума удалось понять только это. Никаких зацепок по делу ПТ. Мизуки это беспокоит, потому что она не может по-настоящему выместить на нем свой гнев. "
+  },
+  "flowchart_summary_576": {
+    "src": "The Masked Woman presents a video. It's Riichi Chieda threatening to get Lien arrested and Kizuna crying helplessly. Mizuki realizes she can use this to get Lien to help her.\nLien opens the key to the stairs, and the two of them head to the cathedral. Mizuki, as promised, tells Lien about the footage that was sent to her. Though initially troubled, Lien is happy about the news.\nThe two of them look for the hidden safe. Having felt something fishy about the ritual stand, Mizuki destroys it... There, she finds another victim of the HB case...",
+    "yax": "Женщина в маске представляет видео. Это Риичи Чиеда, угрожающий арестовать Лена, и Кидзуна, беспомощно плачущий. Мизуки понимает, что она может использовать это, чтобы заставить Лиен помочь ей.\nЛиен открывает ключом лестницу, и они вдвоем направляются в собор. Мизуки, как и обещала, рассказывает Лиен о отснятом материале, который ей прислали. Несмотря на то, что поначалу Лиен встревожена, она рада этой новости.\nОни вдвоем ищут спрятанный сейф. Почувствовав что-то подозрительное в ритуальной подставке, Мизуки уничтожает ее... Там она находит еще одну жертву дела НВ...",
+    "trx": "Женщина в маске показывает видео. На нем Риичи Чиеда, угрожающий арестовать Лиена, и беспомощно плачущая Кизуна. Мизуки понимает, что она может это использовать, чтобы заставить Лиена ей помочь.\nЛиен открывает дверь на лестницу, и они вдвоем направляются в собор. Мизуки, как и обещала, рассказывает Лиену о присланном ей видеоматериале. Хоть Лиен поначалу и встревожился, он все же рад этой новости.\nОни вдвоем ищут потайной сейф. Почувствовав что-то подозрительное в ритуальном постаменте, Мизуки разбивает его... Внутри она находит еще одну жертву по делу ПТ..."
+  },
+  "flowchart_summary_577": {
+    "src": "There is a right half of a corpse in the ritual pedestal. It's unknown who this person was. Why is it there...? Mizuki searches for answers and looks for the hidden safe again.\n",
+    "yax": "На ритуальном постаменте находится правая половина трупа. Неизвестно, кем был этот человек. Почему это там...? Мизуки ищет ответы и снова ищет спрятанный сейф.",
+    "trx": "В ритуальном постаменте находится правая половина трупа. Неизвестно, кем был этот человек. Почему он здесь...? Мизуки ищет ответы, а также продолжает искать потайной сейф."
+  },
+  "flowchart_summary_578": {
+    "src": "She eventually finds the hidden safe. Inside it is a note from Tokiko... By reading it, Mizuki discovers it's Uru Somezuki's body in the pedestal. He was confined in the basement of Horadori Institute and was used as Jin Furue's organ donor. Uru was the true identity of Tearer. \nAfterwards at Aioen, Lien decides to tell Kizuna they should elope. \nKizuna agrees, but they are attacked by an armed squad. The Masked Woman comes to the rescue. After the battle, her mask comes off and her face is revealed. Mizuki is shocked but prioritizes Lien and Kizuna's escape and watches them ride away together. She is attacked by more enemies. Mizuki makes her ally promise that she'll tell her everything when this battle is over.",
+    "yax": "В конце концов она находит спрятанный сейф. Внутри записка от Токико... Прочитав его, Мизуки обнаруживает, что это тело Уру Сомедзуки на пьедестале. Он был заключен в подвал института Орадори и использовался в качестве донора органов Цзинь Фуруэ. Уру был истинной личностью Тирера. \nПосле этого в Айоене Лиен решает сказать Кидзуне, что им следует сбежать. \nКидзуна соглашается, но на них нападает вооруженный отряд. Женщина в Маске приходит на помощь. После битвы ее маска снимается, и открывается ее лицо. Мизуки в шоке, но отдает приоритет побегу Лиен и Кидзуны и наблюдает, как они уезжают вместе. На нее нападает все больше врагов. Мизуки заставляет свою союзницу пообещать, что она расскажет ей все, когда эта битва закончится.",
+    "trx": "В конце концов она находит потайной сейф. Внутри — записка от Токико... Прочитав ее, Мизуки обнаруживает, что в постаменте находится тело Уру Сомедзуки. Он был заперт в подвале института Хорадори и использовался в качестве донора органов для Джина Фуруэ. Уру был истинной личностью Рассекателя. \nПосле этого в Айоен Лиен решает сказать Кизуне, что им лучше сбежать. \nКизуна соглашается, но на них нападает вооруженный отряд. Женщина в маске приходит на помощь. После битвы маска с нее падает, и открывается ее лицо. Мизуки в шоке, но отдает приоритет побегу Лиена и Кизуны и наблюдает, как они вместе уезжают. На нее нападает все больше врагов. Мизуки заставляет свою союзницу пообещать, что она расскажет ей все, когда эта битва закончится."
+  },
+  "flowchart_summary_579": {
+    "src": "繝九Ν繝翫Φ繝舌ぃ繧貞相縺偵◆逶ｴ繧ｴ窶ｦ鮴肴惠縺ｯ蜀阪ン蟷ｻ隕壹↓隘ｲ繧上ｌ繝ｫ窶ｦ豌励'縺､縺上→窶ｦ繧ｿ繝槭ヮ讖溘ヮ繧ｦ縺ｯ蛛懈ｭ｢荳ｭ窶ｦ蝓ｷ蜍呎惻縺ｮ荳翫↓縺ｯ譎る岑縺ｮ蜿ｳ蜊願ｺｫ縺梧ｨｪ縺溘ｏ縺｣縺ｦ繧､繧ｿ窶ｦ\n",
+    "yax": "繝九Ν繝翫Φ繝舌ぃ繧貞相縺偵◆逶ｴ繧ｴ窶ｦ鮴肴惠縺ｯ蜀阪ン蟷ｻ隕壹↓隘ｲ繧上ｌ繝ｫ窶ｦ豌励'縺､縺上→窶ｦ繧ｿ繝槭ヮ讖溘ヮ繧ｦ縺ｯ蛛懈ｭ\"荳ｭ窶ｦ蝓ｷ蜍呎惻縺ｮ荳翫↓縺ｯ譎る岑縺ｮ蜿ｳ蜊願ｺｫ縺梧ｨｪ縺溘ｏ縺\"縺ｦ繧､繧ｿ窶ｦ",
+    "trx": null
+  },
+  "flowchart_summary_580": {
+    "src": "荳ｻ螳ｰ螳､縺ｮ螢√ｒ遯√″謚懊￠繧九→窶ｦ荳阪す隴ｰ縺ｪ遨ｺ髢薙'繝偵Ο縺後▲縺ｦ繧､繧ｿ窶ｦ縺昴％縺ｫ繧､繧ｿ縺ｮ縺ｯ譎る岑窶ｦ蠖ｼ螂ｳ縺ｯ蝠上＞縺九￠縺ｦ縺上ｋ窶ｦ縺ｪ縺懊≠縺ｪ縺溘ワ繝九Ν繝翫Φ繝舌ぃ繧堤衍縺｣縺ｦ繧､繧ｿ縺ｮ縺九→窶ｦ縺昴ｌ縺ｯ鮴肴惠縺梧ｱｺ縺励※遏･繧雁ｾ励ｋ縺ｯ縺壹ヮ繝翫う繧ｸ繝ｧ繧ｦ蝣ｱ窶ｦ譏弱ｉ縺九↑隲也炊遏帷崟窶ｦ縺昴ヮ遏帷崟繧堤､ｺ縺励◆縺薙→縺ｧ窶ｦ螟ｧ縺阪↑邯ｻ縺ｳ縺碁愆蜻医＠縺溘ヮ逕ｰ縺ｨ譎る岑縺ｯ莠代≧窶ｦ縺昴ヮ邨先棡窶ｦ譎る岑縺ｯ隗｣閼ｱ繧偵↑縺鈴≠縺偵◆窶ｦ縺吶∋縺ｦ縺ｯ縺昴ヮ縺溘ａ縺ｫ陦後ｏ繧後◆縺ｮ逕ｰ窶ｦ繧､繝､窶ｦ縺薙ｌ縺九ｉ陦後ｏ繧後ｋ縺ｮ逕ｰ窶ｦ蜈ｭ蟷ｴ縺ｮ豁ｳ譛医ｒ縺九￠縺ｦ窶ｦ縺ｪ縺ｫ繧ゅ°繧ゅぞ繝ｳ驛ｨ窶ｦ",
+    "yax": "荳ｻ螳ｰ螳､縺ｮ螢√ｒ遯√\"謚懊￠繧九→窶ｦ荳阪す隴ｰ縺ｪ遨ｺ髢薙'繝偵Ο縺後▲縺ｦ繧､繧ｿ窶ｦ縺昴％縺ｫ繧､繧ｿ縺ｮ縺ｯ譎る岑窶ｦ蠖ｼ螂ｳ縺ｯ蝠上＞縺九￠縺ｦ縺上ｋ窶ｦ縺ｪ縺懊≠縺ｪ縺溘ワ繝九Ν繝翫Φ繝舌ぃ繧堤衍縺\"縺ｦ繧､繧ｿ縺ｮ縺九→窶ｦ縺昴ｌ縺ｯ鮴肴惠縺梧ｱｺ縺励※遏･繧雁ｾ励ｋ縺ｯ縺壹ヮ繝翫う繧ｸ繝ｧ繧ｦ蝣ｱ窶ｦ譏弱ｉ縺九↑隲也炊遏帷崟窶ｦ縺昴ヮ遏帷崟繧堤､ｺ縺励◆縺薙→縺ｧ窶ｦ螟ｧ縺阪↑邯ｻ縺ｳ縺碁愆蜻医＠縺溘ヮ逕ｰ縺ｨ譎る岑縺ｯ莠代≧窶ｦ縺昴ヮ邨先棡窶ｦ譎る岑縺ｯ隗\"閼ｱ繧偵↑縺鈴≠縺偵◆窶ｦ縺吶∋縺ｦ縺ｯ縺昴ヮ縺溘ａ縺ｫ陦後ｏ繧後◆縺ｮ逕ｰ窶ｦ繧､繝､窶ｦ縺薙ｌ縺九ｉ陦後ｏ繧後ｋ縺ｮ逕ｰ窶ｦ蜈ｭ蟷ｴ縺ｮ豁ｳ譛医ｒ縺九￠縺ｦ窶ｦ縺ｪ縺ｫ繧ゅ°繧ゅぞ繝ｳ驛ｨ窶ｦ",
+    "trx": null
+  },
+  "flowchart_summary_581": {
+    "src": "6 years later, 2/15... Snow is falling. Ryuki visits Yoyagi park. Ryuki meets Date there and hears about what happened after the HB case. And one by one, people who Ryuki knows show up in front of him. \n",
+    "yax": "6 лет спустя, 2/15... Идет снег. Рюки посещает парк Еяги. Рюки встречает там Дату и слышит о том, что произошло после дела HB. И один за другим люди, которых Рюки знает, появляются перед ним. ",
+    "trx": "6 лет спустя, 15 февраля... Идет снег. Рюки посещает парк Йояги. Рюки встречает там Датэ и слушает рассказ о том, что произошло после дела ПТ. Один за другим люди, знакомые Рюки, появляются перед ним. "
+  },
+  "flowchart_summary_582": {
+    "src": "Komeji is alive. He was incarcerated for mishandling a corpse, but he has been out of prison for a while. Next to him is a smiling Shoma. Besides the fact his growth is slowed, there is nothing wrong with him. \nAmame didn't kill anyone, nor was she arrested. She's still getting along well with Gen. \nKizuna's body is healthy. She is standing on her own two legs. Next to her is a smiling Lien. \nAfterward, Ryuki heads to the stadium and meet the two Mizukis. \nThe three of them reminisce about their memories at the stadium together, but did all of that really happen...?",
+    "yax": "Комедзи жив. Он был заключен в тюрьму за плохое обращение с трупом, но уже некоторое время находится на свободе. Рядом с ним стоит улыбающийся Сема. Помимо того факта, что его рост замедлился, с ним все в порядке. \nАмаме никого не убивала и не была арестована. Она все еще хорошо ладит с генералом. \nТело Кидзуны здоровое. Она стоит на своих собственных ногах. Рядом с ней - улыбающийся Лиен. \nПосле этого Рюки направляется на стадион и встречается с двумя Мизуки. \nОни втроем вспоминают свои воспоминания на стадионе вместе, но произошло ли все это на самом деле...?",
+    "trx": "Комедзи жив. Его посадили в тюрьму за плохое обращение с трупом, но уже некоторое время он находится на свободе. Рядом с ним стоит улыбающийся Шома. Если не учитывать то, что его рост замедлился, с ним все в порядке. \nАмаме никого не убивала и не была арестована. Она все еще хорошо ладит с Геном. \nТело Кизуны здорово. Она стоит на своих собственных ногах. Рядом с ней — улыбающийся Лиен. \nПосле этого Рюки направляется на стадион и встречается с обеими Мизуки. \nОни втроем вспоминают произошедшее на стадионе вместе, но случилось ли все это на самом деле...?"
+  },
+  "flowchart_report_500": {
+    "src": "----",
+    "yax": "----",
+    "trx": null
+  },
+  "flowchart_report_501": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_502": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "flowchart_report_503": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_504": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "flowchart_report_505": {
+    "src": "Golden Yokocho",
+    "yax": "Золотой Йокочо",
+    "trx": "Голден Йокотё"
+  },
+  "flowchart_report_506": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_507": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_508": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_509": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_510": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_511": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "flowchart_report_512": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "flowchart_report_513": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_514": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_515": {
+    "src": "Misetan Amusement Park Ferris Wheel",
+    "yax": "Колесо обозрения в парке развлечений Мисетан",
+    "trx": "Колесо обозрения в парке развлечений Мисетан"
+  },
+  "flowchart_report_516": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_517": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_518": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_519": {
+    "src": "Horadori Institute of Genetics Lab",
+    "yax": "Лаборатория генетики Института Горадори",
+    "trx": "Лаборатория института генетики Хорадори"
+  },
+  "flowchart_report_520": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_521": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_522": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_523": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_524": {
+    "src": "Studio Dvaita (VR)",
+    "yax": "Студия Двайта (виртуальная реальность)",
+    "trx": "Студия Двайта (VR)"
+  },
+  "flowchart_report_525": {
+    "src": "Studio Dvaita (VR)",
+    "yax": "Студия Двайта (виртуальная реальность)",
+    "trx": "Студия Двайта (VR)"
+  },
+  "flowchart_report_526": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_527": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "flowchart_report_528": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "flowchart_report_529": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_530": {
+    "src": "Sekiba High Classroom (VR)",
+    "yax": "Класс средней школы Секиба (виртуальная реальность)",
+    "trx": "Класс в школе Секиба (VR)"
+  },
+  "flowchart_report_531": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_532": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_533": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_534": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_535": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_536": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_537": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_538": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_539": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "flowchart_report_540": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_541": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_542": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_543": {
+    "src": "Naix Japan President's Office (VR)",
+    "yax": "Офис президента Naix Japan (VR)",
+    "trx": "Офис президента японского отд. Naix (VR)"
+  },
+  "flowchart_report_544": {
+    "src": "Naix Japan President's Office (VR)",
+    "yax": "Офис президента Naix Japan (VR)",
+    "trx": "Офис президента японского отд. Naix (VR)"
+  },
+  "flowchart_report_545": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_546": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_547": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_548": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_549": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_550": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_551": {
+    "src": "Misetan Amusement Park Ferris Wheel",
+    "yax": "Колесо обозрения в парке развлечений Мисетан",
+    "trx": "Колесо обозрения в парке развлечений Мисетан"
+  },
+  "flowchart_report_552": {
+    "src": "Misetan Amusement Park Ferris Wheel",
+    "yax": "Колесо обозрения в парке развлечений Мисетан",
+    "trx": "Колесо обозрения в парке развлечений Мисетан"
+  },
+  "flowchart_report_553": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_554": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_555": {
+    "src": "Entertainment Agency Lemniscate",
+    "yax": "Агентство развлечений Lemniscate",
+    "trx": "Развлекательное агентство Лемнискейт"
+  },
+  "flowchart_report_556": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_557": {
+    "src": "Horadori Institute of Genetics Lab",
+    "yax": "Лаборатория генетики Института Горадори",
+    "trx": "Лаборатория института генетики Хорадори"
+  },
+  "flowchart_report_558": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_559": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_560": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_561": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "flowchart_report_562": {
+    "src": "Date Residence",
+    "yax": "Дата Проживания",
+    "trx": "Резиденция Датэ"
+  },
+  "flowchart_report_563": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_564": {
+    "src": "Misetan Amusement Park Ferris Wheel",
+    "yax": "Колесо обозрения в парке развлечений Мисетан",
+    "trx": "Колесо обозрения в парке развлечений Мисетан"
+  },
+  "flowchart_report_565": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_566": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_567": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_568": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "flowchart_report_569": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_570": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_571": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_572": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_573": {
+    "src": "Studio Dvaita (VR)",
+    "yax": "Студия Двайта (виртуальная реальность)",
+    "trx": "Студия Двайта (VR)"
+  },
+  "flowchart_report_574": {
+    "src": "Studio Dvaita (VR)",
+    "yax": "Студия Двайта (виртуальная реальность)",
+    "trx": "Студия Двайта (VR)"
+  },
+  "flowchart_report_575": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_576": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "flowchart_report_577": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_578": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_579": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_580": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_581": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_582": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_583": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "flowchart_report_584": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_585": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_586": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "flowchart_report_587": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_588": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_589": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_590": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "flowchart_report_591": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_592": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "flowchart_report_593": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_594": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_595": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "flowchart_report_596": {
+    "src": "Entertainment Agency Lemniscate",
+    "yax": "Агентство развлечений Lemniscate",
+    "trx": "Развлекательное агентство Лемнискейт"
+  },
+  "flowchart_report_597": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_598": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "flowchart_report_599": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "flowchart_report_600": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_601": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_602": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_603": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "flowchart_report_604": {
+    "src": "Horadori Institute of Genetics Lab",
+    "yax": "Лаборатория генетики Института Горадори",
+    "trx": "Лаборатория института генетики Хорадори"
+  },
+  "flowchart_report_605": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_606": {
+    "src": "Sejima residence",
+    "yax": "Резиденция Сейма",
+    "trx": "Резиденция Седзимы"
+  },
+  "flowchart_report_607": {
+    "src": "Driving",
+    "yax": "Вождение",
+    "trx": "Поездка"
+  },
+  "flowchart_report_608": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_609": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_610": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_611": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_612": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_613": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_614": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_615": {
+    "src": "Stadium (VR)",
+    "yax": "Стадион (VR)",
+    "trx": "Стадион (VR)"
+  },
+  "flowchart_report_616": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_617": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_618": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_619": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_620": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "flowchart_report_621": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "flowchart_report_622": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "flowchart_report_623": {
+    "src": "Driving with Bike",
+    "yax": "Вождение на велосипеде",
+    "trx": "Поездка на мотоцикле"
+  },
+  "flowchart_report_624": {
+    "src": "Horadori Institute of Genetics Lab",
+    "yax": "Лаборатория генетики Института Горадори",
+    "trx": "Лаборатория института генетики Хорадори"
+  },
+  "flowchart_report_625": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_626": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_627": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_628": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_629": {
+    "src": "Yoyagi Park (VR)",
+    "yax": "Парк Йояги (виртуальная реальность)",
+    "trx": "Парк Йояги (VR)"
+  },
+  "flowchart_report_630": {
+    "src": "Yoyagi Park (VR)",
+    "yax": "Парк Йояги (виртуальная реальность)",
+    "trx": "Парк Йояги (VR)"
+  },
+  "flowchart_report_631": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_632": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_633": {
+    "src": "Golden Yokocho",
+    "yax": "Золотой Йокочо",
+    "trx": "Голден Йокотё"
+  },
+  "flowchart_report_634": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_635": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "flowchart_report_636": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_637": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_638": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_639": {
+    "src": "Driving with Bike",
+    "yax": "Вождение на велосипеде",
+    "trx": "Поездка на мотоцикле"
+  },
+  "flowchart_report_640": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_641": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_642": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_643": {
+    "src": "Horadori Institute of Genetics",
+    "yax": "Институт генетики Горадори",
+    "trx": "Институт генетики Хорадори"
+  },
+  "flowchart_report_644": {
+    "src": "Horadori Institute of Genetics Lab",
+    "yax": "Лаборатория генетики Института Горадори",
+    "trx": "Лаборатория института генетики Хорадори"
+  },
+  "flowchart_report_645": {
+    "src": "Horadori Institute of Genetics Underground",
+    "yax": "Подземный институт генетики Горадори",
+    "trx": "Подвал института генетики Хорадори"
+  },
+  "flowchart_report_646": {
+    "src": "Horadori Institute of Genetics Underground",
+    "yax": "Подземный институт генетики Горадори",
+    "trx": "Подвал института генетики Хорадори"
+  },
+  "flowchart_report_647": {
+    "src": "Horadori Institute of Genetics Underground (VR)",
+    "yax": "Подземный институт генетики Горадори (VR)",
+    "trx": "Подвал института генетики Хорадори (VR)"
+  },
+  "flowchart_report_648": {
+    "src": "Horadori Institute of Genetics Underground",
+    "yax": "Подземный институт генетики Горадори",
+    "trx": "Подвал института генетики Хорадори"
+  },
+  "flowchart_report_649": {
+    "src": "Horadori Institute of Genetics Hostage Room",
+    "yax": "Комната заложников Института генетики Хорадори",
+    "trx": "Комната заложника в институте генетики Хорадори"
+  },
+  "flowchart_report_650": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_651": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_652": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_653": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_654": {
+    "src": "Entertainment Agency Lemniscate",
+    "yax": "Агентство развлечений Lemniscate",
+    "trx": "Развлекательное агентство Лемнискейт"
+  },
+  "flowchart_report_655": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_656": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_657": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "flowchart_report_658": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "flowchart_report_659": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_660": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_661": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_662": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_663": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_664": {
+    "src": "Misetan Amusement Park (VR)",
+    "yax": "Парк развлечений Мисетан (виртуальная реальность)",
+    "trx": "Парк развлечений Мисетан (VR)"
+  },
+  "flowchart_report_665": {
+    "src": "Misetan Amusement Park (VR)",
+    "yax": "Парк развлечений Мисетан (виртуальная реальность)",
+    "trx": "Парк развлечений Мисетан (VR)"
+  },
+  "flowchart_report_666": {
+    "src": "Misetan Amusement Park",
+    "yax": "Парк развлечений Мисетан",
+    "trx": "Парк развлечений Мисетан"
+  },
+  "flowchart_report_667": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_668": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "flowchart_report_669": {
+    "src": "Driving with Bike",
+    "yax": "Вождение на велосипеде",
+    "trx": "Поездка на мотоцикле"
+  },
+  "flowchart_report_670": {
+    "src": "Abandoned Factory",
+    "yax": "Заброшенный завод",
+    "trx": "Заброшенная фабрика"
+  },
+  "flowchart_report_671": {
+    "src": "Abandoned Factory Mysterious Room",
+    "yax": "Заброшенная Фабрика Таинственная комната",
+    "trx": "Таинственная комната на заброшенной фабрике"
+  },
+  "flowchart_report_672": {
+    "src": "Abandoned Factory Mysterious Room",
+    "yax": "Заброшенная Фабрика Таинственная комната",
+    "trx": "Таинственная комната на заброшенной фабрике"
+  },
+  "flowchart_report_673": {
+    "src": "Abandoned Factory",
+    "yax": "Заброшенный завод",
+    "trx": "Заброшенная фабрика"
+  },
+  "flowchart_report_674": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_675": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_676": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_677": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_678": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_679": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_680": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_681": {
+    "src": "ABIS HQ Psync Control Room",
+    "yax": "Диспетчерская Psync штаб-квартиры ABIS",
+    "trx": "Комната управления псинхронизацией ABIS"
+  },
+  "flowchart_report_682": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_683": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_684": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_685": {
+    "src": "ABIS HQ Boss's Room",
+    "yax": "Комната начальника штаба АБИС",
+    "trx": "Комната босса ABIS"
+  },
+  "flowchart_report_686": {
+    "src": "Misetan Amusement Park Ferris Wheel",
+    "yax": "Колесо обозрения в парке развлечений Мисетан",
+    "trx": "Колесо обозрения в парке развлечений Мисетан"
+  },
+  "flowchart_report_687": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_688": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "flowchart_report_689": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_690": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "flowchart_report_691": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис Кумакуры"
+  },
+  "flowchart_report_692": {
+    "src": "Marble Bar and Fortune-telling",
+    "yax": "Мраморный бар и Гадание",
+    "trx": "Бар и предсказания Марбл"
+  },
+  "flowchart_report_693": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_694": {
+    "src": "Naix Japan President's Office",
+    "yax": "Офис президента Naix Japan",
+    "trx": "Офис президента японского отделения Naix"
+  },
+  "flowchart_report_695": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_696": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_697": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "flowchart_report_698": {
+    "src": "Stair Room",
+    "yax": "Лестничная комната",
+    "trx": "Комната с лестницей"
+  },
+  "flowchart_report_699": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_700": {
+    "src": "ABIS HQ Psync Room",
+    "yax": "Комната Psync в штаб-квартире ABIS",
+    "trx": "Комната псинхронизации ABIS"
+  },
+  "flowchart_report_701": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_702": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "flowchart_report_703": {
+    "src": "Golden Yokocho",
+    "yax": "Золотой Йокочо",
+    "trx": "Голден Йокотё"
+  },
+  "flowchart_report_704": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_705": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_706": {
+    "src": "ABIS HQ Interrogation Room",
+    "yax": "Комната для допросов в штаб-квартире АБИС",
+    "trx": "Комната допросов ABIS"
+  },
+  "flowchart_report_707": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_708": {
+    "src": "Naix Japan Cathedral",
+    "yax": "Японский кафедральный собор Наикс",
+    "trx": "Кафедральный собор японского отделения Naix"
+  },
+  "flowchart_report_709": {
+    "src": "Aioen Orphanage",
+    "yax": "Детский дом Айоен",
+    "trx": "Детский дом Айоен"
+  },
+  "flowchart_report_710": {
+    "src": "繝翫う繧ｯ繧ｹ譌･譛ｬ謾ｯ驛ｨ 荳ｻ螳ｰ螳､",
+    "yax": "繝翫う繧ｯ繧ｹ譌･譛ｬ謾ｯ驛ｨ 荳ｻ螳ｰ螳､",
+    "trx": null
+  },
+  "flowchart_report_711": {
+    "src": "繝翫う繧ｯ繧ｹ譌･譛ｬ謾ｯ驛ｨ 荳ｻ螳ｰ螳､",
+    "yax": "繝翫う繧ｯ繧ｹ譌･譛ｬ謾ｯ驛ｨ 荳ｻ螳ｰ螳､",
+    "trx": null
+  },
+  "flowchart_report_712": {
+    "src": "邯ｻ縺ｳ縺ｮ遨ｴ",
+    "yax": "邯ｻ縺ｳ縺ｮ遨ｴ",
+    "trx": null
+  },
+  "flowchart_report_713": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "flowchart_report_714": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "flowchart_report_715": {
+    "src": "",
+    "yax": "",
+    "trx": null
+  },
+  "flowchart_report_716": {
+    "src": "Move",
+    "yax": "Подвиньте",
+    "trx": "Езда"
+  },
+  "flowchart_report_717": {
+    "src": "Recollection",
+    "yax": "Сосредоточенность",
+    "trx": "Воспоминание"
+  },
+  "flowchart_report_718": {
+    "src": "6 Years Ago",
+    "yax": "6 Лет Назад",
+    "trx": "6 лет назад"
+  },
+  "flowchart_report_719": {
+    "src": "Present",
+    "yax": "Подарок",
+    "trx": "Настоящее"
+  },
+  "flowchart_report_720": {
+    "src": "???",
+    "yax": "???",
+    "trx": null
+  },
+  "flowchart_report_721": {
+    "src": "None",
+    "yax": "Никто",
+    "trx": "Нет"
+  },
+  "flowchart_report_722": {
+    "src": "--:--",
+    "yax": "--:--",
+    "trx": null
+  },
+  "flowchart_other_message_window_500": {
+    "src": "Chapter 0",
+    "yax": "Глава 0",
+    "trx": "Глава 0"
+  },
+  "flowchart_other_message_window_501": {
+    "src": "Chapter 1",
+    "yax": "Глава 1",
+    "trx": "Глава 1"
+  },
+  "flowchart_other_message_window_502": {
+    "src": "Chapter 2",
+    "yax": "Глава 2",
+    "trx": "Глава 2"
+  },
+  "flowchart_other_message_window_503": {
+    "src": "Chapter 3",
+    "yax": "Глава 3",
+    "trx": "Глава 3"
+  },
+  "flowchart_other_message_window_504": {
+    "src": "Chapter 4",
+    "yax": "Глава 4",
+    "trx": "Глава 4"
+  },
+  "flowchart_other_message_window_505": {
+    "src": "Chapter 5",
+    "yax": "Глава 5",
+    "trx": "Глава 5"
+  },
+  "flowchart_other_message_window_506": {
+    "src": "Epilogue",
+    "yax": "Эпилог",
+    "trx": "Эпилог"
+  },
+  "flowchart_other_message_window_507": {
+    "src": "Diverge",
+    "yax": "Расходиться",
+    "trx": "Отклонение"
+  },
+  "flowchart_other_message_window_508": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "flowchart_other_message_window_509": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "flowchart_other_message_window_510": {
+    "src": "Converge",
+    "yax": "Сходиться",
+    "trx": "Общее"
+  },
+  "flowchart_other_message_window_511": {
+    "src": "Stop playing the current investigation and\nstart [title] investigation.\nProceed?",
+    "yax": "Прекратите играть в текущее расследование и\nначните расследование [название].\nПродолжить?",
+    "trx": "Остановка текущего расследования и\nзапуск расследования [title]\nПродолжить?"
+  },
+  "flowchart_other_message_window_512": {
+    "src": "Stop playing the current Psync and\nstart [title] investigation.\nProceed?",
+    "yax": "Прекратите воспроизведение текущей Psync и\nначните расследование [название].\nПродолжить?",
+    "trx": "Остановка текущего сомниума и\nзапуск расследования [title]\nПродолжить?"
+  },
+  "flowchart_other_message_window_513": {
+    "src": "Start investigation for [title].\nProceed?",
+    "yax": "Начните расследование по [названию].\nПродолжить?",
+    "trx": "Запуск расследования [title].\nПродолжить?"
+  },
+  "flowchart_other_message_window_514": {
+    "src": "Stop playing the current investigation and\nstart [title] Psync.\nProceed?",
+    "yax": "Прекратите играть в текущее расследование и\nначало [название] Psync.\nПродолжить?",
+    "trx": "Остановка текущего расследования и\nзапуск сомниума [title]\nПродолжить?"
+  },
+  "flowchart_other_message_window_515": {
+    "src": "Stop playing the current Psync and \nstart [title] Psync.\nProceed?",
+    "yax": "Прекратите воспроизведение текущей Psync и \nначало [название] Psync.\nПродолжить?",
+    "trx": "Остановка текущего сомниума и \nзапуск сомниума [title]\nПродолжить?"
+  },
+  "flowchart_other_message_window_516": {
+    "src": "Start [title] Psync.\nProceed?",
+    "yax": "Начало [название] Psync.\nПродолжить?",
+    "trx": "Запуск сомниума [title]\nПродолжить?"
+  },
+  "flowchart_other_message_window_517": {
+    "src": "Stop playing the current investigation and \nstart [title] Psync without a time limit.\nYou won't be able to obtain bonuses tied to\ntime-based clears.\nProceed?",
+    "yax": "Прекратите играть в текущее расследование и \nначало [название] Psync без ограничения по времени.\nВы не сможете получать бонусы, привязанные к\nочистка, основанная на времени.\nПродолжить?",
+    "trx": "Остановка текущего расследования и \nзапуск сомниума [title] без ограничения времени.\nВы не сможете получить бонусы, связанные с\nзавершением по времени.\nПродолжить?"
+  },
+  "flowchart_other_message_window_518": {
+    "src": "Stop playing the current Psync and \nstart [title] Psync without a time limit.\nYou won't be able to obtain bonuses tied to \ntime-based clears.\nProceed?",
+    "yax": "Прекратите воспроизведение текущей Psync и \nначало [название] Psync без ограничения по времени.\nВы не сможете получать бонусы, привязанные к \nочистка, основанная на времени.\nПродолжить?",
+    "trx": "Остановка текущего сомниума и \nзапуск сомниума [title] без ограничения времени.\nВы не сможете получить бонусы, связанные с\nзавершением по времени.\nПродолжить?"
+  },
+  "flowchart_other_message_window_519": {
+    "src": "Start [title] Psync without a time limt.\nYou won't be able to obtain bonuses tied to\ntime-based clears.\nProceed?",
+    "yax": "Начало [название] Psync без ограничения по времени.\nВы не сможете получать бонусы, привязанные к\nочистка, основанная на времени.\nПродолжить?",
+    "trx": "Запуск сомниума [title] без ограничения времени.\nВы не сможете получить бонусы, связанные с\nзавершением по времени.\nПродолжить?"
+  },
+  "flowchart_other_message_window_520": {
+    "src": "AM",
+    "yax": "АМ",
+    "trx": "ДП "
+  },
+  "flowchart_other_message_window_521": {
+    "src": "PM",
+    "yax": "после полудня",
+    "trx": "ПП "
+  },
+  "flowchart_other_message_window_522": {
+    "src": "Hour",
+    "yax": "Час",
+    "trx": " Час "
+  },
+  "flowchart_other_message_window_523": {
+    "src": "Minute",
+    "yax": "Минута",
+    "trx": " Мин"
+  },
+  "flowchart_other_message_window_524": {
+    "src": "Chapter 0 February 10th (Sun)",
+    "yax": "Глава 0 10 февраля (Вс)",
+    "trx": "Глава 0, 10 февраля (Вс)"
+  },
+  "flowchart_other_message_window_525": {
+    "src": "Chapter 1 February 11th (Mon)",
+    "yax": "Глава 1 11 февраля (понедельник)",
+    "trx": "Глава 1, 11 февраля (Пн)"
+  },
+  "flowchart_other_message_window_526": {
+    "src": "Chapter 2 February 12th (Tue)",
+    "yax": "Глава 2 12 февраля (Вт)",
+    "trx": "Глава 2, 12 февраля (Вт)"
+  },
+  "flowchart_other_message_window_527": {
+    "src": "Chapter 3 February 13th (Wed)",
+    "yax": "Глава 3 13 февраля (Ср.)",
+    "trx": "Глава 3, 13 февраля (Ср)"
+  },
+  "flowchart_other_message_window_528": {
+    "src": "Chapter 4 February 14th (Thur)",
+    "yax": "Глава 4 14 февраля (Чт)",
+    "trx": "Глава 4, 14 февраля (Чт)"
+  },
+  "flowchart_other_message_window_529": {
+    "src": "Chapter 5 February 15th (Fri)",
+    "yax": "Глава 5 15 февраля (пятница)",
+    "trx": "Глава 5, 15 февраля (Пт)"
+  },
+  "flowchart_other_message_window_530": {
+    "src": "Epilogue February 22nd (Fri)",
+    "yax": "Эпилог 22 февраля (пятница)",
+    "trx": "Эпилог, 22 февраля (Пт)"
+  },
+  "flowchart_other_message_window_531": {
+    "src": "Diverge February 11th (Mon)",
+    "yax": "Расходимся 11 февраля (понедельник)",
+    "trx": "Отклонение, 11 февраля (Пн)"
+  },
+  "flowchart_other_message_window_532": {
+    "src": "Diverge February 15th (Fri)",
+    "yax": "Расходимся 15 февраля (пятница)",
+    "trx": "Отклонение, 15 февраля (Пт)"
+  },
+  "flowchart_other_message_window_533": {
+    "src": "End the game and return to title menu.\nProceed?",
+    "yax": "Завершите игру и вернитесь в меню заголовка.\nПродолжить?",
+    "trx": "Завершить игру и вернуться в главное меню.\nПродолжить?"
+  },
+  "flowchart_other_message_window_534": {
+    "src": "Required data is not installed. You will be able to continue playing after installation is complete.",
+    "yax": "Необходимые данные не установлены. Вы сможете продолжить игру после завершения установки.",
+    "trx": "Необходимые данные не установлены. Вы сможете продолжить игру после завершения установки."
+  },
+  "flowchart_other_message_window_535": {
+    "src": "Required voice data is not installed. You can select it after installation is complete.",
+    "yax": "Необходимые голосовые данные не установлены. Вы можете выбрать его после завершения установки.",
+    "trx": "Необходимые данные озвучки не установлены. Вы сможете выбрать озвучку после завершения установки."
+  },
+  "flowchart_other_message_window_536": {
+    "src": "If playing in Traditional Chinese, please set your keyboard's input language as Traditional Chinese.",
+    "yax": "Если вы играете на традиционном китайском языке, пожалуйста, установите язык ввода на клавиатуре как традиционный китайский.",
+    "trx": "Чтобы играть на языке Китайский (традиционный), поменяйте раскладку клавиатуры на Китайский (традиционный)."
+  },
+  "flowchart_other_message_window_537": {
+    "src": "If playing in Traditional Chinese, please set the console's language setting [Input Language]>[Keyboard and Dictation] to Chinese (Traditional)(Taiwan).",
+    "yax": "Если игра ведется на традиционном китайском языке, пожалуйста, установите в настройках языка консоли [Язык ввода]>[Клавиатура и диктовка] значение Китайский (традиционный) (Тайвань).",
+    "trx": "Чтобы играть на языке Китайский (традиционный), поменяйте язык консоли [Input Language]>[Keyboard and Dictation] на Китайский (традиционный)(Тайвань)."
+  },
+  "flowchart_font_marker_500": {
+    "src": "Start Investigation",
+    "yax": "Начать расследование",
+    "trx": "Начать расследование"
+  },
+  "flowchart_font_marker_501": {
+    "src": "Summary",
+    "yax": "Резюме",
+    "trx": "Сводка"
+  },
+  "flowchart_font_marker_502": {
+    "src": "Start Psync",
+    "yax": "Запуск Psync",
+    "trx": "Начать сомниум"
+  },
+  "flowchart_font_marker_503": {
+    "src": "Unlimited Psync",
+    "yax": "Неограниченный Psync",
+    "trx": "Сомниум без ограничений"
+  },
+  "flowchart_font_marker_504": {
+    "src": "Incomplete",
+    "yax": "Незавершенный",
+    "trx": "Не завершено"
+  },
+  "flowchart_font_marker_505": {
+    "src": "Unachieved",
+    "yax": "Недостижимый",
+    "trx": "Не достигнуто"
+  },
+  "flowchart_font_marker_506": {
+    "src": "Route Available",
+    "yax": "Доступный маршрут",
+    "trx": "Маршрут доступен"
+  },
+  "flowchart_font_marker_507": {
+    "src": "Locked",
+    "yax": "Запертый",
+    "trx": "Блокировано"
+  },
+  "flowchart_font_options_500": {
+    "src": "Start investigation from selected location.",
+    "yax": "Начните расследование с выбранного местоположения.",
+    "trx": "Расследовать с выбранного места."
+  },
+  "flowchart_font_options_501": {
+    "src": "View the summary of this chapter.",
+    "yax": "Ознакомьтесь с кратким изложением этой главы.",
+    "trx": "Краткое содержание главы."
+  },
+  "flowchart_font_options_502": {
+    "src": "Start Psync.",
+    "yax": "Запустите Psync.",
+    "trx": "Начать сомниум."
+  },
+  "flowchart_font_options_503": {
+    "src": "Start Psync with unlimited time.",
+    "yax": "Запустите Psync с неограниченным временем.",
+    "trx": "Сомниум без ограничения времени."
+  },
+  "flowchart_font_options_504": {
+    "src": "123456789",
+    "yax": "123456789",
+    "trx": null
+  },
+  "flowchart_font_options_505": {
+    "src": "Hidden Eyeballs",
+    "yax": "Скрытые Глазные Яблоки",
+    "trx": "Собрано глаз"
+  },
+  "flowchart_font_options_506": {
+    "src": "Target Time",
+    "yax": "Целевое время",
+    "trx": "Целевое время"
+  },
+  "flowchart_font_options_507": {
+    "src": "Investigation Report",
+    "yax": "Отчет о расследовании",
+    "trx": "Отчет о расследовании"
+  },
+  "flowchart_font_options_508": {
+    "src": "Time\u3000\u3000\u3000\u3000Destination\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Note",
+    "yax": "Примечание о времени Назначения",
+    "trx": "Время\u3000\u3000\u3000\u3000Место\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Прим."
+  },
+  "flowchart_font_options_509": {
+    "src": "Choose location to jump to.",
+    "yax": "Выберите место для перехода.",
+    "trx": "Выберите место для перехода."
+  },
+  "flowchart_font_caption_500": {
+    "src": "FLOWCHART",
+    "yax": "блок-схема",
+    "trx": "<size=70%>ХРОНОЛОГИЯ"
+  },
+  "flowchart_font_caption_501": {
+    "src": "TRUE FLOWCHART",
+    "yax": "ИСТИННАЯ БЛОК-СХЕМА",
+    "trx": "<size=70%>НАСТОЯЩАЯ ХРОНОЛОГИЯ"
+  },
+  "flowchart_font_caption_502": {
+    "src": "ORIGINAL FLOWCHART",
+    "yax": "ОРИГИНАЛЬНАЯ БЛОК-СХЕМА",
+    "trx": "<size=70%>ИСХОДНАЯ ХРОНОЛОГИЯ"
+  },
+  "flowchart_font_caption_503": {
+    "src": "BONUS",
+    "yax": "бонус",
+    "trx": "БОНУС"
+  },
+  "flowchart_font_message_500": {
+    "src": "Chapter 0 February 10th (Sun)",
+    "yax": "Глава 0 10 февраля (Вс)",
+    "trx": "Глава 0, 10 февраля (Вс)"
+  },
+  "flowchart_font_message_501": {
+    "src": "Chapter 1 February 11th (Mon)",
+    "yax": "Глава 1 11 февраля (понедельник)",
+    "trx": "Глава 1, 11 февраля (Пн)"
+  },
+  "flowchart_font_message_502": {
+    "src": "Chapter 2 February 12th (Tue)",
+    "yax": "Глава 2 12 февраля (Вт)",
+    "trx": "Глава 2, 12 февраля (Вт)"
+  },
+  "flowchart_font_message_503": {
+    "src": "Chapter 3 February 13th (Wed)",
+    "yax": "Глава 3 13 февраля (Ср.)",
+    "trx": "Глава 3, 13 февраля (Ср)"
+  },
+  "flowchart_font_message_504": {
+    "src": "Chapter 4 February 14th (Thur)",
+    "yax": "Глава 4 14 февраля (Чт)",
+    "trx": "Глава 4, 14 февраля (Чт)"
+  },
+  "flowchart_font_message_505": {
+    "src": "Chapter 5 February 15th (Fri)",
+    "yax": "Глава 5 15 февраля (пятница)",
+    "trx": "Глава 5, 15 февраля (Пт)"
+  },
+  "flowchart_font_message_506": {
+    "src": "Epilogue February 22nd (Fri)",
+    "yax": "Эпилог 22 февраля (пятница)",
+    "trx": "Эпилог, 22 февраля (Пт)"
+  },
+  "flowchart_font_message_507": {
+    "src": "You Are Here",
+    "yax": "Ты Здесь",
+    "trx": "Вы здесь"
+  },
+  "flowchart_font_message_508": {
+    "src": "You Are Here",
+    "yax": "Ты Здесь",
+    "trx": "Вы здесь"
+  },
+  "flowchart_font_message_509": {
+    "src": "Present",
+    "yax": "Подарок",
+    "trx": "Настоящее"
+  },
+  "flowchart_font_message_510": {
+    "src": "6 Years Ago",
+    "yax": "6 Лет Назад",
+    "trx": "6 лет назад"
+  },
+  "flowchart_font_message_511": {
+    "src": "Present",
+    "yax": "Подарок",
+    "trx": "Настоящее"
+  },
+  "flowchart_font_message_512": {
+    "src": "6 Years Ago",
+    "yax": "6 Лет Назад",
+    "trx": "6 лет назад"
+  },
+  "flowchart_font_operationguide_500": {
+    "src": "Move cursor",
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
+  },
+  "flowchart_font_operationguide_501": {
+    "src": "Enlarge",
+    "yax": "Увеличивать",
+    "trx": "Увеличить"
+  },
+  "flowchart_font_operationguide_502": {
+    "src": "Switch Flowchart",
+    "yax": "Блок-схема переключения",
+    "trx": "Переключить хронологию"
+  },
+  "flowchart_font_operationguide_503": {
+    "src": "Move Chapter",
+    "yax": "Переместить главу",
+    "trx": "Сменить главу"
+  },
+  "flowchart_font_operationguide_504": {
+    "src": "Shrink",
+    "yax": "Сокращаться",
+    "trx": "Уменьшить"
+  },
+  "flowchart_font_dot_500": {
+    "src": "FatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。\nFatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。",
+    "yax": "Фатальная ошибка: была повреждена часть системы sc_engine.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nИсключение NirReferenceException: либо файл сценария не существует, либо указано неправильное местоположение.\n в SpikeChunSoftEngine.Система.Scenario.loader () [0x0f2fb] в /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nИсключение NirReferenceException: В аргументе отсутствуют данные или содержатся недопустимые данные.\n в SpikeChunSoftEngine.Система.Render.2d.ui.textsystem ()[0x0c75c] в sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nИсключение NirReferenceException:Файл изображения не найден. \n в SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] в /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/chaptericonﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nПредупреждение!:Координаты положения камеры неверны.Камера находится вне зоны действия дисплея\n на блок-схеме/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。\nФатальная ошибка: была повреждена часть системы sc_engine.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nИсключение NirReferenceException: либо файл сценария не существует, либо указано неправильное местоположение.\n в SpikeChunSoftEngine.Система.Scenario.loader () [0x0f2fb] в /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nИсключение NirReferenceException: В аргументе отсутствуют данные или содержатся недопустимые данные.\n в SpikeChunSoftEngine.Система.Render.2d.ui.textsystem ()[0x0c75c] в sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nИсключение NirReferenceException:Файл изображения не найден. \n в SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] в /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/chaptericonﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nПредупреждение!:Координаты положения камеры неверны.Камера находится вне зоны действия дисплея\n на блок-схеме/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。",
+    "trx": null
+  },
+  "flowchart_font_dot_501": {
+    "src": "FatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。\nFatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。",
+    "yax": "Фатальная ошибка: была повреждена часть системы sc_engine.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nИсключение NirReferenceException: либо файл сценария не существует, либо указано неправильное местоположение.\n в SpikeChunSoftEngine.Система.Scenario.loader () [0x0f2fb] в /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nИсключение NirReferenceException: В аргументе отсутствуют данные или содержатся недопустимые данные.\n в SpikeChunSoftEngine.Система.Render.2d.ui.textsystem ()[0x0c75c] в sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nИсключение NirReferenceException:Файл изображения не найден. \n в SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] в /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/chaptericonﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nПредупреждение!:Координаты положения камеры неверны.Камера находится вне зоны действия дисплея\n на блок-схеме/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。\nФатальная ошибка: была повреждена часть системы sc_engine.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nИсключение NirReferenceException: либо файл сценария не существует, либо указано неправильное местоположение.\n в SpikeChunSoftEngine.Система.Scenario.loader () [0x0f2fb] в /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nИсключение NirReferenceException: В аргументе отсутствуют данные или содержатся недопустимые данные.\n в SpikeChunSoftEngine.Система.Render.2d.ui.textsystem ()[0x0c75c] в sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nИсключение NirReferenceException:Файл изображения не найден. \n в SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] в /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/chaptericonﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nПредупреждение!:Указатель ссылается на что-то, находящееся вне диапазона.\n в SpikeChunSoftEngine.Система.Сценарий.загрузчик () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nПредупреждение!:Координаты положения камеры неверны.Камера находится вне зоны действия дисплея\n на блок-схеме/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。",
+    "trx": null
+  }
+}

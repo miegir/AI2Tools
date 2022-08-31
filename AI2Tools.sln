@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools", "AI2Tools\AI2Tools.csproj", "{9A3D9780-8410-4F7D-9B2E-46BAAD43FE65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Core", "AI2Tools.Core\AI2Tools.Core.csproj", "{75F901E6-D847-45D7-9D10-58CAA7D2500B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AI2Tools.Core.Shared", "AI2Tools.Core.Shared\AI2Tools.Core.Shared.shproj", "{6116926F-4AAE-45E6-87D9-89769BE3B703}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Resources.TextMaps", "AI2Tools.Resources.TextMaps\AI2Tools.Resources.TextMaps.csproj", "{4C48C697-0119-4DA3-8119-2D522E92DCBE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AI2Tools.Resources.TextMaps.Shared", "AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.shproj", "{5F410E45-EBB8-467E-93A3-8B207E9B1687}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Resources.Bundles", "AI2Tools.Resources.Bundles\AI2Tools.Resources.Bundles.csproj", "{6236FA7B-007E-478D-B8BA-B49DAB74FDE7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AI2Tools.Resources.Bundles.Shared", "AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.shproj", "{15786129-B366-48D1-80E7-4012E2925F7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Game", "AI2Tools.Game\AI2Tools.Game.csproj", "{D52B2215-5416-4932-98DD-9859A3E276EF}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AI2Tools.Game.Shared", "AI2Tools.Game.Shared\AI2Tools.Game.Shared.shproj", "{EFB31913-7F13-47B5-952E-F68E515B7072}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Translations", "AI2Tools.Translations\AI2Tools.Translations.csproj", "{E5A9139A-C9E3-4870-84D1-E34C8A9F43E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.UI", "AI2Tools.UI\AI2Tools.UI.csproj", "{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3D9780-8410-4F7D-9B2E-46BAAD43FE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3D9780-8410-4F7D-9B2E-46BAAD43FE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3D9780-8410-4F7D-9B2E-46BAAD43FE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3D9780-8410-4F7D-9B2E-46BAAD43FE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F901E6-D847-45D7-9D10-58CAA7D2500B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F901E6-D847-45D7-9D10-58CAA7D2500B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F901E6-D847-45D7-9D10-58CAA7D2500B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F901E6-D847-45D7-9D10-58CAA7D2500B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C48C697-0119-4DA3-8119-2D522E92DCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C48C697-0119-4DA3-8119-2D522E92DCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C48C697-0119-4DA3-8119-2D522E92DCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C48C697-0119-4DA3-8119-2D522E92DCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6236FA7B-007E-478D-B8BA-B49DAB74FDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6236FA7B-007E-478D-B8BA-B49DAB74FDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6236FA7B-007E-478D-B8BA-B49DAB74FDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6236FA7B-007E-478D-B8BA-B49DAB74FDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52B2215-5416-4932-98DD-9859A3E276EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52B2215-5416-4932-98DD-9859A3E276EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52B2215-5416-4932-98DD-9859A3E276EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52B2215-5416-4932-98DD-9859A3E276EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A9139A-C9E3-4870-84D1-E34C8A9F43E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A9139A-C9E3-4870-84D1-E34C8A9F43E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A9139A-C9E3-4870-84D1-E34C8A9F43E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A9139A-C9E3-4870-84D1-E34C8A9F43E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8163CEC-DF9D-470B-A02D-BA7659CCD6E4}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{15786129-b366-48d1-80e7-4012e2925f7b}*SharedItemsImports = 13
+		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{4c48c697-0119-4da3-8119-2d522e92dcbe}*SharedItemsImports = 5
+		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{5f410e45-ebb8-467e-93a3-8b207e9b1687}*SharedItemsImports = 13
+		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{6116926f-4aae-45e6-87d9-89769be3b703}*SharedItemsImports = 13
+		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{6236fa7b-007e-478d-b8ba-b49dab74fde7}*SharedItemsImports = 5
+		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{75f901e6-d847-45d7-9d10-58caa7d2500b}*SharedItemsImports = 5
+		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
+		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
+		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
+		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
+		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{d52b2215-5416-4932-98dd-9859a3e276ef}*SharedItemsImports = 5
+		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{efb31913-7f13-47b5-952e-f68e515b7072}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
