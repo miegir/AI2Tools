@@ -9,6 +9,7 @@
     <Import_RootNamespace>AI2Tools</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AssetTypeValueFieldExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleFile.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleResource.cs" />
