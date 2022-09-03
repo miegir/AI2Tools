@@ -36,6 +36,14 @@ internal static partial class AssetTypeValueFieldExtensions
         }
     }
 
+    public static void Write(this AssetTypeValueField field, string? value)
+    {
+        if (!field.IsDummy())
+        {
+            field.GetValue().Set(value);
+        }
+    }
+
     public static void Write<T>(this AssetTypeValueField field, T? value, Action<AssetTypeValueField, T> writer)
     {
         if (value is not null && !field.IsDummy())

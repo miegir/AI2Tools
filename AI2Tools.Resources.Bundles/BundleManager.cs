@@ -324,8 +324,20 @@ internal partial class BundleManager
             name,
             scriptName,
             DefaultAssetExtension,
-            context => FontAssetData.ReadFontAsset(context.BaseField),
+            ReadFontAsset,
             data => data.m_UsedGlyphRects?.Length > 0);
+    }
+
+    private static FontAssetData ReadFontAsset(MonoBehaviorContext context)
+    {
+        var data = FontAssetData.ReadFontAsset(context.BaseField);
+
+        if (data.m_FaceInfo is not null and var info)
+        {
+            info.m_LineHeight = info.m_PointSize * 2;
+        }
+
+        return data;
     }
 
     private void BuildTexture2DObject(ObjectBuilder builder, Texture2DArguments arguments, string name)

@@ -36,6 +36,14 @@ internal static partial class AssetTypeValueFieldExtensions
         }
     }
 
+    public static void Read(this AssetTypeValueField field, ref string? value)
+    {
+        if (!field.IsDummy())
+        {
+            value = field.GetValue().AsString();
+        }
+    }
+
     public static void Read<T>(this AssetTypeValueField field, ref T? value, Func<AssetTypeValueField, T> reader)
     {
         if (!field.IsDummy())

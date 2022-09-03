@@ -7,6 +7,7 @@ public partial class FontAssetData
     public static FontAssetData ReadFontAsset(AssetTypeValueField baseField)
     {
         var data = new FontAssetData();
+        baseField["m_FaceInfo"].Read(ref data.m_FaceInfo, ReadFaceInfo);
         baseField["m_GlyphTable"].Read(ref data.m_GlyphTable, ReadGlyph);
         baseField["m_CharacterTable"].Read(ref data.m_CharacterTable, ReadCharacter);
         baseField["m_UsedGlyphRects"].Read(ref data.m_UsedGlyphRects, ReadGlyphRect);
@@ -21,6 +22,32 @@ public partial class FontAssetData
         baseField["boldSpacing"].Read(ref data.boldSpacing);
         baseField["italicStyle"].Read(ref data.italicStyle);
         baseField["tabSize"].Read(ref data.tabSize);
+        return data;
+    }
+
+    private static FaceInfo ReadFaceInfo(AssetTypeValueField baseField)
+    {
+        var data = new FaceInfo();
+        baseField["m_FaceIndex"].Read(ref data.m_FaceIndex);
+        baseField["m_FamilyName"].Read(ref data.m_FamilyName);
+        baseField["m_StyleName"].Read(ref data.m_StyleName);
+        baseField["m_PointSize"].Read(ref data.m_PointSize);
+        baseField["m_Scale"].Read(ref data.m_Scale);
+        baseField["m_LineHeight"].Read(ref data.m_LineHeight);
+        baseField["m_AscentLine"].Read(ref data.m_AscentLine);
+        baseField["m_CapLine"].Read(ref data.m_CapLine);
+        baseField["m_MeanLine"].Read(ref data.m_MeanLine);
+        baseField["m_Baseline"].Read(ref data.m_Baseline);
+        baseField["m_DescentLine"].Read(ref data.m_DescentLine);
+        baseField["m_SuperscriptOffset"].Read(ref data.m_SuperscriptOffset);
+        baseField["m_SuperscriptSize"].Read(ref data.m_SuperscriptSize);
+        baseField["m_SubscriptOffset"].Read(ref data.m_SubscriptOffset);
+        baseField["m_SubscriptSize"].Read(ref data.m_SubscriptSize);
+        baseField["m_UnderlineOffset"].Read(ref data.m_UnderlineOffset);
+        baseField["m_UnderlineThickness"].Read(ref data.m_UnderlineThickness);
+        baseField["m_StrikethroughOffset"].Read(ref data.m_StrikethroughOffset);
+        baseField["m_StrikethroughThickness"].Read(ref data.m_StrikethroughThickness);
+        baseField["m_TabWidth"].Read(ref data.m_TabWidth);
         return data;
     }
 
