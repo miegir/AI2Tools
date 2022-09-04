@@ -927,7 +927,7 @@
   "language_select_510": {
     "src": "Half Body Serial Killings",
     "yax": "Серийные убийства с Половиной Тела",
-    "trx": "Серийные убийства с половинами тела"
+    "trx": "Серийные убийства"
   },
   "language_select_511": {
     "src": "Nirvana Initiative",
