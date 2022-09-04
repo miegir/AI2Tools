@@ -26,7 +26,7 @@ public partial class BundleResource : IResource
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));
 
         var gameObjectSource = new GameObjectSource(
-            Path.Combine(arguments.SourceDirectory, "GameObjects", name + ".txt"));
+            Path.Combine(arguments.SourceDirectory, "scenes", name + ".txt"));
 
         if (!Directory.Exists(sourceDirectory)
             && !bundleFileSource.Exists
@@ -70,7 +70,7 @@ public partial class BundleResource : IResource
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));
 
         var gameObjectSource = new GameObjectSource(
-            Path.Combine(arguments.SourceDirectory, "GameObjects", name + ".txt"));
+            Path.Combine(arguments.SourceDirectory, "scenes", name + ".txt"));
 
         if (!Directory.Exists(sourceDirectory)
             && !bundleFileSource.Exists
