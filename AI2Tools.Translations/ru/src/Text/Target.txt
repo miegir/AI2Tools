@@ -2527,7 +2527,7 @@
   "セット": {
     "src": "Set",
     "yax": "Набор",
-    "trx": null//TBT
+    "trx": "Установка"
   },
   "看護師": {
     "src": "Nurse",
@@ -3162,7 +3162,7 @@
   "屋蓑": {
     "src": "Minoya",
     "yax": "Миноя",
-    "trx": null//TBT
+    "trx": "Миноя"
   },
   "ALFREEの缶": {
     "src": "ALFREE Can",
