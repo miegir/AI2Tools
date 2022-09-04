@@ -7,26 +7,22 @@ namespace AI2Tools;
 internal class BundleResolver
 {
     private readonly ILogger logger;
-    private readonly AssetsManager assetsManager;
     private readonly string directory;
     private readonly string objectPath;
     private Dictionary<string, string>? pathMap;
 
-    public BundleResolver(ILogger logger, AssetsManager assetsManager, string directory, string objectPath)
+    public BundleResolver(ILogger logger, string directory, string objectPath)
     {
         this.logger = logger;
-        this.assetsManager = assetsManager;
         this.directory = directory;
         this.objectPath = objectPath;
     }
 
-    public AssetsFileInstance? GetAssetsFileInstance(string name)
+    public FileStream? OpenBundle(string name)
     {
         if (!GetPathMap().TryGetValue(name, out var path)) return null;
         var bundleSource = new FileSource(path);
-        using var stream = bundleSource.OpenRead();
-        var bundleFileInstance = assetsManager.LoadBundleFile(stream);
-        return assetsManager.LoadAssetsFileFromBundle(bundleFileInstance, 0);
+        return bundleSource.OpenRead();
     }
 
     Dictionary<string, string> GetPathMap()

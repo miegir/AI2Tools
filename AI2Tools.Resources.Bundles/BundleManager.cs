@@ -70,17 +70,19 @@ internal partial class BundleManager
 
     public bool Muster(
         ObjectPath root,
+        MusterArguments arguments,
+        BundleResolverFactory bundleResolverFactory,
         BundleFileSource bundleFileSource,
-        MusterArguments arguments)
+        GameObjectSource gameObjectSource)
     {
-        var bundleResolver = CreateBundleResolver(arguments.ObjectDirectory);
-
         return Enumerate()
             .Scoped(logger, "asset")
             .Run();
 
         IEnumerable<Action> Enumerate()
         {
+            var bundleResolver = bundleResolverFactory.CreateBundleResolver(bundleFileInstance);
+
             foreach (var asset in GetAssets(AssetClassID.Texture2D))
             {
                 var name = ReadAssetName(asset, DefaultTexture2DExtension);
@@ -90,7 +92,7 @@ internal partial class BundleManager
                 {
                     yield return () =>
                     {
-                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".t.pak");
+                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".texture2d");
 
                         var builder = new ObjectBuilder(
                             bundleFileSource.Destination, objectPath, arguments.ForceObjects);
@@ -143,14 +145,14 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         var name = ReadAssetName(asset, DefaultAssetExtension);
-                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".f.pak");
+                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".fnt");
 
                         var builder = new ObjectBuilder(
                             bundleFileSource.Destination, objectPath, arguments.ForceObjects);
 
                         builder.Build(_ => assetSource.Deserialize());
 
-                        arguments.Sink.ReportObject(root.Append(name + ".f.pak"), objectPath);
+                        arguments.Sink.ReportObject(root.Append(name + ".fnt"), objectPath);
                     };
                 }
             }
@@ -159,12 +161,13 @@ internal partial class BundleManager
 
     public bool Import(
         ImportArguments arguments,
+        BundleResolverFactory bundleResolverFactory,
         BundleFileSource bundleFileSource,
+        GameObjectSource gameObjectSource,
         SourceChangeTracker sourceChangeTracker)
     {
         var hasChanges = false;
         var assetReplacers = new List<AssetsReplacer>();
-        var bundleResolver = CreateBundleResolver(arguments.ObjectDirectory);
 
         Enumerate()
             .Scoped(logger, "asset")
@@ -212,6 +215,40 @@ internal partial class BundleManager
 
         IEnumerable<Action> Enumerate()
         {
+            var bundleResolver = bundleResolverFactory.CreateBundleResolver(bundleFileInstance);
+
+            foreach (var entry in gameObjectSource.Entries)
+            {
+                var gameObject = FindGameObject(entry.Path);
+                if (gameObject == null) continue;
+
+                foreach (var component in GetComponents(gameObject))
+                {
+                    if (component.TypeId != AssetClassID.MonoBehaviour)
+                    {
+                        continue;
+                    }
+
+                    var scriptName = ReadScriptName(bundleResolver, component.Field);
+                    if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
+                    {
+                        continue;
+                    }
+
+                    yield return () =>
+                    {
+                        if (arguments.ForceTargets || gameObjectSource.IsChanged(sourceChangeTracker))
+                        {
+                            hasChanges = true;
+                        }
+
+                        assetReplacers.Add(CreateReplacer(
+                            component.Asset,
+                            new TextMeshProUGUIData(TextCompressor.Compress(entry.Text))));
+                    };
+                }
+            }
+
             foreach (var asset in GetAssets(AssetClassID.Texture2D))
             {
                 var name = ReadAssetName(asset, DefaultTexture2DExtension);
@@ -299,12 +336,6 @@ internal partial class BundleManager
             }
         }
     }
-
-    private BundleResolver CreateBundleResolver(string objectDirectory) => new(
-        logger: logger,
-        assetsManager: assetsManager,
-        directory: Path.GetDirectoryName(bundleFileInstance.path) ?? string.Empty,
-        objectPath: objectDirectory + ".resolver");
 
     private IObjectSource<FontAssetData>? FindFontAsset(
         BundleResolver bundleResolver,

@@ -1,0 +1,6 @@
+﻿[
+  {
+    "path": "_root/Canvas/ScreenScaler/bonus Variant/book/index/paper02/text_index (TMP)",
+    "text": "СОДЕРЖАНИЕ"
+  }
+]

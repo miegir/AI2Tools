@@ -3,15 +3,15 @@ using AssetsTools.NET.Extra;
 
 namespace AI2Tools;
 
-internal class FontAssetReplacer : SerializingAssetReplacer
+internal class WriteToAssetReplacer<TData> : SerializingAssetReplacer where TData : IWriteTo
 {
-    private readonly IObjectSource<FontAssetData> source;
+    private readonly IObjectSource<TData> source;
 
-    public FontAssetReplacer(
+    public WriteToAssetReplacer(
         AssetsManager manager,
         AssetsFileInstance assetsFile,
         AssetFileInfoEx asset,
-        IObjectSource<FontAssetData> source) : base(manager, assetsFile, asset)
+        IObjectSource<TData> source) : base(manager, assetsFile, asset)
     {
         this.source = source;
     }

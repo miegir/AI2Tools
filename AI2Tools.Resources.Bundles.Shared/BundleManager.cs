@@ -12,7 +12,7 @@ internal partial class BundleManager : BundleFile
 
     private readonly FileSource source;
 
-    public BundleManager(ILogger logger, FileSource source, int index = 0) : base(logger, source.OpenRead(), index)
+    public BundleManager(ILogger logger, FileSource source) : base(logger, source.OpenRead())
     {
         this.source = source;
     }
@@ -84,7 +84,7 @@ internal partial class BundleManager : BundleFile
             foreach (var asset in GetAssets(AssetClassID.MonoBehaviour))
             {
                 var name = ReadAssetName(asset, DefaultAssetExtension);
-                var path = root.Append(name + ".f.pak");
+                var path = root.Append(name + ".fnt");
                 var entry = arguments.Container.GetEntry(path);
 
                 if (entry is null)
@@ -111,9 +111,14 @@ internal partial class BundleManager : BundleFile
         return new TextAssetReplacer(assetsManager, assetsFileInstance, asset, source);
     }
 
-    private AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<FontAssetData> source)
+    private AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, IObjectSource<TData> source) where TData: IWriteTo
     {
-        return new FontAssetReplacer(assetsManager, assetsFileInstance, asset, source);
+        return new WriteToAssetReplacer<TData>(assetsManager, assetsFileInstance, asset, source);
+    }
+
+    private AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, TData data) where TData : IWriteTo
+    {
+        return CreateReplacer(asset, DelegateObjectSource.Create(() => data));
     }
 
     private static AssetBundleCompressionType GetCompressionType(IStreamSource source)

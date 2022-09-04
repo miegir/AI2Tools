@@ -23,6 +23,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)ObjectEntry.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ObjectPath.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ObjectSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextCompressor.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)UnpackArguments.cs" />
   </ItemGroup>
 </Project>

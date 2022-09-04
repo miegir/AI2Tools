@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 805776401
+CRC: 1275497352
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 903b9905ad1049dbb9e9d5a282e8cfff
+    Hash: e62319785a6cf5c1b8764e4d8902a241
   TypeTreeHash:
     serializedVersion: 2
     Hash: 57e6d5d99f48d96514b0861aa8c1fa5c
@@ -69,6 +69,7 @@ Assets:
 - Assets/Fonts/Build/location#en-font.asset
 - Assets/Fonts/Build/header#en-font.asset
 - Assets/Fonts/Build/display#en-font.asset
+- Assets/Fonts/Build/message#ja-font.asset
 - Assets/Fonts/Build/somnium_target#en-font.asset
 - Assets/Fonts/Build/map_command#en-font.asset
 - Assets/Fonts/Build/aisight#en-font.asset

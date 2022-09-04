@@ -1,0 +1,38 @@
+﻿[
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/menu_top/button01/base/text_menu (TMP)",
+    "text": "ЗАГРУЗКА"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/menu_top/button02/base/text_menu (TMP)",
+    "text": "НОВАЯ ИГРА"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/menu_top/button03/base/text_menu (TMP)",
+    "text": "ПАРАМЕТРЫ"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/menu_top/layout/button05/base/text_menu (TMP)",
+    "text": "БОНУСЫ"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/menu_top/layout/button06/base/text_menu (TMP)",
+    "text": "ВЫХОД"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/manu_loadgame/text/text_loadgame (TMP)",
+    "text": "ЗАГРУЗКА"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/select_language Variant/tag/base/text_language (TMP)",
+    "text": "ЯЗЫК"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/select_language Variant/buttons/button12/base/text_menu (TMP)",
+    "text": "Русский язык"
+  },
+  {
+    "path": "_root/Canvas/ScreenScaler/title_menu/copyright/text_copyright (TMP)",
+    "text": "©Spike Chunsoft Co, Ltd. Все права защищены."
+  }
+]

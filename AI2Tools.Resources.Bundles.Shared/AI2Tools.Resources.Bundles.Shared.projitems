@@ -14,10 +14,14 @@
     <Compile Include="$(MSBuildThisFileDirectory)BundleManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleResource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleWriter.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)FontAssetReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WriteToAssetReplacer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FontAssetData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameObjectCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IWriteTo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PhysicalObjectSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TextAssetReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TextMeshProUGUIData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Texture2DAssetReplacer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Texture2DData.cs" />
   </ItemGroup>

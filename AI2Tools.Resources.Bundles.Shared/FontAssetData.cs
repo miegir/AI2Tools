@@ -4,7 +4,7 @@ using MessagePack;
 namespace AI2Tools;
 
 [MessagePackObject]
-public partial class FontAssetData
+public partial class FontAssetData : IWriteTo
 {
     [Key(00)] public FaceInfo? m_FaceInfo;
     [Key(01)] public Glyph[]? m_GlyphTable;

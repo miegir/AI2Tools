@@ -9,7 +9,6 @@
     <Import_RootNamespace>AI2Tools</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)TextCompressor.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TextMapManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TextMapResource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TextMapTranslation.cs" />

@@ -2,7 +2,7 @@
 
 namespace AI2Tools;
 
-internal static class TextCompressor
+public static class TextCompressor
 {
     public static string Compress(string text)
     {

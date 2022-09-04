@@ -21,10 +21,16 @@ public partial class BundleResource : IResource
     public Action? BeginMuster(MusterArguments arguments)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
+
         var bundleFileSource = new BundleFileSource(
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));
 
-        if (!Directory.Exists(sourceDirectory) && !bundleFileSource.Exists)
+        var gameObjectSource = new GameObjectSource(
+            logger, Path.Combine(arguments.SourceDirectory, "GameObjects", name + ".txt"));
+
+        if (!Directory.Exists(sourceDirectory)
+            && !bundleFileSource.Exists
+            && !gameObjectSource.Exists)
         {
             return null;
         }
@@ -37,11 +43,18 @@ public partial class BundleResource : IResource
             {
                 var directoryName = ObjectPath.Root.Append("aa", name);
                 using var manager = new BundleManager(logger, source);
-                if (manager.Muster(directoryName, bundleFileSource, arguments with
-                {
-                    SourceDirectory = sourceDirectory,
-                    ObjectDirectory = objectDirectory,
-                }))
+                var bundleResolverFactory = CreateBundleResolverFactory(arguments.ObjectDirectory);
+
+                if (manager.Muster(
+                    directoryName,
+                    arguments with
+                    {
+                        SourceDirectory = sourceDirectory,
+                        ObjectDirectory = objectDirectory,
+                    },
+                    bundleResolverFactory,
+                    bundleFileSource,
+                    gameObjectSource))
                 {
                     arguments.Sink.ReportDirectory(directoryName);
                 }
@@ -52,10 +65,16 @@ public partial class BundleResource : IResource
     public Action? BeginImport(ImportArguments arguments)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
+
         var bundleFileSource = new BundleFileSource(
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));
 
-        if (!Directory.Exists(sourceDirectory) && !bundleFileSource.Exists)
+        var gameObjectSource = new GameObjectSource(
+            logger, Path.Combine(arguments.SourceDirectory, "GameObjects", name + ".txt"));
+
+        if (!Directory.Exists(sourceDirectory)
+            && !bundleFileSource.Exists
+            && !gameObjectSource.Exists)
         {
             return null;
         }
@@ -68,14 +87,20 @@ public partial class BundleResource : IResource
             {
                 var statePath = objectDirectory + ".importstate";
                 var sourceChangeTracker = new SourceChangeTracker(source.Destination, statePath);
+                var bundleResolverFactory = CreateBundleResolverFactory(arguments.ObjectDirectory);
 
                 using var manager = new BundleManager(logger, source);
 
-                var shouldCommit = manager.Import(arguments with
-                {
-                    SourceDirectory = sourceDirectory,
-                    ObjectDirectory = objectDirectory,
-                }, bundleFileSource, sourceChangeTracker);
+                var shouldCommit = manager.Import(
+                    arguments with
+                    {
+                        SourceDirectory = sourceDirectory,
+                        ObjectDirectory = objectDirectory,
+                    },
+                    bundleResolverFactory,
+                    bundleFileSource,
+                    gameObjectSource,
+                    sourceChangeTracker);
 
                 if (shouldCommit)
                 {
@@ -83,5 +108,11 @@ public partial class BundleResource : IResource
                 }
             }
         };
+    }
+
+    private BundleResolverFactory CreateBundleResolverFactory(string objectDirectory)
+    {
+        var bundleResolverStatePath = Path.Combine(objectDirectory, "aa", "bundleresolver");
+        return new BundleResolverFactory(logger, bundleResolverStatePath);
     }
 }

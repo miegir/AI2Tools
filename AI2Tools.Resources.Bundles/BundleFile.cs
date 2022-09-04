@@ -40,7 +40,7 @@ internal partial class BundleFile
     public ScriptName? ReadScriptName(BundleResolver resolver, AssetTypeValueField baseField)
     {
         var atvf = baseField["m_Script"];
-        if (atvf is null)
+        if (atvf.IsDummy())
         {
             return null;
         }
@@ -63,7 +63,8 @@ internal partial class BundleFile
             }
 
             var path = assetsFileInstance.file.dependencies.dependencies[fileId].assetPath;
-            var dependentFileInstance = resolver.GetAssetsFileInstance(path);
+
+            var dependentFileInstance = Resolve(path);
             if (dependentFileInstance == null)
             {
                 return null;
@@ -78,6 +79,14 @@ internal partial class BundleFile
             if (asset == null) return null;
             var baseField = assetsManager.GetTypeInstance(assetsFileInstance, asset).GetBaseField();
             return ScriptName.Read(baseField);
+        }
+
+        AssetsFileInstance? Resolve(string path)
+        {
+            using var bundleStream = resolver.OpenBundle(path);
+            if (bundleStream == null) return null;
+            var bundleFileInstance = assetsManager.LoadBundleFile(bundleStream);
+            return assetsManager.LoadAssetsFileFromBundle(bundleFileInstance, 0);
         }
     }
 
