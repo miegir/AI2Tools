@@ -6,41 +6,41 @@ namespace AI2Tools;
 
 internal class BundleFileSource : IDisposable
 {
-    private readonly BundleFile? file;
+    private readonly BundleFile? bundleFile;
     private readonly string path;
 
     public BundleFileSource(ILogger logger, string path)
     {
         if (File.Exists(path))
         {
-            file = new BundleFile(logger, File.OpenRead(path));
+            bundleFile = new BundleFile(logger, File.OpenRead(path));
         }
 
         this.path = path;
     }
 
-    public bool Exists => file is not null;
+    public bool Exists => bundleFile is not null;
 
     public FileDestination Destination => new(path);
 
-    public void Dispose() => file?.Dispose();
+    public void Dispose() => bundleFile?.Dispose();
 
-    public bool IsChanged(SourceChangeTracker sourceChangeTracker) => sourceChangeTracker.IsChanged(path);
+    public void Register(SourceChangeTracker sourceChangeTracker) => sourceChangeTracker.RegisterSource(path);
 
     public IObjectSource<Texture2DData>? FindTexture2D(string name, string defaultExtension)
     {
-        if (file is null)
+        if (bundleFile is null)
         {
             return null;
         }
 
-        var asset = file.FindAssets(AssetClassID.Texture2D, name, defaultExtension).FirstOrDefault();
+        var asset = bundleFile.FindAssets(AssetClassID.Texture2D, name, defaultExtension).FirstOrDefault();
         if (asset is null)
         {
             return null;
         }
 
-        var baseField = file.GetBaseField(asset);
+        var baseField = bundleFile.GetBaseField(asset);
         var textureFile = TextureFile.ReadTextureFile(baseField);
         var textureData = GetTextureData(textureFile);
 
@@ -65,15 +65,15 @@ internal class BundleFileSource : IDisposable
         Func<MonoBehaviorContext, T> factory,
         Func<T, bool>? validator = null)
     {
-        if (file is null)
+        if (bundleFile is null)
         {
             return null;
         }
 
-        foreach (var asset in file.FindAssets(AssetClassID.MonoBehaviour, name, defaultExtension))
+        foreach (var asset in bundleFile.FindAssets(AssetClassID.MonoBehaviour, name, defaultExtension))
         {
-            var baseField = file.GetBaseField(asset);
-            var assetScriptName = file.ReadScriptName(bundleResolver, baseField);
+            var baseField = bundleFile.GetBaseField(asset);
+            var assetScriptName = bundleFile.ReadScriptName(bundleResolver, baseField);
             if (assetScriptName != scriptName)
             {
                 continue;
@@ -111,10 +111,10 @@ internal class BundleFileSource : IDisposable
             var path = textureFile.m_StreamData.path;
             if (path.StartsWith("archive:/"))
             {
-                if (file is null) return null;
+                if (bundleFile is null) return null;
                 var index = path.LastIndexOf('/');
                 var name = path[(index + 1)..];
-                return file.ReadResource(
+                return bundleFile.ReadResource(
                     name,
                     (int)textureFile.m_StreamData.offset,
                     (int)textureFile.m_StreamData.size);

@@ -7,18 +7,20 @@ public class SourceChangeTracker
 {
     private static readonly JsonSerializerOptions JsonOptions = new();
 
-    private readonly Dictionary<string, bool> isChangedCache = new();
-    private readonly Dictionary<string, SourceState> states;
+    private readonly Dictionary<string, FileState?> updatedStates = new();
+    private readonly Dictionary<string, FileState?> originalStates;
     private readonly FileDestination destination;
     private readonly string statePath;
     private readonly string? callerState;
-    private bool accepted;
+    private readonly Guid mvid;
+    private readonly bool accepted;
 
     public SourceChangeTracker(FileDestination destination, string statePath, string? callerState = null)
     {
         this.destination = destination;
         this.statePath = statePath;
         this.callerState = callerState;
+        mvid = Assembly.GetCallingAssembly().ManifestModule.ModuleVersionId;
         var destinationState = destination.FileState;
         var stateInfo = new FileInfo(statePath);
 
@@ -30,27 +32,11 @@ public class SourceChangeTracker
                 var state = JsonSerializer.Deserialize<State>(stream, JsonOptions);
 
                 accepted = state != null
+                    && state.Mvid == mvid
                     && state.CallerState == callerState
                     && state.DestinationState == destinationState;
 
-                states = state?.SourceStates ?? new();
-
-                foreach (var (key, sourceState) in states)
-                {
-                    if (sourceState is null)
-                    {
-                        states.Remove(key);
-                    }
-                }
-
-                foreach (var (key, sourceState) in states)
-                {
-                    if (sourceState.FileState is not null &&
-                        sourceState.FileState.LastWriteTimeUtc > destinationState.LastWriteTimeUtc)
-                    {
-                        states.Remove(key);
-                    }
-                }
+                originalStates = state?.SourceStates ?? new();
 
                 return;
             }
@@ -59,43 +45,30 @@ public class SourceChangeTracker
             }
         }
 
-        states = new();
+        originalStates = new();
     }
 
-    public bool IsChanged(string sourcePath)
+    public bool HasChanges()
     {
-        var assembly = Assembly.GetCallingAssembly();
-
-        if (!isChangedCache.TryGetValue(sourcePath, out var changed))
+        if (!accepted)
         {
-            isChangedCache[sourcePath] = changed = IsChangedCore();
-        }
-
-        return changed;
-
-        bool IsChangedCore()
-        {
-            sourcePath = Path.GetFullPath(sourcePath);
-
-            var fileState = File.Exists(sourcePath)
-                ? FileState.FromPath(sourcePath)
-                : null;
-
-            var currentState = new SourceState(
-                Mvid: assembly.ManifestModule.ModuleVersionId,
-                FileState: fileState);
-
-            if (accepted
-                && states.TryGetValue(sourcePath, out var state)
-                && state == currentState)
-            {
-                return false;
-            }
-
-            accepted = false;
-            states[sourcePath] = currentState;
             return true;
         }
+
+        foreach (var (sourcePath, originalState) in originalStates)
+        {
+            if (GetCurrentState(sourcePath) != originalState)
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public void RegisterSource(string sourcePath)
+    {
+        updatedStates[sourcePath] = GetCurrentState(sourcePath);
     }
 
     public void Commit()
@@ -105,21 +78,23 @@ public class SourceChangeTracker
         JsonSerializer.Serialize(
             target.Stream, new State
             {
+                Mvid = mvid,
                 DestinationState = destination.FileState,
                 CallerState = callerState,
-                SourceStates = states,
+                SourceStates = updatedStates,
             },
             JsonOptions);
 
         target.Commit();
     }
 
+    private static FileState? GetCurrentState(string path) => File.Exists(path) ? FileState.FromPath(path) : null;
+
     private class State
     {
+        public Guid Mvid { get; set; }
         public FileState? DestinationState { get; set; }
         public string? CallerState { get; set; }
-        public Dictionary<string, SourceState>? SourceStates { get; set; }
+        public Dictionary<string, FileState?>? SourceStates { get; set; }
     }
-
-    private record SourceState(Guid Mvid, FileState? FileState);
 }

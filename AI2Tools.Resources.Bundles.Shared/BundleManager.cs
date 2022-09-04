@@ -4,22 +4,24 @@ using Microsoft.Extensions.Logging;
 
 namespace AI2Tools;
 
-internal partial class BundleManager : BundleFile
+internal partial class BundleManager
 {
     private const string DefaultTextExtension = ".txt";
     private const string DefaultTexture2DExtension = ".png";
     private const string DefaultAssetExtension = ".asset";
-
+    private readonly ILogger logger;
     private readonly FileSource source;
 
-    public BundleManager(ILogger logger, FileSource source) : base(logger, source.OpenRead())
+    public BundleManager(ILogger logger, FileSource source)
     {
+        this.logger = logger;
         this.source = source;
     }
 
     public void Unpack(UnpackArguments arguments, ObjectPath root)
     {
         var assetReplacers = new List<AssetsReplacer>();
+        using var bundleFile = new BundleFile(logger, source.OpenRead());
 
         Enumerate()
             .Scoped(logger, "asset")
@@ -33,54 +35,46 @@ internal partial class BundleManager : BundleFile
             _ => AssetBundleCompressionType.NONE,
         };
 
-        var writer = new BundleWriter(logger, bundleFileInstance.file, source);
-
-        writer.Replacers.Add(new BundleReplacerFromAssets(
-            oldName: assetsFileInstance.name,
-            newName: null,
-            assetsFile: assetsFileInstance.file,
-            assetReplacers: assetReplacers));
-
-        writer.Write(compression);
+        bundleFile.Write(source, assetReplacers, compression);
 
         IEnumerable<Action> Enumerate()
         {
-            foreach (var asset in GetAssets(AssetClassID.Texture2D))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
-                var name = ReadAssetName(asset, DefaultTexture2DExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
                 if (arguments.Container.TryGetEntry(root.Append(name + ".pak"), out var entry))
                 {
                     yield return () =>
                     {
                         logger.LogInformation("importing texture {name}...", name);
-                        assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<Texture2DData>()));
+                        assetReplacers.Add(bundleFile.CreateReplacer(asset, entry.AsObjectSource<Texture2DData>()));
                     };
                 }
             }
 
-            foreach (var asset in GetAssets(AssetClassID.TextAsset))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.TextAsset))
             {
-                var name = ReadAssetName(asset, DefaultTextExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTextExtension);
                 if (arguments.Container.TryGetEntry(root.Append(name + ".pak"), out var entry))
                 {
                     yield return () =>
                     {
                         logger.LogInformation("importing text {name}...", name);
-                        assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<string>()));
+                        assetReplacers.Add(bundleFile.CreateReplacer(asset, entry.AsObjectSource<string>()));
                     };
                 }
             }
 
-            foreach (var asset in GetAssets(AssetClassID.MonoBehaviour))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.MonoBehaviour))
             {
-                var name = ReadAssetName(asset, DefaultAssetExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
 
                 if (arguments.Container.TryGetEntry(root.Append(name + ".fnt"), out var fntEntry))
                 {
                     yield return () =>
                     {
                         logger.LogInformation("importing font {name}...", name);
-                        assetReplacers.Add(CreateReplacer(asset, fntEntry.AsObjectSource<FontAssetData>()));
+                        assetReplacers.Add(bundleFile.CreateReplacer(asset, fntEntry.AsObjectSource<FontAssetData>()));
                     };
                 }
 
@@ -89,31 +83,11 @@ internal partial class BundleManager : BundleFile
                     yield return () =>
                     {
                         logger.LogInformation("importing text mesh pro {name}...", name);
-                        assetReplacers.Add(CreateReplacer(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>()));
+                        assetReplacers.Add(bundleFile.CreateReplacer(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>()));
                     };
                 }
             }
         }
-    }
-
-    private AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<Texture2DData> source)
-    {
-        return new Texture2DAssetReplacer(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    private AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<string> source)
-    {
-        return new TextAssetReplacer(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    private AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, IObjectSource<TData> source) where TData: IWriteTo
-    {
-        return new WriteToAssetReplacer<TData>(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    private AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, TData data) where TData : IWriteTo
-    {
-        return CreateReplacer(asset, DelegateObjectSource.Create(() => data));
     }
 
     private static AssetBundleCompressionType GetCompressionType(IStreamSource source)

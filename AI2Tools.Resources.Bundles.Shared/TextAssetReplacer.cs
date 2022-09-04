@@ -19,6 +19,6 @@ internal class TextAssetReplacer : SerializingAssetReplacer
     protected override void Modify(AssetTypeValueField baseField)
     {
         var script = source.Deserialize();
-        baseField["m_Script"].GetValue().Set(script);
+        baseField["m_Script"].GetValue().Set(TextCompressor.Compress(script));
     }
 }

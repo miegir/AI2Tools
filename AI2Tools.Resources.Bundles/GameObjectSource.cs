@@ -36,5 +36,5 @@ internal class GameObjectSource
 
     public ImmutableArray<Entry> Entries { get; }
 
-    public bool IsChanged(SourceChangeTracker sourceChangeTracker) => sourceChangeTracker.IsChanged(path);
+    public void Register(SourceChangeTracker sourceChangeTracker) => sourceChangeTracker.RegisterSource(path);
 }

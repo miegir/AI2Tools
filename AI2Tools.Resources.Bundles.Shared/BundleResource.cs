@@ -35,7 +35,7 @@ public partial class BundleResource : IResource
             logger.LogInformation("unpacking bundle {name}...", name);
             using (logger.BeginScope("bundle {name}", name))
             {
-                using var manager = new BundleManager(logger, source);
+                var manager = new BundleManager(logger, source);
                 manager.Unpack(arguments, directory);
             }
         };

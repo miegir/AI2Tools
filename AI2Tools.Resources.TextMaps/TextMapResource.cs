@@ -39,13 +39,15 @@ public partial class TextMapResource : IResource
         var stateChangeTracker = new SourceChangeTracker(
             source.Destination, statePath, JsonSerializer.Serialize(arguments.Debug));
 
-        if (!arguments.ForceTargets && !stateChangeTracker.IsChanged(sourcePath))
+        if (!arguments.ForceTargets && !stateChangeTracker.HasChanges())
         {
             return null;
         }
 
         return () =>
         {
+            stateChangeTracker.RegisterSource(sourcePath);
+
             logger.LogInformation("importing text map {name}...", name);
             using (logger.BeginScope("text map {name}", name))
             {

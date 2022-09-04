@@ -1,6 +1,7 @@
 ﻿using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
+using Mono.Cecil;
 
 namespace AI2Tools;
 
@@ -9,10 +10,10 @@ internal partial class BundleFile : IDisposable
     private readonly Dictionary<long, string> paths = new();
     private readonly Dictionary<long, GameObject> gameObjectMap = new();
     private readonly GameObjectCollection gameObjects = new();
-    protected readonly ILogger logger;
-    protected readonly AssetsManager assetsManager;
-    protected readonly BundleFileInstance bundleFileInstance;
-    protected readonly AssetsFileInstance assetsFileInstance;
+    private readonly ILogger logger;
+    private readonly AssetsManager assetsManager;
+    private readonly BundleFileInstance bundleFileInstance;
+    private readonly AssetsFileInstance assetsFileInstance;
 
     public BundleFile(ILogger logger, FileStream stream)
     {
@@ -37,6 +38,39 @@ internal partial class BundleFile : IDisposable
         {
             assetsManager.UnloadAll();
         }
+    }
+
+    public void Write(FileSource source, List<AssetsReplacer> assetReplacers, AssetBundleCompressionType compression)
+    {
+        var writer = new BundleWriter(logger, bundleFileInstance.file, source);
+
+        writer.Replacers.Add(new BundleReplacerFromAssets(
+            oldName: assetsFileInstance.name,
+            newName: null,
+            assetsFile: assetsFileInstance.file,
+            assetReplacers: assetReplacers));
+
+        writer.Write(compression);
+    }
+
+    public AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<Texture2DData> source)
+    {
+        return new Texture2DAssetReplacer(assetsManager, assetsFileInstance, asset, source);
+    }
+
+    public AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<string> source)
+    {
+        return new TextAssetReplacer(assetsManager, assetsFileInstance, asset, source);
+    }
+
+    public AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, IObjectSource<TData> source) where TData : IWriteTo
+    {
+        return new WriteToAssetReplacer<TData>(assetsManager, assetsFileInstance, asset, source);
+    }
+
+    public AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, TData data) where TData : IWriteTo
+    {
+        return CreateReplacer(asset, DelegateObjectSource.Create(() => data));
     }
 
     public IEnumerable<AssetFileInfoEx> GetAssets(AssetClassID typeId)

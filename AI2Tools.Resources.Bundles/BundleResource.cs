@@ -12,7 +12,7 @@ public partial class BundleResource : IResource
             logger.LogInformation("exporting bundle {name}...", name);
             using (logger.BeginScope("bundle {name}", name))
             {
-                using var manager = new BundleManager(logger, source);
+                var manager = new BundleManager(logger, source);
                 manager.Export(arguments with { ExportDirectory = path });
             }
         };
@@ -42,7 +42,7 @@ public partial class BundleResource : IResource
             using (logger.BeginScope("bundle {name}", name))
             {
                 var directoryName = ObjectPath.Root.Append("aa", name);
-                using var manager = new BundleManager(logger, source);
+                var manager = new BundleManager(logger, source);
                 var bundleResolverFactory = CreateBundleResolverFactory(arguments.ObjectDirectory);
 
                 if (manager.Muster(
@@ -82,14 +82,13 @@ public partial class BundleResource : IResource
         return () =>
         {
             var objectDirectory = Path.Combine(arguments.ObjectDirectory, "aa", name);
-            logger.LogInformation("importing bundle {name}...", name);
             using (logger.BeginScope("bundle {name}", name))
             {
                 var statePath = objectDirectory + ".importstate";
                 var sourceChangeTracker = new SourceChangeTracker(source.Destination, statePath);
                 var bundleResolverFactory = CreateBundleResolverFactory(arguments.ObjectDirectory);
 
-                using var manager = new BundleManager(logger, source);
+                var manager = new BundleManager(logger, source);
 
                 var shouldCommit = manager.Import(
                     arguments with

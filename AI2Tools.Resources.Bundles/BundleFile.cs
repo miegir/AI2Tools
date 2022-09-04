@@ -12,6 +12,16 @@ internal partial class BundleFile
         pathLookup = paths.ToLookup(e => e.Value, e => e.Key, StringComparer.OrdinalIgnoreCase);
     }
 
+    public byte[] GetTextureData(TextureFile textureFile)
+    {
+        return textureFile.GetTextureData(null, bundleFileInstance.file);
+    }
+
+    public BundleResolver CreateBundleResolver(BundleResolverFactory factory)
+    {
+        return factory.CreateBundleResolver(bundleFileInstance);
+    }
+
     public IEnumerable<AssetFileInfoEx> FindAssets(AssetClassID typeId, string name, string defaultExtension)
     {
         foreach (var pathId in pathLookup[name])

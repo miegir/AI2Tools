@@ -13,25 +13,27 @@ internal partial class BundleManager
 {
     public void Export(ExportArguments arguments)
     {
+        using var bundleFile = new BundleFile(logger, source.OpenRead());
+
         Enumerate()
             .Scoped(logger, "asset")
             .Run();
 
         IEnumerable<Action> Enumerate()
         {
-            foreach (var asset in GetAssets(AssetClassID.Texture2D))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
-                var name = ReadAssetName(asset, DefaultTexture2DExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
                 var path = Path.Combine(arguments.ExportDirectory, name);
                 if (!arguments.Force && File.Exists(path)) continue;
-                var baseField = GetBaseField(asset);
+                var baseField = bundleFile.GetBaseField(asset);
                 var textureFile = TextureFile.ReadTextureFile(baseField);
                 if (textureFile.m_Width == 0 || textureFile.m_Height == 0) continue;
                 yield return () =>
                 {
                     logger.LogInformation(message: "exporting texture {name}...", name);
 
-                    var textureData = textureFile.GetTextureData(null, bundleFileInstance.file);
+                    var textureData = bundleFile.GetTextureData(textureFile);
 
                     using var image = Image.LoadPixelData<Bgra32>(
                         textureData, textureFile.m_Width, textureFile.m_Height);
@@ -44,16 +46,16 @@ internal partial class BundleManager
                 };
             }
 
-            foreach (var asset in GetAssets(AssetClassID.TextAsset))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.TextAsset))
             {
-                var name = ReadAssetName(asset, DefaultTextExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTextExtension);
                 var path = Path.Combine(arguments.ExportDirectory, name);
                 if (!arguments.Force && File.Exists(path)) continue;
                 yield return () =>
                 {
                     logger.LogInformation(message: "exporting text {name}...", name);
 
-                    var baseField = GetBaseField(asset);
+                    var baseField = bundleFile.GetBaseField(asset);
                     var script = baseField["m_Script"].GetValue().AsString();
 
                     using var target = new FileTarget(path);
@@ -75,27 +77,29 @@ internal partial class BundleManager
         BundleFileSource bundleFileSource,
         GameObjectSource gameObjectSource)
     {
+        using var bundleFile = new BundleFile(logger, source.OpenRead());
+
         return Enumerate()
             .Scoped(logger, "asset")
             .Run();
 
         IEnumerable<Action> Enumerate()
         {
-            var bundleResolver = bundleResolverFactory.CreateBundleResolver(bundleFileInstance);
+            var bundleResolver = bundleFile.CreateBundleResolver(bundleResolverFactory);
 
             foreach (var entry in gameObjectSource.Entries)
             {
-                var gameObject = FindGameObject(entry.Path);
+                var gameObject = bundleFile.FindGameObject(entry.Path);
                 if (gameObject == null) continue;
 
-                foreach (var component in GetComponents(gameObject))
+                foreach (var component in bundleFile.GetComponents(gameObject))
                 {
                     if (component.TypeId != AssetClassID.MonoBehaviour)
                     {
                         continue;
                     }
 
-                    var scriptName = ReadScriptName(bundleResolver, component.Field);
+                    var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
                     if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
                     {
                         continue;
@@ -103,7 +107,7 @@ internal partial class BundleManager
 
                     yield return () =>
                     {
-                        var name = ReadAssetName(component.Asset, DefaultAssetExtension);
+                        var name = bundleFile.ReadAssetName(component.Asset, DefaultAssetExtension);
                         var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".tmprougui.pak");
                         var builder = new ObjectBuilder(
                             gameObjectSource.Destination, objectPath, arguments.ForceObjects);
@@ -115,9 +119,9 @@ internal partial class BundleManager
                 }
             }
 
-            foreach (var asset in GetAssets(AssetClassID.Texture2D))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
-                var name = ReadAssetName(asset, DefaultTexture2DExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
 
                 var assetSource = bundleFileSource.FindTexture2D(name, DefaultTexture2DExtension);
                 if (assetSource is not null)
@@ -143,7 +147,7 @@ internal partial class BundleManager
 
                 yield return () =>
                 {
-                    var baseField = GetBaseField(asset);
+                    var baseField = bundleFile.GetBaseField(asset);
                     var textureFile = TextureFile.ReadTextureFile(baseField);
                     var textureArguments = Texture2DArguments.Create(textureFile, arguments.BC7Compression);
                     var objectPath = Path.Combine(arguments.ObjectDirectory, name, textureArguments.Name);
@@ -155,9 +159,9 @@ internal partial class BundleManager
                 };
             }
 
-            foreach (var asset in GetAssets(AssetClassID.TextAsset))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.TextAsset))
             {
-                var name = ReadAssetName(asset, DefaultTextExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTextExtension);
                 var sourcePath = Path.Combine(arguments.SourceDirectory, name);
 
                 if (!File.Exists(sourcePath)) continue;
@@ -170,13 +174,13 @@ internal partial class BundleManager
 
             if (bundleFileSource.Exists)
             {
-                foreach (var asset in GetAssets(AssetClassID.MonoBehaviour))
+                foreach (var asset in bundleFile.GetAssets(AssetClassID.MonoBehaviour))
                 {
-                    var assetSource = FindFontAsset(bundleResolver, bundleFileSource, asset);
+                    var assetSource = FindFontAsset(bundleFile, bundleResolver, bundleFileSource, asset);
                     if (assetSource == null) continue;
                     yield return () =>
                     {
-                        var name = ReadAssetName(asset, DefaultAssetExtension);
+                        var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
                         var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".fnt");
 
                         var builder = new ObjectBuilder(
@@ -198,23 +202,8 @@ internal partial class BundleManager
         GameObjectSource gameObjectSource,
         SourceChangeTracker sourceChangeTracker)
     {
-        var hasChanges = false;
+        var hasChanges = arguments.ForceTargets || sourceChangeTracker.HasChanges();
         var assetReplacers = new List<AssetsReplacer>();
-
-        Enumerate()
-            .Scoped(logger, "asset")
-            .Run();
-
-        if (assetReplacers.Count == 0)
-        {
-            if (source.CanUnroll())
-            {
-                logger.LogInformation("unrolling bundle...");
-                source.Unroll();
-            }
-
-            return true;
-        }
 
         var compression = arguments.BundleCompression switch
         {
@@ -233,35 +222,44 @@ internal partial class BundleManager
             }
         }
 
-        var writer = new BundleWriter(logger, bundleFileInstance.file, source);
+        using var bundleFile = new BundleFile(logger, source.OpenRead());
 
-        writer.Replacers.Add(new BundleReplacerFromAssets(
-            oldName: assetsFileInstance.name,
-            newName: null,
-            assetsFile: assetsFileInstance.file,
-            assetReplacers: assetReplacers));
+        Enumerate()
+            .Scoped(logger, "asset")
+            .Run();
 
-        writer.Write(compression);
+        if (assetReplacers.Count == 0)
+        {
+            if (source.CanUnroll())
+            {
+                logger.LogInformation("unrolling bundle...");
+                source.Unroll();
+            }
+
+            return true;
+        }
+
+        bundleFile.Write(source, assetReplacers, compression);
 
         return true;
 
         IEnumerable<Action> Enumerate()
         {
-            var bundleResolver = bundleResolverFactory.CreateBundleResolver(bundleFileInstance);
+            var bundleResolver = bundleFile.CreateBundleResolver(bundleResolverFactory);
 
             foreach (var entry in gameObjectSource.Entries)
             {
-                var gameObject = FindGameObject(entry.Path);
+                var gameObject = bundleFile.FindGameObject(entry.Path);
                 if (gameObject == null) continue;
 
-                foreach (var component in GetComponents(gameObject))
+                foreach (var component in bundleFile.GetComponents(gameObject))
                 {
                     if (component.TypeId != AssetClassID.MonoBehaviour)
                     {
                         continue;
                     }
 
-                    var scriptName = ReadScriptName(bundleResolver, component.Field);
+                    var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
                     if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
                     {
                         continue;
@@ -269,34 +267,31 @@ internal partial class BundleManager
 
                     yield return () =>
                     {
-                        if (arguments.ForceTargets || gameObjectSource.IsChanged(sourceChangeTracker))
-                        {
-                            hasChanges = true;
-                        }
-
-                        assetReplacers.Add(CreateReplacer(component.Asset, BuildTextMeshProUGUIData(entry)));
+                        logger.LogInformation("importing text mesh pro {name}...", entry.Path);
+                        gameObjectSource.Register(sourceChangeTracker);
+                        assetReplacers.Add(bundleFile.CreateReplacer(component.Asset, BuildTextMeshProUGUIData(entry)));
                     };
                 }
             }
 
-            foreach (var asset in GetAssets(AssetClassID.Texture2D))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
-                var name = ReadAssetName(asset, DefaultTexture2DExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
 
-                var assetSource = bundleFileSource.FindTexture2D(name, DefaultTexture2DExtension);
-                if (assetSource is not null)
+                if (bundleFileSource.Exists)
                 {
-                    yield return () =>
+                    var assetSource = bundleFileSource.FindTexture2D(name, DefaultTexture2DExtension);
+                    if (assetSource is not null)
                     {
-                        if (arguments.ForceTargets || bundleFileSource.IsChanged(sourceChangeTracker))
+                        yield return () =>
                         {
-                            hasChanges = true;
-                        }
+                            logger.LogInformation("importing bundled texture {name}...", name);
+                            bundleFileSource.Register(sourceChangeTracker);
+                            assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
+                        };
 
-                        assetReplacers.Add(CreateReplacer(asset, assetSource));
-                    };
-
-                    continue;
+                        continue;
+                    }
                 }
 
                 var sourcePath = Path.Combine(arguments.SourceDirectory, name);
@@ -305,7 +300,9 @@ internal partial class BundleManager
 
                 yield return () =>
                 {
-                    var baseField = GetBaseField(asset);
+                    logger.LogInformation("importing texture {name}...", name);
+
+                    var baseField = bundleFile.GetBaseField(asset);
                     var textureFile = TextureFile.ReadTextureFile(baseField);
                     var textureArguments = Texture2DArguments.Create(textureFile, arguments.BC7Compression);
                     var objectPath = Path.Combine(arguments.ObjectDirectory, name, textureArguments.Name);
@@ -313,73 +310,66 @@ internal partial class BundleManager
 
                     BuildTexture2DObject(builder, textureArguments, name);
 
-                    if (arguments.ForceTargets || sourceChangeTracker.IsChanged(objectPath))
-                    {
-                        hasChanges = true;
-                    }
-
+                    sourceChangeTracker.RegisterSource(objectPath);
                     var objectSource = new PhysicalObjectSource<Texture2DData>(objectPath);
-                    assetReplacers.Add(CreateReplacer(asset, objectSource));
+                    assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
                 };
             }
 
-            foreach (var asset in GetAssets(AssetClassID.TextAsset))
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.TextAsset))
             {
-                var name = ReadAssetName(asset, DefaultTextExtension);
+                var name = bundleFile.ReadAssetName(asset, DefaultTextExtension);
                 var sourcePath = Path.Combine(arguments.SourceDirectory, name);
 
                 if (!File.Exists(sourcePath)) continue;
 
                 yield return () =>
                 {
+                    logger.LogInformation("import text asset {name}...", name);
+
                     var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".pak");
                     var builder = new ObjectBuilder(sourcePath, objectPath, arguments.ForceObjects);
 
                     BuildTextObject(builder, name);
 
-                    if (arguments.ForceTargets || sourceChangeTracker.IsChanged(sourcePath))
-                    {
-                        hasChanges = true;
-                    }
-
+                    sourceChangeTracker.RegisterSource(sourcePath);
                     var objectSource = new PhysicalObjectSource<string>(objectPath);
-                    assetReplacers.Add(CreateReplacer(asset, objectSource));
+                    assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
                 };
             }
 
             if (bundleFileSource.Exists)
             {
-                foreach (var asset in GetAssets(AssetClassID.MonoBehaviour))
+                foreach (var asset in bundleFile.GetAssets(AssetClassID.MonoBehaviour))
                 {
-                    var assetSource = FindFontAsset(bundleResolver, bundleFileSource, asset);
+                    var assetSource = FindFontAsset(bundleFile, bundleResolver, bundleFileSource, asset);
                     if (assetSource == null) continue;
                     yield return () =>
                     {
-                        if (arguments.ForceTargets || bundleFileSource.IsChanged(sourceChangeTracker))
-                        {
-                            hasChanges = true;
-                        }
-
-                        assetReplacers.Add(CreateReplacer(asset, assetSource));
+                        var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
+                        logger.LogInformation("import font {name}...", name);
+                        bundleFileSource.Register(sourceChangeTracker);
+                        assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
                     };
                 }
             }
         }
     }
 
-    private IObjectSource<FontAssetData>? FindFontAsset(
+    private static IObjectSource<FontAssetData>? FindFontAsset(
+        BundleFile bundleFile,
         BundleResolver bundleResolver,
         BundleFileSource bundleFileSource,
         AssetFileInfoEx asset)
     {
-        var baseField = GetBaseField(asset);
-        var scriptName = ReadScriptName(bundleResolver, baseField);
+        var baseField = bundleFile.GetBaseField(asset);
+        var scriptName = bundleFile.ReadScriptName(bundleResolver, baseField);
         if (scriptName?.FullName != "TMPro.TMP_FontAsset")
         {
             return null;
         }
 
-        var name = ReadAssetName(asset, DefaultAssetExtension);
+        var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
         return bundleFileSource.FindMonoBehavior(
             bundleResolver,
             name,
