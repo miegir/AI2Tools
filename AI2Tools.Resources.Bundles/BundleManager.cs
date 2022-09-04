@@ -83,6 +83,38 @@ internal partial class BundleManager
         {
             var bundleResolver = bundleResolverFactory.CreateBundleResolver(bundleFileInstance);
 
+            foreach (var entry in gameObjectSource.Entries)
+            {
+                var gameObject = FindGameObject(entry.Path);
+                if (gameObject == null) continue;
+
+                foreach (var component in GetComponents(gameObject))
+                {
+                    if (component.TypeId != AssetClassID.MonoBehaviour)
+                    {
+                        continue;
+                    }
+
+                    var scriptName = ReadScriptName(bundleResolver, component.Field);
+                    if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
+                    {
+                        continue;
+                    }
+
+                    yield return () =>
+                    {
+                        var name = ReadAssetName(component.Asset, DefaultAssetExtension);
+                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".tmprougui.pak");
+                        var builder = new ObjectBuilder(
+                            gameObjectSource.Destination, objectPath, arguments.ForceObjects);
+
+                        builder.Build(_ => BuildTextMeshProUGUIData(entry));
+
+                        arguments.Sink.ReportObject(root.Append(name + ".tmprougui.pak"), objectPath);
+                    };
+                }
+            }
+
             foreach (var asset in GetAssets(AssetClassID.Texture2D))
             {
                 var name = ReadAssetName(asset, DefaultTexture2DExtension);
@@ -242,9 +274,7 @@ internal partial class BundleManager
                             hasChanges = true;
                         }
 
-                        assetReplacers.Add(CreateReplacer(
-                            component.Asset,
-                            new TextMeshProUGUIData(TextCompressor.Compress(entry.Text))));
+                        assetReplacers.Add(CreateReplacer(component.Asset, BuildTextMeshProUGUIData(entry)));
                     };
                 }
             }
@@ -390,5 +420,10 @@ internal partial class BundleManager
             using var reader = new StreamReader(stream, Encoding.UTF8);
             return reader.ReadToEnd();
         });
+    }
+
+    private static TextMeshProUGUIData BuildTextMeshProUGUIData(GameObjectSource.Entry entry)
+    {
+        return new TextMeshProUGUIData(TextCompressor.Compress(entry.Text));
     }
 }

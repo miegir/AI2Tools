@@ -1,4 +1,5 @@
 ﻿using System.Collections.Immutable;
+using System.Diagnostics.CodeAnalysis;
 using System.IO.Compression;
 
 namespace AI2Tools;
@@ -31,9 +32,18 @@ public sealed class ObjectContainer : IDisposable
 
     public bool HasDirectory(ObjectPath name) => directories.Contains(name.Name);
 
-    public ObjectEntry? GetEntry(ObjectPath name)
+    public bool TryGetEntry(ObjectPath name, [NotNullWhen(true)] out ObjectEntry? entry)
     {
-        var entry = archive.GetEntry(name.Name);
-        return entry is not null ? new ObjectEntry(entry) : null;
+        var archiveEntry = archive.GetEntry(name.Name);
+        if (archiveEntry != null)
+        {
+            entry = new ObjectEntry(archiveEntry);
+            return true;
+        }
+        else
+        {
+            entry = null;
+            return false;
+        }
     }
 }

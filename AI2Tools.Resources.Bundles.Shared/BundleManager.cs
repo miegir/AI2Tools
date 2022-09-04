@@ -48,55 +48,50 @@ internal partial class BundleManager : BundleFile
             foreach (var asset in GetAssets(AssetClassID.Texture2D))
             {
                 var name = ReadAssetName(asset, DefaultTexture2DExtension);
-                var path = root.Append(name + ".pak");
-                var entry = arguments.Container.GetEntry(path);
-
-                if (entry is null)
+                if (arguments.Container.TryGetEntry(root.Append(name + ".pak"), out var entry))
                 {
-                    continue;
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing texture {name}...", name);
+                        assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<Texture2DData>()));
+                    };
                 }
-
-                yield return () =>
-                {
-                    logger.LogInformation("importing texture {name}...", name);
-                    assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<Texture2DData>()));
-                };
             }
 
             foreach (var asset in GetAssets(AssetClassID.TextAsset))
             {
                 var name = ReadAssetName(asset, DefaultTextExtension);
-                var path = root.Append(name + ".pak");
-                var entry = arguments.Container.GetEntry(path);
-
-                if (entry is null)
+                if (arguments.Container.TryGetEntry(root.Append(name + ".pak"), out var entry))
                 {
-                    continue;
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing text {name}...", name);
+                        assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<string>()));
+                    };
                 }
-
-                yield return () =>
-                {
-                    logger.LogInformation("importing text {name}...", name);
-                    assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<string>()));
-                };
             }
 
             foreach (var asset in GetAssets(AssetClassID.MonoBehaviour))
             {
                 var name = ReadAssetName(asset, DefaultAssetExtension);
-                var path = root.Append(name + ".fnt");
-                var entry = arguments.Container.GetEntry(path);
 
-                if (entry is null)
+                if (arguments.Container.TryGetEntry(root.Append(name + ".fnt"), out var fntEntry))
                 {
-                    continue;
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing font {name}...", name);
+                        assetReplacers.Add(CreateReplacer(asset, fntEntry.AsObjectSource<FontAssetData>()));
+                    };
                 }
 
-                yield return () =>
+                if (arguments.Container.TryGetEntry(root.Append(name + ".tmprougui.pak"), out var tmpEntry))
                 {
-                    logger.LogInformation("importing font {name}...", name);
-                    assetReplacers.Add(CreateReplacer(asset, entry.AsObjectSource<FontAssetData>()));
-                };
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing text mesh pro {name}...", name);
+                        assetReplacers.Add(CreateReplacer(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>()));
+                    };
+                }
             }
         }
     }

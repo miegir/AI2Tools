@@ -20,7 +20,7 @@ public partial class TextMapResource : IResource
     public Action? BeginUnpack(UnpackArguments arguments)
     {
         var path = ObjectPath.Root.Append("Text", name + ".pak");
-        var entry = arguments.Container.GetEntry(path);
+        if (!arguments.Container.TryGetEntry(path, out var entry) && !arguments.Debug) return BeginUnroll();
         if (!arguments.Debug && entry is null) return BeginUnroll();
         var manager = new TextMapManager(logger, source);
         if (manager.IsEmpty) return BeginUnroll();

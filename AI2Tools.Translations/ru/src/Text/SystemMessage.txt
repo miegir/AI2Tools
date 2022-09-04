@@ -82,7 +82,7 @@
   "dialog_011": {
     "src": "<color=#CC0000><size=80%>Investigation Part(QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium Part</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height>Start at this difficulty?\n<size=80%>(This can be changed in the options menu)</size>",
     "yax": "<color=#CC0000><size=80%>Часть расследования (QTE)</size></color>\r\n{0}<высота строки=80%>\r\n―――――――――――――――――――\r\n</высота строки><цвет=#0644B9><размер=80%>Часть сомния</размер></цвет>\r\n{1}<высота строки=80%>\r\n―――――――――――――――――――\r\n</line-height>Начать с этой трудности?\r\n<размер=80%>(Это можно изменить в меню параметров)</size>",
-    "trx": "<color=#CC0000><size=80%>Режим расследования(QTE)</size></color>\n{0}<line-height=100%>\n</line-height><line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Режим сомниума</size></color>\n{1}<line-height=100%>\n</line-height><line-height=80%>\n―――――――――――――――――――\n</line-height>Начать на этой сложности?\n<size=80%>(Сложность можно изменить в настройках)</size>"
+    "trx": "<color=#CC0000><size=80%>Режим расследования(QTE)</size></color>\n{0}<line-height=80%>\n───────────────────\n</line-height><color=#0644B9><size=80%>Режим сомниума</size></color>\n{1}<line-height=80%>\n───────────────────\n</line-height>Начать на этой сложности?\n<size=80%>(Сложность можно изменить в настройках)</size>"
   },
   "dialog_503": {
     "src": "3rd Class Cabin has been unlocked in BONUS!",

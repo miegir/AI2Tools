@@ -1,6 +1,5 @@
 ﻿using System.Collections.Immutable;
 using System.Text.Json;
-using Microsoft.Extensions.Logging;
 
 namespace AI2Tools;
 
@@ -14,12 +13,10 @@ internal class GameObjectSource
             ReadCommentHandling = JsonCommentHandling.Skip,
         };
 
-    private readonly ILogger logger;
     private readonly string path;
 
-    public GameObjectSource(ILogger logger, string path)
+    public GameObjectSource(string path)
     {
-        this.logger = logger;
         this.path = path;
 
         if (File.Exists(path))
@@ -34,6 +31,8 @@ internal class GameObjectSource
     }
 
     public bool Exists => !Entries.IsDefaultOrEmpty;
+
+    public FileDestination Destination => new(path);
 
     public ImmutableArray<Entry> Entries { get; }
 
