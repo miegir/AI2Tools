@@ -7,11 +7,11 @@ public partial class TextMapResource : IResource
 {
     public Action? BeginExport(ExportArguments arguments)
     {
-        var path = Path.Combine(arguments.ExportDirectory, "Text", textLanguage, name + ".txt");
+        var path = Path.Combine(arguments.ExportDirectory, "Text", languageName, name + ".txt");
         if (!arguments.Force && File.Exists(path)) return null;
         return () =>
         {
-            logger.LogInformation("Exporting text map {name}...", name);
+            logger.LogInformation("Exporting text map {name}...", fullName);
 
             var manager = new TextMapManager(logger, source);
             using var target = new FileTarget(path);
@@ -22,7 +22,13 @@ public partial class TextMapResource : IResource
 
     public Action? BeginImport(ImportArguments arguments)
     {
-        var sourcePath = Path.Combine(arguments.SourceDirectory, "src", "Text", name + ".txt");
+        var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
+        if (!Directory.Exists(directoryPath))
+        {
+            return BeginUnroll();
+        }
+
+        var sourcePath = Path.Combine(directoryPath, name + ".txt");
         var sourceExists = File.Exists(sourcePath);
         if (!arguments.Debug && !sourceExists)
         {
@@ -35,7 +41,7 @@ public partial class TextMapResource : IResource
             return BeginUnroll();
         }
 
-        var statePath = Path.Combine(arguments.ObjectDirectory, "Text", name + ".importstate");
+        var statePath = Path.Combine(arguments.ObjectDirectory, "Text", languageName, name + ".importstate");
         var stateChangeTracker = new SourceChangeTracker(
             source.Destination, statePath, JsonSerializer.Serialize(arguments.Debug));
 
@@ -48,8 +54,8 @@ public partial class TextMapResource : IResource
         {
             stateChangeTracker.RegisterSource(sourcePath);
 
-            logger.LogInformation("importing text map {name}...", name);
-            using (logger.BeginScope("text map {name}", name))
+            logger.LogInformation("importing text map {name}...", fullName);
+            using (logger.BeginScope("text map {name}", fullName))
             {
                 var objectSource = sourceExists
                     ? new TranslationSource(sourcePath)
@@ -58,7 +64,7 @@ public partial class TextMapResource : IResource
                 manager.Import(objectSource, arguments.Debug ? name : null);
             }
 
-            logger.LogInformation("saving text map {name}...", name);
+            logger.LogInformation("saving text map {name}...", fullName);
             using var target = source.CreateTarget();
             manager.Save(target.Stream);
             target.Commit();
@@ -72,18 +78,31 @@ public partial class TextMapResource : IResource
 
     public Action? BeginMuster(MusterArguments arguments)
     {
-        var sourcePath = Path.Combine(arguments.SourceDirectory, "src", "Text", name + ".txt");
-        if (!File.Exists(sourcePath)) return null;
+        var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
+        if (!Directory.Exists(directoryPath))
+        {
+            return null;
+        }
+
+        var sourcePath = Path.Combine(directoryPath, name + ".txt");
+        if (!File.Exists(sourcePath))
+        {
+            return null;
+        }
+
         return () =>
         {
-            logger.LogInformation("mustering text map {name}...", name);
+            logger.LogInformation("mustering text map {name}...", fullName);
 
-            var objectPath = Path.Combine(arguments.ObjectDirectory, "Text", name + ".pak");
+            var directory = ObjectPath.Root.Append("Text", languageName);
+            arguments.Sink.ReportDirectory(directory);
+
+            var objectPath = Path.Combine(arguments.ObjectDirectory, "Text", languageName, name + ".pak");
             var builder = new ObjectBuilder(sourcePath, objectPath, arguments.ForceObjects);
 
             TextMapManager.BuildObject(builder);
 
-            var musterPath = ObjectPath.Root.Append("Text", name + ".pak");
+            var musterPath = directory.Append(name + ".pak");
             arguments.Sink.ReportObject(musterPath, objectPath);
         };
     }

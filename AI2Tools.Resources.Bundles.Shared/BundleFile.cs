@@ -95,7 +95,7 @@ internal partial class BundleFile : IDisposable
         }
         else
         {
-            return $"{asset.index}{defaultExtension}";
+            return $"#{asset.index}{defaultExtension}";
         }
     }
 

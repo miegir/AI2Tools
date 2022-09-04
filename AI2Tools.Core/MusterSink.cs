@@ -75,7 +75,7 @@ public class MusterSink
 
             if (directories.Count > 0)
             {
-                var entry = archive.CreateEntry(".dirs");
+                var entry = archive.CreateEntry(".dir");
                 using var stream = entry.Open();
                 MessagePackSerializer.Serialize(stream, directories, MessageOptions);
             }

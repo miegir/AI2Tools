@@ -46,17 +46,5 @@ namespace AI2Tools.Properties {
                 this["ResourceName"] = value;
             }
         }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string TextLanguage {
-            get {
-                return ((string)(this["TextLanguage"]));
-            }
-            set {
-                this["TextLanguage"] = value;
-            }
-        }
     }
 }

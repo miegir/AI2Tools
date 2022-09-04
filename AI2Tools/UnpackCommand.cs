@@ -22,11 +22,6 @@ internal class UnpackCommand
     public string GamePath { get; }
 
     [Required]
-    [LegalCultureName]
-    [Option("-t|--text-language")]
-    public string TextLanguage { get; }
-
-    [Required]
     [FileExists]
     [Option("-a|--archive-path")]
     public string ArchivePath { get; }
@@ -49,7 +44,7 @@ internal class UnpackCommand
         using var container = new ObjectContainer(stream);
 
         new Game(logger, GamePath)
-            .CreatePipeline(TextLanguage)
+            .CreatePipeline()
             .Unpack(new UnpackArguments(
                 Container: container,
                 BundleCompression: BundleCompression,

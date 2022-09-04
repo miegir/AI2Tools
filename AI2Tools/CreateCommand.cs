@@ -21,11 +21,6 @@ internal class CreateCommand
     public string GamePath { get; }
 
     [Required]
-    [LegalCultureName]
-    [Option("-t|--text-language")]
-    public string TextLanguage { get; }
-
-    [Required]
     [DirectoryExists]
     [Option("-s|--source-directory")]
     public string SourceDirectory { get; }
@@ -60,7 +55,7 @@ internal class CreateCommand
         var sink = new MusterSink(logger);
 
         new Game(logger, GamePath)
-            .CreatePipeline(TextLanguage)
+            .CreatePipeline()
             .Muster(new MusterArguments(
                 Sink: sink,
                 SourceDirectory: SourceDirectory,

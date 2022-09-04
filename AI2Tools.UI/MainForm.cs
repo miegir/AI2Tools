@@ -81,29 +81,8 @@ public partial class MainForm : Form
     private void OpenGame(string gamePath)
     {
         GamePathBox.Text = gamePath;
-        TextLanguageBox.Items.Clear();
 
         game = new Game(logger, gamePath);
-
-        foreach (var language in game.EnumerateTextLanguages())
-        {
-            var index = TextLanguageBox.Items.Add(language);
-
-            if (string.Equals(language, Settings.TextLanguage, StringComparison.OrdinalIgnoreCase))
-            {
-                TextLanguageBox.SelectedIndex = index;
-            }
-            else if (TextLanguageBox.SelectedIndex < 0
-                && string.Equals(language, "en", StringComparison.OrdinalIgnoreCase))
-            {
-                TextLanguageBox.SelectedIndex = index;
-            }
-        }
-
-        if (TextLanguageBox.Items.Count > 0 && TextLanguageBox.SelectedIndex < 0)
-        {
-            TextLanguageBox.SelectedIndex = 0;
-        }
 
         if (UpdateActions())
         {
@@ -116,26 +95,13 @@ public partial class MainForm : Form
 
     private bool UpdateActions()
     {
-        var canPatch = ResourceNameBox.SelectedIndex >= 0
-            && TextLanguageBox.SelectedIndex >= 0;
+        var canPatch = ResourceNameBox.SelectedIndex >= 0;
 
-        TextLanguageBox.Enabled = canPatch;
-        TextLanguageLabel.Enabled = canPatch;
         RollButton.Enabled = canPatch;
         UnrollButton.Enabled = canPatch;
         CancellationButton.Enabled = false;
 
         return canPatch;
-    }
-
-    private void TextLanguageBox_SelectionChangeCommitted(object sender, EventArgs e)
-    {
-        var textLanguage = TextLanguageBox.Text;
-        if (!string.IsNullOrEmpty(textLanguage))
-        {
-            Settings.TextLanguage = textLanguage;
-            Settings.Save();
-        }
     }
 
     private void ResourceNameBox_SelectionChangeCommitted(object sender, EventArgs e)
@@ -163,7 +129,7 @@ public partial class MainForm : Form
         var cts = new CancellationTokenSource();
 
         var context = new ActionContext(
-            Pipeline: game.CreatePipeline(TextLanguageBox.Text),
+            Pipeline: game.CreatePipeline(),
             Resource: selectedResource,
             CancellationToken: cts.Token);
 
@@ -200,8 +166,6 @@ public partial class MainForm : Form
             GamePathLabel.Enabled = enable;
             GamePathBox.Enabled = enable;
             GamePathBrowseButton.Enabled = enable;
-            TextLanguageLabel.Enabled = enable;
-            TextLanguageBox.Enabled = enable;
             RollButton.Enabled = enable;
             UnrollButton.Enabled = enable;
             CancellationButton.Enabled = !enable && canCancel;

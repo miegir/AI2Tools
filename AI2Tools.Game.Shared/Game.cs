@@ -18,17 +18,20 @@ public partial class Game
         bundlesDir = Path.Combine(assetsDir, "aa", "StandaloneWindows64");
     }
 
-    public GamePipeline CreatePipeline(string textLanguage)
+    public GamePipeline CreatePipeline()
     {
-        var textMapsDir = Path.Combine(textLanguagesDir, textLanguage);
-
         return new GamePipeline(logger, EnumerateResources());
 
         IEnumerable<IResource> EnumerateResources()
         {
-            foreach (var source in FileSource.EnumerateFiles(textMapsDir, "*."))
+            foreach (var path in Directory.EnumerateDirectories(textLanguagesDir))
             {
-                yield return new TextMapResource(logger, source, textLanguage);
+                var languageName = Path.GetFileName(path);
+
+                foreach (var source in FileSource.EnumerateFiles(path, "*."))
+                {
+                    yield return new TextMapResource(logger, source, languageName);
+                }
             }
 
             foreach (var source in FileSource.EnumerateFiles(bundlesDir, BundleResource.SearchPatterns))

@@ -22,11 +22,6 @@ internal class ImportCommand
     public string GamePath { get; }
 
     [Required]
-    [LegalCultureName]
-    [Option("-t|--text-language")]
-    public string TextLanguage { get; }
-
-    [Required]
     [DirectoryExists]
     [Option("-s|--source-directory")]
     public string SourceDirectory { get; }
@@ -63,7 +58,7 @@ internal class ImportCommand
         logger.LogInformation("executing...");
 
         new Game(logger, GamePath)
-            .CreatePipeline(TextLanguage)
+            .CreatePipeline()
             .Import(new ImportArguments(
                 SourceDirectory: SourceDirectory,
                 ObjectDirectory: ObjectDirectory,

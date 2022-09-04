@@ -35,8 +35,6 @@
             this.GamePathLabel = new System.Windows.Forms.Label();
             this.GamePathBox = new System.Windows.Forms.TextBox();
             this.GamePathBrowseButton = new System.Windows.Forms.Button();
-            this.TextLanguageLabel = new System.Windows.Forms.Label();
-            this.TextLanguageBox = new System.Windows.Forms.ComboBox();
             this.RollButton = new System.Windows.Forms.Button();
             this.UnrollButton = new System.Windows.Forms.Button();
             this.CancellationButton = new System.Windows.Forms.Button();
@@ -99,31 +97,10 @@
             this.GamePathBrowseButton.UseVisualStyleBackColor = true;
             this.GamePathBrowseButton.Click += new System.EventHandler(this.GamePathBrowseButton_Click);
             // 
-            // TextLanguageLabel
-            // 
-            this.TextLanguageLabel.AutoSize = true;
-            this.TextLanguageLabel.Location = new System.Drawing.Point(12, 97);
-            this.TextLanguageLabel.Name = "TextLanguageLabel";
-            this.TextLanguageLabel.Size = new System.Drawing.Size(86, 15);
-            this.TextLanguageLabel.TabIndex = 5;
-            this.TextLanguageLabel.Text = "Text Language:";
-            // 
-            // TextLanguageBox
-            // 
-            this.TextLanguageBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.TextLanguageBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.TextLanguageBox.FormattingEnabled = true;
-            this.TextLanguageBox.Location = new System.Drawing.Point(12, 115);
-            this.TextLanguageBox.Name = "TextLanguageBox";
-            this.TextLanguageBox.Size = new System.Drawing.Size(517, 23);
-            this.TextLanguageBox.TabIndex = 6;
-            this.TextLanguageBox.SelectionChangeCommitted += new System.EventHandler(this.TextLanguageBox_SelectionChangeCommitted);
-            // 
             // RollButton
             // 
             this.RollButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.RollButton.Location = new System.Drawing.Point(535, 115);
+            this.RollButton.Location = new System.Drawing.Point(535, 100);
             this.RollButton.Name = "RollButton";
             this.RollButton.Size = new System.Drawing.Size(75, 23);
             this.RollButton.TabIndex = 7;
@@ -134,7 +111,7 @@
             // UnrollButton
             // 
             this.UnrollButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.UnrollButton.Location = new System.Drawing.Point(616, 115);
+            this.UnrollButton.Location = new System.Drawing.Point(616, 100);
             this.UnrollButton.Name = "UnrollButton";
             this.UnrollButton.Size = new System.Drawing.Size(75, 23);
             this.UnrollButton.TabIndex = 8;
@@ -145,7 +122,7 @@
             // CancellationButton
             // 
             this.CancellationButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.CancellationButton.Location = new System.Drawing.Point(697, 115);
+            this.CancellationButton.Location = new System.Drawing.Point(697, 100);
             this.CancellationButton.Name = "CancellationButton";
             this.CancellationButton.Size = new System.Drawing.Size(75, 23);
             this.CancellationButton.TabIndex = 9;
@@ -160,9 +137,9 @@
             this.LogBox.FormattingEnabled = true;
             this.LogBox.IntegralHeight = false;
             this.LogBox.ItemHeight = 15;
-            this.LogBox.Location = new System.Drawing.Point(12, 144);
+            this.LogBox.Location = new System.Drawing.Point(12, 129);
             this.LogBox.Name = "LogBox";
-            this.LogBox.Size = new System.Drawing.Size(760, 365);
+            this.LogBox.Size = new System.Drawing.Size(760, 380);
             this.LogBox.TabIndex = 10;
             // 
             // MainForm
@@ -174,8 +151,6 @@
             this.Controls.Add(this.CancellationButton);
             this.Controls.Add(this.UnrollButton);
             this.Controls.Add(this.RollButton);
-            this.Controls.Add(this.TextLanguageBox);
-            this.Controls.Add(this.TextLanguageLabel);
             this.Controls.Add(this.GamePathBrowseButton);
             this.Controls.Add(this.GamePathBox);
             this.Controls.Add(this.GamePathLabel);
@@ -200,8 +175,6 @@
         private Label GamePathLabel;
         private TextBox GamePathBox;
         private Button GamePathBrowseButton;
-        private Label TextLanguageLabel;
-        private ComboBox TextLanguageBox;
         private Button RollButton;
         private Button UnrollButton;
         private Button CancellationButton;

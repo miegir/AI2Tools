@@ -21,11 +21,6 @@ internal class ExportCommand
     public string GamePath { get; }
 
     [Required]
-    [LegalCultureName]
-    [Option("-t|--text-language")]
-    public string TextLanguage { get; }
-
-    [Required]
     [LegalFilePath]
     [Option("-e|--export-directory")]
     public string ExportDirectory { get; }
@@ -42,7 +37,7 @@ internal class ExportCommand
         logger.LogInformation("executing...");
 
         new Game(logger, GamePath)
-            .CreatePipeline(TextLanguage)
+            .CreatePipeline()
             .Export(new ExportArguments(ExportDirectory, Force: Force || ForceExport));
 
         logger.LogInformation("executed.");

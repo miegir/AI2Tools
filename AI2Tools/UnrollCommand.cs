@@ -19,11 +19,6 @@ internal class UnrollCommand
     [FileExists]
     [Option("-g|--game-path")]
     public string GamePath { get; }
-
-    [Required]
-    [LegalCultureName]
-    [Option("-t|--text-language")]
-    public string TextLanguage { get; }
 #nullable restore
 
     public void OnExecute()
@@ -31,7 +26,7 @@ internal class UnrollCommand
         logger.LogInformation("executing...");
 
         new Game(logger, GamePath)
-            .CreatePipeline(TextLanguage)
+            .CreatePipeline()
             .Unroll();
 
         logger.LogInformation("executed.");

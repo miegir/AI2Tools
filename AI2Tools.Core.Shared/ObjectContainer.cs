@@ -13,7 +13,7 @@ public sealed class ObjectContainer : IDisposable
     {
         archive = new ZipArchive(stream, ZipArchiveMode.Read);
 
-        var entry = archive.GetEntry(".dirs");
+        var entry = archive.GetEntry(".dir");
         if (entry != null)
         {
             using var entryStream = entry.Open();
