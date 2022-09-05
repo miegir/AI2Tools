@@ -26,28 +26,34 @@ public partial class BundleResource : IResource
         name = Regex.Replace(source.FileNameWithoutExtension, @"_[\da-fA-F]+$", "");
     }
 
-    public Action? BeginUnpack(UnpackArguments arguments)
+    public IEnumerable<Action> BeginUnpack(UnpackArguments arguments)
     {
         var directory = ObjectPath.Root.Append("aa", name);
         if (!arguments.Container.HasDirectory(directory)) return BeginUnroll();
-        return () =>
+        return Enumerate();
+        IEnumerable<Action> Enumerate()
         {
-            logger.LogInformation("unpacking bundle {name}...", name);
-            using (logger.BeginScope("bundle {name}", name))
+            yield return () =>
             {
-                var manager = new BundleManager(logger, source);
-                manager.Unpack(arguments, directory);
-            }
-        };
+                logger.LogInformation("unpacking bundle {name}...", name);
+                using (logger.BeginScope("bundle {name}", name))
+                {
+                    var manager = new BundleManager(logger, source);
+                    manager.Unpack(arguments, directory);
+                }
+            };
+        }
     }
 
-    public Action? BeginUnroll()
+    public IEnumerable<Action> BeginUnroll()
     {
-        return source.CanUnroll() ? () =>
+        if (source.CanUnroll())
         {
-            logger.LogInformation("unrolling bundle {name}...", name);
-            source.Unroll();
+            yield return () =>
+            {
+                logger.LogInformation("unrolling bundle {name}...", name);
+                source.Unroll();
+            };
         }
-        : null;
     }
 }

@@ -2,6 +2,6 @@
 
 public partial interface IResource
 {
-    Action? BeginUnpack(UnpackArguments arguments);
-    Action? BeginUnroll();
+    IEnumerable<Action> BeginUnpack(UnpackArguments arguments);
+    IEnumerable<Action> BeginUnroll();
 }

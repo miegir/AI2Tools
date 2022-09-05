@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI2Tools</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI2Tools.Core\AI2Tools.Core.csproj" />
+  </ItemGroup>
+
+  <Import Project="..\AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.projitems" Label="Shared" />
+
+</Project>

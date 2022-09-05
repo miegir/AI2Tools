@@ -4,10 +4,10 @@ namespace AI2Tools;
 
 public partial class BundleResource : IResource
 {
-    public Action? BeginExport(ExportArguments arguments)
+    public IEnumerable<Action> BeginExport(ExportArguments arguments)
     {
         var path = Path.Combine(arguments.ExportDirectory, "aa", name);
-        return () =>
+        yield return () =>
         {
             logger.LogInformation("exporting bundle {name}...", name);
             using (logger.BeginScope("bundle {name}", name))
@@ -18,7 +18,7 @@ public partial class BundleResource : IResource
         };
     }
 
-    public Action? BeginMuster(MusterArguments arguments)
+    public IEnumerable<Action> BeginMuster(MusterArguments arguments)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
 
@@ -32,10 +32,10 @@ public partial class BundleResource : IResource
             && !bundleFileSource.Exists
             && !gameObjectSource.Exists)
         {
-            return null;
+            yield break;
         }
 
-        return () =>
+        yield return () =>
         {
             var objectDirectory = Path.Combine(arguments.ObjectDirectory, "aa", name);
             logger.LogInformation("mustering bundle {name}...", name);
@@ -62,7 +62,7 @@ public partial class BundleResource : IResource
         };
     }
 
-    public Action? BeginImport(ImportArguments arguments)
+    public IEnumerable<Action> BeginImport(ImportArguments arguments)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
 
@@ -76,10 +76,10 @@ public partial class BundleResource : IResource
             && !bundleFileSource.Exists
             && !gameObjectSource.Exists)
         {
-            return null;
+            yield break;
         }
 
-        return () =>
+        yield return () =>
         {
             var objectDirectory = Path.Combine(arguments.ObjectDirectory, "aa", name);
             using (logger.BeginScope("bundle {name}", name))

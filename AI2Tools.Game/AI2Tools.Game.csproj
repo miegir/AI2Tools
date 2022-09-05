@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AI2Tools.Resources.Bundles\AI2Tools.Resources.Bundles.csproj" />
+    <ProjectReference Include="..\AI2Tools.Resources.Il2CppMetadata\AI2Tools.Resources.Il2CppMetadata.csproj" />
     <ProjectReference Include="..\AI2Tools.Resources.TextMaps\AI2Tools.Resources.TextMaps.csproj" />
   </ItemGroup>
 

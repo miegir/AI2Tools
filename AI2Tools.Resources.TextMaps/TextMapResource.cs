@@ -5,11 +5,15 @@ namespace AI2Tools;
 
 public partial class TextMapResource : IResource
 {
-    public Action? BeginExport(ExportArguments arguments)
+    public IEnumerable<Action> BeginExport(ExportArguments arguments)
     {
         var path = Path.Combine(arguments.ExportDirectory, "Text", languageName, name + ".txt");
-        if (!arguments.Force && File.Exists(path)) return null;
-        return () =>
+        if (!arguments.Force && File.Exists(path))
+        {
+            yield break;
+        }
+
+        yield return () =>
         {
             logger.LogInformation("Exporting text map {name}...", fullName);
 
@@ -20,7 +24,7 @@ public partial class TextMapResource : IResource
         };
     }
 
-    public Action? BeginImport(ImportArguments arguments)
+    public IEnumerable<Action> BeginImport(ImportArguments arguments)
     {
         var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
         if (!Directory.Exists(directoryPath))
@@ -41,56 +45,61 @@ public partial class TextMapResource : IResource
             return BeginUnroll();
         }
 
-        var statePath = Path.Combine(arguments.ObjectDirectory, "Text", languageName, name + ".importstate");
-        var stateChangeTracker = new SourceChangeTracker(
-            source.Destination, statePath, JsonSerializer.Serialize(arguments.Debug));
+        return Enumerate();
 
-        if (!arguments.ForceTargets && !stateChangeTracker.HasChanges())
+        IEnumerable<Action> Enumerate()
         {
-            return null;
+            var statePath = Path.Combine(arguments.ObjectDirectory, "Text", languageName, name + ".importstate");
+            var stateChangeTracker = new SourceChangeTracker(
+                source.Destination, statePath, JsonSerializer.Serialize(arguments.Debug));
+
+            if (!arguments.ForceTargets && !stateChangeTracker.HasChanges())
+            {
+                yield break;
+            }
+
+            yield return () =>
+            {
+                stateChangeTracker.RegisterSource(sourcePath);
+
+                logger.LogInformation("importing text map {name}...", fullName);
+                using (logger.BeginScope("text map {name}", fullName))
+                {
+                    var objectSource = sourceExists
+                        ? new TranslationSource(sourcePath)
+                        : DelegateObjectSource.Create<Dictionary<string, TextMapTranslation>>();
+
+                    manager.Import(objectSource, arguments.Debug ? name : null);
+                }
+
+                logger.LogInformation("saving text map {name}...", fullName);
+                using var target = source.CreateTarget();
+                manager.Save(target.Stream);
+                target.Commit();
+
+                if (!manager.HasWarnings)
+                {
+                    stateChangeTracker.Commit();
+                }
+            };
         }
-
-        return () =>
-        {
-            stateChangeTracker.RegisterSource(sourcePath);
-
-            logger.LogInformation("importing text map {name}...", fullName);
-            using (logger.BeginScope("text map {name}", fullName))
-            {
-                var objectSource = sourceExists
-                    ? new TranslationSource(sourcePath)
-                    : DelegateObjectSource.Create<Dictionary<string, TextMapTranslation>>();
-
-                manager.Import(objectSource, arguments.Debug ? name : null);
-            }
-
-            logger.LogInformation("saving text map {name}...", fullName);
-            using var target = source.CreateTarget();
-            manager.Save(target.Stream);
-            target.Commit();
-
-            if (!manager.HasWarnings)
-            {
-                stateChangeTracker.Commit();
-            }
-        };
     }
 
-    public Action? BeginMuster(MusterArguments arguments)
+    public IEnumerable<Action> BeginMuster(MusterArguments arguments)
     {
         var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
         if (!Directory.Exists(directoryPath))
         {
-            return null;
+            yield break;
         }
 
         var sourcePath = Path.Combine(directoryPath, name + ".txt");
         if (!File.Exists(sourcePath))
         {
-            return null;
+            yield break;
         }
 
-        return () =>
+        yield return () =>
         {
             logger.LogInformation("mustering text map {name}...", fullName);
 

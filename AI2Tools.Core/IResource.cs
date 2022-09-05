@@ -2,7 +2,7 @@
 
 public partial interface IResource
 {
-    Action? BeginExport(ExportArguments arguments);
-    Action? BeginImport(ImportArguments arguments);
-    Action? BeginMuster(MusterArguments arguments);
+    IEnumerable<Action> BeginExport(ExportArguments arguments);
+    IEnumerable<Action> BeginImport(ImportArguments arguments);
+    IEnumerable<Action> BeginMuster(MusterArguments arguments);
 }

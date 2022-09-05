@@ -14,12 +14,12 @@ public partial class GamePipeline
     }
 
     public void Unpack(UnpackArguments arguments) => resources
-        .Choose(r => r.BeginUnpack(arguments))
+        .SelectMany(r => r.BeginUnpack(arguments))
         .Scoped(logger, "resource")
         .Run();
 
     public void Unroll() => resources
-        .Choose(r => r.BeginUnroll())
+        .SelectMany(r => r.BeginUnroll())
         .Scoped(logger, "resource")
         .Run();
 }

@@ -70,10 +70,9 @@ internal class BundleResolver
                 entries[map[name] = bundlePath] = (name, bundleSource.LastWriteTimeUtc);
             }
 
-            using (var stream = objectInfo.Create())
-            {
-                ObjectSerializer.Serialize(stream, entries);
-            }
+            using var target = new FileTarget(objectInfo.FullName);
+            ObjectSerializer.Serialize(target.Stream, entries);
+            target.Commit();
 
             return map;
 

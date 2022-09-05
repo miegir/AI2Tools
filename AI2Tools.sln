@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.Translations", "AI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI2Tools.UI", "AI2Tools.UI\AI2Tools.UI.csproj", "{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI2Tools.Resources.Il2CppMetadata", "AI2Tools.Resources.Il2CppMetadata\AI2Tools.Resources.Il2CppMetadata.csproj", "{1E54B612-BAC9-4A43-8A7D-B33C944333DE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AI2Tools.Resources.Il2CppMetadata.Shared", "AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.shproj", "{B908F4C8-C8BD-4023-A1BD-1A6BBA698584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,10 @@ Global
 		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBAA145D-DF14-44C1-B5A8-CB3F6493C5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E54B612-BAC9-4A43-8A7D-B33C944333DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E54B612-BAC9-4A43-8A7D-B33C944333DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E54B612-BAC9-4A43-8A7D-B33C944333DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E54B612-BAC9-4A43-8A7D-B33C944333DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,14 +76,17 @@ Global
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{15786129-b366-48d1-80e7-4012e2925f7b}*SharedItemsImports = 13
+		AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.projitems*{1e54b612-bac9-4a43-8a7d-b33c944333de}*SharedItemsImports = 5
 		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{4c48c697-0119-4da3-8119-2d522e92dcbe}*SharedItemsImports = 5
 		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{5f410e45-ebb8-467e-93a3-8b207e9b1687}*SharedItemsImports = 13
 		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{6116926f-4aae-45e6-87d9-89769be3b703}*SharedItemsImports = 13
 		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{6236fa7b-007e-478d-b8ba-b49dab74fde7}*SharedItemsImports = 5
 		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{75f901e6-d847-45d7-9d10-58caa7d2500b}*SharedItemsImports = 5
+		AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.projitems*{b908f4c8-c8bd-4023-a1bd-1a6bba698584}*SharedItemsImports = 13
 		AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
 		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
 		AI2Tools.Resources.Bundles.Shared\AI2Tools.Resources.Bundles.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
+		AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
 		AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems*{cbaa145d-df14-44c1-b5a8-cb3f6493c5ed}*SharedItemsImports = 5
 		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{d52b2215-5416-4932-98dd-9859a3e276ef}*SharedItemsImports = 5
 		AI2Tools.Game.Shared\AI2Tools.Game.Shared.projitems*{efb31913-7f13-47b5-952e-f68e515b7072}*SharedItemsImports = 13

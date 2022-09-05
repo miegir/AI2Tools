@@ -1,7 +1,6 @@
 ﻿using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
-using Mono.Cecil;
 
 namespace AI2Tools;
 

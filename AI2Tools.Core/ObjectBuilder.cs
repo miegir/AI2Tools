@@ -1,4 +1,5 @@
-﻿using MessagePack;
+﻿using System.Reflection;
+using MessagePack;
 
 namespace AI2Tools;
 
@@ -7,12 +8,14 @@ public class ObjectBuilder
     private readonly FileDestination source;
     private readonly string objectPath;
     private readonly bool forceObjects;
+    private readonly Guid mvid;
 
     public ObjectBuilder(FileDestination source, string objectPath, bool forceObjects)
     {
         this.source = source;
         this.objectPath = objectPath;
         this.forceObjects = forceObjects;
+        mvid = Assembly.GetCallingAssembly().ManifestModule.ModuleVersionId;
     }
 
     public T Build<T>(Func<Stream, T> factory)
@@ -46,7 +49,8 @@ public class ObjectBuilder
                 using var stream = File.OpenRead(statePath);
                 using var reader = new BinaryReader(stream);
 
-                if (reader.ReadInt64() == sourceState.Length &&
+                if (new Guid(reader.ReadBytes(16)) == mvid &&
+                    reader.ReadInt64() == sourceState.Length &&
                     reader.ReadInt64() == sourceState.LastWriteTimeUtc.Ticks)
                 {
                     var objectInfo = new FileInfo(objectPath);
@@ -57,6 +61,7 @@ public class ObjectBuilder
             using var target = new FileTarget(statePath);
             using var writer = new BinaryWriter(target.Stream);
 
+            writer.Write(mvid.ToByteArray());
             writer.Write(sourceState.Length);
             writer.Write(sourceState.LastWriteTimeUtc.Ticks);
 

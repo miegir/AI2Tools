@@ -43,4 +43,6 @@
 
   <Import Project="..\AI2Tools.Resources.TextMaps.Shared\AI2Tools.Resources.TextMaps.Shared.projitems" Label="Shared" />
 
+  <Import Project="..\AI2Tools.Resources.Il2CppMetadata.Shared\AI2Tools.Resources.Il2CppMetadata.Shared.projitems" Label="Shared" />
+
 </Project>
