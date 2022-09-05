@@ -1,10 +1,19 @@
-﻿using System.Text.Json;
+﻿using System.Text.Encodings.Web;
+using System.Text.Json;
 using Microsoft.Extensions.Logging;
 
 namespace AI2Tools;
 
 public partial class Il2CppMetadataResource
 {
+    private static readonly JsonSerializerOptions JsonOptions =
+        new(JsonSerializerDefaults.Web)
+        {
+            WriteIndented = true,
+            ReadCommentHandling = JsonCommentHandling.Skip,
+            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
+        };
+
     public IEnumerable<Action> BeginExport(ExportArguments arguments)
     {
         var path = Path.Combine(arguments.ExportDirectory, "metadata", name + ".txt");
@@ -77,7 +86,22 @@ public partial class Il2CppMetadataResource
             builder.Build(stream =>
             {
                 logger.LogInformation("building il2cpp metadata file {name}...", name);
-                return JsonSerializer.Deserialize<Il2CppMetadataTranslation[]>(stream, JsonOptions);
+
+                var translations =
+                    JsonSerializer.Deserialize<Il2CppMetadataTranslation[]>(stream, JsonOptions)
+                        ?? Array.Empty<Il2CppMetadataTranslation>();
+
+                foreach (var item in translations)
+                {
+                    if (item.Trx == null || item.Trx == item.Src)
+                    {
+                        // sparse compression
+                        item.Src = null;
+                        item.Trx = null;
+                    }
+                }
+
+                return translations;
             });
 
             var musterPath = ObjectPath.Root.Append("metadata", name + ".pak");

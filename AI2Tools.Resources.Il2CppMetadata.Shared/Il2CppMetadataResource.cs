@@ -1,19 +1,9 @@
-﻿using System.Text.Encodings.Web;
-using System.Text.Json;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 
 namespace AI2Tools;
 
 public partial class Il2CppMetadataResource : IResource
 {
-    private static readonly JsonSerializerOptions JsonOptions =
-        new(JsonSerializerDefaults.Web)
-        {
-            WriteIndented = true,
-            ReadCommentHandling = JsonCommentHandling.Skip,
-            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
-        };
-
     private readonly ILogger logger;
     private readonly FileSource source;
     private readonly string name;
@@ -83,6 +73,12 @@ public partial class Il2CppMetadataResource : IResource
                 }
 
                 var t = translations[i];
+
+                if (t.Src == null)
+                {
+                    // sparse compression
+                    continue;
+                }
 
                 if (s != t.Src)
                 {
