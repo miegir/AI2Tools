@@ -295,6 +295,7 @@ internal partial class BundleManager
                 }
 
                 var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                sourceChangeTracker.RegisterSource(sourcePath);
 
                 if (!File.Exists(sourcePath)) continue;
 
@@ -310,7 +311,6 @@ internal partial class BundleManager
 
                     BuildTexture2DObject(builder, textureArguments, name);
 
-                    sourceChangeTracker.RegisterSource(sourcePath);
                     var objectSource = new PhysicalObjectSource<Texture2DData>(objectPath);
                     assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
                 };
@@ -320,6 +320,7 @@ internal partial class BundleManager
             {
                 var name = bundleFile.ReadAssetName(asset, DefaultTextExtension);
                 var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                sourceChangeTracker.RegisterSource(sourcePath);
 
                 if (!File.Exists(sourcePath)) continue;
 
@@ -332,7 +333,6 @@ internal partial class BundleManager
 
                     BuildTextObject(builder, name);
 
-                    sourceChangeTracker.RegisterSource(sourcePath);
                     var objectSource = new PhysicalObjectSource<string>(objectPath);
                     assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
                 };
