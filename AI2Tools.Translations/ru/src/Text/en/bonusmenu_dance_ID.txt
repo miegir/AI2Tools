@@ -52,7 +52,7 @@
   "bonusmenu_dance_operationguide_500": {
     "src": "BONUS Hints",
     "yax": "БОНУСНЫЕ подсказки",
-    "trx": "БОНУС: обучение"
+    "trx": "БОНУСЫ: обучение"
   },
   "bonusmenu_dance_common_001": {
     "src": "\"Kizuna's Song\" and \"Amame's Song\" menus have been unlocked in Bonus.",

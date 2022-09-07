@@ -62,7 +62,7 @@
   "optionmenu_top_medama_001": {
     "src": "Eyeballs Obtained:",
     "yax": "Глазные Яблоки, Полученные:",
-    "trx": "Получено глаз:"
+    "trx": "Собрано глаз:"
   },
   "optionmenu_top_medama_002": {
     "src": "0123456789",

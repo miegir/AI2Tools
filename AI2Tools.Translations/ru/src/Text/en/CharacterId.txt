@@ -377,7 +377,7 @@
   "character_077": {
     "src": "Receptionist",
     "yax": "Секретарь",
-    "trx": "Секретарь"
+    "trx": "Секретарша в приемной"
   },
   "character_078": {
     "src": "SAT Member",

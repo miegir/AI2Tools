@@ -2077,7 +2077,7 @@
   "flowchart_font_caption_503": {
     "src": "BONUS",
     "yax": "бонус",
-    "trx": "БОНУС"
+    "trx": "БОНУСЫ"
   },
   "flowchart_font_message_500": {
     "src": "Chapter 0 February 10th (Sun)",

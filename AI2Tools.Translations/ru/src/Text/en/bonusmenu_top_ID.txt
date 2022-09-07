@@ -37,7 +37,7 @@
   "bonusmenu_top_message_008": {
     "src": "Eyeballs:",
     "yax": "Глазные яблоки:",
-    "trx": "Получено глаз:"
+    "trx": "Собрано глаз:"
   },
   "bonusmenu_top_common_001": {
     "src": "Not enough eyeballs.",

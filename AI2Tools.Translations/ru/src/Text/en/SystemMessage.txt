@@ -317,7 +317,7 @@
   "log_001": {
     "src": "Look at {0}",
     "yax": "Посмотрите на {0}",
-    "trx": null
+    "trx": "Осмотр: {0}"
   },
   "c570_map_504": {
     "src": "This map is to assist with your deductions.\nWhen you find the location, close the map and tell everyone.",
@@ -602,7 +602,7 @@
   "operation_guide_504": {
     "src": "Choose Options",
     "yax": "Выберите параметры",
-    "trx": "Выбрать параметры"
+    "trx": "Выбрать вариант"
   },
   "operation_guide_508": {
     "src": "Move",
@@ -637,12 +637,12 @@
   "operation_guide_007": {
     "src": "Expand",
     "yax": "Расширять",
-    "trx": "Увеличить"
+    "trx": "Увел."
   },
   "operation_guide_008": {
     "src": "Shrink",
     "yax": "Сокращаться",
-    "trx": "Уменьшить"
+    "trx": "Умен."
   },
   "operation_guide_009": {
     "src": "Move",
@@ -717,7 +717,7 @@
   "operation_guide_507": {
     "src": "Choose Options",
     "yax": "Выберите параметры",
-    "trx": "Выбрать параметры"
+    "trx": "Выбрать вариант"
   },
   "difficulty_title_001": {
     "src": "Select Difficulty",

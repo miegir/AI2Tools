@@ -310,7 +310,7 @@ internal partial class BundleManager
 
                     BuildTexture2DObject(builder, textureArguments, name);
 
-                    sourceChangeTracker.RegisterSource(objectPath);
+                    sourceChangeTracker.RegisterSource(sourcePath);
                     var objectSource = new PhysicalObjectSource<Texture2DData>(objectPath);
                     assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
                 };

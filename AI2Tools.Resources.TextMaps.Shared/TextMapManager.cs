@@ -47,9 +47,9 @@ internal partial class TextMapManager
                 translations.Remove(key);
             }
 
-            if (obj != null && obj.Trx != obj.Src)
+            if (obj != null)
             {
-                if (obj.Trx == null)
+                if (obj.Trx == null || obj.Trx == obj.Src)
                 {
                     continue;
                 }
