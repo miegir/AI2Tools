@@ -247,6 +247,9 @@ internal partial class BundleManager
         {
             var bundleResolver = bundleFile.CreateBundleResolver(bundleResolverFactory);
 
+            bundleFileSource.Register(sourceChangeTracker);
+            gameObjectSource.Register(sourceChangeTracker);
+
             foreach (var entry in gameObjectSource.Entries)
             {
                 var gameObject = bundleFile.FindGameObject(entry.Path);
@@ -268,7 +271,6 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         logger.LogInformation("importing text mesh pro {name}...", entry.Path);
-                        gameObjectSource.Register(sourceChangeTracker);
                         assetReplacers.Add(bundleFile.CreateReplacer(component.Asset, BuildTextMeshProUGUIData(entry)));
                     };
                 }
@@ -286,7 +288,6 @@ internal partial class BundleManager
                         yield return () =>
                         {
                             logger.LogInformation("importing bundled texture {name}...", name);
-                            bundleFileSource.Register(sourceChangeTracker);
                             assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
                         };
 
@@ -348,7 +349,6 @@ internal partial class BundleManager
                     {
                         var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
                         logger.LogInformation("import font {name}...", name);
-                        bundleFileSource.Register(sourceChangeTracker);
                         assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
                     };
                 }
