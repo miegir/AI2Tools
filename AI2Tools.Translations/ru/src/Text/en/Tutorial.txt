@@ -12,7 +12,7 @@
   "tutorial_008": {
     "src": "You can freely move the <color=yellow>《Cursor》</color> and <color=yellow>《Camera》</color>.",
     "yax": "Вы можете свободно перемещать <color=yellow>》Курсор》</color> и <color=yellow>《Камера》</color>.",
-    "trx": "Можно свободно перемещать <color=yellow>《Курсор》</color> и <color=yellow>《Камеру》</color>."
+    "trx": "Вы можете свободно перемещать <color=yellow>《Курсор》</color> и <color=yellow>《Камеру》</color>."
   },
   "tutorial_009": {
     "src": "First, look around and set the cursor on objects\nthat interest you.",
@@ -62,7 +62,7 @@
   "tutorial_015": {
     "src": "Right now, you can use <color=yellow>zoom + night vision mode function.</color>\nSelect <color=yellow>《Zoom NV》icon</color> to inspect the enemy in the Audience Seat.",
     "yax": "Прямо сейчас вы можете использовать функцию <цвет = желтый> масштабирование + режим ночного видения.</color>\nВыберите <color=yellow>《Увеличить изображение》значок</color>, чтобы осмотреть врага на зрительском месте.",
-    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага на месте для зрителей."
+    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага на зрительском сиденье."
   },
   "tutorial_title_007": {
     "src": "Aiba's Trivia",
@@ -792,7 +792,7 @@
   "tutorial_515": {
     "src": "Place your cursor on <color=yellow>『the host』</color>\nand try answering the quiz questions.",
     "yax": "Наведите курсор на <color=yellow>\"хост\"</color>\nи попробуйте ответить на вопросы викторины.",
-    "trx": "Наведите курсор на <color=yellow>『ведущего』</color>\nи попробуйте ответить на вопросы викторины."
+    "trx": "Наведите курсор на <color=yellow>『ведущего』</color>\nи попробуйте ответить на вопрос викторины."
   },
   "tutorial_title_505": {
     "src": "Using Timies",

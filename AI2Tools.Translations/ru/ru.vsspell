@@ -27,10 +27,11 @@
     <Expression Match="\b[Мм]эйдо-кафе" />
     <Expression Match="\bвы?кл\." />
     <Expression Match="\bмм+\b" />
+    <Expression Match="\bХа(ха)+!" />
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\bХа(ха)+!" />
+    <Expression Match="\b[Гг]рр+\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>

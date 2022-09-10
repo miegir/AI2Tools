@@ -902,7 +902,7 @@
   "language_select_505": {
     "src": "Exciting Voltaic Versatile Gun (Evolver)",
     "yax": "Захватывающая Вольтовая универсальная пушка (Evolver)",
-    "trx": "Восхитительное универсальное электронное ружье (Evolver)"
+    "trx": "Восхитительное универсальное электронное ружье (Эвольвер)"
   },
   "language_select_506": {
     "src": "Wadjet System",

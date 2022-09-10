@@ -67,7 +67,7 @@
   "004_001": {
     "src": "What? You're joking, right? What are you talking about?",
     "yax": "Что? Ты шутишь, да? О чем ты говоришь?",
-    "trx": "А? Вы что, шутите? О чем это вы?"
+    "trx": "А? Ты что, шутишь? О чем это ты?"
   },
   "005_001": {
     "src": "Just press the button already...",
@@ -97,7 +97,7 @@
   "006_003": {
     "src": "If you know the answer, spit it out!",
     "yax": "Если вы знаете ответ, выкладывайте его!",
-    "trx": "Если знаешь ответ, говори!"
+    "trx": "Если знаешь ответ, выкладывай!"
   },
   "007_001": {
     "src": "It would appear that I'm on a quiz show as one of the contestants.",
@@ -247,7 +247,7 @@
   "016_001": {
     "src": "Okay, let's keep going then, shall we? Next question!",
     "yax": "Хорошо, тогда давайте продолжим, хорошо? Следующий вопрос!",
-    "trx": "Что ж, продолжим. Следующий вопрос!"
+    "trx": "Что ж, давайте продолжим. Следующий вопрос!"
   },
   "016_002": {
     "src": "Are you familiar with the New Cyclops Serial Killings?",
@@ -427,7 +427,7 @@
   "028_001": {
     "src": "Are you suuure? Don't be lying, now.",
     "yax": "Ты уверен? Не лги сейчас.",
-    "trx": "Вы уверены? Не нужно нас обманывать."
+    "trx": "Вы уверены? Не надо сейчас обманывать."
   },
   "028_002": {
     "src": "Let's give you a simple test just to make sure.",
@@ -672,7 +672,7 @@
   "047_001": {
     "src": "Wonderful, that's another right answer!",
     "yax": "Замечательно, это еще один правильный ответ!",
-    "trx": "Замечательно, еще один правильный ответ!"
+    "trx": "Замечательно! Еще один правильный ответ!"
   },
   "047_002": {
     "src": "Sorry for doubting you...",
@@ -787,7 +787,7 @@
   "049_015": {
     "src": "Are you okay...?",
     "yax": "Ты в порядке? ..",
-    "trx": "Ты в порядке? .."
+    "trx": "Ты в порядке...?"
   },
   "049_500": {
     "src": "*sigh*…",
