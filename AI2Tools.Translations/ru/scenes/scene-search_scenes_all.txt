@@ -1,0 +1,14 @@
+﻿[
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/optionbutton Variant/adjust/background/color01/text_ryuki (TMP)",
+    "text": "Сторона\nРюки"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/optionbutton Variant/adjust/background/color02/text_mizuki (TMP)",
+    "text": "Сторона\nМизуки"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject (1)/simplepsync Variant/adjust/timer/base01/Text_sec (TMP)",
+    "text": "сек"
+  }
+]

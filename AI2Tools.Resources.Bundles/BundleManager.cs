@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json;
 using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
@@ -11,7 +12,7 @@ namespace AI2Tools;
 
 internal partial class BundleManager
 {
-    public void Export(ExportArguments arguments)
+    public void Export(ExportArguments arguments, string scenesPath)
     {
         using var bundleFile = new BundleFile(logger, source.OpenRead());
 
@@ -21,6 +22,56 @@ internal partial class BundleManager
 
         IEnumerable<Action> Enumerate()
         {
+            if (arguments.Force || !File.Exists(scenesPath))
+            {
+                var scenesManager = new ScenesManager();
+
+                foreach (var asset in bundleFile.GetAssets(AssetClassID.MonoBehaviour))
+                {
+                    var baseField = bundleFile.GetBaseField(asset);
+
+                    var textField = baseField["m_text"];
+                    if (textField.IsDummy())
+                    {
+                        continue;
+                    }
+
+                    var text = textField.GetValue().AsString();
+                    if (string.IsNullOrEmpty(text))
+                    {
+                        continue;
+                    }
+
+                    var gameObjectPPtr = baseField["m_GameObject"];
+                    if (gameObjectPPtr.IsDummy())
+                    {
+                        continue;
+                    }
+
+                    var gameObject = bundleFile.ResolveGameObject(gameObjectPPtr);
+                    if (gameObject == null)
+                    {
+                        continue;
+                    }
+
+                    var path = gameObject.GetPath();
+
+                    scenesManager.AddText(path, text);
+                }
+
+                if (!scenesManager.IsEmpty)
+                {
+                    yield return () =>
+                    {
+                        logger.LogInformation("exporting scenes...");
+
+                        using var target = new FileTarget(scenesPath);
+                        scenesManager.Export(target.Stream);
+                        target.Commit();
+                    };
+                }
+            }
+
             foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
                 var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
@@ -31,7 +82,7 @@ internal partial class BundleManager
                 if (textureFile.m_Width == 0 || textureFile.m_Height == 0) continue;
                 yield return () =>
                 {
-                    logger.LogInformation(message: "exporting texture {name}...", name);
+                    logger.LogInformation("exporting texture {name}...", name);
 
                     var textureData = bundleFile.GetTextureData(textureFile);
 
@@ -89,7 +140,7 @@ internal partial class BundleManager
 
             foreach (var entry in gameObjectSource.Entries)
             {
-                var gameObject = bundleFile.FindGameObject(entry.Path);
+                var gameObject = bundleFile.GameObjects.Find(entry.Path);
                 if (gameObject == null) continue;
 
                 foreach (var component in bundleFile.GetComponents(gameObject))
@@ -252,7 +303,7 @@ internal partial class BundleManager
 
             foreach (var entry in gameObjectSource.Entries)
             {
-                var gameObject = bundleFile.FindGameObject(entry.Path);
+                var gameObject = bundleFile.GameObjects.Find(entry.Path);
                 if (gameObject == null) continue;
 
                 foreach (var component in bundleFile.GetComponents(gameObject))

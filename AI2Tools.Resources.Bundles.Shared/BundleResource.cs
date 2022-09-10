@@ -8,6 +8,7 @@ public partial class BundleResource : IResource
     public static readonly string[] SearchPatterns =
     {
         "scene-bonus_bake_scenes_all*.bundle",
+        "scene-search_scenes_all*.bundle",
         "scene-title_scenes_all*.bundle",
         "fonts*.bundle",
         "image*.bundle",

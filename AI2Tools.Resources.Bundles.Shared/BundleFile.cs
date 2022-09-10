@@ -98,13 +98,13 @@ internal partial class BundleFile : IDisposable
         }
     }
 
-    public GameObject? FindGameObject(string path) => gameObjects.Find(path);
+    public GameObjectCollection GameObjects => gameObjects;
 
     public IEnumerable<GameObject> GetComponents(GameObject parent)
     {
         foreach (var data in parent.Field["m_Component"]["Array"].GetChildrenList())
         {
-            var component = ResolvePPtr(data[0]);
+            var component = ResolveGameObject(data[0]);
             if (component != null)
             {
                 yield return component;
@@ -141,19 +141,19 @@ internal partial class BundleFile : IDisposable
 
             foreach (var data in baseField["m_Component"]["Array"].GetChildrenList())
             {
-                var component = ResolvePPtr(data[0]);
+                var component = ResolveGameObject(data[0]);
                 if (component == null || !IsTransform(component.TypeId))
                 {
                     continue;
                 }
 
-                var father = ResolvePPtr(component.Field["m_Father"]);
+                var father = ResolveGameObject(component.Field["m_Father"]);
                 if (father == null)
                 {
                     continue;
                 }
 
-                var gameObject = ResolvePPtr(father.Field["m_GameObject"]);
+                var gameObject = ResolveGameObject(father.Field["m_GameObject"]);
                 if (gameObject == null)
                 {
                     continue;
@@ -189,11 +189,11 @@ internal partial class BundleFile : IDisposable
         };
     }
 
-    private GameObject? ResolvePPtr(AssetTypeValueField baseField)
+    public GameObject? ResolveGameObject(AssetTypeValueField pptr)
     {
-        if (baseField.IsDummy()) return default;
-        if (baseField["m_FileID"].GetValue().AsInt() != 0) return default;
-        var pathId = baseField["m_PathID"].GetValue().AsInt64();
+        if (pptr.IsDummy()) return default;
+        if (pptr["m_FileID"].GetValue().AsInt() != 0) return default;
+        var pathId = pptr["m_PathID"].GetValue().AsInt64();
         if (gameObjectMap.TryGetValue(pathId, out var gameObject)) return gameObject;
         var asset = assetsManager.GetExtAsset(assetsFileInstance, 0, pathId);
         if (asset.instance == null) return default;

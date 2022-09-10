@@ -39,7 +39,7 @@ public partial class Il2CppMetadataResource
 
     public IEnumerable<Action> BeginImport(ImportArguments arguments)
     {
-        var sourcePath = Path.Combine(arguments.SourceDirectory, "src", "metadata", name + ".txt");
+        var sourcePath = Path.Combine(arguments.SourceDirectory, "metadata", name + ".txt");
         if (!File.Exists(sourcePath)) return BeginUnroll();
         return Enumerate();
 
@@ -73,7 +73,7 @@ public partial class Il2CppMetadataResource
 
     public IEnumerable<Action> BeginMuster(MusterArguments arguments)
     {
-        var sourcePath = Path.Combine(arguments.SourceDirectory, "src", "metadata", name + ".txt");
+        var sourcePath = Path.Combine(arguments.SourceDirectory, "metadata", name + ".txt");
         if (!File.Exists(sourcePath)) yield break;
 
         yield return () =>

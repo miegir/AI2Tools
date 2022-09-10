@@ -26,7 +26,7 @@ public partial class TextMapResource : IResource
 
     public IEnumerable<Action> BeginImport(ImportArguments arguments)
     {
-        var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
+        var directoryPath = Path.Combine(arguments.SourceDirectory, "Text", languageName);
         if (!Directory.Exists(directoryPath))
         {
             return BeginUnroll();
@@ -87,7 +87,7 @@ public partial class TextMapResource : IResource
 
     public IEnumerable<Action> BeginMuster(MusterArguments arguments)
     {
-        var directoryPath = Path.Combine(arguments.SourceDirectory, "src", "Text", languageName);
+        var directoryPath = Path.Combine(arguments.SourceDirectory, "Text", languageName);
         if (!Directory.Exists(directoryPath))
         {
             yield break;

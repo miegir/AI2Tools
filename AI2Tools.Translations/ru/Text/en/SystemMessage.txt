@@ -597,7 +597,7 @@
   "operation_guide_003": {
     "src": "Check",
     "yax": "Проверять",
-    "trx": "Отметить"
+    "trx": "Осмотреть"
   },
   "operation_guide_504": {
     "src": "Choose Options",
@@ -672,7 +672,7 @@
   "operation_guide_014": {
     "src": "Check",
     "yax": "Проверять",
-    "trx": "Отметить"
+    "trx": "Осмотреть"
   },
   "operation_guide_500": {
     "src": "Switch Mode",

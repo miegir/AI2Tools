@@ -7,20 +7,22 @@ public partial class BundleResource : IResource
     public IEnumerable<Action> BeginExport(ExportArguments arguments)
     {
         var path = Path.Combine(arguments.ExportDirectory, "aa", name);
+
         yield return () =>
         {
             logger.LogInformation("exporting bundle {name}...", name);
             using (logger.BeginScope("bundle {name}", name))
             {
                 var manager = new BundleManager(logger, source);
-                manager.Export(arguments with { ExportDirectory = path });
+                var scenesPath = Path.Combine(arguments.ExportDirectory, "scenes", name + ".txt");
+                manager.Export(arguments with { ExportDirectory = path }, scenesPath);
             }
         };
     }
 
     public IEnumerable<Action> BeginMuster(MusterArguments arguments)
     {
-        var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
+        var sourceDirectory = Path.Combine(arguments.SourceDirectory, "aa", name);
 
         var bundleFileSource = new BundleFileSource(
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));
@@ -64,7 +66,7 @@ public partial class BundleResource : IResource
 
     public IEnumerable<Action> BeginImport(ImportArguments arguments)
     {
-        var sourceDirectory = Path.Combine(arguments.SourceDirectory, "src", "aa", name);
+        var sourceDirectory = Path.Combine(arguments.SourceDirectory, "aa", name);
 
         var bundleFileSource = new BundleFileSource(
             logger, Path.Combine(arguments.SourceDirectory, "bundles", name));

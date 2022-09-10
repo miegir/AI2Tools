@@ -29,4 +29,16 @@ internal class GameObject
     public GameObjectCollection Children { get; } = new();
     public GameObject? Parent { get; set; }
     public AssetClassID TypeId => (AssetClassID)Asset.curFileType;
+
+    public string GetPath()
+    {
+        var segments = new Stack<string>();
+
+        for (var obj = this; obj != null; obj = obj.Parent)
+        {
+            segments.Push(obj.Name);
+        }
+
+        return string.Join("/", segments);
+    }
 }

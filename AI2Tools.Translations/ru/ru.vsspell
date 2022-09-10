@@ -18,12 +18,13 @@
   <InheritExclusionExpressions>False</InheritExclusionExpressions>
   <ExclusionExpressions>
     <Expression Match=".*//spell-ignore-line" />
-    <Expression Match="\&quot;(src|yax)\&quot;.*$" />
+    <Expression Match="\&quot;(src|yax|path)\&quot;.*$" />
     <Expression Match="\&quot;trx\&quot;\:(?# trx header)" />
     <Expression Match="\\&quot;Нави\\&quot;" />
     <Expression Match="\\n" />
     <Expression Match="\b[Бб]ой-бенд" />
     <Expression Match="\b[Вв]инк-псинк" />
+    <Expression Match="\b[Гг]рр+\b" />
     <Expression Match="\b[Мм]эйдо-кафе" />
     <Expression Match="\bвы?кл\." />
     <Expression Match="\bмм+\b" />
@@ -31,7 +32,6 @@
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\b[Гг]рр+\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>
