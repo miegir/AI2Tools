@@ -122,7 +122,7 @@
   "tutorial_023": {
     "src": "The <color=yellow>《Truth Reenactment》</color> allows you to find the truth\nwith the information you have gathered.",
     "yax": "<color=yellow>\"Реконструкция правды\"</color> позволяет вам найти правду\nс помощью собранной вами информации.",
-    "trx": "На этапе <color=yellow>《Реконструкция》</color> вы можете раскрыть истину\nс помощью собранной вами информации."
+    "trx": "На этапе <color=yellow>《Реконструкции》</color> вы можете раскрыть истину\nс помощью собранной вами информации."
   },
   "tutorial_024": {
     "src": "Answer Tama's questions with the <color=yellow>best answer</color>.",
@@ -232,7 +232,7 @@
   "tutorial_038": {
     "src": "You can use \"eyeballs\" here to purchase bonus content.",
     "yax": "Вы можете использовать \"eyeballs\" здесь, чтобы приобрести бонусный контент.",
-    "trx": "Здесь можно приобрести дополнительное содержимое за собранные глаза."
+    "trx": "Здесь можно приобрести дополнительный контент за собранные глаза."
   },
   "tutorial_039": {
     "src": "By progressing the story, more bonus content will be unlocked.",
@@ -577,17 +577,17 @@
   "tutorial_title_041": {
     "src": "Underwater Movement",
     "yax": "Подводное Движение",
-    "trx": "Подводное плавание"
+    "trx": "Подводное перемещение"
   },
   "tutorial_084": {
     "src": "You can swim around underwater. Underwater movement will also progress time.",
     "yax": "Вы можете плавать под водой. Подводное движение также будет прогрессировать со временем.",
-    "trx": "Вы можете плавать под водой. Подводное плавание также расходует время."
+    "trx": "Вы можете плавать под водой. Подводное перемещение также расходует время."
   },
   "tutorial_title_042": {
     "src": "Negative Timie",
     "yax": "Отрицательный Тайми",
-    "trx": "Негативный тайми"
+    "trx": "Негативные тайми"
   },
   "tutorial_085": {
     "src": "There are Timies with <color=yellow>《negative effects》</color>.",
