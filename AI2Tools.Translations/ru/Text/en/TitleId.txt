@@ -1,0 +1,1487 @@
+{
+  "title_500": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "title_501": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "title_502": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "title_503": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "Мама"
+  },
+  "title_504": {
+    "src": "Piece of Paper",
+    "yax": "Клочок бумаги",
+    "trx": "Бумажный листок"
+  },
+  "title_505": {
+    "src": "Inside Shrine",
+    "yax": "Внутри Святилища",
+    "trx": "Внутри храма"
+  },
+  "title_506": {
+    "src": "Tachibana Orange",
+    "yax": "Тачибана Апельсин",
+    "trx": "Апельсин тачибана"
+  },
+  "title_507": {
+    "src": "QR Video",
+    "yax": "QR-видео",
+    "trx": "QR-видео"
+  },
+  "title_508": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "title_509": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "title_510": {
+    "src": "World in Chaos",
+    "yax": "Мир в хаосе",
+    "trx": "Мир, охваченный хаосом"
+  },
+  "title_511": {
+    "src": "Sadhu",
+    "yax": "Садху",
+    "trx": "Садху"
+  },
+  "title_512": {
+    "src": "Jin",
+    "yax": "Джин",
+    "trx": "Джин"
+  },
+  "title_513": {
+    "src": "Designed Universe",
+    "yax": "Спроектированная Вселенная",
+    "trx": "Разработанная Вселенная"
+  },
+  "title_514": {
+    "src": "Metal Mask",
+    "yax": "Металлическая Маска",
+    "trx": "Металлическая маска"
+  },
+  "title_515": {
+    "src": "Speaker",
+    "yax": "Оратор",
+    "trx": "Колонка"
+  },
+  "title_516": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "title_517": {
+    "src": "Chocolate",
+    "yax": "Шоколад",
+    "trx": "Шоколад"
+  },
+  "title_518": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "title_519": {
+    "src": "Jin's Right Half and Signboard",
+    "yax": "Правая половина Джина и Вывеска",
+    "trx": "Правая половина Джина и знак"
+  },
+  "title_520": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "Лиен"
+  },
+  "title_521": {
+    "src": "Komeji Protecting Shoma",
+    "yax": "Комедзи Защищает Сему",
+    "trx": "Комедзи защищает Шому"
+  },
+  "title_522": {
+    "src": "Sunfish Pocket",
+    "yax": "Карман для рыбы-солнца",
+    "trx": "Sunfish Pocket"
+  },
+  "title_523": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "title_524": {
+    "src": "Horadori Institute",
+    "yax": "Институт Орадори",
+    "trx": "Институт Хорадори"
+  },
+  "title_525": {
+    "src": "Warehouse District",
+    "yax": "Складской район",
+    "trx": "Складской район"
+  },
+  "title_526": {
+    "src": "Awoken Date",
+    "yax": "Дата пробуждения",
+    "trx": "Пробудившийся Датэ"
+  },
+  "title_527": {
+    "src": "Researcher",
+    "yax": "Исследователь",
+    "trx": "Исследователь"
+  },
+  "title_528": {
+    "src": "Horadori Institute Envelope",
+    "yax": "Конверт Института Орадори",
+    "trx": "Конверт из института Хорадори"
+  },
+  "title_529": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "title_530": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "title_531": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "title_532": {
+    "src": "Mono-wheel Robot Track",
+    "yax": "Гусеница одноколесного робота",
+    "trx": "След одноколесного робота"
+  },
+  "title_533": {
+    "src": "Mizuki's Smartphone",
+    "yax": "Смартфон Мизуки",
+    "trx": "Смартфон Мизуки"
+  },
+  "title_534": {
+    "src": "Jin's Left Half",
+    "yax": "Левая Половина Джина",
+    "trx": "Левая половина тела Джина"
+  },
+  "title_535": {
+    "src": "Sniping Masked Woman",
+    "yax": "Снайперская женщина В Маске",
+    "trx": "Женщина-снайпер в маске"
+  },
+  "title_536": {
+    "src": "Bio Lab",
+    "yax": "Биолаборатория",
+    "trx": "Биолаборатория"
+  },
+  "title_537": {
+    "src": "Komeji in Bodybag",
+    "yax": "Комедзи в мешке для тела",
+    "trx": "Комедзи в мешке для тела"
+  },
+  "title_538": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "title_539": {
+    "src": "Mamoru",
+    "yax": "Мамору",
+    "trx": "Мамору"
+  },
+  "title_540": {
+    "src": "Naix and Bats490",
+    "yax": "Naix и летучие мыши 490",
+    "trx": "Naix и Bats490"
+  },
+  "title_541": {
+    "src": "Bats490 Video",
+    "yax": "Видео Bats490",
+    "trx": "Видео Bats490"
+  },
+  "title_542": {
+    "src": "Philadelphia Experiment",
+    "yax": "Филадельфийский эксперимент",
+    "trx": "Филадельфийский эксперимент"
+  },
+  "title_543": {
+    "src": "Devil",
+    "yax": "Дьявол",
+    "trx": "Дьявол"
+  },
+  "title_544": {
+    "src": "Seam",
+    "yax": "Шов",
+    "trx": "Шов"
+  },
+  "title_545": {
+    "src": "Kotatsu",
+    "yax": "Котацу",
+    "trx": "Котацу"
+  },
+  "title_546": {
+    "src": "Closet",
+    "yax": "Шкаф",
+    "trx": "Туалет"
+  },
+  "title_547": {
+    "src": "Chest of Drawers",
+    "yax": "комод",
+    "trx": "Комод"
+  },
+  "title_548": {
+    "src": "Police Officer",
+    "yax": "офицер полиции",
+    "trx": "Полицейский"
+  },
+  "title_549": {
+    "src": "Detective",
+    "yax": "Детектив",
+    "trx": "Детектив"
+  },
+  "title_550": {
+    "src": "Forensic Officer",
+    "yax": "Судебно-медицинский эксперт",
+    "trx": "Судебно-медицинский эксперт"
+  },
+  "title_551": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "title_552": {
+    "src": "Chikara's Right Half",
+    "yax": "Правая половина Чикары",
+    "trx": "Правая половина тела Чикары"
+  },
+  "title_553": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "title_554": {
+    "src": "Chikara's Left Half",
+    "yax": "Левая половина Чикары",
+    "trx": "Левая половина тела Чикары"
+  },
+  "title_555": {
+    "src": "Chinpei's Smartphone",
+    "yax": "Смартфон Чинпея",
+    "trx": "Смартфон Чинпея"
+  },
+  "title_556": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "title_557": {
+    "src": "Nurse",
+    "yax": "Медсестра",
+    "trx": "Медсестра"
+  },
+  "title_558": {
+    "src": "Aioen",
+    "yax": "Айоен",
+    "trx": "Айоен"
+  },
+  "title_559": {
+    "src": "Tearer's Challenge",
+    "yax": "Вызов разрушителя",
+    "trx": "Вызов Рассекателя"
+  },
+  "title_560": {
+    "src": "Vochlocho",
+    "yax": "Вочлочо",
+    "trx": "Вочлочо" //spell-ignore-line
+  },
+  "title_561": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "title_562": {
+    "src": "Crest",
+    "yax": "Гребень",
+    "trx": "Гребень"
+  },
+  "title_563": {
+    "src": "Chinpei",
+    "yax": "Чинпей",
+    "trx": "Чинпей"
+  },
+  "title_564": {
+    "src": "Atop the Altar",
+    "yax": "На вершине алтаря",
+    "trx": "Наверху алтаря"
+  },
+  "title_565": {
+    "src": "Exploding Corpse",
+    "yax": "Взрывающийся Труп",
+    "trx": "Взрывающееся тело"
+  },
+  "title_566": {
+    "src": "Naix Squad",
+    "yax": "Отряд Naix",
+    "trx": "Отряд Naix"
+  },
+  "title_567": {
+    "src": "Thermite Bomb",
+    "yax": "Термитная бомба",
+    "trx": "Термитная бомба"
+  },
+  "title_568": {
+    "src": "West Stairs Door",
+    "yax": "Дверь на Западную лестницу",
+    "trx": "Дверь на западную лестницу"
+  },
+  "title_569": {
+    "src": "The Butterfly Dream",
+    "yax": "Мечта о бабочке",
+    "trx": "Сон бабочки"
+  },
+  "title_570": {
+    "src": "The Allegory of the Cave",
+    "yax": "Аллегория пещеры",
+    "trx": "Аллегория о пещере"
+  },
+  "title_571": {
+    "src": "Buddha",
+    "yax": "Будда",
+    "trx": "Будда"
+  },
+  "title_572": {
+    "src": "Shotoku Taishi",
+    "yax": "Шотоку Тайши",
+    "trx": "Сётоку Тайши"
+  },
+  "title_573": {
+    "src": "Tokiko's Right Half",
+    "yax": "Правая половина Токико",
+    "trx": "Правая половина тела Токико"
+  },
+  "title_574": {
+    "src": "Rat Maze",
+    "yax": "Крысиный лабиринт",
+    "trx": "Крысиный лабиринт"
+  },
+  "title_575": {
+    "src": "All Red",
+    "yax": "Весь Красный",
+    "trx": "Весь красный"
+  },
+  "title_576": {
+    "src": "Bodhidharma's 9-Year Meditation",
+    "yax": "9-летняя медитация Бодхидхармы",
+    "trx": "9-летняя медитация Бодхидхармы"
+  },
+  "title_577": {
+    "src": "Bug",
+    "yax": "Жук",
+    "trx": "Ошибка"
+  },
+  "title_578": {
+    "src": "The Nirvana Initiative",
+    "yax": "Инициатива \"Нирвана\"",
+    "trx": "Инициатива \"Нирвана\""
+  },
+  "title_579": {
+    "src": "Receptionist",
+    "yax": "Секретарь",
+    "trx": "Секретарша в приемной"
+  },
+  "title_580": {
+    "src": "Symbol of Naix",
+    "yax": "Символ Naix",
+    "trx": "Символ Naix"
+  },
+  "title_581": {
+    "src": "Shoko",
+    "yax": "Секо",
+    "trx": "Сёко"
+  },
+  "title_582": {
+    "src": "Komeji",
+    "yax": "Комедзи",
+    "trx": "Комедзи"
+  },
+  "title_583": {
+    "src": "Uru's Diary",
+    "yax": "Дневник Уру",
+    "trx": "Дневник Уру"
+  },
+  "title_584": {
+    "src": "Horadori's Corpse",
+    "yax": "Труп Орадори",
+    "trx": "Тело из Хорадори"
+  },
+  "title_585": {
+    "src": "Gen and Amame",
+    "yax": "Ген и Амаме",
+    "trx": "Ген и Амаме"
+  },
+  "title_586": {
+    "src": "Freezer Body's Left Half",
+    "yax": "Левая половина корпуса морозильника",
+    "trx": "Левая половина тела в морозильнике"
+  },
+  "title_587": {
+    "src": "Bodybag's Right Half",
+    "yax": "Правая половина мешка для тела",
+    "trx": "Правая половина тела в мешке"
+  },
+  "title_588": {
+    "src": "Thermite Bomb Stockpile",
+    "yax": "Запасы термитных бомб",
+    "trx": "Запасы термитных бомб"
+  },
+  "title_589": {
+    "src": "Nirvana Trial",
+    "yax": "Испытание Нирваной",
+    "trx": "Испытание \"Нирвана\""
+  },
+  "title_590": {
+    "src": "Refrigerator",
+    "yax": "Холодильник",
+    "trx": "Холодильник"
+  },
+  "title_591": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "title_592": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "title_593": {
+    "src": "Mansion Leader",
+    "yax": "Особняк Лидера",
+    "trx": "Особняк лидера"
+  },
+  "title_594": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "Босс"
+  },
+  "title_595": {
+    "src": "Dokuta",
+    "yax": "Докута",
+    "trx": "Докута"
+  },
+  "title_596": {
+    "src": "Lemniscate",
+    "yax": "Лемниската",
+    "trx": "Лемнискейт"
+  },
+  "title_597": {
+    "src": "Corpse's Face",
+    "yax": "Лицо трупа",
+    "trx": "Лицо трупа"
+  },
+  "title_598": {
+    "src": "Show Title",
+    "yax": "Показать название",
+    "trx": "Показать заголовок"
+  },
+  "title_599": {
+    "src": "Jin Furue",
+    "yax": "Цзинь Фуруэ",
+    "trx": "Джин Фуруэ"
+  },
+  "title_600": {
+    "src": "Kumakura's Crest",
+    "yax": "Герб Кумакуры",
+    "trx": "Герб Кумакуры"
+  },
+  "title_601": {
+    "src": "Corpse Skull",
+    "yax": "Череп Трупа",
+    "trx": "Череп трупа"
+  },
+  "title_602": {
+    "src": "Jin's Temporal Region",
+    "yax": "Височная область Джина",
+    "trx": "Височная область Джина"
+  },
+  "title_603": {
+    "src": "Jin's Right Half of Skull",
+    "yax": "Правая половина черепа Джина",
+    "trx": "Правая половина черепа Джина"
+  },
+  "title_604": {
+    "src": "Gen's Face",
+    "yax": "Лицо Джен",
+    "trx": "Лицо Гена"
+  },
+  "title_605": {
+    "src": "Number of Nirvana X",
+    "yax": "Количество Нирваны X",
+    "trx": "Число Нирваны-X"
+  },
+  "title_606": {
+    "src": "Alphabetic String of Nirvana X",
+    "yax": "Буквенная строка Nirvana X",
+    "trx": "Текст Нирваны-X"
+  },
+  "title_607": {
+    "src": "Riichi",
+    "yax": "Риичи",
+    "trx": "Риичи"
+  },
+  "title_608": {
+    "src": "DNA",
+    "yax": "ДНК",
+    "trx": "ДНК"
+  },
+  "title_609": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "title_610": {
+    "src": "Symbol of the Order of %",
+    "yax": "Символ ордена %",
+    "trx": "Символ ордена %"
+  },
+  "title_611": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "title_612": {
+    "src": "Moon Base",
+    "yax": "Лунная база",
+    "trx": "Лунная база"
+  },
+  "title_613": {
+    "src": "System Display",
+    "yax": "Системный дисплей",
+    "trx": "Системный монитор"
+  },
+  "title_614": {
+    "src": "Kizuna and Lien",
+    "yax": "Кидзуна и Лиен",
+    "trx": "Кизуна и Лиен"
+  },
+  "title_615": {
+    "src": "East Stairs Door",
+    "yax": "Дверь на Восточную лестницу",
+    "trx": "Дверь на восточную лестницу"
+  },
+  "title_616": {
+    "src": "Ritual Platform",
+    "yax": "Ритуальная платформа",
+    "trx": "Ритуальная платформа"
+  },
+  "title_617": {
+    "src": "Uru's Right Half",
+    "yax": "Правая половина Уру",
+    "trx": "Правая половина тела Уру"
+  },
+  "title_618": {
+    "src": "Cross-section of Cathedral",
+    "yax": "Поперечное сечение собора",
+    "trx": "Поперечное сечение собора"
+  },
+  "title_619": {
+    "src": "Creepy Box",
+    "yax": "Жуткая Коробка",
+    "trx": "Жуткая коробка"
+  },
+  "title_620": {
+    "src": "Electron Microscope Image of TC-Perge",
+    "yax": "Изображение TC-Perge под электронным микроскопом",
+    "trx": "Вид TC-PERGE под электронным микроскопом"
+  },
+  "title_621": {
+    "src": "Broken Watch",
+    "yax": "Сломанные Часы",
+    "trx": "Сломанные часы"
+  },
+  "title_622": {
+    "src": "Cathedral [East]",
+    "yax": "Кафедральный собор [Восток]",
+    "trx": "Кафедральный собор [Восточный]"
+  },
+  "title_623": {
+    "src": "Tearer and Tama",
+    "yax": "Разрыватель и Тама",
+    "trx": "Рассекатель и Тама"
+  },
+  "title_624": {
+    "src": "Dellighira Chocolate",
+    "yax": "Шоколад Деллигира",
+    "trx": "Шоколад Деллигира" //spell-ignore-line
+  },
+  "title_625": {
+    "src": "Shoma's Somnium",
+    "yax": "Сомниум Семы",
+    "trx": "Сомниум Шомы"
+  },
+  "title_626": {
+    "src": "Uru",
+    "yax": "Уру",
+    "trx": "Уру"
+  },
+  "title_627": {
+    "src": "Gen in Somnium",
+    "yax": "Ген в Сомнии",
+    "trx": "Ген в сомниуме"
+  },
+  "title_628": {
+    "src": "Jin's Right Half and QR Code",
+    "yax": "Правая половина Джина и QR-код",
+    "trx": "Правая половина тела Джина и QR-код"
+  },
+  "title_629": {
+    "src": "Freezer Door",
+    "yax": "Дверца морозильной камеры",
+    "trx": "Дверь морозильника"
+  },
+  "title_630": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "title_631": {
+    "src": "Moma and Chinpei",
+    "yax": "Мома и Чинпей",
+    "trx": "Мома и Чинпей"
+  },
+  "title_632": {
+    "src": "Mizuki 18",
+    "yax": "Мизуки 18",
+    "trx": "Мизуки (18 лет)"
+  },
+  "title_633": {
+    "src": "Something Like This",
+    "yax": "Что-То Вроде Этого",
+    "trx": "Что-тов этом роде"
+  },
+  "title_634": {
+    "src": "Falco",
+    "yax": "Фалько",
+    "trx": "Фалько"
+  },
+  "title_635": {
+    "src": "Suspcious Video",
+    "yax": "Подозрительное Видео",
+    "trx": "Подозрительное видео"
+  },
+  "title_636": {
+    "src": "Broken Communication System",
+    "yax": "Нарушенная Система Связи",
+    "trx": "Неисправная система связи"
+  },
+  "title_637": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "title_638": {
+    "src": "Tama 3",
+    "yax": "Тама 3",
+    "trx": "Тама 3"
+  },
+  "title_639": {
+    "src": "Rooftop Amusement Park",
+    "yax": "Парк развлечений на крыше",
+    "trx": "Парк развлечений на крыше"
+  },
+  "title_640": {
+    "src": "Symbol of ABIS",
+    "yax": "Символ АБИС",
+    "trx": "Символ ABIS"
+  },
+  "title_641": {
+    "src": "Death of little brother",
+    "yax": "Смерть младшего брата",
+    "trx": "Смерть младшего брата"
+  },
+  "title_642": {
+    "src": "Armored Vehicle",
+    "yax": "Бронированная машина",
+    "trx": "Бронированная машина"
+  },
+  "title_643": {
+    "src": "Mayumi",
+    "yax": "Маюми",
+    "trx": "Маюми"
+  },
+  "title_644": {
+    "src": "Inside Studio",
+    "yax": "Внутри Студии",
+    "trx": "Внутри студии"
+  },
+  "title_645": {
+    "src": "So's Mansion Garden",
+    "yax": "Как и Сад Особняка",
+    "trx": "Сад особняка Со"
+  },
+  "title_646": {
+    "src": "Evidence of Corpse Planting",
+    "yax": "Доказательства подбрасывания трупа",
+    "trx": "Доказательство подбрасывания тела"
+  },
+  "title_647": {
+    "src": "Corpse Right Half",
+    "yax": "Правая Половина Трупа",
+    "trx": "Правая половина тела"
+  },
+  "title_648": {
+    "src": "Corpse in Field",
+    "yax": "Труп в поле",
+    "trx": "Тело на поле"
+  },
+  "title_649": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "title_650": {
+    "src": "Jin's Right Half",
+    "yax": "Правая Половина Джина",
+    "trx": "Правая половина тела Джина"
+  },
+  "title_651": {
+    "src": "Investigation Material",
+    "yax": "Материалы расследования",
+    "trx": "Материалы расследования"
+  },
+  "title_652": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "title_653": {
+    "src": "Luminol Reagents",
+    "yax": "Люминольные реагенты",
+    "trx": "Люминольные реагенты"
+  },
+  "title_654": {
+    "src": "3 Pieces of Paper and Crossed Arrows",
+    "yax": "3 Листа бумаги и Скрещенные стрелки",
+    "trx": "3 листа бумаги и перекрещенные стрелки"
+  },
+  "title_655": {
+    "src": "Insert Crossed Arrows",
+    "yax": "Вставить Скрещенные Стрелки",
+    "trx": "Подстановка перекрещенных стрелок"
+  },
+  "title_656": {
+    "src": "Changed Numbers",
+    "yax": "Измененные номера",
+    "trx": "Измененные числа"
+  },
+  "title_657": {
+    "src": "Aiba on Palm",
+    "yax": "Айба на ладони",
+    "trx": "Айба на ладони"
+  },
+  "title_658": {
+    "src": "Rubble",
+    "yax": "Обломок",
+    "trx": "Обломок"
+  },
+  "title_659": {
+    "src": "Date Stuck in Rubble",
+    "yax": "Дата, застрявшая в обломках",
+    "trx": "Датэ, застрявший в обломках"
+  },
+  "title_660": {
+    "src": "Tree Root",
+    "yax": "Корень дерева",
+    "trx": "Корень дерева"
+  },
+  "title_661": {
+    "src": "Lien and Kizuna",
+    "yax": "Лиен и Кидзуна",
+    "trx": "Лиен и Кизуна"
+  },
+  "title_662": {
+    "src": "Suitcase",
+    "yax": "Чемодан",
+    "trx": "Чемодан"
+  },
+  "title_663": {
+    "src": "Origami Gold Medal",
+    "yax": "Золотая медаль Оригами",
+    "trx": "Золотая медаль оригами"
+  },
+  "title_664": {
+    "src": "Komeji's Smartphone",
+    "yax": "Смартфон Комедзи",
+    "trx": "Смартфон Комедзи"
+  },
+  "title_665": {
+    "src": "Illegal Gun Sale",
+    "yax": "Незаконная продажа Оружия",
+    "trx": "Незаконная продажа оружия"
+  },
+  "title_666": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "title_667": {
+    "src": "Buried Date",
+    "yax": "Дата захоронения",
+    "trx": "Дата погружения"
+  },
+  "title_668": {
+    "src": "Abandoned Factory Incident",
+    "yax": "Инцидент на заброшенной фабрике",
+    "trx": "Инцидент на заброшенной фабрике"
+  },
+  "title_669": {
+    "src": "Pewter with Gun",
+    "yax": "Оловянная посуда с пистолетом",
+    "trx": "Пьютер с пистолетом"
+  },
+  "title_670": {
+    "src": "Similar to String",
+    "yax": "Аналогично строке",
+    "trx": "Что-то похожее на струну"
+  },
+  "title_671": {
+    "src": "Carbon Nanotube",
+    "yax": "Углеродная нанотрубка",
+    "trx": "Углеродная нанотрубка"
+  },
+  "title_672": {
+    "src": "Tokiko's Wrist",
+    "yax": "Запястье Токико",
+    "trx": "Запястье Токико"
+  },
+  "title_673": {
+    "src": "Shoma in Monitor",
+    "yax": "Сема в мониторе",
+    "trx": "Шома в мониторе"
+  },
+  "title_674": {
+    "src": "Komeji's Somnium",
+    "yax": "Сомниум Комедзи",
+    "trx": "Сомниум Комедзи"
+  },
+  "title_675": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "title_676": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "title_677": {
+    "src": "Nirvana Initiative Plans",
+    "yax": "Планы инициативы Nirvana",
+    "trx": "Планы инициативы \"Нирвана\""
+  },
+  "title_678": {
+    "src": "Komeji in Bodybag",
+    "yax": "Комедзи в мешке для тела",
+    "trx": "Комедзи в мешке для тела"
+  },
+  "title_679": {
+    "src": "Tokiko's Left Half",
+    "yax": "Левая половина Токико",
+    "trx": "Левая половина тела Токико"
+  },
+  "title_680": {
+    "src": "Flowchart",
+    "yax": "Блок-схема",
+    "trx": "Хронология"
+  },
+  "title_681": {
+    "src": "Komeji's Left Half",
+    "yax": "Левая половина Комедзи",
+    "trx": "Левая половина тела Комедзи"
+  },
+  "title_682": {
+    "src": "Yoyagi park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "title_683": {
+    "src": "Blue Figure",
+    "yax": "Синяя Фигура",
+    "trx": "Синяя фигура"
+  },
+  "title_684": {
+    "src": "Rocket Launch",
+    "yax": "Запуск ракеты",
+    "trx": "Запуск ракеты"
+  },
+  "title_685": {
+    "src": "3 Pieces of Paper",
+    "yax": "3 Листа бумаги",
+    "trx": "3 листка бумаги"
+  },
+  "title_686": {
+    "src": "Audience",
+    "yax": "Аудитория",
+    "trx": "Аудитория"
+  },
+  "title_687": {
+    "src": "Host Komeji",
+    "yax": "Ведущий Комедзи",
+    "trx": "Ведущий Комедзи"
+  },
+  "title_688": {
+    "src": "Title of Broadcast",
+    "yax": "Название трансляции",
+    "trx": "Название трансляции"
+  },
+  "title_689": {
+    "src": "Keyboard",
+    "yax": "Клавиатура",
+    "trx": "Клавиатура"
+  },
+  "title_690": {
+    "src": "Medicine Bottle",
+    "yax": "Флакон с лекарством",
+    "trx": "Флакон с лекарством"
+  },
+  "title_691": {
+    "src": "PC Monitor",
+    "yax": "Монитор ПК",
+    "trx": "Монитор ПК"
+  },
+  "title_692": {
+    "src": "Statue",
+    "yax": "Статуя",
+    "trx": "Статуя"
+  },
+  "title_693": {
+    "src": "Bio Pod",
+    "yax": "Био-Капсула",
+    "trx": "Биокапсула"
+  },
+  "title_694": {
+    "src": "Test Tube",
+    "yax": "Пробирка",
+    "trx": "Пробирка"
+  },
+  "title_695": {
+    "src": "Flask",
+    "yax": "Колба",
+    "trx": "Колба"
+  },
+  "title_696": {
+    "src": "Central Monitor",
+    "yax": "Центральный монитор",
+    "trx": "Центральный монитор"
+  },
+  "title_697": {
+    "src": "_Window",
+    "yax": "_Window",
+    "trx": "_Window"
+  },
+  "title_698": {
+    "src": "Note",
+    "yax": "Примечание",
+    "trx": "Примечание"
+  },
+  "title_699": {
+    "src": "Binder",
+    "yax": "Связующее вещество",
+    "trx": "Папка"
+  },
+  "title_700": {
+    "src": "Chair",
+    "yax": "Стул",
+    "trx": "Стул"
+  },
+  "title_701": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "title_702": {
+    "src": "Robot Arm",
+    "yax": "Рука робота",
+    "trx": "Рука робота"
+  },
+  "title_703": {
+    "src": "Ferris Wheel",
+    "yax": "Колесо обозрения",
+    "trx": "Колесо обозрения"
+  },
+  "title_704": {
+    "src": "Komeji Getting \"Something\" Important",
+    "yax": "Комедзи Получает \"Что-то\" Важное",
+    "trx": "Комедзи получает \"что-то\" важное"
+  },
+  "title_705": {
+    "src": "Two Fertilized Eggs",
+    "yax": "Две Оплодотворенные Яйцеклетки",
+    "trx": "Две оплодотворенные яйцеклетки"
+  },
+  "title_706": {
+    "src": "Simulated Reality",
+    "yax": "Смоделированная Реальность",
+    "trx": "Симулированная реальность"
+  },
+  "title_707": {
+    "src": "Alternate Reality Game",
+    "yax": "Игра в альтернативную реальность",
+    "trx": "Игра в альтернативной реальности"
+  },
+  "title_708": {
+    "src": "Desk",
+    "yax": "Письменный стол",
+    "trx": "Письменный стол"
+  },
+  "title_709": {
+    "src": "Diary",
+    "yax": "Дневник",
+    "trx": "Дневник"
+  },
+  "title_710": {
+    "src": "Shoma in Somnium",
+    "yax": "Шома в Сомнии",
+    "trx": "Шома в сомниуме"
+  },
+  "title_711": {
+    "src": "Amame's Somnium",
+    "yax": "Сомниум Амаме",
+    "trx": "Сомниум Амаме"
+  },
+  "title_712": {
+    "src": "Back Door",
+    "yax": "Задняя дверь",
+    "trx": "Задняя дверь"
+  },
+  "title_713": {
+    "src": "The Mandela Effect",
+    "yax": "Эффект Манделы",
+    "trx": "Эффект Манделы"
+  },
+  "title_714": {
+    "src": "Chakra",
+    "yax": "Чакра",
+    "trx": "Чакра"
+  },
+  "title_715": {
+    "src": "The Statue of Liberty",
+    "yax": "Статуя Свободы",
+    "trx": "Статуя Свободы"
+  },
+  "title_716": {
+    "src": "Date's Eyepatch",
+    "yax": "Повязка на глазу свидания",
+    "trx": "Повязка на глазу Датэ"
+  },
+  "title_717": {
+    "src": "Bats490 Video",
+    "yax": "Видео Bats490",
+    "trx": "Видео Bats490"
+  },
+  "title_718": {
+    "src": "Adorabbit",
+    "yax": "Адораббит",
+    "trx": "Плюшевый кролик"
+  },
+  "title_719": {
+    "src": "MK Ultra",
+    "yax": "MK Ultra",
+    "trx": "MK Ультра"
+  },
+  "title_720": {
+    "src": "Project Blue Beam",
+    "yax": "Проект \"Голубой луч\"",
+    "trx": "Проект \"Голубой луч\""
+  },
+  "title_721": {
+    "src": "Bermuda Triangle",
+    "yax": "Бермудский треугольник",
+    "trx": "Бермудский треугольник"
+  },
+  "title_722": {
+    "src": "Jin's Right Half and QR Code",
+    "yax": "Правая половина Джина и QR-код",
+    "trx": "Правая половина тела Джина и QR-код"
+  },
+  "title_723": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "title_724": {
+    "src": "Rope",
+    "yax": "Веревка",
+    "trx": "Веревка"
+  },
+  "title_725": {
+    "src": "Brahman",
+    "yax": "Брахман",
+    "trx": "Брахман"
+  },
+  "title_726": {
+    "src": "Ellis Island",
+    "yax": "Остров Эллис",
+    "trx": "Остров Эллис"
+  },
+  "title_727": {
+    "src": "Interior of Brahman",
+    "yax": "Интерьер Брахмана",
+    "trx": "Интерьер Брахмана"
+  },
+  "title_728": {
+    "src": "Music Food",
+    "yax": "Музыкальная еда",
+    "trx": "Музыкальная еда"
+  },
+  "title_729": {
+    "src": "Interior of Sunfish Pocket",
+    "yax": "Внутренняя часть кармана Sunfish",
+    "trx": "Внутри Sunfish Pocket"
+  },
+  "title_730": {
+    "src": "Footprints",
+    "yax": "Следы",
+    "trx": "Следы"
+  },
+  "title_731": {
+    "src": "Tokiko and Blue Figure",
+    "yax": "Токико и Синяя фигура",
+    "trx": "Токико и синяя фигура"
+  },
+  "title_732": {
+    "src": "Mono-wheel Robot",
+    "yax": "Одноколесный робот",
+    "trx": "Одноколесный робот"
+  },
+  "title_733": {
+    "src": "Black Hole",
+    "yax": "черная дыра",
+    "trx": "черная дыра"
+  },
+  "title_734": {
+    "src": "Projected Universe",
+    "yax": "Спроецированная Вселенная",
+    "trx": "Спроецированная Вселенная"
+  },
+  "title_735": {
+    "src": "Double-slit Experiment",
+    "yax": "Эксперимент с двумя щелями",
+    "trx": "Эксперимент с двумя щелями"
+  },
+  "title_736": {
+    "src": "Game Screen",
+    "yax": "Игровой экран",
+    "trx": "Игровой экран"
+  },
+  "title_737": {
+    "src": "Corpse in Ceiling",
+    "yax": "Труп в потолке",
+    "trx": "Труп на потолке"
+  },
+  "title_738": {
+    "src": "Cathedral",
+    "yax": "Собор",
+    "trx": "Собор"
+  },
+  "title_739": {
+    "src": "Signboard",
+    "yax": "Вывеска",
+    "trx": "Знак"
+  },
+  "title_740": {
+    "src": "Naix Member",
+    "yax": "Член Naix",
+    "trx": "Член Naix"
+  },
+  "title_741": {
+    "src": "Trash Can",
+    "yax": "Мусорный бак",
+    "trx": "Мусорный бак"
+  },
+  "title_742": {
+    "src": "Audience Seat",
+    "yax": "Зрительское место",
+    "trx": "Зрительское кресло"
+  },
+  "title_743": {
+    "src": "Entry/Exit",
+    "yax": "Въезд/Выезд",
+    "trx": "Вход/Выход"
+  },
+  "title_744": {
+    "src": "Field",
+    "yax": "Поле",
+    "trx": "Поле"
+  },
+  "title_745": {
+    "src": "Sejima Mansion",
+    "yax": "Особняк Сэдзима",
+    "trx": "Резиденция Седзимы"
+  },
+  "title_746": {
+    "src": "Hidden Stairs",
+    "yax": "Потайная лестница",
+    "trx": "Потайная лестница"
+  },
+  "title_747": {
+    "src": "Balloon Floating in Shrine",
+    "yax": "Воздушный шар, плавающий в святилище",
+    "trx": "Воздушный шар в храме"
+  },
+  "title_748": {
+    "src": "Envelope",
+    "yax": "Конверт",
+    "trx": "Конверт"
+  },
+  "title_749": {
+    "src": "Dvaita",
+    "yax": "Двайта",
+    "trx": "Двайта"
+  },
+  "title_750": {
+    "src": "Hidden Elevator",
+    "yax": "Скрытый лифт",
+    "trx": "Потайной лифт"
+  },
+  "title_751": {
+    "src": "Furue and Horadori",
+    "yax": "Фуруэ и Горадори",
+    "trx": "Фуруэ и Хорадори"
+  },
+  "title_752": {
+    "src": "Ground Zero",
+    "yax": "Эпицентр",
+    "trx": "Эпицентр"
+  },
+  "title_753": {
+    "src": "Box",
+    "yax": "Коробка",
+    "trx": "Коробка"
+  },
+  "title_754": {
+    "src": "Can",
+    "yax": "Мочь",
+    "trx": "Банка"
+  },
+  "title_755": {
+    "src": "Engagement Shoe",
+    "yax": "Обручальный башмак",
+    "trx": "Обручальная туфелька"
+  },
+  "title_756": {
+    "src": "Crystal Ball",
+    "yax": "Хрустальный шар",
+    "trx": "Хрустальный шар"
+  },
+  "title_757": {
+    "src": "Note",
+    "yax": "Примечание",
+    "trx": "Заметка"
+  },
+  "title_758": {
+    "src": "Van",
+    "yax": "Ван",
+    "trx": "Вэн" //spell-ignore-line
+  },
+  "title_759": {
+    "src": "Lab",
+    "yax": "Лаборатория",
+    "trx": "Лаборатория"
+  },
+  "title_760": {
+    "src": "Unknown Building",
+    "yax": "Неизвестное здание",
+    "trx": "Неизвестное здание"
+  },
+  "title_761": {
+    "src": "Onstage",
+    "yax": "На сцене",
+    "trx": "На сцене"
+  },
+  "title_762": {
+    "src": "Masked Man",
+    "yax": "Человек в маске",
+    "trx": "Человек в маске"
+  },
+  "title_763": {
+    "src": "Broken Smartphone",
+    "yax": "Сломанный Смартфон",
+    "trx": "Сломанный смартфон"
+  },
+  "title_764": {
+    "src": "Weird Machinery",
+    "yax": "Странный Механизм",
+    "trx": "Странный механизм"
+  },
+  "title_765": {
+    "src": "Enemy Squad",
+    "yax": "Вражеский отряд",
+    "trx": "Вражеский отряд"
+  },
+  "title_766": {
+    "src": "Roboji",
+    "yax": "Рободжи",
+    "trx": "Рободжи" //spell-ignore-line
+  },
+  "title_767": {
+    "src": "ViewQube",
+    "yax": "ViewQube",
+    "trx": "ViewQube"
+  },
+  "title_768": {
+    "src": "Suspicious Video",
+    "yax": "Подозрительное видео",
+    "trx": "Подозрительное видео"
+  },
+  "title_769": {
+    "src": "Boss and Aiba",
+    "yax": "Босс и Аиба",
+    "trx": "Босс и Айба"
+  },
+  "title_770": {
+    "src": "Chinpei's Smartphone Screen",
+    "yax": "Экран смартфона Чинпея",
+    "trx": "Экран смартфона Чинпея"
+  },
+  "title_771": {
+    "src": "Open Box",
+    "yax": "Открытая коробка",
+    "trx": "Открытая коробка"
+  },
+  "title_772": {
+    "src": "Time Capsule",
+    "yax": "Капсула времени",
+    "trx": "Капсула времени"
+  },
+  "title_773": {
+    "src": "Recording",
+    "yax": "Запись",
+    "trx": "Запись"
+  },
+  "title_774": {
+    "src": "Rocket Launch at Amusement Park",
+    "yax": "Запуск ракеты в Парке развлечений",
+    "trx": "Запуск ракеты в парке развлечений"
+  },
+  "title_775": {
+    "src": "Bibi Shot by Ryuki",
+    "yax": "Биби, снятая Рюки",
+    "trx": "Биби, подстреленная Рюки"
+  },
+  "title_776": {
+    "src": "Bibi Sniping Mizuki",
+    "yax": "Биби Стреляет в Мизуки",
+    "trx": "Биби стреляет в Мизуки"
+  },
+  "title_777": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "Якудза"
+  },
+  "title_778": {
+    "src": "Riichi and Kizuna",
+    "yax": "Риичи и Кидзуна",
+    "trx": "Риичи и Кизуна"
+  },
+  "title_779": {
+    "src": "Stairs",
+    "yax": "Лестница",
+    "trx": "Лестница"
+  },
+  "title_780": {
+    "src": "Security Guard Story",
+    "yax": "История охранника",
+    "trx": "История охранника"
+  },
+  "title_781": {
+    "src": "Inside Suitcase",
+    "yax": "Внутри Чемодана",
+    "trx": "Внутри чемодана"
+  },
+  "title_782": {
+    "src": "Stacks of Money",
+    "yax": "Пачки денег",
+    "trx": "Пачки денег"
+  },
+  "title_783": {
+    "src": "Electric Kettle on Floor",
+    "yax": "Электрический чайник на полу",
+    "trx": "Электрический чайник на полу"
+  },
+  "title_784": {
+    "src": "Camera on Tripod",
+    "yax": "Камера на штативе",
+    "trx": "Камера на штативе"
+  },
+  "title_785": {
+    "src": "Nail Chip on Rope",
+    "yax": "Обломок гвоздя на веревке",
+    "trx": "Обломок гвоздя на веревке"
+  },
+  "title_786": {
+    "src": "Electric Cable",
+    "yax": "Электрический Кабель",
+    "trx": "Электрический Кабель"
+  },
+  "title_787": {
+    "src": "Rope Used to Tie Ryuki",
+    "yax": "Веревка, которой связывали Рюки",
+    "trx": "Веревка, которой связывали Рюки"
+  },
+  "title_788": {
+    "src": "Enlarged View",
+    "yax": "Увеличенный вид",
+    "trx": "Увеличенное изображение"
+  },
+  "title_789": {
+    "src": "Carbon Nanotube Molecular Structure",
+    "yax": "Молекулярная структура углеродных нанотрубок",
+    "trx": "Молекулярная структура углеродных нанотрубок"
+  },
+  "title_790": {
+    "src": "Conspicuous Mark",
+    "yax": "Заметный Знак",
+    "trx": "Заметный знак"
+  },
+  "title_791": {
+    "src": "Small Object",
+    "yax": "Небольшой Предмет",
+    "trx": "Небольшой предмет"
+  },
+  "title_792": {
+    "src": "Tearer's Gun",
+    "yax": "Пистолет разрывателя",
+    "trx": "Пистолет Рассекателя"
+  },
+  "title_793": {
+    "src": "Explosives Detonator",
+    "yax": "Детонатор взрывчатых веществ",
+    "trx": "Детонатор взрывного устройства"
+  },
+  "title_794": {
+    "src": "Underground Cell",
+    "yax": "Подземная ячейка",
+    "trx": "Подпольная ячейка"
+  },
+  "title_795": {
+    "src": "Naix's Teachings",
+    "yax": "Учения Наикса",
+    "trx": "Учения Naix"
+  },
+  "title_796": {
+    "src": "Bibi Sniping Mizuki",
+    "yax": "Биби Стреляет в Мизуки",
+    "trx": "Биби стреляет в Мизуки"
+  }
+}

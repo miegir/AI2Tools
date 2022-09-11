@@ -62,7 +62,7 @@
   "tutorial_015": {
     "src": "Right now, you can use <color=yellow>zoom + night vision mode function.</color>\nSelect <color=yellow>《Zoom NV》icon</color> to inspect the enemy in the Audience Seat.",
     "yax": "Прямо сейчас вы можете использовать функцию <цвет = желтый> масштабирование + режим ночного видения.</color>\nВыберите <color=yellow>《Увеличить изображение》значок</color>, чтобы осмотреть врага на зрительском месте.",
-    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага на зрительском сиденье."
+    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага на зрительском кресле."
   },
   "tutorial_title_007": {
     "src": "Aiba's Trivia",
