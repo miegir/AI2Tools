@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics;
 using McMaster.Extensions.CommandLineUtils;
 using Microsoft.Extensions.Logging;
 
@@ -57,8 +56,9 @@ internal class ImportCommand
     {
         logger.LogInformation("executing...");
 
-        new Game(logger, GamePath)
-            .CreatePipeline()
+        var game = new Game(logger, GamePath);
+
+        game.CreatePipeline()
             .Import(new ImportArguments(
                 SourceDirectory: SourceDirectory,
                 ObjectDirectory: ObjectDirectory,
@@ -72,7 +72,7 @@ internal class ImportCommand
 
         if (Launch)
         {
-            Process.Start(GamePath).Dispose();
+            game.Launch();
         }
     }
 }

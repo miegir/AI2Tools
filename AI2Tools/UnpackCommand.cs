@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics;
 using McMaster.Extensions.CommandLineUtils;
 using Microsoft.Extensions.Logging;
 
@@ -42,9 +41,9 @@ internal class UnpackCommand
 
         using var stream = File.OpenRead(ArchivePath);
         using var container = new ObjectContainer(stream);
+        var game = new Game(logger, GamePath);
 
-        new Game(logger, GamePath)
-            .CreatePipeline()
+        game.CreatePipeline()
             .Unpack(new UnpackArguments(
                 Container: container,
                 BundleCompression: BundleCompression,
@@ -54,7 +53,7 @@ internal class UnpackCommand
 
         if (Launch)
         {
-            Process.Start(GamePath).Dispose();
+            game.Launch();
         }
     }
 }
