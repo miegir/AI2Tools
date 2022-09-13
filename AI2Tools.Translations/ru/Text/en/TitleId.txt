@@ -422,7 +422,7 @@
   "title_584": {
     "src": "Horadori's Corpse",
     "yax": "Труп Орадори",
-    "trx": "Тело из Хорадори"
+    "trx": "Тело Хорадори"
   },
   "title_585": {
     "src": "Gen and Amame",
@@ -1227,7 +1227,7 @@
   "title_745": {
     "src": "Sejima Mansion",
     "yax": "Особняк Сэдзима",
-    "trx": "Резиденция Седзимы"
+    "trx": "Резиденция Сэдзимы"
   },
   "title_746": {
     "src": "Hidden Stairs",

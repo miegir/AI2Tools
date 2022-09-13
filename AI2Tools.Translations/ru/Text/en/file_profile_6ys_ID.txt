@@ -1,0 +1,1817 @@
+{
+  "file_profile_6ys_section_001": {
+    "src": "Name",
+    "yax": "Имя",
+    "trx": "Имя"
+  },
+  "file_profile_6ys_section_002": {
+    "src": "Nickname",
+    "yax": "Прозвище",
+    "trx": "Псевдоним"
+  },
+  "file_profile_6ys_section_003": {
+    "src": "Sex",
+    "yax": "Пол",
+    "trx": "Пол"
+  },
+  "file_profile_6ys_section_004": {
+    "src": "Age",
+    "yax": "Возраст",
+    "trx": "Возраст"
+  },
+  "file_profile_6ys_section_005": {
+    "src": "Birthday",
+    "yax": "День рождения",
+    "trx": "День рождения"
+  },
+  "file_profile_6ys_section_006": {
+    "src": "Profession",
+    "yax": "Профессия",
+    "trx": "Профессия"
+  },
+  "file_profile_6ys_section_007": {
+    "src": "Likes",
+    "yax": "Нравится",
+    "trx": "Любит"
+  },
+  "file_profile_6ys_section_008": {
+    "src": "Dislikes",
+    "yax": "Не любит",
+    "trx": "Не любит"
+  },
+  "file_profile_6ys_section_009": {
+    "src": "Hobbies",
+    "yax": "Хобби",
+    "trx": "Хобби"
+  },
+  "file_profile_6ys_section_010": {
+    "src": "Skills",
+    "yax": "Навыки",
+    "trx": "Навыки"
+  },
+  "file_profile_6ys_section_011": {
+    "src": "Overview",
+    "yax": "Обзор",
+    "trx": "Общие сведения"
+  },
+  "file_profile_6ys_001": {
+    "src": "Mizuki Date",
+    "yax": "Свидание с Мизуки",
+    "trx": "Мизуки Датэ"
+  },
+  "file_profile_6ys_002": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_003": {
+    "src": "12",
+    "yax": "12",
+    "trx": "12"
+  },
+  "file_profile_6ys_004": {
+    "src": "6-Jul",
+    "yax": "6 июля",
+    "trx": "6 июля"
+  },
+  "file_profile_6ys_005": {
+    "src": "6th Grader",
+    "yax": "6-классник",
+    "trx": "Шестиклассница"
+  },
+  "file_profile_6ys_006": {
+    "src": "Tonkotsu, Monja, Eel, Metal Pipe, Iris",
+    "yax": "Тонкоцу, Моня, Угорь, Металлическая Труба, Ирис",
+    "trx": "Тонкоцу рамэн, Мясное рагу, Угрей, Металлические трубы, Айрис"
+  },
+  "file_profile_6ys_007": {
+    "src": "Raw Fish, Perverts",
+    "yax": "Сырая Рыба, Извращенцы",
+    "trx": "Сырые морепродукты, Извращенцев"
+  },
+  "file_profile_6ys_008": {
+    "src": "Raising Clione, Collecting Adorabbit Merch",
+    "yax": "Растим Клиону, Собираем товары Adorabbit",
+    "trx": "Выращивание Клионы, Коллекционирование плюшевых кроликов"
+  },
+  "file_profile_6ys_009": {
+    "src": "Martial Arts (All)",
+    "yax": "Боевые искусства (Все)",
+    "trx": "Боевые искусства (все)"
+  },
+  "file_profile_6ys_010": {
+    "src": "Her father and mother, Renju Okiura and Shoko Nadami, have passed away. She has been adopted by Kaname Date and uses his last name. She sometimes assists Date when he needs fighting power. Gets along well with Iris, Amame, and Kizuna.",
+    "yax": "Ее отец и мать, Рэндзю Окиура и Секо Надами, скончались. Она была усыновлена Канаме Датэ и использует его фамилию. Она иногда помогает Дэйту, когда ему нужна боевая мощь. Хорошо ладит с Айрис, Амаме и Кидзуной.",
+    "trx": "Ее отец Рэндзю Окиура и мать Сёко Надами скончались. Канаме Датэ удочерил ее, и она взяла его фамилию. Иногда помогает Датэ, если ему нужна боевая мощь. Хорошо ладит с Айрис, Амаме и Кизуной."
+  },
+  "file_profile_6ys_011": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "file_profile_6ys_012": {
+    "src": "Female (According to Settings)",
+    "yax": "Женский (в соответствии с настройками)",
+    "trx": "Женский (согласно настройкам)"
+  },
+  "file_profile_6ys_013": {
+    "src": "6",
+    "yax": "6",
+    "trx": "6"
+  },
+  "file_profile_6ys_014": {
+    "src": "9-Nov",
+    "yax": "9 ноября",
+    "trx": "9 ноября"
+  },
+  "file_profile_6ys_015": {
+    "src": "Investigation Assistant",
+    "yax": "Помощник по расследованию",
+    "trx": "Помощник следователя"
+  },
+  "file_profile_6ys_016": {
+    "src": "Insects, Spiders, Crustaceans, A0F5",
+    "yax": "Насекомые, Пауки, Ракообразные, A0F5",
+    "trx": "Насекомых, Пауков, Ракообразных, A0F5"
+  },
+  "file_profile_6ys_017": {
+    "src": "Perverted Jokes, Watermelon-Crushing VR Videos",
+    "yax": "Извращенные шутки, Видео с раздавливанием арбузов в виртуальной реальности",
+    "trx": "Пошлые шутки, Видео измельчения арбузов в виртуальной реальности"
+  },
+  "file_profile_6ys_018": {
+    "src": "Dancing, Entomology",
+    "yax": "Танцы, Энтомология",
+    "trx": "Танцы, Энтомология"
+  },
+  "file_profile_6ys_019": {
+    "src": "Hacking, Fluoroscopy, Voice Imitation, 3D Modeling",
+    "yax": "Взлом, Рентгеноскопия, Имитация Голоса, 3D-Моделирование",
+    "trx": "Взлом, Рентгеноскопия, Имитация голоса, 3D-моделирование"
+  },
+  "file_profile_6ys_020": {
+    "src": "AI-Ball. An autonomous robot with an advanced AI. She's usually in the shape of an eyeball. She got in a fight with her current partner Date and is now on her own. She is doing a top secret mission ordered by Boss.",
+    "yax": "АЙ-Бал. Автономный робот с продвинутым искусственным интеллектом. Обычно она имеет форму глазного яблока. Она поссорилась со своим нынешним кавалером и теперь сама по себе. Она выполняет сверхсекретную миссию по приказу Босса.",
+    "trx": "Автономный робот с продвинутым искусственным интеллектом. Обычно имеет форму глазного яблока. Она поссорилась со своим нынешним партнером Датэ и теперь работает в одиночку. Она выполняет сверхсекретную миссию по приказу Босса."
+  },
+  "file_profile_6ys_021": {
+    "src": "Kuruto Ryuki",
+    "yax": "Куруто Рюки",
+    "trx": "Куруто Рюки"
+  },
+  "file_profile_6ys_022": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_023": {
+    "src": "23",
+    "yax": "23",
+    "trx": "23"
+  },
+  "file_profile_6ys_024": {
+    "src": "18-Oct",
+    "yax": "18 октября",
+    "trx": "18 октября"
+  },
+  "file_profile_6ys_025": {
+    "src": "ABIS Special Agent",
+    "yax": "Специальный агент АБИС",
+    "trx": "Специальный агент ABIS"
+  },
+  "file_profile_6ys_026": {
+    "src": "Justice, Duty, Loyalty, Date",
+    "yax": "Справедливость, Долг, Верность, Свидание",
+    "trx": "Справедливость, Долг, Верность, Датэ"
+  },
+  "file_profile_6ys_027": {
+    "src": "Evil, Cheating, Wicked Thoughts, Lies, Demotions",
+    "yax": "Зло, Обман, Злые Мысли, Ложь, Понижение в Должности",
+    "trx": "Зло, Обман, Недобрые мысли, Ложь, Понижение в должности"
+  },
+  "file_profile_6ys_028": {
+    "src": "Collecting Konvertibilna Marka",
+    "yax": "Сбор Конвертибильной Марки",
+    "trx": "Коллекционирование конвертируемых марок"
+  },
+  "file_profile_6ys_029": {
+    "src": "Parkour, Gun-Fu",
+    "yax": "Паркур, Ган-Фу",
+    "trx": "Паркур, Гун-фу"
+  },
+  "file_profile_6ys_030": {
+    "src": "A highly educated rich boy hired right out of school. He lost his parents in a plane crash when he was young. He had been living with his younger brother until he too passed away when he was still in high school...",
+    "yax": "Высокообразованный богатый мальчик, нанятый сразу после школы. Он потерял своих родителей в авиакатастрофе, когда был маленьким. Он жил со своим младшим братом, пока тот тоже не скончался, когда он еще учился в средней школе...",
+    "trx": "Хорошо образованный богатый парень, нанятый сразу после школы. Будучи еще маленьким, потерял своих родителей в авиакатастрофе. Он жил со своим младшим братом, пока тот также не скончался, когда он еще учился в средней школе..."
+  },
+  "file_profile_6ys_031": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "file_profile_6ys_032": {
+    "src": "Female (According to Settings)",
+    "yax": "Женский (в соответствии с настройками)",
+    "trx": "Женский (согласно настройкам)"
+  },
+  "file_profile_6ys_033": {
+    "src": "0",
+    "yax": "0",
+    "trx": "0"
+  },
+  "file_profile_6ys_034": {
+    "src": "30-Apr",
+    "yax": "30 апреля",
+    "trx": "30 апреля"
+  },
+  "file_profile_6ys_035": {
+    "src": "Investigation Assistant",
+    "yax": "Помощник по расследованию",
+    "trx": "Помощник следователя"
+  },
+  "file_profile_6ys_036": {
+    "src": "Comedy, Anything Perverted, S&M, AE10D1F",
+    "yax": "Комедия, Что-нибудь извращенное, S&M, AE10D1F",
+    "trx": "Комедии, Что-то извращенное, S&M, AE10D1F"
+  },
+  "file_profile_6ys_037": {
+    "src": "Dense People, Dishonest People, Bad Liars",
+    "yax": "Тупые Люди, Нечестные Люди, Плохие Лжецы",
+    "trx": "Тупые люди, Нечестные люди, Плохие лжецы"
+  },
+  "file_profile_6ys_038": {
+    "src": "Watching Comedy Videos, Tanning, Horse Racing",
+    "yax": "Просмотр Комедийных Клипов, Загар, Скачки",
+    "trx": "Просмотр комедийных клипов, Солярии, Скачки"
+  },
+  "file_profile_6ys_039": {
+    "src": "Bondage, Wax Play, Spanking",
+    "yax": "Связывание, Игра с Воском, Порка",
+    "trx": "Связывание, Игра с воском, Порка"
+  },
+  "file_profile_6ys_040": {
+    "src": "AI-Ball. An autonomous robot with an advanced AI. She's usually in the shape of an eyeball and resides in Ryuki's left eye socket. She assists Ryuki by gathering information, connecting to networks and databases, and using her X-ray and thermographic functions.",
+    "yax": "АЙ-Бал. Автономный робот с продвинутым искусственным интеллектом. Обычно она имеет форму глазного яблока и находится в левой глазнице Рюки. Она помогает Рюки, собирая информацию, подключаясь к сетям и базам данных, а также используя свои рентгеновские и термографические функции.",
+    "trx": "Автономный робот с продвинутым искусственным интеллектом. Обычно имеет форму глазного яблока и находится в левой глазнице Рюки. Она помогает Рюки, собирая информацию, подключаясь к сетям и базам данных, а также используя свои рентгеновские и термографические функции."
+  },
+  "file_profile_6ys_041": {
+    "src": "Gen Ishiyagane",
+    "yax": "Генерал Исиягане",
+    "trx": "Ген Исияганэ"
+  },
+  "file_profile_6ys_042": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_043": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_044": {
+    "src": "21-Sep",
+    "yax": "21 сентября",
+    "trx": "21 сентября"
+  },
+  "file_profile_6ys_045": {
+    "src": "Owner of Brahman World Cuisine",
+    "yax": "Владелец ресторана Brahman World Cuisine",
+    "trx": "Владелец ресторана мировой кухни Брахман"
+  },
+  "file_profile_6ys_046": {
+    "src": "Harbor Warehouse District, People Who Are Unafraid of Him",
+    "yax": "Портовый Складской район, Люди, Которые Его Не Боятся",
+    "trx": "Район портовых складов, Людей, которые его не боятся"
+  },
+  "file_profile_6ys_047": {
+    "src": "Ota Matsushita",
+    "yax": "Ота Мацусита",
+    "trx": "Оту Мацуситу"
+  },
+  "file_profile_6ys_048": {
+    "src": "Reading, Meditating",
+    "yax": "Чтение, Медитация",
+    "trx": "Чтение, Медитацию"
+  },
+  "file_profile_6ys_049": {
+    "src": "Cooking (All), Crushing Rocks",
+    "yax": "Приготовление пищи (Все), Дробление Горных пород",
+    "trx": "Приготовление пищи (любой), Дробление камней"
+  },
+  "file_profile_6ys_050": {
+    "src": "He runs a restaurant called Brahman in Golden Yokocho. Since his face scares people, he usually wears a cute mask. So strong he could destroy a tank with his bare hands.",
+    "yax": "Он управляет рестораном под названием \"Брахман\" в Золотом Йокочо. Поскольку его лицо пугает людей, он обычно носит симпатичную маску. Настолько сильный, что мог уничтожить танк голыми руками.",
+    "trx": "Он управляет рестораном под названием \"Брахман\" в Голден Йокотё. Поскольку его лицо пугает людей, он обычно носит симпатичную маску. Настолько сильный, что мог бы уничтожить танк голыми руками."
+  },
+  "file_profile_6ys_051": {
+    "src": "Amame Doi",
+    "yax": "Амаме Дои",
+    "trx": "Амаме Дои"
+  },
+  "file_profile_6ys_052": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_053": {
+    "src": "18",
+    "yax": "18",
+    "trx": "18"
+  },
+  "file_profile_6ys_054": {
+    "src": "17-Aug",
+    "yax": "17 августа",
+    "trx": "17 августа"
+  },
+  "file_profile_6ys_055": {
+    "src": "Sekiba High Senior, Maid Cafe Maid",
+    "yax": "Сэкиба Старшеклассница, Горничная Кафе Горничная",
+    "trx": "Старшеклассница в школе Секиба, Русалка в мэйдо-кафе"
+  },
+  "file_profile_6ys_056": {
+    "src": "Quizzes, The Occult, Dance, Music, Voices, Right (Side)",
+    "yax": "Викторины, Оккультизм, Танцы, Музыка, Голоса, Справа (Сбоку)",
+    "trx": "Викторины, Оккультизм, Танцы, Музыку, Вокал, Правую сторону"
+  },
+  "file_profile_6ys_057": {
+    "src": "Customers Who Sit There For 3 Hours With Just a Coffee, Silence, Left (Side)",
+    "yax": "Клиенты, Которые Сидят Там В Течение 3 Часов С Одним Только Кофе, Тишина, Слева (Сбоку)",
+    "trx": "Клиентов, сидящих 3 часа с одним только кофе, Тишину, Левую сторону"
+  },
+  "file_profile_6ys_058": {
+    "src": "Raising Triplewart Seadevils",
+    "yax": "Выращивание Тройных Морских дьяволов",
+    "trx": "Выращивание морских дьяволов"
+  },
+  "file_profile_6ys_059": {
+    "src": "Exploiting Vanity, Receiving Lavish Gifts",
+    "yax": "Эксплуатируя Тщеславие, Получая Щедрые Подарки",
+    "trx": "Эксплуатация тщеславия, Получение щедрых подарков"
+  },
+  "file_profile_6ys_060": {
+    "src": "A \"Mermaid\" at Sunfish Pocket. Wanting to work the late shift, she lied and said that she was 20 years old. She's in the school dance club with Iris and Kizuna. A regular at Brahman and close with Gen.",
+    "yax": "\"Русалка\" в кармане Солнечной рыбы. Желая работать в позднюю смену, она солгала и сказала, что ей 20 лет. Она в школьном танцевальном клубе с Айрис и Кидзуной. Завсегдатай \"Брахмана\" и близок с генералом.",
+    "trx": "\"Русалка\" в Sunfish Pocket. Желая работать в вечернюю смену, она солгала и сказала, что ей 20 лет. Состоит в школьном танцевальном клубе вместе с Айрис и Кизуной. Частая гостья Брахмана и близкая подруга Гена."
+  },
+  "file_profile_6ys_061": {
+    "src": "Lien Twining",
+    "yax": "Залоговое удержание",
+    "trx": "Лиен Твининг"
+  },
+  "file_profile_6ys_062": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_063": {
+    "src": "22",
+    "yax": "22",
+    "trx": "22"
+  },
+  "file_profile_6ys_064": {
+    "src": "18-May",
+    "yax": "18-Май",
+    "trx": "18 мая"
+  },
+  "file_profile_6ys_065": {
+    "src": "Unemployed",
+    "yax": "Безработный",
+    "trx": "Безработный"
+  },
+  "file_profile_6ys_066": {
+    "src": "ALFREE, Yoyagi Park, Kizzy",
+    "yax": "ЭЛФРИ, парк Йояги, Киззи",
+    "trx": "ALFREE, Парк Йояги, Киззи"
+  },
+  "file_profile_6ys_067": {
+    "src": "The Past, Anything Kizzy Dislikes",
+    "yax": "Прошлое, Все, Что Не Нравится Киззи",
+    "trx": "Прошлое, Всё, что не нравится Киззи"
+  },
+  "file_profile_6ys_068": {
+    "src": "Building Model Planes and Spaceships",
+    "yax": "Строим Модели Самолетов и Космических кораблей",
+    "trx": "Создание моделей самолетов и космических кораблей"
+  },
+  "file_profile_6ys_069": {
+    "src": "Extraordinary Lockpicking Ability",
+    "yax": "Исключительная Способность К Взлому Замков",
+    "trx": "Исключительный навык взлома замков"
+  },
+  "file_profile_6ys_070": {
+    "src": "A former thief. Until recently, he was working as a janitor but was fired due to his past... He fell in love with Kizuna Chieda after seeing her dance at Matsushita Diner. He gets rejected after confessing his love to her.",
+    "yax": "Бывший вор. До недавнего времени он работал уборщиком, но был уволен из-за своего прошлого... Он влюбился в Кидзуну Чиэду после того, как увидел, как она танцует в закусочной Matsushita. Он получает отказ после того, как признается ей в любви.",
+    "trx": "Бывший вор. До недавнего времени он уборщиком, но был уволен из-за своего прошлого... Он влюбился в Кизуну Чиэду после того, как увидел, как она танцует в закусочной Мацуситы. Получил отказ после того, как признался ей в любви."
+  },
+  "file_profile_6ys_071": {
+    "src": "Kizuna Chieda",
+    "yax": "Кидзуна Чиеда",
+    "trx": "Кизуна Чиэда"
+  },
+  "file_profile_6ys_072": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_073": {
+    "src": "18",
+    "yax": "18",
+    "trx": "18"
+  },
+  "file_profile_6ys_074": {
+    "src": "15-Jun",
+    "yax": "15 июня",
+    "trx": "15 июня"
+  },
+  "file_profile_6ys_075": {
+    "src": "Sekiba High Senior",
+    "yax": "Сэкиба Старшеклассник",
+    "trx": "Старшеклассница в школе Секиба"
+  },
+  "file_profile_6ys_076": {
+    "src": "Dancing, Shoes, Cinderella, Children, Big Sis",
+    "yax": "Танцы, Туфли, Золушка, Дети, Старшая сестра",
+    "trx": "Танцы, Туфли, Золушку, Детей, Старшенькую"
+  },
+  "file_profile_6ys_077": {
+    "src": "The Unemployed",
+    "yax": "Безработные",
+    "trx": "Безработных"
+  },
+  "file_profile_6ys_078": {
+    "src": "Dancing, Reading Fairy Tales",
+    "yax": "Танцы, Чтение Сказок",
+    "trx": "Танцы, Чтение сказок"
+  },
+  "file_profile_6ys_079": {
+    "src": "Dancing (All), Reading Fairy Tales",
+    "yax": "Танцы (Все), Чтение Сказок",
+    "trx": "Танцы (все), Чтение сказок"
+  },
+  "file_profile_6ys_080": {
+    "src": "The daughter of the uber-rich Chieda family. She is in the dance club at school with Iris and Amame. She is the most gifted singer and dancer in the club; she's even won a contest before. She calls Mizuki \"Big Sis.\"",
+    "yax": "Дочь очень богатой семьи Чиеда. Она занимается в танцевальном клубе в школе вместе с Айрис и Амаме. Она самая одаренная певица и танцовщица в клубе; раньше она даже выигрывала конкурс. Она называет Мизуки \"Старшей сестрой\".",
+    "trx": "Дочь очень богатой семьи Чиэда. Она занимается в школьном танцевальном клубе вместе с Айрис и Амаме. Является самой одаренной певицей и танцовщицей в клубе; однажды даже выигрывала конкурс. Она называет Мизуки \"Старшенькой\"."
+  },
+  "file_profile_6ys_081": {
+    "src": "Yoneharu Enda",
+    "yax": "Йонехару Энда",
+    "trx": "Йонехару Энда"
+  },
+  "file_profile_6ys_082": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_083": {
+    "src": "46",
+    "yax": "46",
+    "trx": "46"
+  },
+  "file_profile_6ys_084": {
+    "src": "12-Apr",
+    "yax": "12 апреля",
+    "trx": "12 апреля"
+  },
+  "file_profile_6ys_085": {
+    "src": "Comedian",
+    "yax": "Комик",
+    "trx": "Комик"
+  },
+  "file_profile_6ys_086": {
+    "src": "Ferris Wheels, Things That Spin, Bow Ties, Family",
+    "yax": "Колеса Обозрения, Вещи, Которые Вращаются, Галстуки-Бабочки, Семья",
+    "trx": "Колеса обозрения, Вращающиеся предметы, Галстуки-бабочки, Семью"
+  },
+  "file_profile_6ys_087": {
+    "src": "Oden, Super Hot Baths, Electric Shocks, Spicy Food, Pie",
+    "yax": "Оден, Супер Горячие Ванны, Электрошок, Острая Пища, Пирог",
+    "trx": "Оден, Слишком горячие ванны, Электрошок, Острую Пищу, Пироги"
+  },
+  "file_profile_6ys_088": {
+    "src": "Game Commentary, Short Clip Submissions, Survival Games",
+    "yax": "Комментарии к Играм, Короткие Видеоролики, Игры На Выживание",
+    "trx": "Комментирование игр, Короткие видеоролики, Игры на выживание"
+  },
+  "file_profile_6ys_089": {
+    "src": "Quizzes, One-Liners (Self-Proclaimed)",
+    "yax": "Викторины, Однострочники (Самопровозглашенные)",
+    "trx": "Викторины, Шутки одной строкой (произносимые самостоятельно)"
+  },
+  "file_profile_6ys_090": {
+    "src": "A former \"Quiz King\" turned comedian. His stage name is Andes Komeji. He has made some TV appearances but isn't very successful. His money troubles led to a divorce from his wife, and he now lives with his son Shoma.",
+    "yax": "Бывший \"Король викторин\", ставший комиком. Его сценическое имя - Андес Комеджи. Он несколько раз появлялся на телевидении, но не очень успешно. Его денежные проблемы привели к разводу с женой, и теперь он живет со своим сыном Шомой.",
+    "trx": "Бывший \"король викторин\", ставший комиком. Его сценическое имя — Андес Комедзи. Он несколько раз появлялся на телевидении, но не был успешен. Его денежные проблемы привели к разводу с женой, и теперь он живет со своим сыном Шомой."
+  },
+  "file_profile_6ys_091": {
+    "src": "Shoma Enda",
+    "yax": "Шома Энда",
+    "trx": "Шома Энда"
+  },
+  "file_profile_6ys_092": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_093": {
+    "src": "12",
+    "yax": "12",
+    "trx": "12"
+  },
+  "file_profile_6ys_094": {
+    "src": "12-Jul",
+    "yax": "12 июля",
+    "trx": "12 июля"
+  },
+  "file_profile_6ys_095": {
+    "src": "6th Grader",
+    "yax": "6-классник",
+    "trx": "Шестиклассник"
+  },
+  "file_profile_6ys_096": {
+    "src": "Ferris Wheels, Robots, a Certain Girl From His School",
+    "yax": "Колеса Обозрения, Роботы, Некая Девочка Из Его Школы",
+    "trx": "Колеса обозрения, Роботов, Одну девочку из его школы"
+  },
+  "file_profile_6ys_097": {
+    "src": "Old-Fashioned Dirty Jobs, Comedians",
+    "yax": "Старомодная Грязная Работа, Комедианты",
+    "trx": "Старомодную грязную работу, Комедиантов"
+  },
+  "file_profile_6ys_098": {
+    "src": "Making Robots",
+    "yax": "Создание роботов",
+    "trx": "Изготовление роботов"
+  },
+  "file_profile_6ys_099": {
+    "src": "Mechanics, Decryption",
+    "yax": "Механика, Расшифровка",
+    "trx": "Механика, Дешифровка"
+  },
+  "file_profile_6ys_100": {
+    "src": "Komeji's son. He despises his poor comedian dad. He likes being alone and doesn't have too many friends. He heads home right away after school to make robots in his room. In the same grade as Mizuki.",
+    "yax": "Сын Комедзи. Он презирает своего бедного отца-комика. Ему нравится быть одному, и у него не так уж много друзей. Сразу после школы он отправляется домой, чтобы сделать роботов в своей комнате. В том же классе, что и Мизуки.",
+    "trx": "Сын Комедзи. Он презирает своего бедного отца-комика. Ему нравится быть в одиночестве, и у него не так уж много друзей. Сразу после школы он отправляется домой, чтобы мастерить роботов в своей комнате. Учится в том же классе, что и Мизуки."
+  },
+  "file_profile_6ys_101": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "file_profile_6ys_102": {
+    "src": "Woman (Probably)",
+    "yax": "Женщина (Вероятно)",
+    "trx": "Женский (вероятно)"
+  },
+  "file_profile_6ys_103": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_104": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_105": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_106": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_107": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_108": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_109": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_110": {
+    "src": "A mysterious person. Appears to be female based on body shape.",
+    "yax": "Таинственная личность. Судя по форме тела, это женщина.",
+    "trx": "Таинственная личность. Судя по форме тела, это женщина."
+  },
+  "file_profile_6ys_111": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "file_profile_6ys_112": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_113": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_114": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_115": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_116": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_117": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_118": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_119": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_120": {
+    "src": "The prime suspect for the HB case. Wears an iron mask.",
+    "yax": "Главный подозреваемый по делу НВ. Носит железную маску.",
+    "trx": "Главный подозреваемый по делу с половинами тела (ПТ). Носит железную маску."
+  },
+  "file_profile_6ys_121": {
+    "src": "Jin Furue",
+    "yax": "Цзинь Фуруэ",
+    "trx": "Джин Фуруэ"
+  },
+  "file_profile_6ys_122": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_123": {
+    "src": "29",
+    "yax": "29",
+    "trx": "29"
+  },
+  "file_profile_6ys_124": {
+    "src": "29-Aug",
+    "yax": "29 августа",
+    "trx": "29 августа"
+  },
+  "file_profile_6ys_125": {
+    "src": "Businessman, Writer",
+    "yax": "Бизнесмен, Писатель",
+    "trx": "Бизнесмен, Писатель"
+  },
+  "file_profile_6ys_126": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_127": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_128": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_129": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_130": {
+    "src": "CEO of Music Food Co., Ltd. He held high positions at various other enterprises. He was also a writer and had released some of his essays to the media. His right half was found at Studio Dvaita.",
+    "yax": "Генеральный директор Music Food Co., Ltd. Он занимал высокие должности на различных других предприятиях. Он также был писателем и опубликовал некоторые из своих эссе в средствах массовой информации. Его правая половина была найдена в студии Двайта.",
+    "trx": "Генеральный директор Music Food Co., Ltd. До этого занимал высокие должности на различных предприятиях. Он также был писателем и публиковал некоторые свои эссе в средствах массовой информации. Правая половина его тела была найдена в студии Двайта."
+  },
+  "file_profile_6ys_131": {
+    "src": "Chikara Horadori",
+    "yax": "Чикара Орадори",
+    "trx": "Чикара Хорадори"
+  },
+  "file_profile_6ys_132": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_133": {
+    "src": "60",
+    "yax": "60",
+    "trx": "60"
+  },
+  "file_profile_6ys_134": {
+    "src": "28-Mar",
+    "yax": "28 марта",
+    "trx": "28 марта"
+  },
+  "file_profile_6ys_135": {
+    "src": "Director of Horadori Institute of Genetics",
+    "yax": "Директор Института генетики Горадори",
+    "trx": "Директор института генетики Хорадори"
+  },
+  "file_profile_6ys_136": {
+    "src": "Deoxyribonucleic Acid, Simulation Theory, %",
+    "yax": "Дезоксирибонуклеиновая кислота, Теория Моделирования, %",
+    "trx": "Дезоксирибонуклеиновую кислоту, Теорию моделирования, %"
+  },
+  "file_profile_6ys_137": {
+    "src": "Death",
+    "yax": "Смерть",
+    "trx": "Смерть"
+  },
+  "file_profile_6ys_138": {
+    "src": "Research, Experimentation, Collecting Hats",
+    "yax": "Исследования, Эксперименты, Коллекционирование Шляп",
+    "trx": "Исследования, Эксперименты, Коллекционирование шляп"
+  },
+  "file_profile_6ys_139": {
+    "src": "Using Electric Drills",
+    "yax": "Использование Электродрели",
+    "trx": "Использование электродрелей"
+  },
+  "file_profile_6ys_140": {
+    "src": "A brilliant scientist who established the Horadori Institute of Genetics at a young age. The institute mainly researches DNA treatment and gene therapy. He divorced his wife 6 years ago. His ex-wife and daughter now live in Italy.",
+    "yax": "Блестящий ученый, который в молодом возрасте основал Институт генетики Хорадори. Институт в основном занимается исследованиями в области лечения ДНК и генной терапии. Он развелся со своей женой 6 лет назад. Его бывшая жена и дочь сейчас живут в Италии.",
+    "trx": "Блестящий ученый, который в молодом возрасте основал институт генетики Хорадори. Институт занимается в основном исследованиями в области исправления ДНК и генной терапии. Он развелся со своей женой 6 лет назад. Его бывшая жена и дочь сейчас живут в Италии."
+  },
+  "file_profile_6ys_141": {
+    "src": "Tokiko Shigure",
+    "yax": "Токико Сигуре",
+    "trx": "Токико Шигуре"
+  },
+  "file_profile_6ys_142": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_143": {
+    "src": "53",
+    "yax": "53",
+    "trx": "53"
+  },
+  "file_profile_6ys_144": {
+    "src": "15-Feb",
+    "yax": "15 февраля",
+    "trx": "15 февраля"
+  },
+  "file_profile_6ys_145": {
+    "src": "President of Naixatloz Japan Branch",
+    "yax": "Президент Японского филиала Naixatloz",
+    "trx": "Президент японского отделения Naixatloz"
+  },
+  "file_profile_6ys_146": {
+    "src": "Flow of Water, Flow of Time, X, Diamond Shapes, Bugs (Glitches)",
+    "yax": "Поток воды, Течение времени, X, Ромбовидные формы, Ошибки (Глюки)",
+    "trx": "Потоки воды, Течение времени, X, Ромбовидные формы, Ошибки (баги)"
+  },
+  "file_profile_6ys_147": {
+    "src": "None",
+    "yax": "Никто",
+    "trx": "Нет"
+  },
+  "file_profile_6ys_148": {
+    "src": "Simulation Theory Research",
+    "yax": "Исследование теории моделирования",
+    "trx": "Исследование теории моделирования"
+  },
+  "file_profile_6ys_149": {
+    "src": "Prophecy",
+    "yax": "Пророчество",
+    "trx": "Пророчество"
+  },
+  "file_profile_6ys_150": {
+    "src": "The president of Naix Japan. A believer in Simulation Theory, she sincerely believes that the world she lives in is fake and was created by someone. She has no interest in living a long life in this world.",
+    "yax": "Президент Naix Japan. Верующая в Теорию симуляции, она искренне верит, что мир, в котором она живет, фальшивый и был кем-то создан. Она не заинтересована в том, чтобы прожить долгую жизнь в этом мире.",
+    "trx": "Президент японского отделения Naix. Сторонница теории симуляции, она искренне верит, что мир, в котором она живет, является фальшивым и был кем-то создан. Она не заинтересована в том, чтобы прожить в этом мире долгую жизнь."
+  },
+  "file_profile_6ys_151": {
+    "src": "Riichi Chieda",
+    "yax": "Риичи Чиеда",
+    "trx": "Риичи Чиэда"
+  },
+  "file_profile_6ys_152": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_153": {
+    "src": "54",
+    "yax": "54",
+    "trx": "54"
+  },
+  "file_profile_6ys_154": {
+    "src": "18-Jan",
+    "yax": "18 января",
+    "trx": "18 января"
+  },
+  "file_profile_6ys_155": {
+    "src": "Chairman of Aioen",
+    "yax": "Председатель Aioen",
+    "trx": "Председатель Айоен"
+  },
+  "file_profile_6ys_156": {
+    "src": "Status, Fame, Power, Kizuna",
+    "yax": "Статус, Слава, Власть, Кидзуна",
+    "trx": "Статус, Славу, Власть, Кизуну"
+  },
+  "file_profile_6ys_157": {
+    "src": "The Unemployed, Ignorance, Rude People, Day Drinkers",
+    "yax": "Безработные, Невежество, Грубые Люди, Дневные Пьяницы",
+    "trx": "Безработных, Невежество, Грубых людей, Пьяниц"
+  },
+  "file_profile_6ys_158": {
+    "src": "Gold, Sailing, Wine, Bonsai, Animal Flossing",
+    "yax": "Золото, Парусный спорт, Вино, Бонсай, Чистка животных Зубной нитью",
+    "trx": "Золото, Парусный спорт, Вино, Бонсай, Чистка животных зубной нитью"
+  },
+  "file_profile_6ys_159": {
+    "src": "Horse-Riding, Curling, Getting Spanked",
+    "yax": "Верховая Езда, Керлинг, Порка",
+    "trx": "Верховая езда, Керлинг, Порка"
+  },
+  "file_profile_6ys_160": {
+    "src": "Besides being the chairman of Aioen, he's an investor, philanthropist, founder of the Chieda Foundation, and an honorary professor. He funded the reopening of Horadori Institute.",
+    "yax": "Помимо того, что он является председателем Aioen, он инвестор, филантроп, основатель Фонда Chieda и почетный профессор. Он финансировал повторное открытие Института Орадори.",
+    "trx": "Помимо того, что он является председателем Айоен, он также инвестор, филантроп, основатель фонда Чиэды и почетный профессор. Он финансировал повторное открытие института Хорадори."
+  },
+  "file_profile_6ys_161": {
+    "src": "Shizue Kuranushi",
+    "yax": "Сидзуэ Курануши",
+    "trx": "Сидзуэ Курануши"
+  },
+  "file_profile_6ys_162": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_163": {
+    "src": "43",
+    "yax": "43",
+    "trx": "43"
+  },
+  "file_profile_6ys_164": {
+    "src": "21-Dec",
+    "yax": "21 декабря",
+    "trx": "21 декабря"
+  },
+  "file_profile_6ys_165": {
+    "src": "Commander of ABIS",
+    "yax": "Командир АБИС",
+    "trx": "Командир ABIS"
+  },
+  "file_profile_6ys_166": {
+    "src": "Wine, Gourd Dolls, Anything Shiny and Black",
+    "yax": "Вино, Тыквенные куклы, Что-нибудь Блестящее и Черное",
+    "trx": "Вино, Тыквенные куклы, Всё блестящее и черное"
+  },
+  "file_profile_6ys_167": {
+    "src": "Tidying Up, Nuclear Families, Ex-Boyfriends, Her Superiors at HQ",
+    "yax": "Уборка, Нуклеарные Семьи, Бывшие Бойфренды, Ее Начальство в штабе",
+    "trx": "Уборку, Нуклеарные семьи, Бывших парней, Ее начальство из полицейского управления"
+  },
+  "file_profile_6ys_168": {
+    "src": "Frequenting Host Clubs in Kabukicho",
+    "yax": "Часто посещаю Хост-клубы в Кабукичо",
+    "trx": "Частое посещение клубов в Кабукитё"
+  },
+  "file_profile_6ys_169": {
+    "src": "Finding Weaknesses and Exploiting Them to Ensure Total Obedience",
+    "yax": "Находить Слабые места и Использовать Их для обеспечения Полного Повиновения",
+    "trx": "Поиск слабостей людей и использование их, чтобы добиться полного подчинения"
+  },
+  "file_profile_6ys_170": {
+    "src": "Ryuki's direct superior as well as Date's old friend. Her mood changes on a daily basis. She gives off a carefree vibe, but she's as cunning as a fox.",
+    "yax": "Непосредственный начальник Рюки, а также старый друг Дейта. Ее настроение меняется ежедневно. От нее исходит беззаботная атмосфера, но она хитра, как лиса.",
+    "trx": "Непосредственный начальник Рюки, а также старая подруга Датэ. Ее настроение меняется ежедневно. От нее исходит беззаботная атмосфера, но она хитрая, как лиса."
+  },
+  "file_profile_6ys_171": {
+    "src": "Futa Amanoma",
+    "yax": "Фута Аманома",
+    "trx": "Фута Аманома"
+  },
+  "file_profile_6ys_172": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_173": {
+    "src": "37",
+    "yax": "37",
+    "trx": "37"
+  },
+  "file_profile_6ys_174": {
+    "src": "1-Feb",
+    "yax": "1-Февраль",
+    "trx": "1 февраля"
+  },
+  "file_profile_6ys_175": {
+    "src": "ABIS Technician",
+    "yax": "Техник ABIS",
+    "trx": "Техник ABIS"
+  },
+  "file_profile_6ys_176": {
+    "src": "Multiples of 16, Chairs, Tokoroten, Amore",
+    "yax": "Кратные 16, Стулья, Токоротен, Любовь",
+    "trx": "Числа, делящиеся на 16, Стулья, Токоротен, Любовь"
+  },
+  "file_profile_6ys_177": {
+    "src": "Bugs, Cats, Conservatives, Cyclopes",
+    "yax": "Жуки, Кошки, Консерваторы, Циклопы",
+    "trx": "Жуков, Кошек, Консерваторов, Циклопов"
+  },
+  "file_profile_6ys_178": {
+    "src": "Playing With Machines, Colleting Doujins, Playing Pretend Magical Girl",
+    "yax": "Играла С Машинками, Собирала Додзины, Притворялась Волшебной Девочкой",
+    "trx": "Игры с машинами, Коллекционирование додзин, Переодевание в волшебную девочку"
+  },
+  "file_profile_6ys_179": {
+    "src": "Building Models, Imitating Vuvuzelas",
+    "yax": "Строительные Модели, Имитирующие Вувузелы",
+    "trx": "Создание моделей, Имитация вувузел"
+  },
+  "file_profile_6ys_180": {
+    "src": "An ABIS engineer and mechanic. His main job is operating and maintaining the Psync machine. He committed a crime in the past leading to his dismissal, but Boss pulled some strings to get his job back.",
+    "yax": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании Psync-машины. В прошлом он совершил преступление, приведшее к его увольнению, но босс потянул за кое-какие ниточки, чтобы вернуть ему работу.",
+    "trx": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании машины для псинхронизации. В прошлом он совершил преступление, из-за которого был уволен, но босс потянула за определенные ниточки и вернула его на работу."
+  },
+  "file_profile_6ys_181": {
+    "src": "Kaname Date",
+    "yax": "Свидание с Канаме",
+    "trx": "Канаме Датэ"
+  },
+  "file_profile_6ys_182": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_183": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_184": {
+    "src": "3-Aug",
+    "yax": "3 августа",
+    "trx": "3 августа"
+  },
+  "file_profile_6ys_185": {
+    "src": "ABIS Special Agent",
+    "yax": "Специальный агент АБИС",
+    "trx": "Специальный агент ABIS"
+  },
+  "file_profile_6ys_186": {
+    "src": "Classic Cars, Curry, Bonito, Pelvises, Family",
+    "yax": "Классические автомобили, Карри, Бонито, Тазы, Семья",
+    "trx": "Классические автомобили, Карри, Бонито, Таз, Семью"
+  },
+  "file_profile_6ys_187": {
+    "src": "Soft-Boiled Eggs, Punk Kids, Ghosts",
+    "yax": "Яйца всмятку, Дети-Панки, Призраки",
+    "trx": "Яйца всмятку, Детей-панков, Призраков"
+  },
+  "file_profile_6ys_188": {
+    "src": "Collecting Vintage Magazines",
+    "yax": "Коллекционирую Старинные Журналы",
+    "trx": "Коллекционирование старинных журналов"
+  },
+  "file_profile_6ys_189": {
+    "src": "Reaction Time Increases 3.6 Times Under Certain Conditions",
+    "yax": "При Определенных Условиях Время Реакции Увеличивается В 3,6 Раза",
+    "trx": "При определенных условиях время реакции увеличивается в 3,6 раза"
+  },
+  "file_profile_6ys_190": {
+    "src": "An ABIS Special Agent on a long break. He takes good care of Ryuki, both at and outside of work. He is Mizuki's adoptive father and gets along with Iris and Ota. Currently feuding with Aiba.",
+    "yax": "Специальный агент АБИС на длительном перерыве. Он хорошо заботится о Рюки, как на работе, так и вне ее. Он приемный отец Мизуки и ладит с Айрис и Отой. В настоящее время враждует с Aiba.",
+    "trx": "Специальный агент ABIS в длительном отпуске. Хорошо заботится о Рюки, как на работе, так и вне ее. Приемный отец Мизуки и ладит с Айрис и Отой. В настоящее время враждует с Айбой."
+  },
+  "file_profile_6ys_191": {
+    "src": "Iris Sagan",
+    "yax": "Айрис Саган",
+    "trx": "Айрис Саган"
+  },
+  "file_profile_6ys_192": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_193": {
+    "src": "18",
+    "yax": "18",
+    "trx": "18"
+  },
+  "file_profile_6ys_194": {
+    "src": "26-Oct",
+    "yax": "26 октября",
+    "trx": "26 октября"
+  },
+  "file_profile_6ys_195": {
+    "src": "Sekiba High Senior, Internet Idol",
+    "yax": "Старшеклассница Секиба, Интернет-Кумир",
+    "trx": "Старшеклассница в школе Секиба, Интернет-идол"
+  },
+  "file_profile_6ys_196": {
+    "src": "Singing, Dancing, The Occult, Mizuki, Friends",
+    "yax": "Пение, Танцы, Оккультизм, Мизуки, Друзья",
+    "trx": "Пение, Танцы, Оккультизм, Мизуки, Друзей"
+  },
+  "file_profile_6ys_197": {
+    "src": "Scary People",
+    "yax": "Страшные Люди",
+    "trx": "Страшных людей"
+  },
+  "file_profile_6ys_198": {
+    "src": "Singing, Dancing, Game Commentary",
+    "yax": "Пение, Танцы, Комментарии к играм",
+    "trx": "Пение, Танцы, Комментирование игр"
+  },
+  "file_profile_6ys_199": {
+    "src": "Runs Really Fast",
+    "yax": "Работает Очень Быстро",
+    "trx": "Очень быстро бегает"
+  },
+  "file_profile_6ys_200": {
+    "src": "An internet idol affiliated with Lemniscate. Her idol name is A-set, but her fans call her Tesa. She has tons of close friends like Mizuki, Kizuna, Amame, and Ota.",
+    "yax": "Интернет-идол, связанный с Lemniscate. Ее кумирское имя А-сет, но поклонники называют ее Теса. У нее куча близких друзей, таких как Мизуки, Кидзуна, Амаме и Ота.",
+    "trx": "Интернет-идол, сотрудничает с Лемнискейт. Ее сценический псевдоним — Эй-сет, но фанаты называют ее Теса. У нее куча близких друзей, в том числе Мизуки, Кизуна, Амаме и Ота."
+  },
+  "file_profile_6ys_201": {
+    "src": "Ota Matsushita",
+    "yax": "Ота Мацусита",
+    "trx": "Ота Мацусита"
+  },
+  "file_profile_6ys_202": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_203": {
+    "src": "24",
+    "yax": "24",
+    "trx": "24"
+  },
+  "file_profile_6ys_204": {
+    "src": "8-Jun",
+    "yax": "8 июня",
+    "trx": "8 июня"
+  },
+  "file_profile_6ys_205": {
+    "src": "Cook at Matsushita Diner, Light Novel Author (Self-Proclaimed)",
+    "yax": "Повар в закусочной Matsushita, Автор легких романов (Самопровозглашенный)",
+    "trx": "Повар в закусочной Мацуситы, Автор легких романов (самопровозглашенный)"
+  },
+  "file_profile_6ys_206": {
+    "src": "A-set, Chocolate",
+    "yax": "А-сет, Шоколадный",
+    "trx": "Эй-сет, Шоколад"
+  },
+  "file_profile_6ys_207": {
+    "src": "Enemies of A-set, People Who Lecture",
+    "yax": "Враги A-set, Люди, Которые читают лекции",
+    "trx": "Врагов Эй-сет, Люди, читающие лекции"
+  },
+  "file_profile_6ys_208": {
+    "src": "Internet Idols, Maid Cafes",
+    "yax": "Интернет-Кумиры, Горничные Кафе",
+    "trx": "Интернет-идолы, Мэйдо-кафе"
+  },
+  "file_profile_6ys_209": {
+    "src": "Cooking (All), Driving",
+    "yax": "Приготовление пищи (Все), Вождение автомобиля",
+    "trx": "Приготовление пищи (любой), Вождение автомобиля"
+  },
+  "file_profile_6ys_210": {
+    "src": "Up until recently he was unemployed, but he now runs Matsushita Diner. After finding out Tesa likes the occult, he brushed up his knowledge on the subject. Close with Mizuki, Kizuna, and Amame.",
+    "yax": "До недавнего времени он был безработным, но теперь он управляет закусочной Matsushita Diner. Узнав, что Тесе нравится оккультизм, он освежил свои знания по этому предмету. Рядом с Мизуки, Кидзуной и Амаме.",
+    "trx": "До недавнего времени он был безработным, но теперь управляет закусочной Мацуситы. Узнав, что Тесе нравится оккультизм, он освежил свои знания по этому предмету. Близок с Мизуки, Кизуной и Амаме."
+  },
+  "file_profile_6ys_211": {
+    "src": "Moma Kumakura",
+    "yax": "Мома Кумакура",
+    "trx": "Мома Кумакура"
+  },
+  "file_profile_6ys_212": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_213": {
+    "src": "48",
+    "yax": "48",
+    "trx": "48"
+  },
+  "file_profile_6ys_214": {
+    "src": "28-Sep",
+    "yax": "28 сентября",
+    "trx": "28 сентября"
+  },
+  "file_profile_6ys_215": {
+    "src": "Chairman of Kumakura Yakuza Family",
+    "yax": "Председатель семьи Кумакура Якудза",
+    "trx": "Начальник семьи якудзы Кумакура"
+  },
+  "file_profile_6ys_216": {
+    "src": "Loyalty, Chivalry, Gandhi, Puff-Puff, A-set",
+    "yax": "Верность, Рыцарство, Ганди, Паф-Паф, А-сет",
+    "trx": "Верность, Рыцарство, Ганди, Паф-паф, Эй-сет"
+  },
+  "file_profile_6ys_217": {
+    "src": "Old Customs, Unreasonable Traditions",
+    "yax": "Старые Обычаи, Неразумные Традиции",
+    "trx": "Старые обычаи, Неразумные традиции"
+  },
+  "file_profile_6ys_218": {
+    "src": "Watching A-set Videos, Collecting A-set Merch",
+    "yax": "Просмотр Видеороликов A-set, Сбор товаров A-set",
+    "trx": "Просмотр видеороликов Эй-сет, Коллекционирование предметов Эй-сет"
+  },
+  "file_profile_6ys_219": {
+    "src": "Shooting, Sleight of Hand, Beat Boxing",
+    "yax": "Стрельба, Ловкость рук, Бит-Бокс",
+    "trx": "Стрельба, Ловкость рук, Бит-бокс"
+  },
+  "file_profile_6ys_220": {
+    "src": "The leader of a yakuza group trying to clean up their act. That being said, he is also connected to the criminal underbelly and has access to information that even the police don't know.",
+    "yax": "Лидер группировки якудза пытается навести порядок в своих действиях. При этом он также связан с криминальным миром и имеет доступ к информации, о которой не знает даже полиция.",
+    "trx": "Лидер группировки якудза, пытающийся навести порядок в их действиях. При этом он также связан с криминальным миром и имеет доступ к информации, о которой не знает даже полиция."
+  },
+  "file_profile_6ys_221": {
+    "src": "Osamu Oishi",
+    "yax": "Осаму Оиси",
+    "trx": "Осаму Оиси"
+  },
+  "file_profile_6ys_222": {
+    "src": "Gender Neutral",
+    "yax": "Гендерно Нейтральный",
+    "trx": "Гендерно нейтральный"
+  },
+  "file_profile_6ys_223": {
+    "src": "36",
+    "yax": "36",
+    "trx": "36"
+  },
+  "file_profile_6ys_224": {
+    "src": "11-Oct",
+    "yax": "11-Окт",
+    "trx": "11 октября"
+  },
+  "file_profile_6ys_225": {
+    "src": "Barback, Informant, Fortuneteller",
+    "yax": "Барбак, Осведомитель, Гадалка",
+    "trx": "Бармен, Осведомитель, Гадалка"
+  },
+  "file_profile_6ys_226": {
+    "src": "Loincloths, Bali Riva, Sword Fighting",
+    "yax": "Набедренные повязки, Балийский Рива, Бой на мечах",
+    "trx": "Набедренные повязки, Бали-рива, Бои на мечах" //spell-ignore-line
+  },
+  "file_profile_6ys_227": {
+    "src": "Hate Crimes, Customers Who Puke in the Bar",
+    "yax": "Преступления на почве ненависти, Клиенты, которых тошнит в баре",
+    "trx": "Преступления на почве ненависти, Блюющих посетителей"
+  },
+  "file_profile_6ys_228": {
+    "src": "Shining Her Crystal Ball(s), Watching Hiraoka's Promotional Video",
+    "yax": "Сияет Своим Хрустальным Шаром (шарами), Смотрит Рекламный ролик Хираоки",
+    "trx": "Натирание до блеска своего хрустального шара (шаров), Просмотр рекламных роликов Хираоки"
+  },
+  "file_profile_6ys_229": {
+    "src": "Fortune-Telling, Guessing How \"Big\" a Guy Is",
+    "yax": "Гадание, Угадывание Того, Насколько \"Большой\" Парень",
+    "trx": "Гадания, Угадывание, насколько \"большим\" является парень"
+  },
+  "file_profile_6ys_230": {
+    "src": "The owner of a bar named Marble in Golden Yokocho. She knows a lot of information, even criminal or darker facts. Recently picked up fortunetelling and has received some praise for her accuracy.",
+    "yax": "Владелец бара под названием Marble в Голден-Йокочо. Она знает много информации, даже криминальных или темных фактов. Недавно занялась гаданием и получила некоторую похвалу за свою точность.",
+    "trx": "Владеет баром под названием Марбл в Голден Йокотё. Знает много информации, включая криминальные и темные факты. Недавно занялась гаданиями и получила определенное признание за их точность."
+  },
+  "file_profile_6ys_231": {
+    "src": "So Sejima",
+    "yax": "Итак, Седзима",
+    "trx": "Со Сэдзима"
+  },
+  "file_profile_6ys_232": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_233": {
+    "src": "61",
+    "yax": "61",
+    "trx": "61"
+  },
+  "file_profile_6ys_234": {
+    "src": "7-Dec",
+    "yax": "7 декабря",
+    "trx": "7 декабря"
+  },
+  "file_profile_6ys_235": {
+    "src": "Ex-Member of Parliament",
+    "yax": "Бывший член парламента",
+    "trx": "Бывший член парламента"
+  },
+  "file_profile_6ys_236": {
+    "src": "Authority, Fame, Assets",
+    "yax": "Авторитет, Слава, Активы",
+    "trx": "Власть, Славу, Активы"
+  },
+  "file_profile_6ys_237": {
+    "src": "Anything That Would Lose Him the Above",
+    "yax": "Все, Что Могло Бы Лишить Его Вышеупомянутого",
+    "trx": "Всё, что может лишить его вышеупомянутого"
+  },
+  "file_profile_6ys_238": {
+    "src": "Mahjong, Golf, Raising Koi and Kappa, Kusemon GO",
+    "yax": "Маджонг, Гольф, Выращивание Кои и Каппы, Кусемон ГО",
+    "trx": "Маджонг, Гольф, Выращивание Кои и Каппы, Куземон-ГО"
+  },
+  "file_profile_6ys_239": {
+    "src": "Finding Weaknesses and Exploiting Them to Ensure Total Obedience",
+    "yax": "Находить Слабые места и Использовать Их для обеспечения Полного Повиновения",
+    "trx": "Поиск слабостей людей и использование их, чтобы добиться полного подчинения"
+  },
+  "file_profile_6ys_240": {
+    "src": "So Sejima was once a member of Parliament who had strong influence on the political and business worlds. Although he is no longer a politician, he still owns a wealth of assets and holds tremendous power.",
+    "yax": "Итак, Сэдзима когда-то был членом парламента, который имел сильное влияние на политический и деловой мир. Хотя он больше не политик, он по-прежнему владеет богатыми активами и обладает огромной властью.",
+    "trx": "Со Сэдзима был когда-то членом парламента и оказывал сильное влияние на политический и деловой мир. Хотя он больше не политик, он по-прежнему владеет богатыми активами и обладает огромной властью."
+  },
+  "file_profile_6ys_241": {
+    "src": "Hitomi Sagan",
+    "yax": "Хитоми Саган",
+    "trx": "Хитоми Саган"
+  },
+  "file_profile_6ys_242": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_243": {
+    "src": "37",
+    "yax": "37",
+    "trx": "37"
+  },
+  "file_profile_6ys_244": {
+    "src": "11-May",
+    "yax": "11-Май",
+    "trx": "11 мая"
+  },
+  "file_profile_6ys_245": {
+    "src": "Elementary School Teacher",
+    "yax": "Учитель начальной школы",
+    "trx": "Учитель начальной школы"
+  },
+  "file_profile_6ys_246": {
+    "src": "Children, Okonomiyaki, Best Friends, Iris, Mizuki",
+    "yax": "Дети, Окономияки, Лучшие Друзья, Айрис, Мизуки",
+    "trx": "Детей, Окономияки, Лучших друзей, Айрис, Мизуки"
+  },
+  "file_profile_6ys_247": {
+    "src": "Anti-Social Forces, War, Sickness",
+    "yax": "Антисоциальные Силы, Война, Болезни",
+    "trx": "Антисоциальные силы, Войну, Болезни"
+  },
+  "file_profile_6ys_248": {
+    "src": "Reading, Gardening, Zombie Movies",
+    "yax": "Чтение, Садоводство, Фильмы о Зомби",
+    "trx": "Чтение, Садоводство, Фильмы про зомби"
+  },
+  "file_profile_6ys_249": {
+    "src": "Playing the Video Game Involving Shooting Down Alien Invaders",
+    "yax": "Играя в Видеоигру, В Которой Нужно Сбивать Инопланетных Захватчиков",
+    "trx": "Играет в игру, в которой нужно отстреливать инопланетных захватчиков"
+  },
+  "file_profile_6ys_250": {
+    "src": "Iris's unmarried mother. Her parents passed in an accident when she was 17. She raised Iris by herself. Due to an incident in the past, her right arm is disabled.",
+    "yax": "Незамужняя мать Айрис. Ее родители погибли в результате несчастного случая, когда ей было 17 лет. Она вырастила Айрис одна. Из-за инцидента в прошлом ее правая рука стала инвалидом.",
+    "trx": "Незамужняя мать Айрис. Ее родители погибли в результате несчастного случая, когда ей было 17 лет. Она вырастила Айрис в одиночку. Из-за ранения в прошлом не может шевелить правой рукой."
+  },
+  "file_profile_6ys_251": {
+    "src": "Mamoru Bodai",
+    "yax": "Мамору Бодай",
+    "trx": "Мамору Бодай"
+  },
+  "file_profile_6ys_252": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_253": {
+    "src": "Unknown",
+    "yax": "Неизвестный",
+    "trx": "Неизвестно"
+  },
+  "file_profile_6ys_254": {
+    "src": "25-May",
+    "yax": "25-Май",
+    "trx": "25 мая"
+  },
+  "file_profile_6ys_255": {
+    "src": "Tokiko's Secretary/Bodyguard",
+    "yax": "Секретарь/телохранитель Токико",
+    "trx": "Секретарь/телохранитель Токико"
+  },
+  "file_profile_6ys_256": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "file_profile_6ys_257": {
+    "src": "Men, Manliness, Testosterone",
+    "yax": "Мужчины, Мужественность, Тестостерон",
+    "trx": "Мужчин, Самцов, Тестостерон"
+  },
+  "file_profile_6ys_258": {
+    "src": "Making Scrap Books From Tabloid Magazines",
+    "yax": "Изготовление Вырезок Из Бульварных Журналов",
+    "trx": "Сбор вырезок из бульварных журналов"
+  },
+  "file_profile_6ys_259": {
+    "src": "Self-Defense, Martial Arts",
+    "yax": "Самооборона, Боевые искусства",
+    "trx": "Самооборона, Боевые искусства"
+  },
+  "file_profile_6ys_260": {
+    "src": "Previously worked under So Sejima, but is now the secretary and bodyguard of Tokiko Shigure, the president of Naix Japan. Not the best personality, but is loyal to his employer.",
+    "yax": "Ранее работал под руководством Со Седзимы, но сейчас является секретарем и телохранителем Токико Сигуре, президента Naix Japan. Не самая лучшая личность, но предан своему работодателю.",
+    "trx": "Ранее работал на Со Седзиму, но теперь является секретарем и телохранителем Токико Шигуре, президента японского отделения Naix. Не самая лучшая личность, но предан своему работодателю."
+  },
+  "file_profile_6ys_261": {
+    "src": "Chinpei Wagai",
+    "yax": "Чинпей Вагай",
+    "trx": "Чинпей Вагай"
+  },
+  "file_profile_6ys_262": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_263": {
+    "src": "24",
+    "yax": "24",
+    "trx": "24"
+  },
+  "file_profile_6ys_264": {
+    "src": "14-Sep",
+    "yax": "14 сентября",
+    "trx": "14 сентября"
+  },
+  "file_profile_6ys_265": {
+    "src": "A Former Kumakura...",
+    "yax": "Бывший Кумакура...",
+    "trx": "Бывший Кумакура..."
+  },
+  "file_profile_6ys_266": {
+    "src": "Ass, Erotic Novels, His Boss",
+    "yax": "Задница, Эротические Романы, Его Босс",
+    "trx": "Попки, Эротические романы, Своего босса"
+  },
+  "file_profile_6ys_267": {
+    "src": "Police, His Big Brother, Animal Cruelty",
+    "yax": "Полиция, Его Старший Брат, Жестокое Обращение С Животными",
+    "trx": "Полицию, Своего большого брата, Жестокое обращение с животными"
+  },
+  "file_profile_6ys_268": {
+    "src": "Training Dogs, Video Editing",
+    "yax": "Дрессировка Собак, Монтаж Видео",
+    "trx": "Дрессировка собак, Монтаж видео"
+  },
+  "file_profile_6ys_269": {
+    "src": "Squinting Really Hard to See Through the Censorship",
+    "yax": "Прищурившись, Очень Трудно Разглядеть Сквозь Цензуру",
+    "trx": "Очень сильно прищуриваться, разглядывая сквозь цензуру"
+  },
+  "file_profile_6ys_270": {
+    "src": "He was once a Kumakura, but recently left the group. When Jin Furue's body was found at Studio Dvaita, he was sitting in the contestant seat with Moma.",
+    "yax": "Когда-то он был Кумакурой, но недавно покинул группу. Когда тело Цзинь Фуруэ было найдено в студии Dvaita, он сидел на месте участника вместе с Moma.",
+    "trx": "Состоял ранее в семье Кумакура, но недавно покинул ее. Сидел рядом с Момой на кресле участника в студии Двайта, когда там было обнаружено тело Джина Фуруэ."
+  },
+  "file_profile_6ys_271": {
+    "src": "Ritsuko Enshu",
+    "yax": "Рицуко Эншу",
+    "trx": "Рицуко Энсю"
+  },
+  "file_profile_6ys_272": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_273": {
+    "src": "36",
+    "yax": "36",
+    "trx": "36"
+  },
+  "file_profile_6ys_274": {
+    "src": "22-Jun",
+    "yax": "22 июня",
+    "trx": "22 июня"
+  },
+  "file_profile_6ys_275": {
+    "src": "Receptionist at Lemniscate",
+    "yax": "Администратор в Лемнискате",
+    "trx": "Секретарша в приемной Лемнискейт"
+  },
+  "file_profile_6ys_276": {
+    "src": "Yellow-Spotted River Turtles, Atami",
+    "yax": "Желто-пятнистые речные черепахи, Атами",
+    "trx": "Желто-пятнистые речные черепахи, Атами"
+  },
+  "file_profile_6ys_277": {
+    "src": "Men That Act Like Ballers But Are Really Scrubs",
+    "yax": "Мужчины, Которые Ведут Себя Как Балерины, Но На Самом Деле Являются Халтурщиками",
+    "trx": "Мужчины, которые ведут себя круто, но на самом деле тряпки"
+  },
+  "file_profile_6ys_278": {
+    "src": "Slots Are the Way To Go, Baby!",
+    "yax": "Слоты - Это Правильный Путь, Детка!",
+    "trx": "Слоты — это стиль жизни, детка!"
+  },
+  "file_profile_6ys_279": {
+    "src": "Anti-Aging Techniques",
+    "yax": "Антивозрастные методы",
+    "trx": "Очень умело предотвращает старение"
+  },
+  "file_profile_6ys_280": {
+    "src": "The receptionist at Lemniscate. She LOVES a man with a deep, gravely voice, y'know? She's totally in love with that shiz. Kinda has an upset stomach lately, which sucks.",
+    "yax": "Секретарша в Лемнискате. Она ЛЮБИТ мужчину с глубоким, серьезным голосом, понимаете? Она по уши влюблена в этого шиза. В последнее время у него вроде как расстройство желудка, и это отстой.",
+    "trx": "Секретарша в приемной Лемнискейт. Она ЛЮБИТ мужчину с глубоким, серьезным голосом, знаете ли? Она по уши влюблена в этого шизика. С недавних пор страдает расстройством желудка, и это отстой."
+  },
+  "file_profile_6ys_281": {
+    "src": "Kayo Yamino",
+    "yax": "Кайо Ямино",
+    "trx": "Каё Ямино"
+  },
+  "file_profile_6ys_282": {
+    "src": "Female",
+    "yax": "Женский",
+    "trx": "Женский"
+  },
+  "file_profile_6ys_283": {
+    "src": "36",
+    "yax": "36",
+    "trx": "36"
+  },
+  "file_profile_6ys_284": {
+    "src": "27-Apr",
+    "yax": "27 апреля",
+    "trx": "27 апреля"
+  },
+  "file_profile_6ys_285": {
+    "src": "Nurse",
+    "yax": "Медсестра",
+    "trx": "Медсестра"
+  },
+  "file_profile_6ys_286": {
+    "src": "Tengu, Matsutake, Zucchini",
+    "yax": "Тэнгу, Мацутакэ, Кабачки",
+    "trx": "Тэнгу, Мацутакэ, Цукини"
+  },
+  "file_profile_6ys_287": {
+    "src": "Dirty Talk, Perverts, Shameless People",
+    "yax": "Грязные Разговоры, Извращенцы, Бесстыдные Люди",
+    "trx": "Грязные разговоры, Извращенцев, Бесстыжих людей"
+  },
+  "file_profile_6ys_288": {
+    "src": "Theater",
+    "yax": "Театр",
+    "trx": "Театр"
+  },
+  "file_profile_6ys_289": {
+    "src": "Super-Fast Shaving",
+    "yax": "Сверхбыстрое бритье",
+    "trx": "Сверхбыстрое бритье"
+  },
+  "file_profile_6ys_290": {
+    "src": "It may have said her age was 24 somewhere before, but that was in base 16. In base 10, her age is actually 36. That's her actual age. She's in a theater group.",
+    "yax": "Возможно, где-то раньше было сказано, что ей 24 года, но это было в базе 16. В базе 10 ее возраст на самом деле 36 лет. Это ее фактический возраст. Она в театральной группе.",
+    "trx": "Возможно, где-то ранее было сказано, что ей 24 года, но это было в шестнадцатеричной системе счисления. В десятичной системе ее настоящий возраст — 36 лет. Это ее фактический возраст. Состоит в театральной группе."
+  },
+  "file_profile_6ys_291": {
+    "src": "Takushi Ibarado",
+    "yax": "Такуши Ибарадо",
+    "trx": "Такуси Ибарадо"
+  },
+  "file_profile_6ys_292": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_293": {
+    "src": "55",
+    "yax": "55",
+    "trx": "55"
+  },
+  "file_profile_6ys_294": {
+    "src": "23-Nov",
+    "yax": "23 ноября",
+    "trx": "23 ноября"
+  },
+  "file_profile_6ys_295": {
+    "src": "Taxi Driver",
+    "yax": "Водитель такси",
+    "trx": "Водитель такси"
+  },
+  "file_profile_6ys_296": {
+    "src": "Ghosts, Doubles, Chimneys, Fists, Saws",
+    "yax": "Призраки, Двойники, Дымоходы, Кулаки, Пилы",
+    "trx": "Призраков, Двойников, Дымоходы, Кулаки, Пилы"
+  },
+  "file_profile_6ys_297": {
+    "src": "Credit Card Transactions, Anything High-Tech, Smartphones",
+    "yax": "Операции с кредитными картами, Все Высокотехнологичное, Смартфоны",
+    "trx": "Операции с кредитными картами, Всё высокотехнологичное, Смартфоны"
+  },
+  "file_profile_6ys_298": {
+    "src": "Multi-Level-Marketing Schemes",
+    "yax": "Многоуровневые Маркетинговые Схемы",
+    "trx": "Многоуровневые маркетинговые схемы"
+  },
+  "file_profile_6ys_299": {
+    "src": "Stalking, Stakeouts, Taking the Scenic Route",
+    "yax": "Выслеживание, Слежка, Прохождение Живописного маршрута",
+    "trx": "Выслеживание, Засады, Поездки по живописным маршрутам"
+  },
+  "file_profile_6ys_300": {
+    "src": "A private taxi driver. Has an accent. Lemniscate regularly requests his services and he often gives rides to their talents. He's very knowledgeable about them.",
+    "yax": "Частный таксист. Говорит с акцентом. Лемнискейт регулярно обращается к нему за услугами, и он часто дает прокатиться их талантам. Он очень хорошо разбирается в них.",
+    "trx": "Таксист-частник. Разговаривает с акцентом. Лемнискейт регулярно обращается к нему за услугами, и он часто возит их исполнителей. Он очень хорошо в них разбирается."
+  },
+  "file_profile_6ys_301": {
+    "src": "Mikoto Ushidera",
+    "yax": "Микото Ушидера",
+    "trx": "Микото Усидера"
+  },
+  "file_profile_6ys_302": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_303": {
+    "src": "42",
+    "yax": "42",
+    "trx": "42"
+  },
+  "file_profile_6ys_304": {
+    "src": "4-Jan",
+    "yax": "4 января",
+    "trx": "4 января"
+  },
+  "file_profile_6ys_305": {
+    "src": "Police HQ Detective",
+    "yax": "Детектив из полицейского управления",
+    "trx": "Детектив из полицейского управления"
+  },
+  "file_profile_6ys_306": {
+    "src": "Caramel, Chocolate, Biscuits, Ice Cream",
+    "yax": "Карамель, Шоколад, Печенье, Мороженое",
+    "trx": "Карамель, Шоколад, Печенье, Мороженое"
+  },
+  "file_profile_6ys_307": {
+    "src": "Threats, Foxes",
+    "yax": "Угрозы, Лисы",
+    "trx": "Угрозы, Лис"
+  },
+  "file_profile_6ys_308": {
+    "src": "Mobile Games",
+    "yax": "Мобильные игры",
+    "trx": "Мобильные игры"
+  },
+  "file_profile_6ys_309": {
+    "src": "Can Use Cling Wrap Without Messing It Up",
+    "yax": "Можно Использовать Пищевую Пленку, Не Испортив Ее",
+    "trx": "Может использовать пищевую пленку, не испортив ее"
+  },
+  "file_profile_6ys_310": {
+    "src": "A detective from Police HQ investigating the murders. Having found multiple culprits of cold cases in the past, he is known as...The Melter.",
+    "yax": "Детектив из полицейского управления, расследующий убийства. Обнаружив в прошлом множество виновных в нераскрытых делах, он известен как...Плавильщик.",
+    "trx": "Детектив из полицейского управления, расследующий убийства. Раскрыв в прошлом ряд замороженных дел, стал известен как... плавильщик."
+  },
+  "file_profile_6ys_311": {
+    "src": "Araya Kagami",
+    "yax": "Арайя Кагами",
+    "trx": "Арайя Кагами"
+  },
+  "file_profile_6ys_312": {
+    "src": "Male",
+    "yax": "Самец",
+    "trx": "Мужской"
+  },
+  "file_profile_6ys_313": {
+    "src": "30",
+    "yax": "30",
+    "trx": "30"
+  },
+  "file_profile_6ys_314": {
+    "src": "20-Jul",
+    "yax": "20 июля",
+    "trx": "20 июля"
+  },
+  "file_profile_6ys_315": {
+    "src": "Inspector, Police HQ Forensics Division",
+    "yax": "Инспектор Отдела судебно-медицинской экспертизы Главного полицейского управления",
+    "trx": "Инспектор отдела судебно-медицинской экспертизы"
+  },
+  "file_profile_6ys_316": {
+    "src": "Earpicks, Dandelions, Afros, Keseran-Pasaran",
+    "yax": "Ушные раковины, Одуванчики, Афро, Кесеран-Пасаран",
+    "trx": "Ушные раковины, Одуванчики, Афро, Кесеран-Пасаран"
+  },
+  "file_profile_6ys_317": {
+    "src": "Cilantro, Ginkgo, People Who Don't Remember His Name",
+    "yax": "Кинза, Гинкго, Люди, Которые Не Помнят Его Имени",
+    "trx": "Кинзу, Гинкго, Людей, которые не помнят его имя"
+  },
+  "file_profile_6ys_318": {
+    "src": "Train Surfing, Extreme Ironing",
+    "yax": "Серфинг на поезде, Экстремальная Глажка одежды",
+    "trx": "Трейнсерфинг, Экстремальная глажка"
+  },
+  "file_profile_6ys_319": {
+    "src": "Playing Dead",
+    "yax": "Притворяясь Мертвым",
+    "trx": "Притворяться мертвым"
+  },
+  "file_profile_6ys_320": {
+    "src": "A talented inspector. He was assigned to the case by Police HQ due to his impressive skills. Supposedly, he's really handsome under the mask. \nRIP Brad Venable. Unlike Kagami, your name will never be forgotten.",
+    "yax": "Талантливый инспектор. Он был назначен на это дело полицейским штабом из-за его впечатляющих навыков. Предположительно, он действительно красив под маской. \r\nРИП Брэд Венейбл. В отличие от Кагами, ваше имя никогда не будет забыто.",
+    "trx": "Талантливый инспектор. Он был назначен на это дело полицейским управлением из-за своих впечатляющих навыков. Вероятно, выглядит очень привлекательно без своей маски. \nБрэд Венейбл (ум.): в отличие от Кагами, твое имя никогда не будет забыто."
+  },
+  "file_profile_6ys_title_001": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "Мизуки"
+  },
+  "file_profile_6ys_title_002": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "file_profile_6ys_title_003": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "Рюки"
+  },
+  "file_profile_6ys_title_004": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "Тама"
+  },
+  "file_profile_6ys_title_005": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "Ген"
+  },
+  "file_profile_6ys_title_006": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "file_profile_6ys_title_007": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "Лиен"
+  },
+  "file_profile_6ys_title_008": {
+    "src": "Kizuna",
+    "yax": "Кидзуна",
+    "trx": "Кизуна"
+  },
+  "file_profile_6ys_title_009": {
+    "src": "Komeji",
+    "yax": "Комедзи",
+    "trx": "Комедзи"
+  },
+  "file_profile_6ys_title_010": {
+    "src": "Shoma",
+    "yax": "Шома",
+    "trx": "Шома"
+  },
+  "file_profile_6ys_title_011": {
+    "src": "Masked Woman",
+    "yax": "Женщина в маске",
+    "trx": "Женщина в маске"
+  },
+  "file_profile_6ys_title_012": {
+    "src": "Tearer",
+    "yax": "Разрыватель",
+    "trx": "Рассекатель"
+  },
+  "file_profile_6ys_title_013": {
+    "src": "Jin",
+    "yax": "Джин",
+    "trx": "Джин"
+  },
+  "file_profile_6ys_title_014": {
+    "src": "Chikara",
+    "yax": "Чикара",
+    "trx": "Чикара"
+  },
+  "file_profile_6ys_title_015": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  },
+  "file_profile_6ys_title_016": {
+    "src": "Riichi",
+    "yax": "Риичи",
+    "trx": "Риичи"
+  },
+  "file_profile_6ys_title_017": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "Босс"
+  },
+  "file_profile_6ys_title_018": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "Пьютер"
+  },
+  "file_profile_6ys_title_019": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "file_profile_6ys_title_020": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "file_profile_6ys_title_021": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "file_profile_6ys_title_022": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "Мома"
+  },
+  "file_profile_6ys_title_023": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "Мама"
+  },
+  "file_profile_6ys_title_024": {
+    "src": "So",
+    "yax": "Так",
+    "trx": "Со"
+  },
+  "file_profile_6ys_title_025": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "file_profile_6ys_title_026": {
+    "src": "Mamoru",
+    "yax": "Мамору",
+    "trx": "Мамору"
+  },
+  "file_profile_6ys_title_027": {
+    "src": "Chinpei",
+    "yax": "Чинпей",
+    "trx": "Чинпей"
+  },
+  "file_profile_6ys_title_028": {
+    "src": "Receptionist",
+    "yax": "Секретарь",
+    "trx": "Секретарша в приемной"
+  },
+  "file_profile_6ys_title_029": {
+    "src": "Nurse",
+    "yax": "Медсестра",
+    "trx": "Медсестра"
+  },
+  "file_profile_6ys_title_030": {
+    "src": "Taxi Driver",
+    "yax": "Водитель такси",
+    "trx": "Водитель такси"
+  },
+  "file_profile_6ys_title_031": {
+    "src": "Detective",
+    "yax": "Детектив",
+    "trx": "Детектив"
+  },
+  "file_profile_6ys_title_032": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  }
+}

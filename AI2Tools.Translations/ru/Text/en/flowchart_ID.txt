@@ -462,7 +462,7 @@
   "flowchart_summary_542": {
     "src": "In Kizuna's Psync, Mizuki discovers a terrifying truth in Riichi Chieda's diary: there are genome experiments being carried out at Horadori Institute. Mizuki and Kizuna head to Aioen to find out more about this...\n",
     "yax": "В Psync Кидзуны Мизуки обнаруживает ужасающую правду в дневнике Риичи Чиэды: в Институте Хорадори проводятся эксперименты с геномом. Мизуки и Кидзуна отправляются в Айоен, чтобы узнать об этом побольше...",
-    "trx": "При псинхронизации Кизуны Мизуки обнаруживает в дневнике Риичи Чиеды ужасающую правду: в институте Хорадори проводятся эксперименты с геномом. Мизуки и Кизуна отправляются в Айоен, чтобы узнать об этом побольше..."
+    "trx": "При псинхронизации Кизуны Мизуки обнаруживает в дневнике Риичи Чиэды ужасающую правду: в институте Хорадори проводятся эксперименты с геномом. Мизуки и Кизуна отправляются в Айоен, чтобы узнать об этом побольше..."
   },
   "flowchart_summary_543": {
     "src": "Mizuki and Kizuna discover more.\nThere was a particular child. A child born from a genome-modified egg. Chikara was performing  experiments in search of eternal youth. The results were unexpected. The child was born with superhuman athletic ability. That child was taken in at Aioen and was adopted by a family when she was 3... Her name was Mizuki. The family name was Okiura...\nMizuki is shocked...\nMy genome was modified... Mom and Daddy weren't my real parents...",
@@ -632,7 +632,7 @@
   "flowchart_summary_576": {
     "src": "The Masked Woman presents a video. It's Riichi Chieda threatening to get Lien arrested and Kizuna crying helplessly. Mizuki realizes she can use this to get Lien to help her.\nLien opens the key to the stairs, and the two of them head to the cathedral. Mizuki, as promised, tells Lien about the footage that was sent to her. Though initially troubled, Lien is happy about the news.\nThe two of them look for the hidden safe. Having felt something fishy about the ritual stand, Mizuki destroys it... There, she finds another victim of the HB case...",
     "yax": "Женщина в маске представляет видео. Это Риичи Чиеда, угрожающий арестовать Лена, и Кидзуна, беспомощно плачущий. Мизуки понимает, что она может использовать это, чтобы заставить Лиен помочь ей.\nЛиен открывает ключом лестницу, и они вдвоем направляются в собор. Мизуки, как и обещала, рассказывает Лиен о отснятом материале, который ей прислали. Несмотря на то, что поначалу Лиен встревожена, она рада этой новости.\nОни вдвоем ищут спрятанный сейф. Почувствовав что-то подозрительное в ритуальной подставке, Мизуки уничтожает ее... Там она находит еще одну жертву дела НВ...",
-    "trx": "Женщина в маске показывает видео. На нем Риичи Чиеда, угрожающий арестовать Лиена, и беспомощно плачущая Кизуна. Мизуки понимает, что она может это использовать, чтобы заставить Лиена ей помочь.\nЛиен открывает дверь на лестницу, и они вдвоем направляются в собор. Мизуки, как и обещала, рассказывает Лиену о присланном ей видеоматериале. Хоть Лиен поначалу и встревожился, он все же рад этой новости.\nОни вдвоем ищут потайной сейф. Почувствовав что-то подозрительное в ритуальном постаменте, Мизуки разбивает его... Внутри она находит еще одну жертву по делу ПТ..."
+    "trx": "Женщина в маске показывает видео. На нем Риичи Чиэда, угрожающий арестовать Лиена, и беспомощно плачущая Кизуна. Мизуки понимает, что она может это использовать, чтобы заставить Лиена ей помочь.\nЛиен открывает дверь на лестницу, и они вдвоем направляются в собор. Мизуки, как и обещала, рассказывает Лиену о присланном ей видеоматериале. Хоть Лиен поначалу и встревожился, он все же рад этой новости.\nОни вдвоем ищут потайной сейф. Почувствовав что-то подозрительное в ритуальном постаменте, Мизуки разбивает его... Внутри она находит еще одну жертву по делу ПТ..."
   },
   "flowchart_summary_577": {
     "src": "There is a right half of a corpse in the ritual pedestal. It's unknown who this person was. Why is it there...? Mizuki searches for answers and looks for the hidden safe again.\n",
@@ -1197,7 +1197,7 @@
   "flowchart_report_606": {
     "src": "Sejima residence",
     "yax": "Резиденция Сейма",
-    "trx": "Резиденция Седзимы"
+    "trx": "Резиденция Сэдзимы"
   },
   "flowchart_report_607": {
     "src": "Driving",
