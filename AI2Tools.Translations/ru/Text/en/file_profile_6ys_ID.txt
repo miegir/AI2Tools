@@ -2,57 +2,57 @@
   "file_profile_6ys_section_001": {
     "src": "Name",
     "yax": "Имя",
-    "trx": "Имя"
+    "trx": "<size=90%><cspace=-1.75>Имя"
   },
   "file_profile_6ys_section_002": {
     "src": "Nickname",
     "yax": "Прозвище",
-    "trx": "Псевдоним"
+    "trx": "<size=90%><cspace=-1.75>Псевдоним"
   },
   "file_profile_6ys_section_003": {
     "src": "Sex",
     "yax": "Пол",
-    "trx": "Пол"
+    "trx": "<size=90%><cspace=-1.75>Пол"
   },
   "file_profile_6ys_section_004": {
     "src": "Age",
     "yax": "Возраст",
-    "trx": "Возраст"
+    "trx": "<size=90%><cspace=-1.75>Возраст"
   },
   "file_profile_6ys_section_005": {
     "src": "Birthday",
     "yax": "День рождения",
-    "trx": "День рождения"
+    "trx": "<size=90%><cspace=-2>День рождения"
   },
   "file_profile_6ys_section_006": {
     "src": "Profession",
     "yax": "Профессия",
-    "trx": "Профессия"
+    "trx": "<size=90%><cspace=-1.75>Профессия"
   },
   "file_profile_6ys_section_007": {
     "src": "Likes",
     "yax": "Нравится",
-    "trx": "Любит"
+    "trx": "<size=90%><cspace=-1.75>Любит"
   },
   "file_profile_6ys_section_008": {
     "src": "Dislikes",
     "yax": "Не любит",
-    "trx": "Не любит"
+    "trx": "<size=90%><cspace=-1.75>Не любит"
   },
   "file_profile_6ys_section_009": {
     "src": "Hobbies",
     "yax": "Хобби",
-    "trx": "Хобби"
+    "trx": "<size=90%><cspace=-1.75>Хобби"
   },
   "file_profile_6ys_section_010": {
     "src": "Skills",
     "yax": "Навыки",
-    "trx": "Навыки"
+    "trx": "<size=90%><cspace=-1.75>Навыки"
   },
   "file_profile_6ys_section_011": {
     "src": "Overview",
     "yax": "Обзор",
-    "trx": "Общие сведения"
+    "trx": "<size=90%><cspace=-1.75>Общие сведения"
   },
   "file_profile_6ys_001": {
     "src": "Mizuki Date",
@@ -232,7 +232,7 @@
   "file_profile_6ys_036": {
     "src": "Comedy, Anything Perverted, S&M, AE10D1F",
     "yax": "Комедия, Что-нибудь извращенное, S&M, AE10D1F",
-    "trx": "Комедии, Что-то извращенное, S&M, AE10D1F"
+    "trx": "Комедии, Извращения, S&M, AE10D1F"
   },
   "file_profile_6ys_037": {
     "src": "Dense People, Dishonest People, Bad Liars",
@@ -247,7 +247,7 @@
   "file_profile_6ys_039": {
     "src": "Bondage, Wax Play, Spanking",
     "yax": "Связывание, Игра с Воском, Порка",
-    "trx": "Связывание, Игра с воском, Порка"
+    "trx": "Связывание, Игры с воском, Порка"
   },
   "file_profile_6ys_040": {
     "src": "AI-Ball. An autonomous robot with an advanced AI. She's usually in the shape of an eyeball and resides in Ryuki's left eye socket. She assists Ryuki by gathering information, connecting to networks and databases, and using her X-ray and thermographic functions.",
@@ -392,7 +392,7 @@
   "file_profile_6ys_068": {
     "src": "Building Model Planes and Spaceships",
     "yax": "Строим Модели Самолетов и Космических кораблей",
-    "trx": "Создание моделей самолетов и космических кораблей"
+    "trx": "Изготовление моделей самолетов и космических кораблей"
   },
   "file_profile_6ys_069": {
     "src": "Extraordinary Lockpicking Ability",
@@ -497,12 +497,12 @@
   "file_profile_6ys_089": {
     "src": "Quizzes, One-Liners (Self-Proclaimed)",
     "yax": "Викторины, Однострочники (Самопровозглашенные)",
-    "trx": "Викторины, Шутки одной строкой (произносимые самостоятельно)"
+    "trx": "<line-height=90%>Викторины, Шутки одной строкой (произносимые самостоятельно)"
   },
   "file_profile_6ys_090": {
     "src": "A former \"Quiz King\" turned comedian. His stage name is Andes Komeji. He has made some TV appearances but isn't very successful. His money troubles led to a divorce from his wife, and he now lives with his son Shoma.",
     "yax": "Бывший \"Король викторин\", ставший комиком. Его сценическое имя - Андес Комеджи. Он несколько раз появлялся на телевидении, но не очень успешно. Его денежные проблемы привели к разводу с женой, и теперь он живет со своим сыном Шомой.",
-    "trx": "Бывший \"король викторин\", ставший комиком. Его сценическое имя — Андес Комедзи. Он несколько раз появлялся на телевидении, но не был успешен. Его денежные проблемы привели к разводу с женой, и теперь он живет со своим сыном Шомой."
+    "trx": "<line-height=90%>Бывший \"король викторин\", ставший комиком. Его сценическое имя — Андес Комедзи. Он несколько раз появлялся на телевидении, но не был успешен. Его денежные проблемы привели к разводу с женой, и теперь он живет со своим сыном Шомой."
   },
   "file_profile_6ys_091": {
     "src": "Shoma Enda",
@@ -597,7 +597,7 @@
   "file_profile_6ys_109": {
     "src": "Unknown",
     "yax": "Неизвестный",
-    "trx": "Неизвестно"
+    "trx": "Неизвестно\n\n"
   },
   "file_profile_6ys_110": {
     "src": "A mysterious person. Appears to be female based on body shape.",
@@ -607,7 +607,7 @@
   "file_profile_6ys_111": {
     "src": "Tearer",
     "yax": "Разрыватель",
-    "trx": "Рассекатель"
+    "trx": "<size=95%><cspace=-1>Рассекатель"
   },
   "file_profile_6ys_112": {
     "src": "Unknown",
@@ -652,7 +652,7 @@
   "file_profile_6ys_120": {
     "src": "The prime suspect for the HB case. Wears an iron mask.",
     "yax": "Главный подозреваемый по делу НВ. Носит железную маску.",
-    "trx": "Главный подозреваемый по делу с половинами тела (ПТ). Носит железную маску."
+    "trx": "Главный подозреваемый по делу с половинами тела. Носит железную маску."
   },
   "file_profile_6ys_121": {
     "src": "Jin Furue",
@@ -877,7 +877,7 @@
   "file_profile_6ys_165": {
     "src": "Commander of ABIS",
     "yax": "Командир АБИС",
-    "trx": "Командир ABIS"
+    "trx": "Начальник ABIS"
   },
   "file_profile_6ys_166": {
     "src": "Wine, Gourd Dolls, Anything Shiny and Black",
@@ -887,7 +887,7 @@
   "file_profile_6ys_167": {
     "src": "Tidying Up, Nuclear Families, Ex-Boyfriends, Her Superiors at HQ",
     "yax": "Уборка, Нуклеарные Семьи, Бывшие Бойфренды, Ее Начальство в штабе",
-    "trx": "Уборку, Нуклеарные семьи, Бывших парней, Ее начальство из полицейского управления"
+    "trx": "Уборку, Нуклеарные семьи, Бывших парней, Свое начальство из полицейского управления"
   },
   "file_profile_6ys_168": {
     "src": "Frequenting Host Clubs in Kabukicho",
@@ -902,7 +902,7 @@
   "file_profile_6ys_170": {
     "src": "Ryuki's direct superior as well as Date's old friend. Her mood changes on a daily basis. She gives off a carefree vibe, but she's as cunning as a fox.",
     "yax": "Непосредственный начальник Рюки, а также старый друг Дейта. Ее настроение меняется ежедневно. От нее исходит беззаботная атмосфера, но она хитра, как лиса.",
-    "trx": "Непосредственный начальник Рюки, а также старая подруга Датэ. Ее настроение меняется ежедневно. От нее исходит беззаботная атмосфера, но она хитрая, как лиса."
+    "trx": "Непосредственный начальник Рюки, а также старая подруга Датэ. Ее настроение меняется ежедневно. От нее исходит беззаботная атмосфера, но она хитра, как лиса."
   },
   "file_profile_6ys_171": {
     "src": "Futa Amanoma",
@@ -942,17 +942,17 @@
   "file_profile_6ys_178": {
     "src": "Playing With Machines, Colleting Doujins, Playing Pretend Magical Girl",
     "yax": "Играла С Машинками, Собирала Додзины, Притворялась Волшебной Девочкой",
-    "trx": "Игры с машинами, Коллекционирование додзин, Переодевание в волшебную девочку"
+    "trx": "Игры с машинами, Коллекционирование додзин, Переодевание в магическую девочку"
   },
   "file_profile_6ys_179": {
     "src": "Building Models, Imitating Vuvuzelas",
     "yax": "Строительные Модели, Имитирующие Вувузелы",
-    "trx": "Создание моделей, Имитация вувузел"
+    "trx": "<line-height=90%>Создание моделей, Имитация вувузел"
   },
   "file_profile_6ys_180": {
     "src": "An ABIS engineer and mechanic. His main job is operating and maintaining the Psync machine. He committed a crime in the past leading to his dismissal, but Boss pulled some strings to get his job back.",
     "yax": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании Psync-машины. В прошлом он совершил преступление, приведшее к его увольнению, но босс потянул за кое-какие ниточки, чтобы вернуть ему работу.",
-    "trx": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании машины для псинхронизации. В прошлом он совершил преступление, из-за которого был уволен, но босс потянула за определенные ниточки и вернула его на работу."
+    "trx": "<line-height=90%>Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании машины для псинхронизации. В прошлом он совершил преступление, из-за которого был уволен, но босс потянула за определенные ниточки и вернула его на работу."
   },
   "file_profile_6ys_181": {
     "src": "Kaname Date",
@@ -1127,7 +1127,7 @@
   "file_profile_6ys_215": {
     "src": "Chairman of Kumakura Yakuza Family",
     "yax": "Председатель семьи Кумакура Якудза",
-    "trx": "Начальник семьи якудзы Кумакура"
+    "trx": "Председатель семьи якудзы Кумакура"
   },
   "file_profile_6ys_216": {
     "src": "Loyalty, Chivalry, Gandhi, Puff-Puff, A-set",
@@ -1432,12 +1432,12 @@
   "file_profile_6ys_276": {
     "src": "Yellow-Spotted River Turtles, Atami",
     "yax": "Желто-пятнистые речные черепахи, Атами",
-    "trx": "Желто-пятнистые речные черепахи, Атами"
+    "trx": "Желто-пятнистых речных черепах, Атами"
   },
   "file_profile_6ys_277": {
     "src": "Men That Act Like Ballers But Are Really Scrubs",
     "yax": "Мужчины, Которые Ведут Себя Как Балерины, Но На Самом Деле Являются Халтурщиками",
-    "trx": "Мужчины, которые ведут себя круто, но на самом деле тряпки"
+    "trx": "Мужчин, которые ведут себя круто, но на самом деле тряпки"
   },
   "file_profile_6ys_278": {
     "src": "Slots Are the Way To Go, Baby!",
@@ -1452,7 +1452,7 @@
   "file_profile_6ys_280": {
     "src": "The receptionist at Lemniscate. She LOVES a man with a deep, gravely voice, y'know? She's totally in love with that shiz. Kinda has an upset stomach lately, which sucks.",
     "yax": "Секретарша в Лемнискате. Она ЛЮБИТ мужчину с глубоким, серьезным голосом, понимаете? Она по уши влюблена в этого шиза. В последнее время у него вроде как расстройство желудка, и это отстой.",
-    "trx": "Секретарша в приемной Лемнискейт. Она ЛЮБИТ мужчину с глубоким, серьезным голосом, знаете ли? Она по уши влюблена в этого шизика. С недавних пор страдает расстройством желудка, и это отстой."
+    "trx": "Секретарша в приемной Лемнискейт. Знаете, она ЛЮБИТ мужчину с глубоким, серьезным голосом. Она по уши влюблена в этого шизика. С недавних пор страдает расстройством желудка, и это отстой."
   },
   "file_profile_6ys_281": {
     "src": "Kayo Yamino",
@@ -1507,7 +1507,7 @@
   "file_profile_6ys_291": {
     "src": "Takushi Ibarado",
     "yax": "Такуши Ибарадо",
-    "trx": "Такуси Ибарадо"
+    "trx": "Такуши Ибарадо"
   },
   "file_profile_6ys_292": {
     "src": "Male",
@@ -1557,7 +1557,7 @@
   "file_profile_6ys_301": {
     "src": "Mikoto Ushidera",
     "yax": "Микото Ушидера",
-    "trx": "Микото Усидера"
+    "trx": "Микото Ушидера"
   },
   "file_profile_6ys_302": {
     "src": "Male",
@@ -1627,7 +1627,7 @@
   "file_profile_6ys_315": {
     "src": "Inspector, Police HQ Forensics Division",
     "yax": "Инспектор Отдела судебно-медицинской экспертизы Главного полицейского управления",
-    "trx": "Инспектор отдела судебно-медицинской экспертизы"
+    "trx": "Инспектор отдела криминалистики Главного полицейского управления"
   },
   "file_profile_6ys_316": {
     "src": "Earpicks, Dandelions, Afros, Keseran-Pasaran",
@@ -1637,7 +1637,7 @@
   "file_profile_6ys_317": {
     "src": "Cilantro, Ginkgo, People Who Don't Remember His Name",
     "yax": "Кинза, Гинкго, Люди, Которые Не Помнят Его Имени",
-    "trx": "Кинзу, Гинкго, Людей, которые не помнят его имя"
+    "trx": "Кинзу, Гинкго, Людей, которые забывают его имя"
   },
   "file_profile_6ys_318": {
     "src": "Train Surfing, Extreme Ironing",
