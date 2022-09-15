@@ -2037,7 +2037,7 @@
   "flowchart_font_options_505": {
     "src": "Hidden Eyeballs",
     "yax": "Скрытые Глазные Яблоки",
-    "trx": "Собрано глаз"
+    "trx": "Найдено глаз"
   },
   "flowchart_font_options_506": {
     "src": "Target Time",

@@ -37,12 +37,12 @@
   "bonusmenu_top_message_008": {
     "src": "Eyeballs:",
     "yax": "Глазные яблоки:",
-    "trx": "Собрано глаз:"
+    "trx": "Глазных яблок:"
   },
   "bonusmenu_top_common_001": {
     "src": "Not enough eyeballs.",
     "yax": "Не хватает глазных яблок.",
-    "trx": "Не хватает глаз."
+    "trx": "Не хватает глазных яблок."
   },
   "bonusmenu_top_common_002": {
     "src": "This content is locked. \nYou will be able to unlock it as the story progresses.",
@@ -57,17 +57,17 @@
   "bonusmenu_top_common_004": {
     "src": "Unable to obtain while Locked. \nObtaining an evaluation will unlock this feature.",
     "yax": "Невозможно получить доступ, пока он заблокирован. \r\nПолучение оценки разблокирует эту функцию.",
-    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nДостижение результата разблокирует этот элемент."
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nПовысьте класс эффективности, чтобы разблокировать этот элемент."
   },
   "bonusmenu_top_common_005": {
     "src": "Unable to obtain while Locked. \nClearing a Somnium with more than 1 second left will unlock this feature.",
     "yax": "Невозможно получить доступ, пока он заблокирован. \r\nОчистка Сомниума с запасом более 1 секунды разблокирует эту функцию.",
-    "trx": "Невозможно получить доступ, пока элемент заблокирован. \r\nЗавершение сомниума с запасом более 1 секунды разблокирует этот элемент."
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \r\nЗавершите сомниум с запасом более 1 секунды, чтобы разблокировать этот элемент."
   },
   "bonusmenu_top_common_500": {
     "src": "Eyeball Cost",
     "yax": "Стоимость глазного яблока",
-    "trx": "Стоимость в глазах"
+    "trx": "Стоимость в глазных яблоках"
   },
   "bonusmenu_top_common_501": {
     "src": "Purchase?",
@@ -77,7 +77,7 @@
   "bonusmenu_top_common_505": {
     "src": "Unable to obtain while Locked. \nFind 5 hidden eyeballs within the Somnium stage to unlock.",
     "yax": "Невозможно получить доступ, пока он заблокирован. \r\nНайдите 5 скрытых глазных яблок на стадии Сомниума, чтобы разблокировать их.",
-    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nНайдите 5 скрытых глазных яблок внутри сомниума, чтобы разблокировать его."
+    "trx": "Невозможно получить доступ, пока элемент заблокирован. \nНайдите 5 спрятанных глаз внутри сомниума, чтобы разблокировать его."
   },
   "bonusmenu_top_common_506": {
     "src": "Unable to obtain while Locked. \nUnlock all dream albums to unlock.",

@@ -232,7 +232,7 @@
   "tutorial_038": {
     "src": "You can use \"eyeballs\" here to purchase bonus content.",
     "yax": "Вы можете использовать \"eyeballs\" здесь, чтобы приобрести бонусный контент.",
-    "trx": "Здесь можно приобрести дополнительный контент за собранные глаза."
+    "trx": "Здесь можно приобрести дополнительный контент за собранные глазные яблоки."
   },
   "tutorial_039": {
     "src": "By progressing the story, more bonus content will be unlocked.",
@@ -272,7 +272,7 @@
   "tutorial_043": {
     "src": "Different outfits will be added to the <color=yellow>《BONUS MENU》</color> as you level up your <color=yellow>《evaluation》 class</color>.\nThey can be purchased by <color=yellow>using eyeballs</color>.",
     "yax": "Различные наряды будут добавлены в <color=yellow>《БОНУСНОЕ МЕНЮ》</color> по мере повышения уровня вашего <color=yellow>《оценка》 класс</color>.\nИх можно приобрести с помощью <color=yellow>, используя eyeballs</color>.",
-    "trx": "Новая одежда будет добавлена в меню <color=yellow>《БОНУСЫ》</color> по мере повышения вашего <color=yellow>класса 《эффективности》</color>.\nПриобрести ее можно, потратив <color=yellow>собранные глаза</color>."
+    "trx": "Новая одежда будет добавлена в меню <color=yellow>《БОНУСЫ》</color> по мере повышения вашего <color=yellow>класса 《эффективности》</color>.\nПриобрести ее можно, потратив <color=yellow>собранные глазные яблоки</color>."
   },
   "tutorial_title_021": {
     "src": "Life Advice",
@@ -297,7 +297,7 @@
   "tutorial_046": {
     "src": "If an Eyeballie becomes an <color=yellow>Adult</color>\n<color=yellow>as a result, you will get many eyeballs as a reward!</color>",
     "yax": "Если Глазное яблоко становится <color=yellow>Взрослым</color>\n<color=yellow>в результате вы получите в награду много глазных яблок!</color>",
-    "trx": "Когда глазок становится <color=yellow>Взрослым</color>,\n<color=yellow>вы получаете в награду 1000 глаз!</color>"
+    "trx": "Когда глазок становится <color=yellow>Взрослым</color>,\n<color=yellow>вы получаете в награду 1000 глазных яблок!</color>"
   },
   "tutorial_title_023": {
     "src": "EVALUATION",
@@ -502,7 +502,7 @@
   "tutorial_073": {
     "src": "Boss: \"Meow, <color=yellow>hidden eyeballs</color> in the dream world...?\nThere are always <color=yellow>5</color>... mumble mumble...\nAll right, I'm gonna host club it up from open to close...\"",
     "yax": "Босс: \"Мяу, <color=yellow>скрытые глазные яблоки</color> в мире грез...?\nВсегда есть <color=yellow>5</color>... бормочи, бормочи...\nХорошо, я буду ведущим клуба от открытия до закрытия...\"",
-    "trx": "Босс: \"Мяу, <color=yellow>спрятанные глаза</color> в мире сновидений...?\nИх всегда <color=yellow>5</color>... ммм ммм...\nЛадно, я буду руководить клубом до закрытия...\""
+    "trx": "Босс: \"Мяу, <color=yellow>спрятанные глаза</color> в мире сновидений...?\nИх всегда <color=yellow>5</color>... ммм ммм...\nДа, я буду руководить клубом до закрытия...\""
   },
   "tutorial_title_037": {
     "src": "Timie",
@@ -572,7 +572,7 @@
   "tutorial_083": {
     "src": "Pewter: \"Clear <color=yellow>with at least 1 second</color>...?\nAnd obtain some <color=yellow>eyeballs</color>...?\nDate, no... Not there!\"",
     "yax": "Оловянный: \"Очистить <color=yellow> не менее чем за 1 секунду</color>...?\nИ получить несколько <color=yellow>глазных яблок</color>...?\nДата - нет... Не там!\"",
-    "trx": "Пьютер: \"Завершить с запасом <color=yellow> не менее 1 секунды</color>...?\nИ получить несколько <color=yellow>глаз</color>...?\nДатэ — нет... Не там!\""
+    "trx": "Пьютер: \"Завершить с запасом <color=yellow> не менее 1 секунды</color>...?\nИ получить несколько <color=yellow>глазных яблок</color>...?\nДатэ — нет... Не там!\""
   },
   "tutorial_title_041": {
     "src": "Underwater Movement",
@@ -737,12 +737,12 @@
   "tutorial_510": {
     "src": "《What is BONUS？》",
     "yax": "《Что такое БОНУС？》",
-    "trx": "《Что за БОНУС？》"
+    "trx": "《Что такое БОНУСЫ？》"
   },
   "tutorial_511": {
     "src": "《How to increase Eyeballies》",
     "yax": "《Как увеличить глазные яблоки》",
-    "trx": "《Как увеличить количество глаз》"
+    "trx": "《Как собрать больше глазных яблок》"
   },
   "tutorial_512": {
     "src": "《How to unlock content》",
@@ -757,17 +757,17 @@
   "tutorial_506": {
     "src": "・Menu for purchasing/viewing bonus content\n・You can purchase the content with a currency called 『eyeballs』",
     "yax": "・Меню для покупки/просмотра бонусного контента\n・Вы можете приобрести контент за валюту под названием \"глазные яблоки\".",
-    "trx": "・Меню для покупки/просмотра дополнительного контента\n・Вы можете приобрести контент за валюту под названием \"глаза\"."
+    "trx": "・Меню для покупки/просмотра дополнительного контента.\n・Контент приобретается за валюту под названием \"глазные яблоки\"."
   },
   "tutorial_507": {
     "src": "・During Somnia, choose option that hasn't been chosen before\n・Clear a Somnium with more than 1 second left\n・Find a hidden item in Somnium\n・Grow a new Eyeballie into an 【Adult】 ",
     "yax": "・Во время сомнии выберите вариант, который не был выбран ранее\n・Очистите Сомниум, у которого осталось более 1 секунды\n・Найдите спрятанный предмет в Сомниуме\n・Вырастите новое глазное яблоко в 【Взрослого】 ",
-    "trx": "・В сомниуме выберите вариант, который не был выбран ранее\n・Завершите сомниум с запасом более 1 секунды\n・Найдите в сомниуме спрятанный предмет\n・Вырастите новый глазок до 【Взрослого】 "
+    "trx": "・В сомниуме выберите вариант, который не был выбран ранее.\n・Завершите сомниум с запасом более 1 секунды.\n・Найдите в сомниуме спрятанный предмет.\n・Вырастите новый глазок до 【Взрослого】."
   },
   "tutorial_508": {
     "src": "・New costume: improve Evaluation result\n・Dream Album A: Clear a Somnium with more than 1 second left\n・Dream Album B: Find 5 items that are hidden in Somnium",
     "yax": "・Новый костюм: улучшите результат оценки\n・ Альбом мечты A: Очистите Сон, когда осталось более 1 секунды.\n・Альбом сновидений B: Найдите 5 предметов, спрятанных в Somnium",
-    "trx": "☯️・Новый костюм: повысьте уровень эффективности\n・ Альбом сновидений А: Завершите сомниум с запасом более 1 секунды.\n・Альбом сновидений Б: Найдите в сомниуме 5 спрятанных предметов"
+    "trx": "・Новый костюм: повысьте уровень эффективности.\n・Альбом сновидений А: Завершите сомниум с запасом более 1 секунды.\n・Альбом сновидений Б: Найдите в сомниуме 5 спрятанных глаз."
   },
   "tutorial_509": {
     "src": "Try to find 『？？？』 content by yourself!",
