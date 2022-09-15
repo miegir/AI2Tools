@@ -627,22 +627,22 @@
   "operation_guide_005": {
     "src": "Close",
     "yax": "Закрывать",
-    "trx": "Закрыть"
+    "trx": "<size=80%>Закрыть"
   },
   "operation_guide_006": {
     "src": "Skip Page",
     "yax": "Пропустить страницу",
-    "trx": "Далее"
+    "trx": "<size=80%>Далее"
   },
   "operation_guide_007": {
     "src": "Expand",
     "yax": "Расширять",
-    "trx": "Увел."
+    "trx": "<size=80%>Увелич." //spell-ignore-line
   },
   "operation_guide_008": {
     "src": "Shrink",
     "yax": "Сокращаться",
-    "trx": "Умен."
+    "trx": "<size=80%>Уменьш." //spell-ignore-line
   },
   "operation_guide_009": {
     "src": "Move",

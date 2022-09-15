@@ -852,7 +852,7 @@
   "file_profile_160": {
     "src": "An ABIS engineer and mechanic. His main job is operating and maintaining the Psync machine. He created the AI-Balls (Aiba and Tama). He got his clothes off eHarbor.",
     "yax": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании Psync-машины. Он создал АЙ-Шары (Айба и Тама). Он снял с Эхарбора свою одежду.",
-    "trx": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании машины для псинхронизации. Он создал Айбу и Таму. Снимал всю одежду в eHarbor."
+    "trx": "Инженер и механик ABIS. Его основная работа заключается в эксплуатации и обслуживании псинк-машины. Он создал роботов (Айбу и Таму). Снимал всю одежду в eHarbor."
   },
   "file_profile_161": {
     "src": "Kaname Date",

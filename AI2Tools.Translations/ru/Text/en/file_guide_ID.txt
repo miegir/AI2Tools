@@ -17,7 +17,7 @@
   "file_guide_004": {
     "src": "【Wink Psync】\n《Wink Psync》 is a simplified Psync. \nBy analyzing the target's brain, you can temporarily\nsee the inside their dream. \nIt's a simplified dream, so the information provided\nwill not be as detailed as when using a Psync machine. ",
     "yax": "【Подмигивание Psync】\n\"Wink Psync\" - это упрощенная Psync. \nАнализируя мозг цели, вы можете временно\nзагляни внутрь их мечты. \nЭто упрощенный сон, поэтому предоставленная информация\nбудет не таким подробным, как при использовании Psync-машины. ",
-    "trx": "【Винк-псинк】\n《Винк-псинк》 — это упрощенная версия псинхронизации. \nАнализируя мозг цели, вы можете временно\nзаглянуть в их сон. \nЭтот сон является упрощенным, поэтому полученная информация\nбудет не такой подробной, как при использовании машины для псинхронизации. "
+    "trx": "【Винк-псинк】\n《Винк-псинк》 — это упрощенная версия псинхронизации. \nАнализируя мозг цели, вы можете временно\nзаглянуть в их сон. \nЭтот сон является упрощенным, поэтому полученная информация\nбудет не такой подробной, как при использовании псинк-машины. "
   },
   "file_guide_005": {
     "src": "【Virtual Reality】\nIn the 《Virtual Reality》, walk around at a scene and gather information. \nYou can use Aiba/Tama's special vision modes such as \"X-ray\" or \"Thermo.\" \nBy changing your vision, what you can interact with might change. \nUse this wisely to find hidden information. \n\n【Truth Reenactment】\nIn 《Truth Reenactment》, use the information you have to determine the truth.\nAnswer Aiba/Tama's questions correctly. \nIf you answer them all correctly, the truth will be revealed. ",
