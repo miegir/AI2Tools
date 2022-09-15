@@ -1,0 +1,622 @@
+{
+  "evaluation_title_001": {
+    "src": "Determination",
+    "yax": "Определение",
+    "trx": "Упорство"
+  },
+  "evaluation_summary_001": {
+    "src": "Mizuki Chapter 0\nClear Ryuki's Somnium\nWake from your dream. Achieve enlightenment.",
+    "yax": "Мизуки Глава 0\nЗавершите сомниум Рюки\nОчнись от своего сна. Достигните просветления.",
+    "trx": "Мизуки, глава 0\nЗавершите сомниум Рюки.\nОчнитесь от своего сна. Достигните просветления."
+  },
+  "evaluation_title_002": {
+    "src": "Egoism",
+    "yax": "Эгоизм",
+    "trx": "Эгоизм"
+  },
+  "evaluation_summary_002": {
+    "src": "Ryuki Chapter 1\nClear Chikara's Somnium\nObsessed with yourself and your opinions. Never back down.",
+    "yax": "Рюки Глава 1\nЗавершите сомниум Чикары\nОдержим собой и своим мнением. Никогда не отступай.",
+    "trx": "Рюки, глава 1\nЗавершите сомниум Чикары.\nВы одержимы собой и своим мнением. Никогда не отступайте."
+  },
+  "evaluation_title_003": {
+    "src": "Nirvana",
+    "yax": "Нирвана",
+    "trx": "Нирвана"
+  },
+  "evaluation_summary_003": {
+    "src": "Ryuki Chapter 2\nClear Tokiko's Somnium\nReach true enlightenment.",
+    "yax": "Рюки Глава 2\nЗавершите сомниум Токико\nДостигните истинного просветления.",
+    "trx": "Рюки, глава 2\nЗавершите сомниум Токико.\nДостигните истинного просветления."
+  },
+  "evaluation_title_004": {
+    "src": "Persona",
+    "yax": "Персона",
+    "trx": "Персона"
+  },
+  "evaluation_summary_004": {
+    "src": "Ryuki Chapter 3\nClear Komeji's Somnium\nTo have an outer face and an inner face. A false heart.",
+    "yax": "Рюки Глава 3\nЗавершите сомниум Комедзи\nИметь внешнее лицо и внутреннее лицо. Фальшивое сердце.",
+    "trx": "Рюки, глава 3\nЗавершите сомниум Комедзи.\nИметь внешнее и внутреннее лицо. Фальшивое сердце."
+  },
+  "evaluation_title_005": {
+    "src": "Causality",
+    "yax": "Причинно-следственная связь",
+    "trx": "Казуальность" //spell-ignore-line
+  },
+  "evaluation_summary_005": {
+    "src": "Ryuki Chapter 4\nClear Amame's Somnium\nCause and effect. An unlucky fate.",
+    "yax": "Рюки Глава 4\nЗавершите сомниум Амаме\nПричина и следствие. Несчастливая судьба.",
+    "trx": "Рюки, глава 4\nЗавершите сомниум Амаме.\nПричина и следствие. Несчастливая судьба."
+  },
+  "evaluation_title_006": {
+    "src": "Svabhava",
+    "yax": "Свабхава",
+    "trx": "Свабхава" //spell-ignore-line
+  },
+  "evaluation_summary_006": {
+    "src": "Ryuki Chapter 4\nClear Shoma's Somnium\nThe name is the reality, the reality is the name.",
+    "yax": "Рюки Глава 4\nЗавершите сомниум Шомы\nИмя — это реальность, реальность — это имя.",
+    "trx": "Рюки, глава 4\nЗавершите сомниум Шомы.\nИмя — это реальность, реальность — это имя."
+  },
+  "evaluation_title_007": {
+    "src": "Untethered",
+    "yax": "Непривязанный",
+    "trx": "Отвязанный"
+  },
+  "evaluation_summary_007": {
+    "src": "Ryuki Chapter 5\nClear Iris's Somnium\nTo be free from everything.",
+    "yax": "Рюки Глава 5\nЯсный сон радужной оболочки\nБыть свободным от всего.",
+    "trx": "Рюки, глава 5\nЗавершите сомниум Айрис.\nБыть свободным от всего."
+  },
+  "evaluation_title_008": {
+    "src": "Rainbow",
+    "yax": "Радуга",
+    "trx": "Радуга"
+  },
+  "evaluation_summary_008": {
+    "src": "Mizuki Chapter 1\nClear Kizuna's Somnium\nColor in the clouds. A sign of good fortune ahead.",
+    "yax": "Мизуки Глава 1\nЗавершите сомниум Кидзуны\nЦвет в облаках. Знак грядущей удачи.",
+    "trx": "Мизуки, глава 1\nЗавершите сомниум Кизуны.\nЦвет в облаках. Знак грядущей удачи."
+  },
+  "evaluation_title_009": {
+    "src": "Vajra",
+    "yax": "Ваджра",
+    "trx": "Ваджра" //spell-ignore-line
+  },
+  "evaluation_summary_009": {
+    "src": "Mizuki Chapter 2\nClear Gen's Somnium\nSolid, unbreakable, stoic.",
+    "yax": "Мизуки Глава 2\nЯсный сон Гена\nТвердый, несокрушимый, стойкий.",
+    "trx": "Мизуки, глава 2\nЗавершите сомниум Гена.\nТвердый, несокрушимый, стойкий."
+  },
+  "evaluation_title_010": {
+    "src": "Inevitability",
+    "yax": "Неизбежность",
+    "trx": "Неизбежность"
+  },
+  "evaluation_summary_010": {
+    "src": "Mizuki Chapter 3\nClear Masked Woman's Somnium\nNo need to hesitate, there is only one destination.",
+    "yax": "Мизуки Глава 3\nЯсный сон женщины в маске\nНе нужно колебаться, есть только один пункт назначения.",
+    "trx": "Мизуки, глава 3\nЗавершите сомниум Женщины в маске.\nНе нужно колебаться, есть только один пункт назначения."
+  },
+  "evaluation_title_011": {
+    "src": "Ill-fated",
+    "yax": "Злополучный",
+    "trx": "Злополучный"
+  },
+  "evaluation_summary_011": {
+    "src": "Mizuki Chapter 4\nClear Tearer's Somnium\nAn undying grudge, permanence of loss and misfortune.",
+    "yax": "Мизуки Глава 4\nСомниум ясного слезоточивого\nВечная обида, постоянные потери и несчастья.",
+    "trx": "Мизуки, глава 4\nЗавершите сомниум Рассекателя.\nВечная обида, постоянные потери и несчастья."
+  },
+  "evaluation_title_012": {
+    "src": "Sisyphean",
+    "yax": "Сизифов",
+    "trx": "Сизифов труд"
+  },
+  "evaluation_summary_012": {
+    "src": "Mizuki Chapter 4\nClear Lien's Somnium\nThe pain of unfulfilled dreams, that which can never be.",
+    "yax": "Мизуки Глава 4\nОчистить сомниум залога\nБоль несбывшихся мечтаний, того, чего никогда не может быть.",
+    "trx": "Мизуки, глава 4\nЗавершите сомниум Лиена.\nБоль несбывшихся мечтаний, того, чего никогда не может быть."
+  },
+  "evaluation_title_013": {
+    "src": "All's Right With The World",
+    "yax": "С Миром Все В Порядке",
+    "trx": "С миром все в порядке"
+  },
+  "evaluation_summary_013": {
+    "src": "Mizuki Chapter 5\nClear Amame's Somnium\nGood begets good, evil begets evil.",
+    "yax": "Мизуки Глава 5\nЗавершите сомниум Амаме\nДобро порождает добро, зло порождает зло.",
+    "trx": "Мизуки, глава 5\nЗавершите сомниум Амаме.\nДобро порождает добро, зло порождает зло."
+  },
+  "evaluation_title_014": {
+    "src": "Komeji and Shoma END",
+    "yax": "Комедзи и Сема ЗАКАНЧИВАЮТ",
+    "trx": "РАЗВЯЗКА: Комедзи и Шомы"
+  },
+  "evaluation_summary_014": {
+    "src": "Clear Komeji/Shoma route.",
+    "yax": "Расчистите маршрут Комедзи/Шома.",
+    "trx": "Завершите историю Комедзи/Шомы."
+  },
+  "evaluation_title_015": {
+    "src": "Explosion END",
+    "yax": "Конец взрыва",
+    "trx": "РАЗВЯЗКА: Взрыв"
+  },
+  "evaluation_summary_015": {
+    "src": "Clear Explosion route.",
+    "yax": "Расчистите маршрут взрыва.",
+    "trx": "Завершите историю взрыва."
+  },
+  "evaluation_title_016": {
+    "src": "Resolution END",
+    "yax": "Конец разрешения",
+    "trx": "РАЗВЯЗКА: Разрешение"
+  },
+  "evaluation_summary_016": {
+    "src": "Clear Resolution route.",
+    "yax": "Четкий маршрут разрешения.",
+    "trx": "Завершите историю разрешения."
+  },
+  "evaluation_title_017": {
+    "src": "Gen and Amame END",
+    "yax": "Ген и Амаме ЗАКАНЧИВАЮТСЯ",
+    "trx": "РАЗВЯЗКА: Ген и Амаме"
+  },
+  "evaluation_summary_017": {
+    "src": "Clear Gen/Amame route.",
+    "yax": "Очистите маршрут Gen/Amame.",
+    "trx": "Завершите историю Гена/Амаме."
+  },
+  "evaluation_title_018": {
+    "src": "Kizuna and Lien END",
+    "yax": "Кидзуна и Лиен ЗАКАНЧИВАЮТСЯ",
+    "trx": "РАЗВЯЗКА: Кизуна и Лиен"
+  },
+  "evaluation_summary_018": {
+    "src": "Clear Kizuna/Lien route.",
+    "yax": "Очистите маршрут Кидзуна/Лиен.",
+    "trx": "Завершите историю Кизуны/Лиена."
+  },
+  "evaluation_title_019": {
+    "src": "閭｡陜ｶ荵句､｢邱ｨEND",
+    "yax": "閭｡陜ｶ荵句､\"邱ｨEND",
+    "trx": "РАЗВЯЗКА: 閭｡陜ｶ荵句､｢邱ｨ" //spell-ignore-line
+  },
+  "evaluation_summary_019": {
+    "src": "Clear Ryuki Chapter Diverge.",
+    "yax": "Ясно, Что Глава Рюки Расходится.",
+    "trx": "Пройдите главу Рюки, Отклонение."
+  },
+  "evaluation_title_020": {
+    "src": "Destination Atami END",
+    "yax": "Пункт Назначения В КОНЦЕ",
+    "trx": "РАЗВЯЗКА: Атами"
+  },
+  "evaluation_summary_020": {
+    "src": "Ryuki Chapter 3\nGo to Atami with the Receptionist.",
+    "yax": "Рюки Глава 3\nИдите в Атами с Секретаршей.",
+    "trx": "Рюки, глава 3\nОтправиться в Атами с секретаршей."
+  },
+  "evaluation_title_021": {
+    "src": "Case Closed: Dead at Dvaita",
+    "yax": "Дело закрыто: Убит в Двайте",
+    "trx": "Дело закрыто: труп в Двайте"
+  },
+  "evaluation_summary_021": {
+    "src": "Ryuki Chapter 1\nClear the VR section perfectly.",
+    "yax": "Рюки Глава 1\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Рюки, глава 1\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_022": {
+    "src": "Case Closed: Daring Escape at Naix",
+    "yax": "Дело закрыто: Дерзкий побег в Naix",
+    "trx": "Дело закрыто: Дерзкий побег из Naix"
+  },
+  "evaluation_summary_022": {
+    "src": "Ryuki Chapter 2\nClear the VR section perfectly.",
+    "yax": "Рюки Глава 2\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Рюки, глава 2\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_023": {
+    "src": "Case Closed: Amame's Actions",
+    "yax": "Дело закрыто: Действия Амаме",
+    "trx": "Дело закрыто: Действия Амаме"
+  },
+  "evaluation_summary_023": {
+    "src": "Ryuki Chapter 4\nClear the VR section perfectly.",
+    "yax": "Рюки Глава 4\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Рюки, глава 4\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_024": {
+    "src": "Case Closed: Corpse Transport",
+    "yax": "Дело Закрыто: Транспортировка Трупа",
+    "trx": "Дело Закрыто: Транспортировка тела"
+  },
+  "evaluation_summary_024": {
+    "src": "Mizuki Chapter 1\nClear the VR section perfectly.",
+    "yax": "Мизуки Глава 1\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Мизуки, глава 1\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_025": {
+    "src": "Case Closed: Mystery at Yoyagi",
+    "yax": "Дело закрыто: Тайна в Йояги",
+    "trx": "Дело закрыто: Тайна в Йояги"
+  },
+  "evaluation_summary_025": {
+    "src": "Mizuki Chapter 2\nClear the VR section perfectly.",
+    "yax": "Мизуки Глава 2\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Мизуки, глава 2\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_026": {
+    "src": "Case Closed: Horadori Institute's Holding Cell",
+    "yax": "Дело закрыто: Камера предварительного заключения Института Орадори",
+    "trx": "Дело закрыто: Камера заключения в институте Хорадори"
+  },
+  "evaluation_summary_026": {
+    "src": "Mizuki Chapter 3\nClear the VR section perfectly.",
+    "yax": "Мизуки Глава 3\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Мизуки, глава 3\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_027": {
+    "src": "Case Closed: Blackout Amusement",
+    "yax": "Дело закрыто: Затемнение.",
+    "trx": "Дело закрыто: Обесточивание в парке развлечений"
+  },
+  "evaluation_summary_027": {
+    "src": "Mizuki Chapter 4\nClear the VR section perfectly.",
+    "yax": "Мизуки Глава 4\nПравильно пройдите секцию виртуальной реальности.",
+    "trx": "Мизуки, глава 4\nПравильно пройдите секцию виртуальной реальности."
+  },
+  "evaluation_title_028": {
+    "src": "Informant: Persons",
+    "yax": "Информатор: Лица",
+    "trx": "Осведомитель: Персонажи"
+  },
+  "evaluation_summary_028": {
+    "src": "Collect all Persons files.",
+    "yax": "Соберите все личные дела.",
+    "trx": "Собрать все личные дела."
+  },
+  "evaluation_title_029": {
+    "src": "Informant: Appendix",
+    "yax": "Информатор: Приложение",
+    "trx": "Осведомитель: Приложения"
+  },
+  "evaluation_summary_029": {
+    "src": "Collect more than 90 Appendix files.",
+    "yax": "Соберите более 90 файлов приложений.",
+    "trx": "Собрать более 90 файлов приложений."
+  },
+  "evaluation_title_030": {
+    "src": "Informant: Trivia",
+    "yax": "Информатор: Мелочи",
+    "trx": "Осведомитель: Факты"
+  },
+  "evaluation_summary_030": {
+    "src": "Collect more than 50 Trivia files.",
+    "yax": "Соберите более 50 файлов с мелочами.",
+    "trx": "Собрать более 50 файлов с фактами."
+  },
+  "evaluation_title_031": {
+    "src": "Informant: Dream Album",
+    "yax": "Информатор: Альбом Мечты",
+    "trx": "Осведомитель: Альбом Мечты"
+  },
+  "evaluation_summary_031": {
+    "src": "Complete the Dream Album.",
+    "yax": "Завершите Альбом мечты.",
+    "trx": "Соберите альбом мечты."
+  },
+  "evaluation_title_032": {
+    "src": "Cornea Collector",
+    "yax": "Сборщик роговицы",
+    "trx": "Коллекционер роговиц"
+  },
+  "evaluation_summary_032": {
+    "src": "Find all the hidden eyeballs in Somnium.\nYou're the master of hide-and-seek.",
+    "yax": "Найдите все скрытые глазные яблоки в Сомниуме.\nТы мастер игры в прятки.",
+    "trx": "Найдите все спрятанные глаза в сомниумах.\nВы — мастер игры в прятки."
+  },
+  "evaluation_title_033": {
+    "src": "Powergamer",
+    "yax": "Powergamer",
+    "trx": "Сильный игрок"
+  },
+  "evaluation_summary_033": {
+    "src": "Collect more than 20,000 eyeballs.\nThank you for picking them all up!",
+    "yax": "Соберите более 20 000 глазных яблок.\nСпасибо вам за то, что собрали их все!",
+    "trx": "Соберите более 20 000 глазных яблок.\nСпасибо вам за то, что собрали их все!"
+  },
+  "evaluation_title_034": {
+    "src": "Gacha Got Ya",
+    "yax": "Гача Поймал Тебя",
+    "trx": "Собиратель глазок"
+  },
+  "evaluation_summary_034": {
+    "src": "Collected all [Adult]-type Eyeballies.",
+    "yax": "Собраны все глазные яблоки [Взрослого] типа.",
+    "trx": "Собраны все виды [Взрослых] глазок."
+  },
+  "evaluation_title_035": {
+    "src": "An Awkward Halloween",
+    "yax": "Неловкий Хэллоуин",
+    "trx": "Неуклюжий Хэллоуин"
+  },
+  "evaluation_summary_035": {
+    "src": "Mizuki Chapter 0\nIn Ryuki's Somnium, wear the pumpkin, loafers, and the metal pipe at the same time.\nSomeone like that probably exists in Shibuya.",
+    "yax": "Мизуки Глава 0\nВ Сомниуме Рюки наденьте тыкву, мокасины и металлическую трубу одновременно.\nКто-то вроде этого, вероятно, существует в Сибуе.",
+    "trx": "Мизуки, глава 0\nВ сомниуме Рюки наденьте одновременно тыкву, мокасины и металлическую трубу.\nКто-то подобный, вероятно, есть в Сибуе."
+  },
+  "evaluation_title_036": {
+    "src": "Quiz King",
+    "yax": "Король викторины",
+    "trx": "Король викторин"
+  },
+  "evaluation_summary_036": {
+    "src": "Ryuki Chapter 4\nClear all quizzes during Amame's Somnium.\nIt's not rigged, is it?",
+    "yax": "Рюки Глава 4\nОчистите все тесты во время сна Амаме.\nЭто ведь не подстроено, не так ли?",
+    "trx": "Рюки, глава 4\nПравильно ответьте на все вопросы в сомниуме Амаме.\nВы ведь не мухлюете, не так ли?"
+  },
+  "evaluation_title_037": {
+    "src": "Kusemon Master",
+    "yax": "Кусемон Мастер",
+    "trx": "Куземон-мастер"
+  },
+  "evaluation_summary_037": {
+    "src": "Ryuki Chapter 5\nHatch the Black and White Bear and the Wanderer during Iris's Somnium.",
+    "yax": "Рюки Глава 5\nВылупите Черно-Белого Медведя и Странника во время Сна Айрис.",
+    "trx": "Рюки, глава 5\nЗаполучите Черно-белого медведя и Странника в сомниуме Айрис."
+  },
+  "evaluation_title_038": {
+    "src": "A...do...roo...ster...",
+    "yax": "А... до...ру...стер...",
+    "trx": "А...до...ру...стер..."
+  },
+  "evaluation_summary_038": {
+    "src": "Ryuki Chapter 4\nAlmost get cursed by Adorooster during Shoma's Somnium.\nThe chicken curse...",
+    "yax": "Рюки Глава 4\nЧуть не был проклят Адороустером во время Сомнии Шомы.\nКуриное проклятие...",
+    "trx": "Рюки, глава 4\nБудьте на волосок от проклятия Адорустера в сомниуме Шомы.\nКуриное проклятие..."
+  },
+  "evaluation_title_039": {
+    "src": "All-Japan Shoe Toss Champion",
+    "yax": "Всеяпонский чемпион по метанию обуви",
+    "trx": "Национальный чемпион по метанию обуви"
+  },
+  "evaluation_summary_039": {
+    "src": "Mizuki Chapter 1\nToss your shoe with maximum power during Kizuna's Somnium.\nYou're a champion!",
+    "yax": "Мизуки Глава 1\nПодбрасывайте свой ботинок с максимальной силой во время сна Кидзуны.\nТы чемпион!",
+    "trx": "Мизуки, глава 1\nПодбросьте свой ботинок с максимальной силой в сомниуме Кизуны.\nВы — чемпион!"
+  },
+  "evaluation_title_040": {
+    "src": "Surviving Hell's Kitchen",
+    "yax": "Выживший в Адской кухне",
+    "trx": "Выживший в адской кухне"
+  },
+  "evaluation_summary_040": {
+    "src": "Mizuki Chapter 2\nPerform rank 3 cooking skill 3 times during Gen's Somnium.",
+    "yax": "Мизуки Глава 2\nВыполните кулинарный навык 3 ранга 3 раза во время Сомниума Гена.",
+    "trx": "Мизуки, глава 2\nПримените 3 раза кулинарные команды 3-го уровня в сомниуме Гена."
+  },
+  "evaluation_title_041": {
+    "src": "Kunoichi vs. Mad Scientist",
+    "yax": "Куноичи против Безумный ученый",
+    "trx": "Куноити против Безумного ученого"
+  },
+  "evaluation_summary_041": {
+    "src": "Mizuki Chapter 3\nClear M1 route with no game over and no QTE fails during Masked Woman's Somnium.",
+    "yax": "Мизуки Глава 3\nПройдите маршрут М1 без завершения игры и сбоев QTE во время сна Женщины в маске.",
+    "trx": "Мизуки, глава 3\nПройдите маршрут М1 без проигрыша и ошибок QTE в сомниуме Женщины в маске."
+  },
+  "evaluation_title_042": {
+    "src": "High Inquisitor",
+    "yax": "Верховный инквизитор",
+    "trx": "Верховный инквизитор"
+  },
+  "evaluation_summary_042": {
+    "src": "Mizuki Chapter 5\nDeduce everything perfectly during Amame's Somnium.\nYour accuracy is astounding!",
+    "yax": "Мизуки Глава 5\nВыведите все идеально во время Сна Амаме.\nВаша точность поразительна!",
+    "trx": "Мизуки Глава 5\nПредъявите правильно все улики в сомниуме Амаме.\nВаша точность поразительна!"
+  },
+  "evaluation_title_043": {
+    "src": "Hanako's Nightmare BAD END",
+    "yax": "Кошмар Ханако ПЛОХО КОНЧИЛСЯ",
+    "trx": "ПЛОХАЯ РАЗВЯЗКА: Кошмар Ханако"
+  },
+  "evaluation_summary_043": {
+    "src": "Mizuki Chapter 5\nSee Hanako during Amame's Somnium.\nHaving any dark dreams of late?",
+    "yax": "Мизуки Глава 5\nУвидеть Ханако во время Сна Амаме.\nВ последнее время тебе снятся какие-нибудь мрачные сны?",
+    "trx": "Мизуки, глава 5\nНайдите Ханако в сомниуме Амаме.\nДавно ли вам снились мрачные сны?"
+  },
+  "evaluation_title_044": {
+    "src": "Stan Boss.",
+    "yax": "Стэн Босс.",
+    "trx": "Фанат Босса"
+  },
+  "evaluation_summary_044": {
+    "src": "Inspect every object in Boss's room.\nMy room is in the same state.",
+    "yax": "Осмотрите каждый предмет в комнате Босса.\nМоя комната находится в том же состоянии.",
+    "trx": "Осмотрите каждый предмет в кабинете Босса.\nМоя комната в таком же состоянии."
+  },
+  "evaluation_title_045": {
+    "src": "He Who Shall Not Be Named",
+    "yax": "Тот, Кто Не Должен Быть Назван",
+    "trx": "Тот, у кого не должно быть имени"
+  },
+  "evaluation_summary_045": {
+    "src": "Chat with the Inspector during Ryuki Chapter 0, 4, and 5 \nand Mizuki Chapter 0, 2, 4, and Epilogue.",
+    "yax": "Общайтесь с инспектором во время Рюки, главы 0, 4 и 5 \nи Мизуки, главы 0, 2, 4 и Эпилог.",
+    "trx": "Пообщайтесь с инспектором в истории Рюки, главы 0, 4 и 5,\nи Мизуки, главы 0, 2, 4 и эпилог."
+  },
+  "evaluation_title_046": {
+    "src": "Courtesy Chocolate",
+    "yax": "Предоставленный Шоколад",
+    "trx": "Раздающий Шоколад"
+  },
+  "evaluation_summary_046": {
+    "src": "Mizuki Chapter 4\nGive chocolate to the Detective, Officer, and Shoma.\nGive me one too please.",
+    "yax": "Мизуки Глава 4\nДайте шоколад Детективу, Офицеру и Семе.\nДай мне тоже, пожалуйста.",
+    "trx": "Мизуки, глава 4\nОтдайте шоколад Детективу, Офицеру и Шоме.\nИ мне тоже, пожалуйста."
+  },
+  "evaluation_title_047": {
+    "src": "Nu-Folk Anthem",
+    "yax": "Nu-Народный гимн",
+    "trx": "Гимн ню-фолк" //spell-ignore-line
+  },
+  "evaluation_summary_047": {
+    "src": "Ryuki Chapter 1\nListen to Ryuki's weird song.\nNo idea where he got that from.",
+    "yax": "Рюки Глава 1\nПослушай странную песню Рюки.\nПонятия не имею, откуда он это взял.",
+    "trx": "Рюки, глава 1\nПрослушайте странную песню Рюки.\nПонятия не имею, откуда он это взял."
+  },
+  "evaluation_title_048": {
+    "src": "YOU FOUND IT!",
+    "yax": "ТЫ НАШЕЛ ЕГО!",
+    "trx": "ВЫ НАШЛИ ВЫХОД!"
+  },
+  "evaluation_summary_048": {
+    "src": "Clear the 3rd Class Cabin.\nNo death game this time.",
+    "yax": "Освободите каюту 3-го класса.\nНа этот раз никакой смертельной игры.",
+    "trx": "Пройдите каюту 3-го класса.\nНикакой смертельной игры на этот раз."
+  },
+  "evaluation_title_049": {
+    "src": "?",
+    "yax": "?",
+    "trx": "?"
+  },
+  "evaluation_summary_049": {
+    "src": "----/--/--",
+    "yax": "----/--/--",
+    "trx": null
+  },
+  "evaluation_summary_050": {
+    "src": "?",
+    "yax": "?",
+    "trx": "?"
+  },
+  "evaluation_rankup_001": {
+    "src": "Increased Psyncer Class to [C2]\n\nThese costumes were added to BONUS: \n\"Mizuki Outfit\"\n\"Ryuki Outfit\"\n\"Cat Ears\"",
+    "yax": "Увеличен класс Psyncer до [C2]\n\nВ БОНУС были добавлены костюмы: \n\"Наряд Мизуки\"\n\"Наряд Рюки\"\n\"Кошачьи ушки\"",
+    "trx": "Класс псинкера повышен до [C2]\n\nВ БОНУС были добавлены костюмы: \n\"Одежда Мизуки\"\n\"Одежда Рюки\"\n\"Кошачьи ушки\""
+  },
+  "evaluation_rankup_002": {
+    "src": "Increased Psyncer Class to [C1]\n\nThese costumes were added to BONUS: \n\"Mermaid Outfit\"\n\"Cat Paws and Tail\"",
+    "yax": "Увеличен класс Psyncer до [C1]\n\nВ БОНУС были добавлены костюмы: \n\"Наряд русалки\"\n\"Кошачьи лапы и хвост\"",
+    "trx": "Класс псинкера повышен до [C1]\n\nВ БОНУС были добавлены костюмы: \n\"Наряд русалки\"\n\"Кошачьи лапы и хвост\""
+  },
+  "evaluation_rankup_003": {
+    "src": "Increased Psyncer Class to [B3]\n\nThese costumes were added to BONUS: \n\"Entomologist\"\n\"Prison Garb\"",
+    "yax": "Увеличен класс Псайкера до [B3]\n\nВ БОНУС были добавлены костюмы: \n\"Энтомолог\"\n\"Тюремная одежда\"",
+    "trx": "Класс псинкера повышен до [B3]\n\nВ БОНУС были добавлены костюмы: \n\"Энтомолог\"\n\"Тюремная одежда\""
+  },
+  "evaluation_rankup_004": {
+    "src": "Increased Psyncer Class to [B2]\n\nThese costumes were added to BONUS: \n\"T-shirt: Smart\"\n\"T-shirt: Cute\"\n\"Former CEO Glasses\"",
+    "yax": "Увеличен класс Psyncer до [B2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: Умная\"\n\"Футболка: Симпатичная\"\n\"Очки бывшего генерального директора\"",
+    "trx": "Класс псинкера повышен до [B2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: Нарядная\"\n\"Футболка: Симпатичная\"\n\"Очки бывшего генерального директора\""
+  },
+  "evaluation_rankup_005": {
+    "src": "Increased Psyncer Class to [B1]\n\nThese costumes were added to BONUS: \n\"T-shirt: ABIS\"\n\"Hero Belt\"",
+    "yax": "Повышен класс Псайкера до [B1]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: ABIS\"\n\"Пояс героя\"",
+    "trx": "Класс псинкера повышен до [B1]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: ABIS\"\n\"Пояс героя\""
+  },
+  "evaluation_rankup_006": {
+    "src": "Increased Psyncer Class to [A3]\n\nThese costumes were added to BONUS: \n\"Wanderer Hat\"\n\"Chibi Tama\"\n\"Chibi Aiba\"",
+    "yax": "Увеличен класс Psyncer до [A3]\n\nВ БОНУС были добавлены костюмы: \n\"Шляпа странника\"\n\"Чиби Тама\"\n\"Чиби Айба\"",
+    "trx": "Класс псинкера повышен до [A3]\n\nВ БОНУС были добавлены костюмы: \n\"Шляпа странника\"\n\"Чиби-Тама\"\n\"Чиби-Айба\"" //spell-ignore-line
+  },
+  "evaluation_rankup_007": {
+    "src": "Increased Psyncer Class to [A2]\n\nThese costumes were added to BONUS: \n\"K Head\"\n\"Burning Hand\"",
+    "yax": "Повышен класс Псайкера до [A2]\n\nВ БОНУС были добавлены костюмы: \n\"K Head\"\n\"Горящая рука\"",
+    "trx": "Класс псинкера повышен до [A2]\n\nВ БОНУС были добавлены костюмы: \n\"Голова K\"\n\"Горящие руки\""
+  },
+  "evaluation_rankup_008": {
+    "src": "Increased Psyncer Class to [A1]\n\nThese costumes were added to BONUS: \n\"Q Head\"\n\"Robot Arm\"",
+    "yax": "Увеличен класс Psyncer до [A1]\n\nВ БОНУС были добавлены костюмы: \n\"Q Head\"\n\"Рука робота\"",
+    "trx": "Класс псинкера повышен до [A1]\n\nВ БОНУС были добавлены костюмы: \n\"Голова Q\"\n\"Руки робота\""
+  },
+  "evaluation_rankup_009": {
+    "src": "Increased Psyncer Class to [S3]\n\nThese costumes were added to BONUS: \n\"Despair Bear Head\"\n\"Ador-Pet\"",
+    "yax": "Увеличен класс Psyncer до [S3]\n\nВ БОНУС были добавлены костюмы: \n\"Медвежья голова отчаяния\"\n\"Адор-Пэт\"",
+    "trx": "Класс псинкера повышен до [S3]\n\nВ БОНУС были добавлены костюмы: \n\"Медвежья голова Goodbye Despair\"\n\"Обожаемый питомец\""
+  },
+  "evaluation_rankup_010": {
+    "src": "Increased Psyncer Class to [S2]\n\nThese costumes were added to BONUS: \n\"T-shirt: AI2\"\n\"Black Hair\"",
+    "yax": "Увеличен класс Psyncer до [S2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: AI2\"\n\"Черные волосы\"",
+    "trx": "Класс псинкера повышен до [S2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: AI2\"\n\"Черные волосы\""
+  },
+  "evaluation_rankup_011": {
+    "src": "Increased Psyncer Class to [S1]\n\nThese costumes were added to BONUS: \n\"Blue Person\"",
+    "yax": "Увеличен класс Psyncer до [S1]\n\nВ БОНУС были добавлены костюмы: \n\"Голубой человек\"",
+    "trx": "Класс псинкера повышен до [S1]\n\nВ БОНУС были добавлены костюмы: \n\"Синий человек\""
+  },
+  "evaluation_name_001": {
+    "src": "C3",
+    "yax": "C3",
+    "trx": "C3"
+  },
+  "evaluation_name_002": {
+    "src": "C2",
+    "yax": "C2",
+    "trx": "C2"
+  },
+  "evaluation_name_003": {
+    "src": "C1",
+    "yax": "C1",
+    "trx": "C1"
+  },
+  "evaluation_name_004": {
+    "src": "B3",
+    "yax": "B3",
+    "trx": "B3"
+  },
+  "evaluation_name_005": {
+    "src": "B2",
+    "yax": "B2",
+    "trx": "B2"
+  },
+  "evaluation_name_006": {
+    "src": "B1",
+    "yax": "В1",
+    "trx": "В1"
+  },
+  "evaluation_name_007": {
+    "src": "A3",
+    "yax": "A3",
+    "trx": "A3"
+  },
+  "evaluation_name_008": {
+    "src": "A2",
+    "yax": "A2",
+    "trx": "A2"
+  },
+  "evaluation_name_009": {
+    "src": "A1",
+    "yax": "A1",
+    "trx": "A1"
+  },
+  "evaluation_name_010": {
+    "src": "S3",
+    "yax": "S3",
+    "trx": "S3"
+  },
+  "evaluation_name_011": {
+    "src": "S2",
+    "yax": "S2",
+    "trx": "S2"
+  },
+  "evaluation_name_012": {
+    "src": "S1",
+    "yax": "S1",
+    "trx": "S1"
+  },
+  "evaluation_notification_001": {
+    "src": "Obtained Achievement Evals",
+    "yax": "Полученные Оценки Достижений",
+    "trx": "Полученные достижения"
+  },
+  "evaluation_message_001": {
+    "src": "Achievement Evals Obtained List",
+    "yax": "Список полученных оценок достижений",
+    "trx": "Список полученных достижений"
+  }
+}
