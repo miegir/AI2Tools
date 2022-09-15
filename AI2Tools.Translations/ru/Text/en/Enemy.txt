@@ -1,0 +1,7 @@
+{
+  "mapname_001": {
+    "src": "Sunfish pocket",
+    "yax": "Карман для рыбы-солнца",
+    "trx": "Sunfish pocket"
+  }
+}

@@ -652,7 +652,7 @@
   "file_profile_6ys_120": {
     "src": "The prime suspect for the HB case. Wears an iron mask.",
     "yax": "Главный подозреваемый по делу НВ. Носит железную маску.",
-    "trx": "Главный подозреваемый по делу с половинами тела. Носит железную маску."
+    "trx": "Главный подозреваемый по делу с половинами тел. Носит железную маску."
   },
   "file_profile_6ys_121": {
     "src": "Jin Furue",
@@ -877,7 +877,7 @@
   "file_profile_6ys_165": {
     "src": "Commander of ABIS",
     "yax": "Командир АБИС",
-    "trx": "Начальник ABIS"
+    "trx": "Командир ABIS"
   },
   "file_profile_6ys_166": {
     "src": "Wine, Gourd Dolls, Anything Shiny and Black",
@@ -1627,7 +1627,7 @@
   "file_profile_6ys_315": {
     "src": "Inspector, Police HQ Forensics Division",
     "yax": "Инспектор Отдела судебно-медицинской экспертизы Главного полицейского управления",
-    "trx": "Инспектор отдела криминалистики Главного полицейского управления"
+    "trx": "Инспектор отдела криминалистики Столичного полицейского управления"
   },
   "file_profile_6ys_316": {
     "src": "Earpicks, Dandelions, Afros, Keseran-Pasaran",

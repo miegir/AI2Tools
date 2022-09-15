@@ -62,7 +62,7 @@
   "tutorial_015": {
     "src": "Right now, you can use <color=yellow>zoom + night vision mode function.</color>\nSelect <color=yellow>《Zoom NV》icon</color> to inspect the enemy in the Audience Seat.",
     "yax": "Прямо сейчас вы можете использовать функцию <цвет = желтый> масштабирование + режим ночного видения.</color>\nВыберите <color=yellow>《Увеличить изображение》значок</color>, чтобы осмотреть врага на зрительском месте.",
-    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага на зрительском сиденье."
+    "trx": "Прямо сейчас можно использовать <color=yellow>увеличение (Зум) + ночное видение (НВ).</color>\nВыберите <color=yellow>значок 《Зум НВ》</color>, чтобы рассмотреть врага в районе зрительских мест."
   },
   "tutorial_title_007": {
     "src": "Aiba's Trivia",
@@ -87,7 +87,7 @@
   "tutorial_018": {
     "src": "Once you can move to a different area,\n<color=yellow>《Map》</color> will be displayed on the bottom of the screen.",
     "yax": "Как только вы сможете перейти в другую область,\n<color=yellow>《Карта》</color> будет отображаться в нижней части экрана.",
-    "trx": "Когда станет доступно перемещение в другую область,\nв нижней части экрана отобразится <color=yellow>значок 《Карта》</color>."
+    "trx": "Когда станет доступно перемещение в другую область,\nв нижней части экрана появится <color=yellow>значок 《Карта》</color>."
   },
   "tutorial_019": {
     "src": "Use 《Map》 to open the Map and choose a destination.",
@@ -152,7 +152,7 @@
   "tutorial_028": {
     "src": "If you want to exit the game, you can go back to the title screen from <color=yellow>《TOP MENU》</color> located on the bottom left.",
     "yax": "Если вы хотите выйти из игры, вы можете вернуться к титульному экрану из <color=yellow>《ВЕРХНЕЕ МЕНЮ》</color>, расположенное в левом нижнем углу.",
-    "trx": "Чтобы выйти из игры, нужно вернуться на главный экран, нажав <color=yellow>《ГЛАВНОЕ МЕНЮ》</color> в левом нижнем углу."
+    "trx": "Чтобы выйти из игры, нужно вернуться на главный экран, нажав\n<color=yellow>《ГЛАВНОЕ МЕНЮ》</color> в левом нижнем углу."
   },
   "tutorial_title_012": {
     "src": "File Investigation Documents",
@@ -172,7 +172,7 @@
   "tutorial_030": {
     "src": "《FLOWCHART》 will allow you to check <color=yellow>the flow of the story</color> and <color=yellow>branching points</color>. This will be populated with chapters as you progress the story.",
     "yax": "\"БЛОК-СХЕМА\" позволит вам проверить <color=yellow>ход истории</color> и <color=yellow>точки ветвления</color>. Он будет заполняться главами по мере продвижения истории.",
-    "trx": "《FLOWCHART》 позволяет увидеть <color=yellow>ход истории</color> и <color=yellow>точки ветвления</color>. Она заполняется главами по мере прохождения игры."
+    "trx": "《ХРОНОЛОГИЯ》 позволяет увидеть <color=yellow>ход истории</color> и <color=yellow>точки ветвления</color>. Она заполняется главами по мере прохождения игры."
   },
   "tutorial_031": {
     "src": "When you select Chapter from the <color=yellow>《Destination List》</color> you can <color=yellow>jump to different points in the story</color>.",
@@ -197,7 +197,7 @@
   "tutorial_033": {
     "src": "There are many mysteries remaining.\nThe truth of the HB case, Tearer's objective...\nThe future of the main characters...",
     "yax": "Остается еще много загадок.\nПравда о деле НВ, цель Тиррера...\nБудущее главных героев...",
-    "trx": "Остается еще много загадок.\nПравда о деле с половинами тела, цель Рассекателя...\nБудущее главных героев..."
+    "trx": "Остается еще много загадок.\nПравда о деле с половинами тел, цель Рассекателя...\nБудущее главных героев..."
   },
   "tutorial_034": {
     "src": "In this game, <color=yellow>《the story branches at the Somnia》</color>.",
@@ -312,7 +312,7 @@
   "tutorial_048": {
     "src": "Higher ranks earn <color=yellow>better prizes</color>.",
     "yax": "Более высокие звания приносят <color=yellow>лучшие призы</color>.",
-    "trx": "Более высокий ранг дает <color=yellow>лучшие призы</color>."
+    "trx": "Более высокий ранг дает <color=yellow>лучшие награды</color>."
   },
   "tutorial_title_024": {
     "src": "Somnium",

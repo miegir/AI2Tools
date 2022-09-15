@@ -1,0 +1,197 @@
+{
+  "map_001": {
+    "src": "ABIS HQ",
+    "yax": "ШТАБ-КВАРТИРА АБИС",
+    "trx": "Штаб-квартира ABIS"
+  },
+  "map_002": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная Кафе Sunfish Pocket",
+    "trx": "Мэйдо-кафе Sunfish Pocket"
+  },
+  "map_003": {
+    "src": "Bloom Park",
+    "yax": "Блум-парк",
+    "trx": "Блум-парк" //spell-ignore-line
+  },
+  "map_004": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "Марбл"
+  },
+  "map_005": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис семьи Кумакура"
+  },
+  "map_006": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
+  },
+  "map_007": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "map_008": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "map_009": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "map_010": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "map_011": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "map_012": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "map_013": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "map_014": {
+    "src": "Naix Japan Branch",
+    "yax": "Филиал Naix в Японии",
+    "trx": "Японское отделение Naix"
+  },
+  "map_015": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
+  },
+  "map_016": {
+    "src": "Misetan Department Store",
+    "yax": "Универмаг Мисетан",
+    "trx": "Универмаг Мисетан"
+  },
+  "map_017": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "Закусочная Мацуситы"
+  },
+  "map_018": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый Складской район",
+    "trx": "Район портовых складов"
+  },
+  "map_019": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "Резиденция семьи Саган"
+  },
+  "map_020": {
+    "src": "Aioen Garden",
+    "yax": "Сад Айоен",
+    "trx": "Сад Айоен"
+  },
+  "map_021": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "Центральная больница"
+  },
+  "map_022": {
+    "src": "Aioen Garden",
+    "yax": "Сад Айоен",
+    "trx": "Сад Айоен"
+  },
+  "map_023": {
+    "src": "Talent Agency Lemniscate",
+    "yax": "Агентство талантов Lemniscate",
+    "trx": "Агентство талантов Лемнискейт"
+  },
+  "map_024": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "Офис семьи Кумакура"
+  },
+  "map_025": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "map_026": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "Резиденция семьи Энда"
+  },
+  "map_027": {
+    "src": "Brahman World Cuisine",
+    "yax": "Мировая кухня Брахманов",
+    "trx": "Мировая кухня Брахман"
+  },
+  "map_028": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "Марбл"
+  },
+  "map_029": {
+    "src": "Ikume Shrine",
+    "yax": "Храм Икуме",
+    "trx": "Храм Икуме"
+  },
+  "map_030": {
+    "src": "Golden Yokocho",
+    "yax": "Золотой Йокочо",
+    "trx": "Голден Йокотё"
+  },
+  "map_031": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Двайта",
+    "trx": "Студия Двайта"
+  },
+  "map_032": {
+    "src": "Horadori Institute of Genetics",
+    "yax": "Институт генетики Горадори",
+    "trx": "Институт генетики Хорадори"
+  },
+  "map_033": {
+    "src": "Talent Agency Lemniscate",
+    "yax": "Агентство талантов Lemniscate",
+    "trx": "Агентство талантов Лемнискейт"
+  },
+  "map_034": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "Стадион"
+  },
+  "map_035": {
+    "src": "Department Store Misetan",
+    "yax": "Универмаг Misetan",
+    "trx": "Универмаг Мисетан"
+  },
+  "map_500": {
+    "src": "Date Residence",
+    "yax": "Дата Проживания",
+    "trx": "Резиденция Датэ"
+  },
+  "map_501": {
+    "src": "Metropolitan Police Department",
+    "yax": "Столичное полицейское управление",
+    "trx": "Столичное полицейское управление"
+  },
+  "map_502": {
+    "src": "Gigantic",
+    "yax": "Гигантский",
+    "trx": "Гигантик" //spell-ignore-line
+  },
+  "map_503": {
+    "src": "Boss Residence",
+    "yax": "Резиденция босса",
+    "trx": "Резиденция босса"
+  }
+}
