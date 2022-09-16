@@ -5,17 +5,17 @@ namespace AI2Tools;
 
 internal partial class TextMapManager
 {
+    private const string YaxPrefix = "☯️";
+
     private static readonly MessagePackSerializerOptions MessageOptions =
         MessagePackSerializerOptions.Standard.WithCompression(MessagePackCompression.Lz4BlockArray);
 
     private readonly Dictionary<string, string> messages;
     private readonly ILogger logger;
-    private readonly FileSource source;
 
     public TextMapManager(ILogger logger, FileSource source)
     {
         this.logger = logger;
-        this.source = source;
 
         try
         {
@@ -61,7 +61,7 @@ internal partial class TextMapManager
                     continue;
                 }
 
-                messages[key] = TextCompressor.Compress(obj.Trx);
+                messages[key] = TextCompressor.Compress(Parse(obj.Trx));
             }
             else
             {
@@ -73,9 +73,14 @@ internal partial class TextMapManager
 
                 if (debugName != null)
                 {
-                    messages[key] = $"{msg} [{debugName}:{key}]";
+                    messages[key] = Dbg($"[M] {msg}");
                 }
             }
+
+            string Dbg(string msg) => $"{msg} [{debugName}:{key}]";
+            string Parse(string msg) => msg.StartsWith(YaxPrefix)
+                ? Dbg($"[Y] {msg[YaxPrefix.Length..]}")
+                : msg;
         }
 
         foreach (var key in translations.Keys)

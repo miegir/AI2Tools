@@ -1,4 +1,4 @@
-{
+{//TBT
   "file_info_001": {
     "src": "This document was written for ABIS investigators. I, an ABIS office worker, am the author. I have collected information from AI-Balls and selected information that I thought needed additional explanation. \nThis might contain information that you already know, but is included here just in case. Investigations are dangerous. You might lose your memory due to an accident. You can use this to regain your memory if that happens. ",
     "yax": "Этот документ был написан для следователей ABIS. Я, офисный работник ABIS, являюсь автором. Я собрал информацию из AI-Balls и отобрал информацию, которая, по моему мнению, нуждалась в дополнительном объяснении. \nЭто может содержать информацию, которая вам уже известна, но включена здесь на всякий случай. Расследования опасны. Вы можете потерять память из-за несчастного случая. Вы можете использовать это, чтобы восстановить свою память, если это произойдет. ",
