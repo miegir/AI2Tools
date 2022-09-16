@@ -2,7 +2,7 @@
   "file_trivia_001": {
     "src": "Regarding Tearer... \"Tear\" has two meanings. \"Tear\" can mean tears when you cry. The other \"tear\" means to rip something. The culprit of the HB case is more a reference to the latter. By adding an -er at the end of tear, we get Tearer.",
     "yax": "Что касается Разрывателя... \"Слеза\" имеет два значения. \"Слеза\" может означать слезы, когда вы плачете. Другое \"разорвать\" означает разорвать что-то. Виновник дела HB - это скорее отсылка к последнему. Добавляя -er в конце слова tear, мы получаем более слезливый.",
-    "trx": "Я слышала, что в других переводах Рассекателя называют Tearer... Это имя происходит от слова \"Tear\", которое имеет два значения. Первое значение — лить слезы. Второе — разрывать. Имя преступника в деле ПТ — это отсылка ко второму значению. При добавлении суффикса \"-er\" (тот, кто это делает) как раз и получается \"Tearer\". В русском переводе авторы решили назвать его Рассекателем, потому что он не просто рвет тела, а \"рассекает\" их пополам."
+    "trx": "В других переводах Рассекателя называют Tearer... Это имя происходит от слова \"Tear\", которое имеет два значения. Первое значение — лить слезы. Второе — разрывать. Имя преступника в деле ПТ — это отсылка ко второму значению. При добавлении суффикса \"-er\" (тот, кто это делает) как раз и получается \"Tearer\". В русском переводе авторы решили назвать его Рассекателем, потому что он не просто рвет тела, а \"рассекает\" их пополам."
   },
   "file_trivia_002": {
     "src": "Date is an ABIS Special Agent who lived with Mizuki until seven years ago. He's Mizuki's adoptive father. Back then, I was Date's partner on investigations. I was nestled in Date's left eye socket. Ever since the explosion six years ago, he's been missing...",
@@ -22,12 +22,12 @@
   "file_trivia_500": {
     "src": "Oh, by the way, this case and the New Cyclops Serial Killings are not related. Though that is just a hunch... So don't worry about it.",
     "yax": "Да, кстати, это дело и Новые серийные убийства Циклопов никак не связаны. Хотя это всего лишь догадка... Так что не беспокойся об этом.",
-    "trx": "Да, кстати, это дело и серийные убийства нового Циклопа никак между собой не связаны. Хотя это всего лишь догадка... Так что не переживайте на этот счет."
+    "trx": "Да, кстати, это дело и серийные убийства нового Циклопа никак между собой не связаны. Хотя это всего лишь предположение... Так что не переживайте на этот счет."
   },
   "file_trivia_005": {
     "src": "Oh, by the way, this case and the New Cyclops Serial Killings are not related. Though that is just a hunch...",
     "yax": "Да, кстати, это дело и Новые серийные убийства Циклопов никак не связаны. Хотя это всего лишь догадка...",
-    "trx": "Да, кстати, это дело и серийные убийства нового Циклопа никак не связаны. Хотя это всего лишь догадка..."
+    "trx": "Да, кстати, это дело и серийные убийства нового Циклопа никак не связаны. Хотя это всего лишь предположение..."
   },//TBT
   "file_trivia_006": {
     "src": "\"Reika\" is a hostess girl Date has been eyeing. She works the hostess bar \"Tiefblau.\" Unfortunately, I've never met her, but according to Aiba she looks like a giant stone lantern or an old oil drum...",
