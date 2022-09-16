@@ -22,7 +22,7 @@
   "map_005": {
     "src": "Kumakura Office",
     "yax": "Офис в Кумакуре",
-    "trx": "Офис семьи Кумакура"
+    "trx": "Офис Кумакуры"
   },
   "map_006": {
     "src": "Yoyagi Park",
@@ -117,7 +117,7 @@
   "map_024": {
     "src": "Kumakura Office",
     "yax": "Офис в Кумакуре",
-    "trx": "Офис семьи Кумакура"
+    "trx": "Офис Кумакуры"
   },
   "map_025": {
     "src": "Studio Dvaita",

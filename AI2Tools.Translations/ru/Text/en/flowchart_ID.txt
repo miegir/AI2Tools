@@ -702,7 +702,7 @@
   "flowchart_report_507": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_508": {
     "src": "ABIS HQ Psync Room",
@@ -767,7 +767,7 @@
   "flowchart_report_520": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_521": {
     "src": "ABIS HQ Psync Room",
@@ -842,7 +842,7 @@
   "flowchart_report_535": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_536": {
     "src": "Enda Residence",
@@ -962,7 +962,7 @@
   "flowchart_report_559": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_560": {
     "src": "Enda Residence",
@@ -1107,7 +1107,7 @@
   "flowchart_report_588": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_589": {
     "src": "ABIS HQ Boss's Room",
@@ -1212,7 +1212,7 @@
   "flowchart_report_609": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_610": {
     "src": "Naix Japan Cathedral",
@@ -1377,7 +1377,7 @@
   "flowchart_report_642": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_643": {
     "src": "Horadori Institute of Genetics",
@@ -1572,7 +1572,7 @@
   "flowchart_report_681": {
     "src": "ABIS HQ Psync Control Room",
     "yax": "Диспетчерская Psync штаб-квартиры ABIS",
-    "trx": "Комната управления псинхронизацией ABIS"
+    "trx": "Диспетчерская псинхронизации ABIS"
   },
   "flowchart_report_682": {
     "src": "Stadium",
