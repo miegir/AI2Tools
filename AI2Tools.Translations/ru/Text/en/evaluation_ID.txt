@@ -432,7 +432,7 @@
   "evaluation_title_044": {
     "src": "Stan Boss.",
     "yax": "Стэн Босс.",
-    "trx": "Фанат Босса"
+    "trx": "Поклонник Босса"
   },
   "evaluation_summary_044": {
     "src": "Inspect every object in Boss's room.\nMy room is in the same state.",
