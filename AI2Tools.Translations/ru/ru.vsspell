@@ -20,6 +20,7 @@
     <Expression Match=".*//spell-ignore-line" />
     <Expression Match="\&quot;(src|yax|path)\&quot;.*$" />
     <Expression Match="\&quot;trx\&quot;\:(?# trx header)" />
+    <Expression Match="\\&quot;-er\\&quot;" />
     <Expression Match="\\&quot;Нави\\&quot;" />
     <Expression Match="\\n" />
     <Expression Match="\b[Аа]аа+!" />
@@ -30,11 +31,10 @@
     <Expression Match="\b[Мм]эйдо-кафе" />
     <Expression Match="\bвы?кл\." />
     <Expression Match="\bмм+\b" />
-    <Expression Match="\bХа(ха)+!" />
+    <Expression Match="\bХа(ха)+\b" />
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\\&quot;-er\\&quot;" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>

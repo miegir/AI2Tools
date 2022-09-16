@@ -14,6 +14,7 @@ public partial class BundleResource : IResource
         "image*.bundle",
         "etc*.bundle",
         "ui*.bundle",
+        "item-md_iib???_assets_all*.bundle"
     };
 
     private readonly ILogger logger;

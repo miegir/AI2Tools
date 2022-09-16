@@ -368,3 +368,4 @@ launchSettings.json
 # Pipeline artifacts
 *-decompressed
 *.zip
+*.code.txt

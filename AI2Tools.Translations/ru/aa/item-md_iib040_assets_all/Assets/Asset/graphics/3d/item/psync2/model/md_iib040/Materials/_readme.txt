@@ -1,0 +1,1 @@
+﻿Шрифт: Banschrift Light Condensed
