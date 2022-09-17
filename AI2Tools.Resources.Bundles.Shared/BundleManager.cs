@@ -20,8 +20,8 @@ internal partial class BundleManager
 
     public void Unpack(UnpackArguments arguments, ObjectPath root)
     {
-        var assetReplacers = new List<AssetsReplacer>();
         using var bundleFile = new BundleFile(logger, source.OpenRead());
+        var resourceCollector = bundleFile.CreateResourceCollector();
 
         Enumerate()
             .Scoped(logger, "asset")
@@ -35,10 +35,34 @@ internal partial class BundleManager
             _ => AssetBundleCompressionType.NONE,
         };
 
-        bundleFile.Write(source, assetReplacers, compression);
+        resourceCollector.Write(source, compression);
 
         IEnumerable<Action> Enumerate()
         {
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.GameObject))
+            {
+                var gameObject = bundleFile.ResolveGameObject(asset);
+                if (gameObject == null)
+                {
+                    continue;
+                }
+
+                var name = gameObject.GetPath();
+                if (string.IsNullOrEmpty(name))
+                {
+                    continue;
+                }
+
+                if (arguments.Container.TryGetEntry(root.Append(name + ".god"), out var entry))
+                {
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing game object {name}...", name);
+                        resourceCollector.AddReplacer(gameObject.Asset, entry.AsObjectSource<GameObjectData>());
+                    };
+                }
+            }
+
             foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
             {
                 var name = bundleFile.ReadAssetName(asset, DefaultTexture2DExtension);
@@ -47,7 +71,7 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         logger.LogInformation("importing texture {name}...", name);
-                        assetReplacers.Add(bundleFile.CreateReplacer(asset, entry.AsObjectSource<Texture2DData>()));
+                        resourceCollector.AddReplacer(asset, entry.AsObjectSource<Texture2DData>());
                     };
                 }
             }
@@ -60,7 +84,7 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         logger.LogInformation("importing text {name}...", name);
-                        assetReplacers.Add(bundleFile.CreateReplacer(asset, entry.AsObjectSource<string>()));
+                        resourceCollector.AddReplacer(asset, entry.AsObjectSource<string>());
                     };
                 }
             }
@@ -74,7 +98,7 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         logger.LogInformation("importing font {name}...", name);
-                        assetReplacers.Add(bundleFile.CreateReplacer(asset, fntEntry.AsObjectSource<FontAssetData>()));
+                        resourceCollector.AddReplacer(asset, fntEntry.AsObjectSource<FontAssetData>());
                     };
                 }
 
@@ -83,14 +107,34 @@ internal partial class BundleManager
                     yield return () =>
                     {
                         logger.LogInformation("importing text mesh pro {name}...", name);
-                        assetReplacers.Add(bundleFile.CreateReplacer(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>()));
+                        resourceCollector.AddReplacer(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>());
+                    };
+                }
+            }
+
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.VideoClip))
+            {
+                var baseField = bundleFile.GetBaseField(asset);
+                var fileData = new VideoClipFileData(baseField);
+                if (!fileData.IsValid) continue;
+                var name = fileData.OriginalPath;
+                if (arguments.Container.TryGetEntry(root.Append(name), out var entry))
+                {
+                    yield return () =>
+                    {
+                        logger.LogInformation("importing video clip {name}...", name);
+                        resourceCollector.AddResourceReplacer(
+                            asset,
+                            fileData.ResourceName,
+                            entry.AsStreamSource(),
+                            fileData.Write);
                     };
                 }
             }
         }
     }
 
-    private static AssetBundleCompressionType GetCompressionType(IStreamSource source)
+    private static AssetBundleCompressionType GetCompressionType(IFileStreamSource source)
     {
         using var stream = source.OpenRead();
 

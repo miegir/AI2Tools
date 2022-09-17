@@ -26,24 +26,24 @@ public partial class FontAssetData : IWriteTo
     public class FaceInfo
     {
         [Key(00)] public int m_FaceIndex;
-		[Key(01)] public string? m_FamilyName;
-		[Key(02)] public string? m_StyleName;
-		[Key(03)] public int m_PointSize;
-		[Key(04)] public float m_Scale;
-		[Key(05)] public float m_LineHeight;
-		[Key(06)] public float m_AscentLine;
-		[Key(07)] public float m_CapLine;
-		[Key(08)] public float m_MeanLine;
-		[Key(09)] public float m_Baseline;
-		[Key(10)] public float m_DescentLine;
-		[Key(11)] public float m_SuperscriptOffset;
-		[Key(12)] public float m_SuperscriptSize;
-		[Key(13)] public float m_SubscriptOffset;
-		[Key(14)] public float m_SubscriptSize;
-		[Key(15)] public float m_UnderlineOffset;
-		[Key(16)] public float m_UnderlineThickness;
-		[Key(17)] public float m_StrikethroughOffset;
-		[Key(18)] public float m_StrikethroughThickness;
+        [Key(01)] public string? m_FamilyName;
+        [Key(02)] public string? m_StyleName;
+        [Key(03)] public int m_PointSize;
+        [Key(04)] public float m_Scale;
+        [Key(05)] public float m_LineHeight;
+        [Key(06)] public float m_AscentLine;
+        [Key(07)] public float m_CapLine;
+        [Key(08)] public float m_MeanLine;
+        [Key(09)] public float m_Baseline;
+        [Key(10)] public float m_DescentLine;
+        [Key(11)] public float m_SuperscriptOffset;
+        [Key(12)] public float m_SuperscriptSize;
+        [Key(13)] public float m_SubscriptOffset;
+        [Key(14)] public float m_SubscriptSize;
+        [Key(15)] public float m_UnderlineOffset;
+        [Key(16)] public float m_UnderlineThickness;
+        [Key(17)] public float m_StrikethroughOffset;
+        [Key(18)] public float m_StrikethroughThickness;
         [Key(19)] public float m_TabWidth;
     }
 

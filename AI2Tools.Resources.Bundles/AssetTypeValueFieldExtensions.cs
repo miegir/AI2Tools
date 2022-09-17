@@ -20,6 +20,22 @@ internal static partial class AssetTypeValueFieldExtensions
         }
     }
 
+    public static void Read(this AssetTypeValueField field, ref long value)
+    {
+        if (!field.IsDummy())
+        {
+            value = field.GetValue().AsInt64();
+        }
+    }
+
+    public static void Read(this AssetTypeValueField field, ref ulong value)
+    {
+        if (!field.IsDummy())
+        {
+            value = field.GetValue().AsUInt64();
+        }
+    }
+
     public static void Read(this AssetTypeValueField field, ref uint value)
     {
         if (!field.IsDummy())

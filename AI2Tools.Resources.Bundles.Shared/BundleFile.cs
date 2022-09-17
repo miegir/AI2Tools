@@ -1,4 +1,5 @@
-﻿using AssetsTools.NET;
+﻿using System.IO;
+using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
 
@@ -39,37 +40,9 @@ internal partial class BundleFile : IDisposable
         }
     }
 
-    public void Write(FileSource source, List<AssetsReplacer> assetReplacers, AssetBundleCompressionType compression)
+    public BundleResourceCollector CreateResourceCollector()
     {
-        var writer = new BundleWriter(logger, bundleFileInstance.file, source);
-
-        writer.Replacers.Add(new BundleReplacerFromAssets(
-            oldName: assetsFileInstance.name,
-            newName: null,
-            assetsFile: assetsFileInstance.file,
-            assetReplacers: assetReplacers));
-
-        writer.Write(compression);
-    }
-
-    public AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<Texture2DData> source)
-    {
-        return new Texture2DAssetReplacer(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    public AssetsReplacer CreateReplacer(AssetFileInfoEx asset, IObjectSource<string> source)
-    {
-        return new TextAssetReplacer(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    public AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, IObjectSource<TData> source) where TData : IWriteTo
-    {
-        return new WriteToAssetReplacer<TData>(assetsManager, assetsFileInstance, asset, source);
-    }
-
-    public AssetsReplacer CreateReplacer<TData>(AssetFileInfoEx asset, TData data) where TData : IWriteTo
-    {
-        return CreateReplacer(asset, DelegateObjectSource.Create(() => data));
+        return new BundleResourceCollector(logger, assetsManager, bundleFileInstance, assetsFileInstance);
     }
 
     public IEnumerable<AssetFileInfoEx> GetAssets(AssetClassID typeId)
@@ -198,6 +171,17 @@ internal partial class BundleFile : IDisposable
         var asset = assetsManager.GetExtAsset(assetsFileInstance, 0, pathId);
         if (asset.instance == null) return default;
         gameObject = new GameObject(asset.info, asset.instance.GetBaseField());
+        gameObjectMap.Add(pathId, gameObject);
+        return gameObject;
+    }
+
+    public GameObject? ResolveGameObject(AssetFileInfoEx asset)
+    {
+        if (asset.curFileType != (int)AssetClassID.GameObject) return null;
+        var pathId = asset.index;
+        if (gameObjectMap.TryGetValue(pathId, out var gameObject)) return gameObject;
+        var baseField = GetBaseField(asset);
+        gameObject = new GameObject(asset, baseField);
         gameObjectMap.Add(pathId, gameObject);
         return gameObject;
     }

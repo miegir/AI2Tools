@@ -49,7 +49,7 @@ internal class BundleFileSource : IDisposable
             return null;
         }
 
-        return DelegateObjectSource.Create(() => new Texture2DData(
+        return ObjectSource.Create(() => new Texture2DData(
             Format: (TextureFormat)textureFile.m_TextureFormat,
             Width: textureFile.m_Width,
             Height: textureFile.m_Height,
@@ -83,7 +83,7 @@ internal class BundleFileSource : IDisposable
 
             if (validator == null)
             {
-                return DelegateObjectSource.Create(() => factory(context));
+                return ObjectSource.Create(() => factory(context));
             }
 
             var value = factory(context);
@@ -92,7 +92,7 @@ internal class BundleFileSource : IDisposable
                 continue;
             }
 
-            return DelegateObjectSource.Create(() => value);
+            return ObjectSource.Create(() => value);
         }
 
         return null;
@@ -105,33 +105,9 @@ internal class BundleFileSource : IDisposable
             return textureFile.pictureData;
         }
 
-        if (!string.IsNullOrEmpty(textureFile.m_StreamData.path)
-            && textureFile.m_StreamData.size > 0)
-        {
-            var path = textureFile.m_StreamData.path;
-            if (path.StartsWith("archive:/"))
-            {
-                if (bundleFile is null) return null;
-                var index = path.LastIndexOf('/');
-                var name = path[(index + 1)..];
-                return bundleFile.ReadResource(
-                    name,
-                    (int)textureFile.m_StreamData.offset,
-                    (int)textureFile.m_StreamData.size);
-            }
-
-            if (!File.Exists(path))
-            {
-                return null;
-            }
-
-            using var stream = File.OpenRead(path);
-            stream.Position = (long)textureFile.m_StreamData.offset;
-            var data = new byte[textureFile.m_StreamData.size];
-            stream.Read(data, 0, data.Length);
-            return data;
-        }
-
-        return null;
+        return bundleFile.ReadResourceFromPath(
+            textureFile.m_StreamData.path,
+            (long)textureFile.m_StreamData.offset,
+            textureFile.m_StreamData.size);
     }
 }

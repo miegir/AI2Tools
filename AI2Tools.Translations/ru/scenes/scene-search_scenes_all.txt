@@ -1,5 +1,11 @@
 ﻿[
   {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject (1)/cinesco Variant/adjust",
+    "data": {
+      "active": false
+    }
+  },
+  {
     "path": "_root/Canvas2/ScreenScaler2/GameObject/optionbutton Variant/adjust/background/color01/text_ryuki (TMP)",
     "text": "Сторона\nРюки"
   },

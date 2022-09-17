@@ -2,5 +2,5 @@
 
 public interface IStreamSource
 {
-    FileStream OpenRead();
+    Stream OpenRead();
 }

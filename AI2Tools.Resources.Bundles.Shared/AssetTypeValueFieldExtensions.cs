@@ -28,6 +28,22 @@ internal static partial class AssetTypeValueFieldExtensions
         }
     }
 
+    public static void Write(this AssetTypeValueField field, long value)
+    {
+        if (!field.IsDummy())
+        {
+            field.GetValue().Set(value);
+        }
+    }
+
+    public static void Write(this AssetTypeValueField field, ulong value)
+    {
+        if (!field.IsDummy())
+        {
+            field.GetValue().Set(value);
+        }
+    }
+
     public static void Write(this AssetTypeValueField field, float value)
     {
         if (!field.IsDummy())
@@ -44,12 +60,22 @@ internal static partial class AssetTypeValueFieldExtensions
         }
     }
 
+    public static void Write<T>(this AssetTypeValueField field, T? value) where T : IWriteTo
+    {
+        Write(field, value, (f, v) => v.WriteTo(f));
+    }
+
     public static void Write<T>(this AssetTypeValueField field, T? value, Action<AssetTypeValueField, T> writer)
     {
         if (value is not null && !field.IsDummy())
         {
             writer(field, value);
         }
+    }
+
+    public static void Write<T>(this AssetTypeValueField field, T[]? value) where T : IWriteTo
+    {
+        Write(field, value, (f, v) => v.WriteTo(f));
     }
 
     public static void Write<T>(this AssetTypeValueField field, T[]? value, Action<AssetTypeValueField, T> writer)

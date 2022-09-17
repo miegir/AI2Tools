@@ -67,7 +67,7 @@ public partial class TextMapResource : IResource
                 {
                     var objectSource = sourceExists
                         ? new TranslationSource(sourcePath)
-                        : DelegateObjectSource.Create<Dictionary<string, TextMapTranslation>>();
+                        : ObjectSource.Create<Dictionary<string, TextMapTranslation>>();
 
                     manager.Import(objectSource, arguments.Debug ? name : null);
                 }

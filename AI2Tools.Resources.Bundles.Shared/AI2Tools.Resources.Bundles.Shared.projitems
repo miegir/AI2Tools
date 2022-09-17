@@ -13,7 +13,13 @@
     <Compile Include="$(MSBuildThisFileDirectory)BundleFile.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleResource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BundleResourceBlob.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BundleResourceCollector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BundleWriter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameObjectData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameObjectReplacer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ResourceReplacerContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VideoClipFileData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)WriteToAssetReplacer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FontAssetData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameObject.cs" />

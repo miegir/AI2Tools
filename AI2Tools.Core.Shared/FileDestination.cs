@@ -1,6 +1,6 @@
 ﻿namespace AI2Tools;
 
-public sealed class FileDestination : IStreamSource
+public sealed class FileDestination : IFileStreamSource
 {
     private readonly string path;
 

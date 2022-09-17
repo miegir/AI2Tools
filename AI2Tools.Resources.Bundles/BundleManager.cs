@@ -103,7 +103,7 @@ internal partial class BundleManager
                 if (!arguments.Force && File.Exists(path)) continue;
                 yield return () =>
                 {
-                    logger.LogInformation(message: "exporting text {name}...", name);
+                    logger.LogInformation("exporting text {name}...", name);
 
                     var baseField = bundleFile.GetBaseField(asset);
                     var script = baseField["m_Script"].GetValue().AsString();
@@ -114,6 +114,36 @@ internal partial class BundleManager
                         writer.Write(script);
                     }
 
+                    target.Commit();
+                };
+            }
+
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.VideoClip))
+            {
+                var baseField = bundleFile.GetBaseField(asset);
+                var fileData = new VideoClipFileData(baseField);
+                if (!fileData.IsValid) continue;
+                var name = fileData.OriginalPath;
+                var path = Path.Combine(arguments.ExportDirectory, name);
+                if (!arguments.Force && File.Exists(path))
+                {
+                    continue;
+                }
+
+                var data = bundleFile.ReadResourceFromPath(
+                    fileData.ResourceName, fileData.Offset, fileData.Size);
+
+                if (data == null)
+                {
+                    continue;
+                }
+
+                yield return () =>
+                {
+                    logger.LogInformation("exporting video clip {name}...", name);
+
+                    using var target = new FileTarget(path);
+                    target.Stream.Write(data, 0, data.Length);
                     target.Commit();
                 };
             }
@@ -142,30 +172,48 @@ internal partial class BundleManager
                 var gameObject = bundleFile.GameObjects.Find(entry.Path);
                 if (gameObject == null) continue;
 
-                foreach (var component in bundleFile.GetComponents(gameObject))
+                if (entry.Data != null)
                 {
-                    if (component.TypeId != AssetClassID.MonoBehaviour)
-                    {
-                        continue;
-                    }
-
-                    var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
-                    if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
-                    {
-                        continue;
-                    }
-
                     yield return () =>
                     {
-                        var name = bundleFile.ReadAssetName(component.Asset, DefaultAssetExtension);
-                        var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".tmprougui.pak");
+                        var name = entry.Path + ".god";
+                        var objectPath = Path.Combine(arguments.ObjectDirectory, name);
                         var builder = new ObjectBuilder(
                             gameObjectSource.Destination, objectPath, arguments.ForceObjects);
 
-                        builder.Build(_ => BuildTextMeshProUGUIData(entry));
+                        builder.Build(_ => entry.Data);
 
-                        arguments.Sink.ReportObject(root.Append(name + ".tmprougui.pak"), objectPath);
+                        arguments.Sink.ReportObject(root.Append(name), objectPath);
                     };
+                }
+
+                if (entry.Text is string text)
+                {
+                    foreach (var component in bundleFile.GetComponents(gameObject))
+                    {
+                        if (component.TypeId != AssetClassID.MonoBehaviour)
+                        {
+                            continue;
+                        }
+
+                        var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
+                        if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
+                        {
+                            continue;
+                        }
+
+                        yield return () =>
+                        {
+                            var name = bundleFile.ReadAssetName(component.Asset, DefaultAssetExtension) + ".tmprougui.pak";
+                            var objectPath = Path.Combine(arguments.ObjectDirectory, name);
+                            var builder = new ObjectBuilder(
+                                gameObjectSource.Destination, objectPath, arguments.ForceObjects);
+
+                            builder.Build(_ => BuildTextMeshProUGUIData(text));
+
+                            arguments.Sink.ReportObject(root.Append(name), objectPath);
+                        };
+                    }
                 }
             }
 
@@ -222,6 +270,20 @@ internal partial class BundleManager
                 };
             }
 
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.VideoClip))
+            {
+                var baseField = bundleFile.GetBaseField(asset);
+                var fileData = new VideoClipFileData(baseField);
+                if (!fileData.IsValid) continue;
+                var name = fileData.OriginalPath;
+                var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                if (!File.Exists(sourcePath)) continue;
+                yield return () =>
+                {
+                    arguments.Sink.ReportObject(root.Append(name), sourcePath);
+                };
+            }
+
             if (bundleFileSource.Exists)
             {
                 foreach (var asset in bundleFile.GetAssets(AssetClassID.MonoBehaviour))
@@ -253,7 +315,6 @@ internal partial class BundleManager
         SourceChangeTracker sourceChangeTracker)
     {
         var hasChanges = arguments.ForceTargets || sourceChangeTracker.HasChanges();
-        var assetReplacers = new List<AssetsReplacer>();
 
         var compression = arguments.BundleCompression switch
         {
@@ -273,23 +334,13 @@ internal partial class BundleManager
         }
 
         using var bundleFile = new BundleFile(logger, source.OpenRead());
+        var resourceCollector = bundleFile.CreateResourceCollector();
 
         Enumerate()
             .Scoped(logger, "asset")
             .Run();
 
-        if (assetReplacers.Count == 0)
-        {
-            if (source.CanUnroll())
-            {
-                logger.LogInformation("unrolling bundle...");
-                source.Unroll();
-            }
-
-            return true;
-        }
-
-        bundleFile.Write(source, assetReplacers, compression);
+        resourceCollector.Write(source, compression);
 
         return true;
 
@@ -303,26 +354,43 @@ internal partial class BundleManager
             foreach (var entry in gameObjectSource.Entries)
             {
                 var gameObject = bundleFile.GameObjects.Find(entry.Path);
-                if (gameObject == null) continue;
-
-                foreach (var component in bundleFile.GetComponents(gameObject))
+                if (gameObject == null)
                 {
-                    if (component.TypeId != AssetClassID.MonoBehaviour)
-                    {
-                        continue;
-                    }
+                    logger.LogWarning("game object not found: {path}", entry.Path);
+                    continue;
+                }
 
-                    var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
-                    if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
-                    {
-                        continue;
-                    }
-
+                if (entry.Data != null)
+                {
                     yield return () =>
                     {
-                        logger.LogInformation("importing text mesh pro {name}...", entry.Path);
-                        assetReplacers.Add(bundleFile.CreateReplacer(component.Asset, BuildTextMeshProUGUIData(entry)));
+                        logger.LogInformation("importing game object {name}...", entry.Path);
+                        var objectSource = ObjectSource.Create(entry.Data);
+                        resourceCollector.AddReplacer(gameObject.Asset, objectSource);
                     };
+                }
+
+                if (entry.Text is string text)
+                {
+                    foreach (var component in bundleFile.GetComponents(gameObject))
+                    {
+                        if (component.TypeId != AssetClassID.MonoBehaviour)
+                        {
+                            continue;
+                        }
+
+                        var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
+                        if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
+                        {
+                            continue;
+                        }
+
+                        yield return () =>
+                        {
+                            logger.LogInformation("importing text mesh pro {name}...", entry.Path);
+                            resourceCollector.AddReplacer(component.Asset, BuildTextMeshProUGUIData(text));
+                        };
+                    }
                 }
             }
 
@@ -338,7 +406,7 @@ internal partial class BundleManager
                         yield return () =>
                         {
                             logger.LogInformation("importing bundled texture {name}...", name);
-                            assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
+                            resourceCollector.AddReplacer(asset, assetSource);
                         };
 
                         continue;
@@ -363,7 +431,7 @@ internal partial class BundleManager
                     BuildTexture2DObject(builder, textureArguments, name);
 
                     var objectSource = new PhysicalObjectSource<Texture2DData>(objectPath);
-                    assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
+                    resourceCollector.AddReplacer(asset, objectSource);
                 };
             }
 
@@ -377,7 +445,7 @@ internal partial class BundleManager
 
                 yield return () =>
                 {
-                    logger.LogInformation("import text asset {name}...", name);
+                    logger.LogInformation("importing text asset {name}...", name);
 
                     var objectPath = Path.Combine(arguments.ObjectDirectory, name + ".pak");
                     var builder = new ObjectBuilder(sourcePath, objectPath, arguments.ForceObjects);
@@ -385,7 +453,28 @@ internal partial class BundleManager
                     BuildTextObject(builder, name);
 
                     var objectSource = new PhysicalObjectSource<string>(objectPath);
-                    assetReplacers.Add(bundleFile.CreateReplacer(asset, objectSource));
+                    resourceCollector.AddReplacer(asset, objectSource);
+                };
+            }
+
+            foreach (var asset in bundleFile.GetAssets(AssetClassID.VideoClip))
+            {
+                var baseField = bundleFile.GetBaseField(asset);
+                var fileData = new VideoClipFileData(baseField);
+                if (!fileData.IsValid) continue;
+                var name = fileData.OriginalPath;
+                var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                sourceChangeTracker.RegisterSource(sourcePath);
+                if (!File.Exists(sourcePath)) continue;
+                yield return () =>
+                {
+                    logger.LogInformation("importing video clip {name}...", name);
+
+                    resourceCollector.AddResourceReplacer(
+                        asset,
+                        fileData.ResourceName,
+                        new FileSource(sourcePath),
+                        fileData.Write);
                 };
             }
 
@@ -399,7 +488,7 @@ internal partial class BundleManager
                     {
                         var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
                         logger.LogInformation("import font {name}...", name);
-                        assetReplacers.Add(bundleFile.CreateReplacer(asset, assetSource));
+                        resourceCollector.AddReplacer(asset, assetSource);
                     };
                 }
             }
@@ -462,8 +551,8 @@ internal partial class BundleManager
         });
     }
 
-    private static TextMeshProUGUIData BuildTextMeshProUGUIData(GameObjectSource.Entry entry)
+    private static TextMeshProUGUIData BuildTextMeshProUGUIData(string text)
     {
-        return new TextMeshProUGUIData(TextCompressor.Compress(entry.Text));
+        return new TextMeshProUGUIData(TextCompressor.Compress(text));
     }
 }

@@ -39,7 +39,7 @@ public partial class TextMapResource : IResource
                 {
                     var objectSource = entry is not null
                         ? entry.AsObjectSource<Dictionary<string, TextMapTranslation>>()
-                        : DelegateObjectSource.Create<Dictionary<string, TextMapTranslation>>();
+                        : ObjectSource.Create<Dictionary<string, TextMapTranslation>>();
                     manager.Import(objectSource, arguments.Debug ? name : null);
                 }
 

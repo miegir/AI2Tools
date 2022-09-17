@@ -1,6 +1,6 @@
 ﻿namespace AI2Tools;
 
-public sealed class FileSource : IStreamSource
+public sealed class FileSource : IFileStreamSource, IStreamSource
 {
     public record State(long Length, DateTime LastWriteTimeUtc);
 
@@ -49,4 +49,6 @@ public sealed class FileSource : IStreamSource
             }
         }
     }
+
+    Stream IStreamSource.OpenRead() => OpenRead();
 }

@@ -5,7 +5,7 @@ namespace AI2Tools;
 
 internal class GameObjectSource
 {
-    public record Entry(string Path, string Text);
+    public record Entry(string Path, string Text, GameObjectData? Data);
 
     private static readonly JsonSerializerOptions JsonOptions =
         new(JsonSerializerDefaults.Web)

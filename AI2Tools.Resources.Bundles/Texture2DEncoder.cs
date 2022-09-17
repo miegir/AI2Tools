@@ -58,17 +58,21 @@ internal class Texture2DEncoder
 
         var stopwatch = Stopwatch.StartNew();
         var prevPercent = 0;
+        var lockObject = new object();
 
         encoder.Options.Progress = new Progress<ProgressElement>(e =>
         {
-            if (stopwatch.Elapsed.TotalSeconds >= 3)
+            lock (lockObject)
             {
-                var percent = (int)(e.Percentage * 100);
-                if (prevPercent < percent)
+                if (stopwatch.Elapsed.TotalSeconds >= 3)
                 {
-                    prevPercent = percent;
-                    LogPercent(percent);
-                    stopwatch.Restart();
+                    var percent = (int)(e.Percentage * 100);
+                    if (prevPercent < percent)
+                    {
+                        prevPercent = percent;
+                        LogPercent(percent);
+                        stopwatch.Restart();
+                    }
                 }
             }
         });
