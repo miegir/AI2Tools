@@ -276,7 +276,7 @@ internal partial class BundleManager
                 var fileData = new VideoClipFileData(baseField);
                 if (!fileData.IsValid) continue;
                 var name = fileData.OriginalPath;
-                var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                var sourcePath = VideoClipHelper.ConvertPath(Path.Combine(arguments.SourceDirectory, name));
                 if (!File.Exists(sourcePath)) continue;
                 yield return () =>
                 {
@@ -463,7 +463,7 @@ internal partial class BundleManager
                 var fileData = new VideoClipFileData(baseField);
                 if (!fileData.IsValid) continue;
                 var name = fileData.OriginalPath;
-                var sourcePath = Path.Combine(arguments.SourceDirectory, name);
+                var sourcePath = VideoClipHelper.ConvertPath(Path.Combine(arguments.SourceDirectory, name));
                 sourceChangeTracker.RegisterSource(sourcePath);
                 if (!File.Exists(sourcePath)) continue;
                 yield return () =>

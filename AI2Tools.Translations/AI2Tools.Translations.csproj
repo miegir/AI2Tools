@@ -7,4 +7,8 @@
     <RootNamespace>AI2Tools</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="**\*.vproj" />
+  </ItemGroup>
+
 </Project>
