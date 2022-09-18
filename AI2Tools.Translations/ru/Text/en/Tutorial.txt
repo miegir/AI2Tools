@@ -497,7 +497,7 @@
   "tutorial_title_036": {
     "src": "Boss's Sleep Talking",
     "yax": "Босс разговаривает во сне",
-    "trx": "Разговор босса во сне"
+    "trx": "Разговор Босса во сне"
   },
   "tutorial_073": {
     "src": "Boss: \"Meow, <color=yellow>hidden eyeballs</color> in the dream world...?\nThere are always <color=yellow>5</color>... mumble mumble...\nAll right, I'm gonna host club it up from open to close...\"",

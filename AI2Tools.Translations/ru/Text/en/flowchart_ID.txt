@@ -327,7 +327,7 @@
   "flowchart_summary_515": {
     "src": "Ryuki gets an earful from Boss for his previous day's work, resulting in a demotion... She says if he can solve the case in 3 days, she'll cancel the demotion. That being said, solving this case in 3 days is impossible... A dejected Ryuki heads back to Ikume Shrine.\n",
     "yax": "Рюки получает нагоняй от босса за свою вчерашнюю работу, что приводит к понижению в должности... Она говорит, что если он сможет раскрыть дело за 3 дня, она отменит понижение в должности. Тем не менее, раскрыть это дело за 3 дня невозможно... Удрученный Рюки направляется обратно в храм Икуме.",
-    "trx": "Рюки получает нагоняй от босса за вчерашний провал и в результате понижение в должности... Однако босс обещает отменить понижение, если он сможет раскрыть дело за 3 дня. Но раскрыть это дело за 3 дня невозможно... Удрученный Рюки направляется в храм Икуме.\n"
+    "trx": "Рюки получает нагоняй от Босса за вчерашний провал и в результате понижение в должности... Однако Босс обещает отменить понижение, если он сможет раскрыть дело за 3 дня. Но раскрыть это дело за 3 дня невозможно... Удрученный Рюки направляется в храм Икуме.\n"
   },
   "flowchart_summary_516": {
     "src": "After reminiscing about his late brother, Ryuki continues his investigation. At Aioen, he asks Riichi about his investments in Horadori Institute but gets no leads... Lien shows up and proposes to Kizuna with a glass slipper. Kizuna puts her reply on hold and decides to bury the slipper in the garden. Later, on the Ferris wheel, Ryuki asks Shoma about why he lied. He just complains about his father, leaving the answer unknown. Ryuki finds out about Komeji's debt, Gen and Amame's quarrel, and talks to Iris about the increasing number of people who have gone missing after watching the video... Then, the Masked Woman approaches him... Who is she...? The most curious piece of information was the hidden room in Horadori Institute that Lien mentioned. Ryuki decides to head to Horadori Institute...only to run into Komeji with a concealed gun...",
@@ -717,7 +717,7 @@
   "flowchart_report_510": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_511": {
     "src": "Matsushita Diner",
@@ -902,7 +902,7 @@
   "flowchart_report_547": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_548": {
     "src": "Ikume Shrine",
@@ -1112,7 +1112,7 @@
   "flowchart_report_589": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_590": {
     "src": "Sagan Residence",
@@ -1232,7 +1232,7 @@
   "flowchart_report_613": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_614": {
     "src": "Stadium",
@@ -1417,7 +1417,7 @@
   "flowchart_report_650": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_651": {
     "src": "Enda Residence",
@@ -1592,7 +1592,7 @@
   "flowchart_report_685": {
     "src": "ABIS HQ Boss's Room",
     "yax": "Комната начальника штаба АБИС",
-    "trx": "Комната босса ABIS"
+    "trx": "Комната Босса ABIS"
   },
   "flowchart_report_686": {
     "src": "Misetan Amusement Park Ferris Wheel",

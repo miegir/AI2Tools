@@ -387,22 +387,22 @@
   "file_trivia_title_014": {
     "src": "February 11th Tama Boss's Office 1",
     "yax": "11 февраля Офис Тама Босса 1",
-    "trx": "11 февраля, Тама, Кабинет босса 1"
+    "trx": "11 февраля, Тама, Кабинет Босса 1"
   },
   "file_trivia_title_015": {
     "src": "February 11th Tama Boss's Office 2",
     "yax": "11 февраля Офис Тама Босса 2",
-    "trx": "11 февраля, Тама, Кабинет босса 2"
+    "trx": "11 февраля, Тама, Кабинет Босса 2"
   },
   "file_trivia_title_016": {
     "src": "February 11th Tama Boss's Office 3",
     "yax": "11 февраля Офис Тама Босса 3",
-    "trx": "11 февраля, Тама, Кабинет босса 3"
+    "trx": "11 февраля, Тама, Кабинет Босса 3"
   },
   "file_trivia_title_017": {
     "src": "February 11th Tama Boss's Office 4",
     "yax": "11 февраля Офис Тама Босса 4",
-    "trx": "11 февраля, Тама, Кабинет босса 4"
+    "trx": "11 февраля, Тама, Кабинет Босса 4"
   },
   "file_trivia_title_018": {
     "src": "February 11th Tama Matsushita Diner 1",

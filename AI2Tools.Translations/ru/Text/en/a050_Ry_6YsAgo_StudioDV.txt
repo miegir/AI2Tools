@@ -382,7 +382,7 @@
   "017_001": {
     "src": "Anyway, it's real fucked up.",
     "yax": "В любом случае, это настоящий пиздец.",
-    "trx": "В любом случае, это хреново."
+    "trx": "Знаю или нет, это все равно хреново."
   },
   "017_002": {
     "src": "Even people in my world wouldn't kill someone so gruesomely.",
@@ -897,7 +897,7 @@
   "033_008": {
     "src": "I took the formal exam and Boss acknowledged my abilities...",
     "yax": "Я сдал официальный экзамен, и босс признал мои способности...",
-    "trx": "Я сдал официальный экзамен, и босс признала мои способности..."
+    "trx": "Я сдал официальный экзамен, и Босс признала мои способности..."
   },
   "033_009": {
     "src": "You mean your endurance? You're a young guy.",
@@ -907,7 +907,7 @@
   "033_010": {
     "src": "Yeah, Boss definitely seems more into the marathons than the sprints.",
     "yax": "Да, босс определенно больше любит марафоны, чем спринты.",
-    "trx": "Да, босс определенно больше любит марафон, чем спринт."
+    "trx": "Да, Босс определенно больше любит марафон, чем спринт."
   },
   "033_011": {
     "src": "What are you talking about...?",
