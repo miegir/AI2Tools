@@ -322,7 +322,7 @@
   "tutorial_049": {
     "src": "In 《Somnia》, you will investigate the inside of a dream. \nThe objective will be to find <color=yellow>the subject's\nhidden memories</color>.",
     "yax": "В \"Сомнии\" вы исследуете внутреннюю сторону сна. \nЦель будет состоять в том, чтобы найти <color=yellow> цвет объекта\nскрытые воспоминания</color>.",
-    "trx": "В 《сомниуме》 вы проводите расследование, погрузившись в сон. \nЦель будет состоять в том, чтобы обнаружить <color=yellow>скрытые\nвоспоминания субъекта</color>."
+    "trx": "В 《сомниуме》 вы проводите расследование, погрузившись в сон. \nЦель состоит в том, чтобы обнаружить <color=yellow>скрытые\nвоспоминания субъекта</color>."
   },
   "tutorial_title_025": {
     "src": "Manual",
@@ -342,7 +342,7 @@
   "tutorial_051": {
     "src": "By unlocking <color=yellow>《Mental Locks》</color>, you can go deeper into the dream.\nBy unlocking them all, you might be able to learn\nvaluable information.",
     "yax": "Отпирая <color=yellow>\"Ментальные замки\"</color>, вы можете глубже погрузиться в сон.\nОткрыв их все, вы, возможно, сможете научиться\nценная информация.",
-    "trx": "Отпирая <color=yellow>《Ментальные замки》</color>, вы глубже погружаетесь в сон.\nОткрыв их все, вы, возможно, сможете узнать\nценную информацию."
+    "trx": "При помощи разблокирования <color=yellow>《Ментальных замков》</color> вы глубже погружаетесь в сон.\nРазблокировав их все, вы, возможно, сможете узнать\nценную информацию."
   },
   "tutorial_title_027": {
     "src": "Objectives",

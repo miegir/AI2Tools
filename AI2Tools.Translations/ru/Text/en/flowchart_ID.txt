@@ -262,7 +262,7 @@
   "flowchart_summary_502": {
     "src": "Subject: Ryuki\nObjective: Dispel Ryuki's hallucinations and find the truth!\nSummary: Ryuki is trapped by hallucinations.\nHelp him overcome them and\ndiscover the truth.",
     "yax": "Тема: Рюки\nЦель: Развеять галлюцинации Рюки и найти правду!\nКраткое описание: Рюки попал в ловушку галлюцинаций.\nПомогите ему преодолеть их и\nоткройте для себя правду.",
-    "trx": "Субъект: Рюки\nЦель: Развеять галлюцинации Рюки и найти правду!\nКраткое описание: Рюки попал в ловушку галлюцинаций.\nПомогите ему преодолеть их и раскройте правду."
+    "trx": "Субъект: Рюки\nЦель: Развеять галлюцинации Рюки и найти истину!\nКраткое описание: Рюки попал в ловушку галлюцинаций.\nПомогите ему преодолеть их и раскройте истину."
   },
   "flowchart_summary_503": {
     "src": "The subject (Psyncee) does not remember what happens in the Somnium world. Therefore, Ryuki doesn't know what happened during the Psync. But he does feel as though something very sensitive was touched upon...",
@@ -712,7 +712,7 @@
   "flowchart_report_509": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_510": {
     "src": "ABIS HQ Boss's Room",
@@ -997,7 +997,7 @@
   "flowchart_report_566": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_567": {
     "src": "Enda Residence",
@@ -1227,7 +1227,7 @@
   "flowchart_report_612": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_613": {
     "src": "ABIS HQ Boss's Room",
@@ -1472,7 +1472,7 @@
   "flowchart_report_661": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_662": {
     "src": "Misetan Amusement Park",
@@ -1647,7 +1647,7 @@
   "flowchart_report_696": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_697": {
     "src": "Enda Residence",
@@ -1697,7 +1697,7 @@
   "flowchart_report_706": {
     "src": "ABIS HQ Interrogation Room",
     "yax": "Комната для допросов в штаб-квартире АБИС",
-    "trx": "Комната допросов ABIS"
+    "trx": "Комната для допросов ABIS"
   },
   "flowchart_report_707": {
     "src": "Naix Japan Cathedral",

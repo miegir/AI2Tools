@@ -1,0 +1,762 @@
+{
+  "target_001": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_002": {
+    "src": "Signboard",
+    "yax": "Вывеска",
+    "trx": "Знак"
+  },
+  "target_003": {
+    "src": "Light Switch",
+    "yax": "Выключатель света",
+    "trx": "Выключатель света"
+  },
+  "target_004": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_005": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_006": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_007": {
+    "src": "Host Platform",
+    "yax": "Хост-платформа",
+    "trx": "Подиум ведущего"
+  },
+  "target_008": {
+    "src": "Quiz Show Set",
+    "yax": "Набор для викторины",
+    "trx": "Декорации викторины"
+  },
+  "target_009": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "Гигантский монитор"
+  },
+  "target_010": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_011": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_012": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_013": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_014": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_015": {
+    "src": "Electric Kettle",
+    "yax": "Электрический Чайник",
+    "trx": "Электрический чайник"
+  },
+  "target_016": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_017": {
+    "src": "Signboard",
+    "yax": "Вывеска",
+    "trx": "Знак"
+  },
+  "target_018": {
+    "src": "Light Switch",
+    "yax": "Выключатель света",
+    "trx": "Выключатель света"
+  },
+  "target_019": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_020": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_021": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_022": {
+    "src": "Host Platform",
+    "yax": "Хост-платформа",
+    "trx": "Подиум ведущего"
+  },
+  "target_023": {
+    "src": "Quiz Show Set",
+    "yax": "Набор для викторины",
+    "trx": "Декорации викторины"
+  },
+  "target_024": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "Гигантский монитор"
+  },
+  "target_025": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_026": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_027": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_028": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_029": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_030": {
+    "src": "Electric Kettle",
+    "yax": "Электрический Чайник",
+    "trx": "Электрический чайник"
+  },
+  "target_031": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_032": {
+    "src": "Waterfall",
+    "yax": "Водопад",
+    "trx": "Водопад"
+  },
+  "target_033": {
+    "src": "Desktop",
+    "yax": "Рабочий стол",
+    "trx": "Рабочий стол"
+  },
+  "target_034": {
+    "src": "Nonuple-X",
+    "yax": "Неупорядоченный-X",
+    "trx": "Девятеричный X"
+  },
+  "target_035": {
+    "src": "Desk Front",
+    "yax": "Стойка регистрации",
+    "trx": "Стойка регистрации"
+  },
+  "target_036": {
+    "src": "North-East Statue",
+    "yax": "Северо-Восточная статуя",
+    "trx": "Северо-восточная статуя"
+  },
+  "target_037": {
+    "src": "North-East Floor",
+    "yax": "Северо-Восточный этаж",
+    "trx": "Северо-восточный пол"
+  },
+  "target_038": {
+    "src": "South-East Statue",
+    "yax": "Юго-Восточная статуя",
+    "trx": "Юго-восточная статуя"
+  },
+  "target_039": {
+    "src": "South-East Floor",
+    "yax": "Юго-Восточный этаж",
+    "trx": "Юго-восточный пол"
+  },
+  "target_040": {
+    "src": "North-West Statue",
+    "yax": "Северо-Западная статуя",
+    "trx": "Северо-западная статуя"
+  },
+  "target_041": {
+    "src": "South-East Statue",
+    "yax": "Юго-Восточная статуя",
+    "trx": "Юго-восточная статуя"
+  },
+  "target_042": {
+    "src": "Houseplant",
+    "yax": "Комнатное растение",
+    "trx": "Растение"
+  },
+  "target_043": {
+    "src": "Houseplant",
+    "yax": "Комнатное растение",
+    "trx": "Растение"
+  },
+  "target_044": {
+    "src": "Houseplant",
+    "yax": "Комнатное растение",
+    "trx": "Растение"
+  },
+  "target_045": {
+    "src": "Houseplant",
+    "yax": "Комнатное растение",
+    "trx": "Растение"
+  },
+  "target_046": {
+    "src": "Light",
+    "yax": "Свет",
+    "trx": "Свет"
+  },
+  "target_501": {
+    "src": "Glass Doll",
+    "yax": "Стеклянная кукла",
+    "trx": "Стеклянная кукла"
+  },
+  "target_048": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "target_049": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "target_050": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "target_051": {
+    "src": "Wall",
+    "yax": "Стена",
+    "trx": "Стена"
+  },
+  "target_052": {
+    "src": "Chair",
+    "yax": "Стул",
+    "trx": "Стул"
+  },
+  "target_053": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_054": {
+    "src": "Rope",
+    "yax": "Веревка",
+    "trx": "Веревка"
+  },
+  "target_055": {
+    "src": "Camera Tripod",
+    "yax": "Штатив для камеры",
+    "trx": "Штатив для камеры"
+  },
+  "target_056": {
+    "src": "Table",
+    "yax": "Стол",
+    "trx": "Стол"
+  },
+  "target_057": {
+    "src": "Electric Kettle",
+    "yax": "Электрический Чайник",
+    "trx": "Электрический чайник"
+  },
+  "target_058": {
+    "src": "Hot Water",
+    "yax": "горячая вода",
+    "trx": "Горячая вода"
+  },
+  "target_059": {
+    "src": "Footprint",
+    "yax": "След",
+    "trx": "След"
+  },
+  "target_060": {
+    "src": "East Door",
+    "yax": "Восточная дверь",
+    "trx": "Восточная дверь"
+  },
+  "target_061": {
+    "src": "West Door",
+    "yax": "Западная дверь",
+    "trx": "Западная дверь"
+  },
+  "target_062": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_063": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_064": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_065": {
+    "src": "Host Platform",
+    "yax": "Хост-платформа",
+    "trx": "Подиум ведущего"
+  },
+  "target_066": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "Гигантский монитор"
+  },
+  "target_067": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_068": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_070": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_502": {
+    "src": "Mannequin",
+    "yax": "Манекен",
+    "trx": "Манекен"
+  },
+  "target_503": {
+    "src": "Mannequin",
+    "yax": "Манекен",
+    "trx": "Манекен"
+  },
+  "target_071": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_072": {
+    "src": "Rope",
+    "yax": "Веревка",
+    "trx": "Веревка"
+  },
+  "target_073": {
+    "src": "Camera Tripod",
+    "yax": "Штатив для камеры",
+    "trx": "Штатив для камеры"
+  },
+  "target_074": {
+    "src": "Table",
+    "yax": "Стол",
+    "trx": "Стол"
+  },
+  "target_075": {
+    "src": "Electric Kettle",
+    "yax": "Электрический Чайник",
+    "trx": "Электрический чайник"
+  },
+  "target_076": {
+    "src": "Hot Water",
+    "yax": "горячая вода",
+    "trx": "Горячая вода"
+  },
+  "target_077": {
+    "src": "Footprint",
+    "yax": "След",
+    "trx": "След"
+  },
+  "target_078": {
+    "src": "East Door",
+    "yax": "Восточная дверь",
+    "trx": "Восточная дверь"
+  },
+  "target_079": {
+    "src": "West Door",
+    "yax": "Западная дверь",
+    "trx": "Западная дверь"
+  },
+  "target_080": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_081": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_082": {
+    "src": "Contestant Seat",
+    "yax": "Место участника конкурса",
+    "trx": "Место участника"
+  },
+  "target_083": {
+    "src": "Host Platform",
+    "yax": "Хост-платформа",
+    "trx": "Подиум ведущего"
+  },
+  "target_084": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "Гигантский монитор"
+  },
+  "target_085": {
+    "src": "Monitor",
+    "yax": "Монитор",
+    "trx": "Монитор"
+  },
+  "target_086": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_088": {
+    "src": "Camera",
+    "yax": "Камера",
+    "trx": "Камера"
+  },
+  "target_089": {
+    "src": "Set",
+    "yax": "Набор",
+    "trx": "Декорации"
+  },
+  "target_090": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_091": {
+    "src": "Halfway Line",
+    "yax": "Промежуточная линия",
+    "trx": "Линия посередине"
+  },
+  "target_092": {
+    "src": "Small Object",
+    "yax": "Небольшой Предмет",
+    "trx": "Небольшой предмет"
+  },
+  "target_093": {
+    "src": "Humid Area",
+    "yax": "Влажная Зона",
+    "trx": "Влажная зона"
+  },
+  "target_094": {
+    "src": "Field",
+    "yax": "Поле",
+    "trx": "Поле"
+  },
+  "target_095": {
+    "src": "Audience Seat",
+    "yax": "Зрительское место",
+    "trx": "Зрительское место"
+  },
+  "target_096": {
+    "src": "Soccer Goal",
+    "yax": "Футбольные ворота",
+    "trx": "Футбольные ворота"
+  },
+  "target_097": {
+    "src": "Lap Time Display",
+    "yax": "Отображение времени прохождения круга",
+    "trx": "Дисплей времени прохождения круга"
+  },
+  "target_504": {
+    "src": "Soccer Goal",
+    "yax": "Футбольные ворота",
+    "trx": "Футбольные ворота"
+  },
+  "target_098": {
+    "src": "Stone Monument",
+    "yax": "Каменный памятник",
+    "trx": "Каменный монумент"
+  },
+  "target_099": {
+    "src": "Stone Monument",
+    "yax": "Каменный памятник",
+    "trx": "Каменный монумент"
+  },
+  "target_100": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_101": {
+    "src": "Vending Machine",
+    "yax": "торговый автомат",
+    "trx": "Торговый автомат"
+  },
+  "target_102": {
+    "src": "Old Machine Room",
+    "yax": "Старое Машинное отделение",
+    "trx": "Старое машинное отделение"
+  },
+  "target_103": {
+    "src": "Balloon",
+    "yax": "Воздушный шар",
+    "trx": "Воздушный шар"
+  },
+  "target_104": {
+    "src": "Wooden Bench",
+    "yax": "Деревянная скамья",
+    "trx": "Деревянная скамья"
+  },
+  "target_105": {
+    "src": "Concrete Bench",
+    "yax": "Бетонная скамья",
+    "trx": "Бетонная скамья"
+  },
+  "target_106": {
+    "src": "Stone Monument",
+    "yax": "Каменный памятник",
+    "trx": "Каменный монумент"
+  },
+  "target_107": {
+    "src": "Stone Monument",
+    "yax": "Каменный памятник",
+    "trx": "Каменный монумент"
+  },
+  "target_108": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_109": {
+    "src": "Vending Machine",
+    "yax": "торговый автомат",
+    "trx": "Торговый автомат"
+  },
+  "target_110": {
+    "src": "Old Machine Room",
+    "yax": "Старое Машинное отделение",
+    "trx": "Старое машинное отделение"
+  },
+  "target_111": {
+    "src": "Balloon",
+    "yax": "Воздушный шар",
+    "trx": "Воздушный шар"
+  },
+  "target_112": {
+    "src": "Wooden Veranda Chair",
+    "yax": "Деревянный Стул Для Веранды",
+    "trx": "Деревянное кресло на веранде"
+  },
+  "target_113": {
+    "src": "Fountain Bench",
+    "yax": "Скамейка у фонтана",
+    "trx": "Скамейка у фонтана"
+  },
+  "target_114": {
+    "src": "Bloodstain",
+    "yax": "Кровавое пятно",
+    "trx": "Кровавое пятно"
+  },
+  "target_115": {
+    "src": "Tooth",
+    "yax": "Зуб",
+    "trx": "Зуб"
+  },
+  "target_116": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "target_117": {
+    "src": "Metal Plate A",
+    "yax": "Металлическая Пластина A",
+    "trx": "Металлическая пластина А"
+  },
+  "target_118": {
+    "src": "Metal Plate B",
+    "yax": "Металлическая пластина B",
+    "trx": "Металлическая пластина Б"
+  },
+  "target_119": {
+    "src": "Power Switch",
+    "yax": "переключатель питания",
+    "trx": "Выключатель питания"
+  },
+  "target_120": {
+    "src": "Ceiling Power Cables",
+    "yax": "Потолочные Силовые Кабели",
+    "trx": "Потолочные силовые кабели"
+  },
+  "target_121": {
+    "src": "Suspicious Area",
+    "yax": "Подозрительная область",
+    "trx": "Подозрительная область"
+  },
+  "target_122": {
+    "src": "Hidden Switch",
+    "yax": "Скрытый переключатель",
+    "trx": "Скрытый выключатель"
+  },
+  "target_123": {
+    "src": "Wall Power Cables",
+    "yax": "Настенные Силовые Кабели",
+    "trx": "Настенные силовые кабели"
+  },
+  "target_124": {
+    "src": "Square Hole",
+    "yax": "Квадратное Отверстие",
+    "trx": "Квадратное отверстие"
+  },
+  "target_125": {
+    "src": "Foot Switch",
+    "yax": "Ножной переключатель",
+    "trx": "Ножной выключатель"
+  },
+  "target_126": {
+    "src": "Exhaust Duct",
+    "yax": "Вытяжной канал",
+    "trx": "Вытяжной канал"
+  },
+  "target_127": {
+    "src": "Vent",
+    "yax": "Выходное отверстие",
+    "trx": "Вентиляционное отверстие"
+  },
+  "target_129": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_130": {
+    "src": "Luminol Reaction A",
+    "yax": "Реакция люминола А",
+    "trx": "Реакция люминола А"
+  },
+  "target_131": {
+    "src": "Luminol Reaction B",
+    "yax": "Реакция люминола В",
+    "trx": "Реакция люминола Б"
+  },
+  "target_132": {
+    "src": "Trash Can",
+    "yax": "Мусорный бак",
+    "trx": "Мусорный бак"
+  },
+  "target_133": {
+    "src": "Ferris Wheel",
+    "yax": "Колесо обозрения",
+    "trx": "Колесо обозрения"
+  },
+  "target_134": {
+    "src": "Game Section",
+    "yax": "Раздел игры",
+    "trx": "Зона игровых автоматов"
+  },
+  "target_135": {
+    "src": "Rocking Ride",
+    "yax": "Качающаяся поездка",
+    "trx": "Раскачивающийся аттракцион"
+  },
+  "target_136": {
+    "src": "Mini Train",
+    "yax": "Мини-Поезд",
+    "trx": "Мини-поезд"
+  },
+  "target_137": {
+    "src": "Airplane Ride",
+    "yax": "Полет на самолете",
+    "trx": "Самолет"
+  },
+  "target_138": {
+    "src": "Sky Cycle",
+    "yax": "Небесный цикл",
+    "trx": "Воздушный велосипед"
+  },
+  "target_139": {
+    "src": "Office",
+    "yax": "Офис",
+    "trx": "Офис"
+  },
+  "target_140": {
+    "src": "Corpse",
+    "yax": "Труп",
+    "trx": "Тело"
+  },
+  "target_141": {
+    "src": "Luminol Reaction A",
+    "yax": "Реакция люминола А",
+    "trx": "Реакция люминола А"
+  },
+  "target_142": {
+    "src": "Luminol Reaction B",
+    "yax": "Реакция люминола В",
+    "trx": "Реакция люминола Б"
+  },
+  "target_143": {
+    "src": "Trash Can",
+    "yax": "Мусорный бак",
+    "trx": "Мусорный бак"
+  },
+  "target_144": {
+    "src": "Ferris Wheel",
+    "yax": "Колесо обозрения",
+    "trx": "Колесо обозрения"
+  },
+  "target_145": {
+    "src": "Game Section",
+    "yax": "Раздел игры",
+    "trx": "Зона игровых автоматов"
+  },
+  "target_146": {
+    "src": "Rocking Ride",
+    "yax": "Качающаяся поездка",
+    "trx": "Раскачивающийся аттракцион"
+  },
+  "target_147": {
+    "src": "Mini Train",
+    "yax": "Мини-Поезд",
+    "trx": "Мини-поезд"
+  },
+  "target_148": {
+    "src": "Airplane Ride",
+    "yax": "Полет на самолете",
+    "trx": "Самолет"
+  },
+  "target_149": {
+    "src": "Sky Cycle",
+    "yax": "Небесный цикл",
+    "trx": "Воздушный велосипед"
+  },
+  "target_150": {
+    "src": "Office",
+    "yax": "Офис",
+    "trx": "Офис"
+  },
+  "target_151": {
+    "src": "Balloon",
+    "yax": "Воздушный шар",
+    "trx": "Воздушный шар"
+  },
+  "target_500": {
+    "src": "Tokiko",
+    "yax": "Токико",
+    "trx": "Токико"
+  }
+}

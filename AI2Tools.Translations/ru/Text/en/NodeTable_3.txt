@@ -1,0 +1,827 @@
+{
+  "target_002": {
+    "src": "Chair",
+    "yax": "Стул",
+    "trx": "Стул"
+  },
+  "target_003": {
+    "src": "Two-way Mirror",
+    "yax": "Двустороннее зеркало",
+    "trx": "Двустороннее зеркало"
+  },
+  "target_004": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_005": {
+    "src": "Brazier",
+    "yax": "Жаровня",
+    "trx": "Жаровня"
+  },
+  "target_006": {
+    "src": "Torch",
+    "yax": "Факел",
+    "trx": "Факел"
+  },
+  "target_007": {
+    "src": "Talk",
+    "yax": "Поговорить",
+    "trx": "Поговорить"
+  },
+  "target_008": {
+    "src": "Evolver",
+    "yax": "Эволюционирующий",
+    "trx": "Эвольвер"
+  },
+  "target_009": {
+    "src": "Brandy",
+    "yax": "Бренди",
+    "trx": "Бренди"
+  },
+  "target_010": {
+    "src": "Ryuki A",
+    "yax": "Рюки А",
+    "trx": "Рюки А"
+  },
+  "target_011": {
+    "src": "Ryuki B",
+    "yax": "Рюки Б",
+    "trx": "Рюки Б"
+  },
+  "target_012": {
+    "src": "Ryuki C",
+    "yax": "Рюки С",
+    "trx": "Рюки В"
+  },
+  "target_013": {
+    "src": "Pick up",
+    "yax": "Подбирать",
+    "trx": "Подобрать"
+  },
+  "target_014": {
+    "src": "False Eye",
+    "yax": "Ложный Глаз",
+    "trx": "Ложный глаз"
+  },
+  "target_500": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_015": {
+    "src": "Talk",
+    "yax": "Поговорить",
+    "trx": "Поговорить"
+  },
+  "target_016": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_017": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_018": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_019": {
+    "src": "Evolver",
+    "yax": "Эволюционирующий",
+    "trx": "Эвольвер"
+  },
+  "target_020": {
+    "src": "Torch",
+    "yax": "Факел",
+    "trx": "Факел"
+  },
+  "target_501": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_021": {
+    "src": "Time Bomb",
+    "yax": "Бомба замедленного действия",
+    "trx": "Бомба замедленного действия"
+  },
+  "target_022": {
+    "src": "Shoe",
+    "yax": "Башмак",
+    "trx": "Туфелька"
+  },
+  "target_023": {
+    "src": "Metal Pipe",
+    "yax": "Металлическая Труба",
+    "trx": "Металлическая труба"
+  },
+  "target_502": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_024": {
+    "src": "Gibberish",
+    "yax": "Тарабарщина",
+    "trx": "Бессмыслица"
+  },
+  "target_025": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_026": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_027": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_028": {
+    "src": "Cheer up",
+    "yax": "Развеселить",
+    "trx": "Подбодрить"
+  },
+  "target_029": {
+    "src": "",
+    "yax": "",
+    "trx": ""
+  },
+  "target_030": {
+    "src": "PC1",
+    "yax": "ПК1",
+    "trx": "ПК1"
+  },
+  "target_031": {
+    "src": "PC2",
+    "yax": "ПК2",
+    "trx": "ПК2"
+  },
+  "target_032": {
+    "src": "PC3",
+    "yax": "ПК3",
+    "trx": "ПК3"
+  },
+  "target_033": {
+    "src": "Button A",
+    "yax": "Кнопка A",
+    "trx": "Кнопка А"
+  },
+  "target_034": {
+    "src": "Button B",
+    "yax": "Кнопка B",
+    "trx": "Кнопка Б"
+  },
+  "target_035": {
+    "src": "Button C",
+    "yax": "Кнопка C",
+    "trx": "Кнопка В"
+  },
+  "target_036": {
+    "src": "Button D",
+    "yax": "Кнопка D",
+    "trx": "Кнопка Г"
+  },
+  "target_037": {
+    "src": "Button E",
+    "yax": "Кнопка E",
+    "trx": "Кнопка Д"
+  },
+  "target_038": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_039": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_040": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_041": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_042": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_043": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_044": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_045": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_046": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_047": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_048": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_049": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_050": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_051": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_052": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_053": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_054": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_055": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_056": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_057": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_058": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_059": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_060": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_061": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_062": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_063": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_064": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_065": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_066": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_067": {
+    "src": "Sink",
+    "yax": "Раковина",
+    "trx": "Раковина"
+  },
+  "target_068": {
+    "src": "Bed",
+    "yax": "Кровать",
+    "trx": "Кровать"
+  },
+  "target_069": {
+    "src": "Mirror",
+    "yax": "Зеркало",
+    "trx": "Зеркало"
+  },
+  "target_070": {
+    "src": "Pot and Stove",
+    "yax": "Кастрюля и плита",
+    "trx": "Кастрюля и плита"
+  },
+  "target_071": {
+    "src": "Blue Briefcase",
+    "yax": "Синий портфель",
+    "trx": "Синий портфель"
+  },
+  "target_072": {
+    "src": "Door 5",
+    "yax": "Дверь 5",
+    "trx": "Дверь 5"
+  },
+  "target_073": {
+    "src": "Red Briefcase",
+    "yax": "Красный портфель",
+    "trx": "Красный портфель"
+  },
+  "target_074": {
+    "src": "Window",
+    "yax": "Окно",
+    "trx": "Окно"
+  },
+  "target_566": {
+    "src": "Pick up",
+    "yax": "Подбирать",
+    "trx": "Подобрать"
+  },
+  "target_567": {
+    "src": "Lead Safe",
+    "yax": "Свинцовый сейф",
+    "trx": "Свинцовый сейф"
+  },
+  "target_568": {
+    "src": "Door",
+    "yax": "Дверь",
+    "trx": "Дверь"
+  },
+  "target_569": {
+    "src": "ALFREE",
+    "yax": "ЭЛФРИ",
+    "trx": "ALFREE"
+  },
+  "target_570": {
+    "src": "Copper Safe",
+    "yax": "Медный сейф",
+    "trx": "Медный сейф"
+  },
+  "target_571": {
+    "src": "Think through",
+    "yax": "Продумайте все до конца",
+    "trx": "Думать тщательнее"
+  },
+  "target_572": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_573": {
+    "src": "Blue Bucket: Open",
+    "yax": "Синее ведро: Открыто",
+    "trx": "Синее ведро: Открыто"
+  },
+  "target_574": {
+    "src": "Yellow Bucket: Open",
+    "yax": "Желтое ведро: Открыто",
+    "trx": "Желтое ведро: Открыто"
+  },
+  "target_575": {
+    "src": "Pink Bucket: Open",
+    "yax": "Розовое ведро: Открыто",
+    "trx": "Розовое ведро: Открыто"
+  },
+  "target_576": {
+    "src": "White Bucket: Open",
+    "yax": "Белое ведро: Открыто",
+    "trx": "Белое ведро: Открыто"
+  },
+  "target_577": {
+    "src": "Silver Safe",
+    "yax": "Серебряный сейф",
+    "trx": "Серебряный сейф"
+  },
+  "target_578": {
+    "src": "Radio Cassette",
+    "yax": "Радиокассета",
+    "trx": "Кассетный плеер"
+  },
+  "target_579": {
+    "src": "Open metal safe",
+    "yax": "Открытый металлический сейф",
+    "trx": "Открыть металлический сейф"
+  },
+  "target_580": {
+    "src": "Put on head",
+    "yax": "Наденьте на голову",
+    "trx": "Надеть на голову"
+  },
+  "target_581": {
+    "src": "Put on face",
+    "yax": "Нанесите на лицо",
+    "trx": "Надеть на лицо"
+  },
+  "target_582": {
+    "src": "Put on face",
+    "yax": "Нанесите на лицо",
+    "trx": "Надеть на лицо"
+  },
+  "target_583": {
+    "src": "Authenticate",
+    "yax": "Аутентификация",
+    "trx": "Аутентификация"
+  },
+  "target_584": {
+    "src": "Open gold safe",
+    "yax": "Открыть золотой сейф",
+    "trx": "Открыть золотой сейф"
+  },
+  "target_585": {
+    "src": "Move",
+    "yax": "Подвиньте",
+    "trx": "Сдвинуть"
+  },
+  "target_586": {
+    "src": "Time Capsule",
+    "yax": "Капсула времени",
+    "trx": "Капсула времени"
+  },
+  "target_587": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_588": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_589": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_590": {
+    "src": "White Safe",
+    "yax": "Белый сейф",
+    "trx": "Белый сейф"
+  },
+  "target_503": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_504": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_505": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_506": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_507": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_508": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_509": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_510": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_511": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_512": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_513": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_514": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_515": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_516": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_517": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_518": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_519": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_520": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_521": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_522": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_523": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_524": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_525": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_526": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_527": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_528": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_529": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_530": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать усерднее"
+  },
+  "target_531": {
+    "src": "Epiphany",
+    "yax": "Богоявление",
+    "trx": "Озарение"
+  },
+  "target_532": {
+    "src": "Red Book A",
+    "yax": "Красная книга А",
+    "trx": "Красная книга А"
+  },
+  "target_533": {
+    "src": "Red Book B",
+    "yax": "Красная книга B",
+    "trx": "Красная книга Б"
+  },
+  "target_534": {
+    "src": "Red Book C",
+    "yax": "Красная книга C",
+    "trx": "Красная книга В"
+  },
+  "target_535": {
+    "src": "Red Book D",
+    "yax": "Красная книга D",
+    "trx": "Красная книга Г"
+  },
+  "target_536": {
+    "src": "Red Book E",
+    "yax": "Красная книга E",
+    "trx": "Красная книга Д"
+  },
+  "target_591": {
+    "src": "Eyeball A",
+    "yax": "Глазное Яблоко А",
+    "trx": "Глазное яблоко А"
+  },
+  "target_537": {
+    "src": "Eyeball B",
+    "yax": "Глазное яблоко В",
+    "trx": "Глазное яблоко Б"
+  },
+  "target_538": {
+    "src": "Eyeball C",
+    "yax": "Глазное яблоко C",
+    "trx": "Глазное яблоко В"
+  },
+  "target_539": {
+    "src": "Eyeball D",
+    "yax": "Глазное яблоко D",
+    "trx": "Глазное яблоко Г"
+  },
+  "target_540": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_541": {
+    "src": "Open",
+    "yax": "Открыть",
+    "trx": "Открыть"
+  },
+  "target_542": {
+    "src": "Andes Komeji's Outfit",
+    "yax": "Наряд Андеса Комеджи",
+    "trx": "Костюм Андеса Комедзи"
+  },
+  "target_543": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_544": {
+    "src": "Fix with tape",
+    "yax": "Закрепите скотчем",
+    "trx": "Починить скотчем"
+  },
+  "target_545": {
+    "src": "Fix with scissors",
+    "yax": "Закрепите ножницами",
+    "trx": "Починить ножницами"
+  },
+  "target_546": {
+    "src": "Fix with glue",
+    "yax": "Закрепите клеем",
+    "trx": "Починить клеем"
+  },
+  "target_547": {
+    "src": "Fix with screwdriver",
+    "yax": "Закрепите с помощью отвертки",
+    "trx": "Починить отверткой"
+  },
+  "target_548": {
+    "src": "Fix with hammer",
+    "yax": "Закрепите молотком",
+    "trx": "Починить молотком"
+  },
+  "target_549": {
+    "src": "TV",
+    "yax": "ТВ",
+    "trx": "ТВ"
+  },
+  "target_550": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_551": {
+    "src": "Suitcase",
+    "yax": "Чемодан",
+    "trx": "Чемодан"
+  },
+  "target_552": {
+    "src": "Komeji's Face Drawing",
+    "yax": "Рисунок лица Комедзи",
+    "trx": "Нарисованное лицо Комедзи"
+  },
+  "target_553": {
+    "src": "Read",
+    "yax": "Прочитай",
+    "trx": "Читать"
+  },
+  "target_554": {
+    "src": "Math Notebook",
+    "yax": "Тетрадь по математике",
+    "trx": "Тетрадь по математике"
+  },
+  "target_555": {
+    "src": "Linguistics Notebook",
+    "yax": "Тетрадь по лингвистике",
+    "trx": "Тетрадь по лингвистике"
+  },
+  "target_556": {
+    "src": "Science Notebook",
+    "yax": "Научный блокнот",
+    "trx": "Тетрадь по наукам"
+  },
+  "target_557": {
+    "src": "Social Studies Notebook",
+    "yax": "Тетрадь по обществознанию",
+    "trx": "Тетрадь по обществознанию"
+  },
+  "target_558": {
+    "src": "Worn-out Notebook",
+    "yax": "Потрепанный блокнот",
+    "trx": "Потрепанная тетрадь"
+  },
+  "target_559": {
+    "src": "Dresser",
+    "yax": "Костюмер",
+    "trx": "Комод"
+  },
+  "target_560": {
+    "src": "One-wheeled Robot",
+    "yax": "Одноколесный робот",
+    "trx": "Одноколесный робот"
+  },
+  "target_561": {
+    "src": "Refrigerator",
+    "yax": "Холодильник",
+    "trx": "Холодильник"
+  },
+  "target_562": {
+    "src": "Golden Paper",
+    "yax": "Золотая бумага",
+    "trx": "Золотая бумага"
+  },
+  "target_563": {
+    "src": "Pick up",
+    "yax": "Подбирать",
+    "trx": "Подобрать"
+  },
+  "target_564": {
+    "src": "Toy Robot",
+    "yax": "Игрушечный Робот",
+    "trx": "Игрушечный робот"
+  },
+  "target_565": {
+    "src": "Pot",
+    "yax": "Горшок",
+    "trx": "Кастрюля"
+  }
+}

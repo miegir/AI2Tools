@@ -1,0 +1,532 @@
+{
+  "target_001": {
+    "src": "Name Specified for Node Table",
+    "yax": "Имя, указанное для таблицы узлов",
+    "trx": null
+  },
+  "target_002": {
+    "src": "",
+    "yax": "",
+    "trx": ""
+  },
+  "target_003": {
+    "src": "Punch ",
+    "yax": "Удар ",
+    "trx": "☯️Удар (Punch) "
+  },
+  "target_004": {
+    "src": "Kick ",
+    "yax": "Удар ",
+    "trx": "☯️Удар (Kick) "
+  },
+  "target_005": {
+    "src": "Punch ",
+    "yax": "Удар ",
+    "trx": "☯️Удар (Punch) "
+  },
+  "target_006": {
+    "src": "Punch ",
+    "yax": "Удар ",
+    "trx": "☯️Удар (Punch) "
+  },
+  "target_008": {
+    "src": "Barrel",
+    "yax": "Бочка",
+    "trx": "Бочка"
+  },
+  "target_007": {
+    "src": "Slam ",
+    "yax": "Захлопывать ",
+    "trx": "Хлопнуть "
+  },
+  "target_009": {
+    "src": "M11_Test",
+    "yax": "M11_Test",
+    "trx": "☯️M11_Test"
+  },
+  "target_010": {
+    "src": "Large Picture Book",
+    "yax": "Большая Книга с картинками",
+    "trx": "Большая книга с картинками"
+  },
+  "target_011": {
+    "src": "Large Balloon",
+    "yax": "Большой воздушный шар",
+    "trx": "Большой воздушный шар"
+  },
+  "target_012": {
+    "src": "Read",
+    "yax": "Прочитай",
+    "trx": "Читать"
+  },
+  "target_013": {
+    "src": "Slam ",
+    "yax": "Захлопывать ",
+    "trx": "Хлопнуть "
+  },
+  "target_014": {
+    "src": "Large Picture Book",
+    "yax": "Большая Книга с картинками",
+    "trx": "Большая книга с картинками"
+  },
+  "target_015": {
+    "src": "Climb ",
+    "yax": "Взбираться ",
+    "trx": "Забраться "
+  },
+  "target_016": {
+    "src": "Witch Candle",
+    "yax": "Ведьмина свеча",
+    "trx": "Ведьмина свеча"
+  },
+  "target_017": {
+    "src": "Sit",
+    "yax": "Сидеть",
+    "trx": "Сесть"
+  },
+  "target_018": {
+    "src": "Sandbox",
+    "yax": "Песочница",
+    "trx": "Песочница"
+  },
+  "target_019": {
+    "src": "Large Cookie",
+    "yax": "Большое печенье",
+    "trx": "Большое печенье"
+  },
+  "target_020": {
+    "src": "Read",
+    "yax": "Прочитай",
+    "trx": "Читать"
+  },
+  "target_021": {
+    "src": "Large Picture Book",
+    "yax": "Большая Книга с картинками",
+    "trx": "Большая книга с картинками"
+  },
+  "target_022": {
+    "src": "Clock on Slide",
+    "yax": "Часы на слайде",
+    "trx": "Часы на горке"
+  },
+  "target_023": {
+    "src": "Time Capsule",
+    "yax": "Капсула времени",
+    "trx": "Капсула времени"
+  },
+  "target_024": {
+    "src": "Aioen Entrance",
+    "yax": "Вход в Айоен",
+    "trx": "Вход в Айоен"
+  },
+  "target_025": {
+    "src": "Read",
+    "yax": "Прочитай",
+    "trx": "Читать"
+  },
+  "target_026": {
+    "src": "Large Picture Book",
+    "yax": "Большая Книга с картинками",
+    "trx": "Большая книга с картинками"
+  },
+  "target_027": {
+    "src": "Pick Up",
+    "yax": "подбирать",
+    "trx": "Подобрать"
+  },
+  "target_028": {
+    "src": "Picture of Frog",
+    "yax": "Изображение лягушки",
+    "trx": "Рисунок лягушки"
+  },
+  "target_029": {
+    "src": "Wheel on Spinning Wheel",
+    "yax": "Колесо на прялке",
+    "trx": "Колесо на вращающемся колесе"
+  },
+  "target_030": {
+    "src": "Sit",
+    "yax": "Сидеть",
+    "trx": "Сесть"
+  },
+  "target_031": {
+    "src": "Hide under desk",
+    "yax": "Спрятаться под столом",
+    "trx": "Спрятаться под столом"
+  },
+  "target_032": {
+    "src": "Hide in locker",
+    "yax": "Спрятаться в шкафчике",
+    "trx": "Спрятаться в шкафчике"
+  },
+  "target_033": {
+    "src": "Hide behind",
+    "yax": "Спрятаться за",
+    "trx": "Спрятаться сзади"
+  },
+  "target_034": {
+    "src": "Hide behind",
+    "yax": "Спрятаться за",
+    "trx": "Спрятаться сзади"
+  },
+  "target_035": {
+    "src": "Duct",
+    "yax": "Канал",
+    "trx": "Воздуховод"
+  },
+  "target_036": {
+    "src": "Respirator",
+    "yax": "Респиратор",
+    "trx": "Респиратор"
+  },
+  "target_037": {
+    "src": "Vent",
+    "yax": "Выходное отверстие",
+    "trx": "Вентиляция"
+  },
+  "target_038": {
+    "src": "Hide on",
+    "yax": "Спрятаться на",
+    "trx": "Спрятаться наверху"
+  },
+  "target_039": {
+    "src": "Hide under desk",
+    "yax": "Спрятаться под столом",
+    "trx": "Спрятаться под столом"
+  },
+  "target_040": {
+    "src": "Hide behind",
+    "yax": "Спрятаться за",
+    "trx": "Спрятаться сзади"
+  },
+  "target_041": {
+    "src": "Hide in locker",
+    "yax": "Спрятаться в шкафчике",
+    "trx": "Спрятаться в шкафчике"
+  },
+  "target_042": {
+    "src": "Heart Monitor",
+    "yax": "Кардиомонитор",
+    "trx": "Кардиомонитор"
+  },
+  "target_043": {
+    "src": "Electroencephalograph",
+    "yax": "Электроэнцефалограф",
+    "trx": "Электроэнцефалограф"
+  },
+  "target_044": {
+    "src": "Rabbit",
+    "yax": "Кролик",
+    "trx": "Кролик"
+  },
+  "target_045": {
+    "src": "PC",
+    "yax": "ПК",
+    "trx": "ПК"
+  },
+  "target_046": {
+    "src": "Hide under desk",
+    "yax": "Спрятаться под столом",
+    "trx": "Спрятаться под столом"
+  },
+  "target_047": {
+    "src": "Hide behind",
+    "yax": "Спрятаться за",
+    "trx": "Спрятаться сзади"
+  },
+  "target_048": {
+    "src": "Hide in locker",
+    "yax": "Спрятаться в шкафчике",
+    "trx": "Спрятаться в шкафчике"
+  },
+  "target_049": {
+    "src": "Hide in work bench",
+    "yax": "Спрятаться на верстаке",
+    "trx": "Спрятаться на верстаке"
+  },
+  "target_050": {
+    "src": "Inside work bench with rabbit",
+    "yax": "Внутренний верстак с кроликом",
+    "trx": "Внутри верстака с кроликом"
+  },
+  "target_051": {
+    "src": "Behind the partition with rabbit",
+    "yax": "За перегородкой с кроликом",
+    "trx": "За перегородкой с кроликом"
+  },
+  "target_052": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_053": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_054": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_055": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_056": {
+    "src": "Inspect",
+    "yax": "Проверить",
+    "trx": "Осмотреть"
+  },
+  "target_057": {
+    "src": "Pick Up",
+    "yax": "подбирать",
+    "trx": "Подобрать"
+  },
+  "target_058": {
+    "src": "Open ",
+    "yax": "Открыть ",
+    "trx": "Открыть "
+  },
+  "target_063": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "Амаме"
+  },
+  "target_064": {
+    "src": "Vokeman",
+    "yax": "Вокеман",
+    "trx": "Плеер"
+  },
+  "target_065": {
+    "src": "TV",
+    "yax": "ТВ",
+    "trx": "ТВ"
+  },
+  "target_066": {
+    "src": "Photo of Deep-sea Fish",
+    "yax": "Фотография глубоководной рыбы",
+    "trx": "Фото глубоководной рыбы"
+  },
+  "target_067": {
+    "src": "Mysterious Person",
+    "yax": "Таинственный Человек",
+    "trx": "Таинственный человек"
+  },
+  "target_068": {
+    "src": "Elephant Trinket",
+    "yax": "Брелок со слоном",
+    "trx": "Фигура слона"
+  },
+  "target_069": {
+    "src": "Scattered Magazine",
+    "yax": "Разбросанный журнал",
+    "trx": "Разорванный журнал"
+  },
+  "target_070": {
+    "src": "Naix's Teachings",
+    "yax": "Учения Наикса",
+    "trx": "Учения Naix"
+  },
+  "target_071": {
+    "src": "Body Bag",
+    "yax": "Мешок для Тела",
+    "trx": "Мешок для тела"
+  },
+  "target_072": {
+    "src": "Andes Komeji's Outfit",
+    "yax": "Наряд Андеса Комеджи",
+    "trx": "Костюм Андеса Комедзи"
+  },
+  "target_073": {
+    "src": "QR Code Sign",
+    "yax": "Знак QR-кода",
+    "trx": "Знак с QR-кодом"
+  },
+  "target_074": {
+    "src": "Iron Mask",
+    "yax": "Железная Маска",
+    "trx": "Железная маска"
+  },
+  "target_075": {
+    "src": "Headphones",
+    "yax": "Наушники",
+    "trx": "Наушники"
+  },
+  "target_076": {
+    "src": "Wrench",
+    "yax": "Гаечный ключ",
+    "trx": "Гаечный ключ"
+  },
+  "target_077": {
+    "src": "Damaged Iron Mask",
+    "yax": "Поврежденная Железная Маска",
+    "trx": "Поврежденная железная маска"
+  },
+  "target_078": {
+    "src": "Trident",
+    "yax": "Трезубец",
+    "trx": "Трезубец"
+  },
+  "target_079": {
+    "src": "Choose Vokeman",
+    "yax": "Выберите Vokeman",
+    "trx": "Выбрать плеер"
+  },
+  "target_080": {
+    "src": "Choose Vokeman",
+    "yax": "Выберите Vokeman",
+    "trx": "Выбрать плеер"
+  },
+  "target_081": {
+    "src": "Choose Elephant Trinket",
+    "yax": "Выберите Брелок со Слоном",
+    "trx": "Выбрать фигуру слона"
+  },
+  "target_082": {
+    "src": "Choose Elephant Trinket",
+    "yax": "Выберите Брелок со Слоном",
+    "trx": "Выбрать фигуру слона"
+  },
+  "target_083": {
+    "src": "Choose One-Wheeled Robot",
+    "yax": "Выберите Одноколесного Робота",
+    "trx": "Выбрать одноколесного робота"
+  },
+  "target_084": {
+    "src": "Choose One-Wheeled Robot",
+    "yax": "Выберите Одноколесного Робота",
+    "trx": "Выбрать одноколесного робота"
+  },
+  "target_085": {
+    "src": "Choose Photo of Deep-sea Fish",
+    "yax": "Выберите фотографию глубоководной рыбы",
+    "trx": "Выбрать фото глубоководной рыбы"
+  },
+  "target_086": {
+    "src": "Choose Headphones",
+    "yax": "Выберите Наушники",
+    "trx": "Выбрать наушники"
+  },
+  "target_087": {
+    "src": "Choose Trident",
+    "yax": "Выберите Трезубец",
+    "trx": "Выбрать трезубец"
+  },
+  "target_088": {
+    "src": "Choose Adorabbit",
+    "yax": "Выберите Adorabbit",
+    "trx": "Выбрать плюшевого кролика"
+  },
+  "target_089": {
+    "src": "Choose Omelet Rice",
+    "yax": "Выберите Омлет с Рисом",
+    "trx": "Выбрать омлет с рисом"
+  },
+  "target_090": {
+    "src": "Choose Metal Pipe",
+    "yax": "Выберите Металлическую Трубу",
+    "trx": "Выбрать металлическую трубу"
+  },
+  "target_091": {
+    "src": "Choose Magazine",
+    "yax": "Выберите журнал",
+    "trx": "Выбрать журнал"
+  },
+  "target_092": {
+    "src": "Think",
+    "yax": "Думать",
+    "trx": "Думать"
+  },
+  "target_093": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать тщательнее"
+  },
+  "target_094": {
+    "src": "Think",
+    "yax": "Думать",
+    "trx": "Думать"
+  },
+  "target_095": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать тщательнее"
+  },
+  "target_096": {
+    "src": "Think",
+    "yax": "Думать",
+    "trx": "Думать"
+  },
+  "target_097": {
+    "src": "Think harder",
+    "yax": "Думай усерднее",
+    "trx": "Думать тщательнее"
+  },
+  "target_098": {
+    "src": "Answer",
+    "yax": "Ответ",
+    "trx": "Ответ"
+  },
+  "target_099": {
+    "src": "Answer",
+    "yax": "Ответ",
+    "trx": "Ответ"
+  },
+  "target_100": {
+    "src": "Answer",
+    "yax": "Ответ",
+    "trx": "Ответ"
+  },
+  "target_500": {
+    "src": "Choose Kizuna",
+    "yax": "Выбери Кидзуну",
+    "trx": "Выбрать Кизуну"
+  },
+  "target_501": {
+    "src": "Choose Mizuki",
+    "yax": "Выбирай Мизуки",
+    "trx": "Выбрать Мизуки"
+  },
+  "target_502": {
+    "src": "Choose Mysterious Person",
+    "yax": "Выберите Таинственного Человека",
+    "trx": "Выбрать таинственного человека"
+  },
+  "target_503": {
+    "src": "Choose Iris",
+    "yax": "Выберите Ирис",
+    "trx": "Выбрать Айрис"
+  },
+  "target_504": {
+    "src": "Choose Shoma",
+    "yax": "Выбирай Сему",
+    "trx": "Выбрать Шому"
+  },
+  "target_505": {
+    "src": "Choose Answer Switch",
+    "yax": "Выберите Переключатель Ответа",
+    "trx": "Выбрать кнопку ответа"
+  },
+  "target_101": {
+    "src": "Choose Signboard",
+    "yax": "Выберите Вывеску",
+    "trx": "Выбрать знак"
+  },
+  "target_102": {
+    "src": "Inspect Monitor A",
+    "yax": "Осмотрите Монитор A",
+    "trx": "Осмотреть монитор А"
+  },
+  "target_103": {
+    "src": "Inspect Monitor B",
+    "yax": "Осмотрите Монитор В",
+    "trx": "Осмотреть монитор Б"
+  },
+  "target_104": {
+    "src": "Inspect Monitor C",
+    "yax": "Осмотрите Монитор C",
+    "trx": "Осмотреть монитор В"
+  }
+}
