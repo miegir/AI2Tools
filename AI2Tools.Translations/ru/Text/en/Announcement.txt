@@ -1,0 +1,142 @@
+{
+  "announcement_001": {
+    "src": "Mizuki, you have five minutes left.",
+    "yax": "Мизуки, у тебя осталось пять минут.",
+    "trx": "Мизуки, у тебя осталось пять минут."
+  },
+  "announcement_002": {
+    "src": "You have four minutes remaining.",
+    "yax": "У вас осталось четыре минуты.",
+    "trx": "У тебя осталось четыре минуты."
+  },
+  "announcement_003": {
+    "src": "Three minutes left. You can do this!",
+    "yax": "Осталось три минуты. Ты можешь это сделать!",
+    "trx": "Осталось три минуты. Ты сможешь это сделать!"
+  },
+  "announcement_004": {
+    "src": "Mizuki! You have less than two minutes left. Be careful!",
+    "yax": "Мизуки! У вас осталось меньше двух минут. Будь осторожен!",
+    "trx": "Мизуки! У тебя осталось меньше двух минут. Будь осторожна!"
+  },
+  "announcement_005": {
+    "src": "Hurry, you have less than a minute left!",
+    "yax": "Поторопитесь, у вас осталось меньше минуты!",
+    "trx": "Поторопись, у тебя осталось меньше минуты!"
+  },
+  "announcement_006": {
+    "src": "Ah... Only thirty seconds left!",
+    "yax": "Ах... Осталось всего тридцать секунд!",
+    "trx": "Ах... Осталось всего тридцать секунд!"
+  },
+  "announcement_007": {
+    "src": "Mizuki, you're out of time!",
+    "yax": "Мизуки, у тебя нет времени!",
+    "trx": "Мизуки, время вышло!"
+  },
+  "announcement_008": {
+    "src": "Ryuki, you have five minutes remaining.",
+    "yax": "Рюки, у тебя осталось пять минут.",
+    "trx": "Рюки, у тебя осталось пять минут."
+  },
+  "announcement_009": {
+    "src": "Four minutes remaining.",
+    "yax": "Осталось четыре минуты.",
+    "trx": "Осталось четыре минуты."
+  },
+  "announcement_010": {
+    "src": "You have three minutes left. Get it together, Ryuki!",
+    "yax": "У вас осталось три минуты. Возьми себя в руки, Рюки!",
+    "trx": "У тебя осталось три минуты. Рюки, возьми себя в руки!"
+  },
+  "announcement_011": {
+    "src": "Ryuki, less than two minutes left! Be careful!",
+    "yax": "Рюки, осталось меньше двух минут! Будь осторожен!",
+    "trx": "Рюки, осталось меньше двух минут! Будь осторожен!"
+  },
+  "announcement_012": {
+    "src": "You have less than a minute left. Hurry!",
+    "yax": "У вас осталось меньше минуты. Быстрее!",
+    "trx": "У тебя осталось меньше минуты. Быстрее!"
+  },
+  "announcement_013": {
+    "src": "Thirty seconds left!",
+    "yax": "Осталось тридцать секунд!",
+    "trx": "Осталось тридцать секунд!"
+  },
+  "announcement_014": {
+    "src": "Ryuki, you're out of time!",
+    "yax": "Рюки, у тебя нет времени!",
+    "trx": "Рюки, время вышло!"
+  },
+  "announcement_015": {
+    "src": "Mizuki, you have five minutes left.",
+    "yax": "Мизуки, у тебя осталось пять минут.",
+    "trx": "Мизуки, у тебя осталось пять минут."
+  },
+  "announcement_016": {
+    "src": "You have about four minutes left.",
+    "yax": "У вас осталось около четырех минут.",
+    "trx": "У тебя осталось примерно четыре минуты."
+  },
+  "announcement_017": {
+    "src": "Three minutes left, Mizuki, careful now...",
+    "yax": "Осталось три минуты, Мизуки, теперь осторожнее...",
+    "trx": "Осталось три минуты, Мизуки, теперь осторожнее..."
+  },
+  "announcement_018": {
+    "src": "Mizuki, you have less than two minutes left! Please hurry!",
+    "yax": "Мизуки, у тебя осталось меньше двух минут! Пожалуйста, поторопитесь!",
+    "trx": "Мизуки, у тебя осталось меньше двух минут! Пожалуйста, поторопись!"
+  },
+  "announcement_019": {
+    "src": "Only a minute left!",
+    "yax": "Осталась всего минута!",
+    "trx": "Осталась всего минута!"
+  },
+  "announcement_020": {
+    "src": "Mizuki, you have less than thirty seconds!",
+    "yax": "Мизуки, у тебя меньше тридцати секунд!",
+    "trx": "Мизуки, у тебя меньше тридцати секунд!"
+  },
+  "announcement_021": {
+    "src": "Urgh... Mizuki, you're out of time...",
+    "yax": "Ух... Мизуки, у тебя нет времени...",
+    "trx": "Ух... Мизуки, время вышло..."
+  },
+  "announcement_022": {
+    "src": "Ryuki, you have five minutes left.",
+    "yax": "Рюки, у тебя осталось пять минут.",
+    "trx": "Рюки, у тебя осталось пять минут."
+  },
+  "announcement_023": {
+    "src": "Four minutes now.",
+    "yax": "Уже четыре минуты.",
+    "trx": "Осталось четыре минуты."
+  },
+  "announcement_024": {
+    "src": "You have three minutes left, Ryuki. Focus.",
+    "yax": "У тебя осталось три минуты, Рюки. Сосредоточить.",
+    "trx": "Рюки, у тебя осталось три минуты. Сосредоточься."
+  },
+  "announcement_025": {
+    "src": "You only have two minutes! Hurry, Ryuki!",
+    "yax": "У вас есть всего две минуты! Поторопись, Рюки!",
+    "trx": "Осталось всего две минуты! Поторопись, Рюки!"
+  },
+  "announcement_026": {
+    "src": "You have a minute left!",
+    "yax": "У вас осталась минута!",
+    "trx": "У тебя осталась минута!"
+  },
+  "announcement_027": {
+    "src": "Ryuki, less than thirty seconds left!",
+    "yax": "Рюки, осталось меньше тридцати секунд!",
+    "trx": "Рюки, осталось меньше тридцати секунд!"
+  },
+  "announcement_028": {
+    "src": "You're out of time...",
+    "yax": "У тебя нет времени...",
+    "trx": "Время вышло..."
+  }
+}

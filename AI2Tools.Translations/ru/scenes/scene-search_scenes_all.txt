@@ -10,5 +10,17 @@
   {
     "path": "_root/Canvas2/ScreenScaler2/GameObject (1)/simplepsync Variant/adjust/timer/base01/Text_sec (TMP)",
     "text": "сек"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/purposeupdate Variant/purpose_old/completed01/text_completed01 (TMP)",
+    "text": "ЗАВЕРШЕНО"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/lockclear_awaken Variant/awaken/text_awaken (TMP)",
+    "text": "<size=60%>ПРОБУЖДЕНИЕ"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/purposeupdate Variant/purpose_new01/target/text_target (TMP)",
+    "text": "ЦЕЛЬ"
   }
 ]

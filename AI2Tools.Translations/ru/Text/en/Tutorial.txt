@@ -342,7 +342,7 @@
   "tutorial_051": {
     "src": "By unlocking <color=yellow>《Mental Locks》</color>, you can go deeper into the dream.\nBy unlocking them all, you might be able to learn\nvaluable information.",
     "yax": "Отпирая <color=yellow>\"Ментальные замки\"</color>, вы можете глубже погрузиться в сон.\nОткрыв их все, вы, возможно, сможете научиться\nценная информация.",
-    "trx": "При помощи разблокирования <color=yellow>《Ментальных замков》</color> вы глубже погружаетесь в сон.\nРазблокировав их все, вы, возможно, сможете узнать\nценную информацию."
+    "trx": "Отпирая <color=yellow>《Ментальные замки》</color> вы глубже погружаетесь в сон.\nОткрыв их все, вы, возможно, сможете узнать\nценную информацию."
   },
   "tutorial_title_027": {
     "src": "Objectives",
@@ -402,12 +402,12 @@
   "tutorial_title_031": {
     "src": "Unlock Mental Lock",
     "yax": "Разблокируйте Ментальный Замок",
-    "trx": "Разблокировка ментальных замков"
+    "trx": "Отпирание ментальных замков"
   },
   "tutorial_059": {
     "src": "A Mental Lock was unlocked!\nYou have completed <color=yellow>the Objective \"Remember the case\"</color>.",
     "yax": "Ментальный Замок был разблокирован!\nВы выполнили <color=yellow> задачу \"Запомнить случай\"</color>.",
-    "trx": "Ментальный замок был разблокирован!\nВы выполнили <color=yellow> цель \"Вспомнить дело\"</color>."
+    "trx": "Ментальный замок был открыт!\nВы выполнили <color=yellow> цель \"Вспомнить дело\"</color>."
   },
   "tutorial_060": {
     "src": "But there are still other <color=yellow>Mental Locks</color> in this Somnium.",
@@ -417,7 +417,7 @@
   "tutorial_061": {
     "src": "With the <color=yellow>new Objective \"Close in on Ryuki\"</color>, explore the area to unlock the rest of the Mental Locks.",
     "yax": "С помощью <color=yellow> новой цели \"Приблизиться к Рюки\"</color> исследуйте местность, чтобы разблокировать остальные Ментальные замки.",
-    "trx": "Ваша <color=yellow>новая цель — \"Подойти к Рюки\"</color>. Исследуйте местность, чтобы разблокировать другие ментальные замки."
+    "trx": "Ваша <color=yellow>новая цель — \"Подойти к Рюки\"</color>. Исследуйте местность, чтобы открыть другие ментальные замки."
   },
   "tutorial_title_032": {
     "src": "Time Limit",
@@ -437,7 +437,7 @@
   "tutorial_064": {
     "src": "Keep an eye on the 《Remaining Time》 while <color=yellow>Unlocking all the Mental Locks in 360 seconds</color>.",
     "yax": "Следите за \"Оставшимся временем\", пока <color=yellow> Отпираете все Ментальные замки за 360 секунд</color>.",
-    "trx": "Следите за 《Оставшимся временем》, чтобы успеть <color=yellow>разблокировать все ментальные замки за 360 секунд</color>."
+    "trx": "Следите за 《Оставшимся временем》, чтобы успеть <color=yellow>открыть все ментальные замки за 360 секунд</color>."
   },
   "tutorial_title_033": {
     "src": "Key",
@@ -452,7 +452,7 @@
   "tutorial_066": {
     "src": "At the start of a Psync it is hidden, but \n<color=yellow>they open as you inspect things.</color>",
     "yax": "В начале Psync он скрыт, но \n<color=yellow>они открываются, когда вы осматриваете вещи.</color>",
-    "trx": "В начале псинхронизации ключи скрыты, но \n<color=yellow>они открываются, когда вы осматриваете вещи.</color>"
+    "trx": "В начале псинхронизации ключи скрыты, но \n<color=yellow>они открываются, когда вы осматриваете предметы.</color>"
   },
   "tutorial_067": {
     "src": "Keys are <color=yellow>crucial</color> to reach of the depths of Somnia. \nWhen stuck, try checking them. ",
@@ -537,12 +537,12 @@
   "tutorial_078": {
     "src": "《Retry》 allows you to <color=yellow>go back to the mid-save point</color> after unlocking a Mental Lock.",
     "yax": "\"Повторная попытка\" позволяет <color=yellow> вернуться к середине сохранения</color> после разблокировки ментальной блокировки.",
-    "trx": "《Повтор》 позволяет <color=yellow>вернуться к контрольной точке</color>, сохраненной после разблокирования ментального замка."
+    "trx": "《Повтор》 позволяет <color=yellow>вернуться к контрольной точке</color>, сохраненной после открытия ментального замка."
   },
   "tutorial_079": {
     "src": "You can only perform a Retry <color=yellow>3 times</color>.\nUse 1 retry point to go back 1 point, 2 points to go back 2, and 3 points to go back 3.",
     "yax": "Вы можете повторить попытку <color=yellow> только 3 раза</color>.\nИспользуйте 1 балл повторной попытки, чтобы вернуться на 1 балл, 2 балла, чтобы вернуться на 2, и 3 балла, чтобы вернуться на 3.",
-    "trx": "Использовать повтор можно <color=yellow>только 3 раза</color>.\nДля возврата на 1 шаг требуется 1 балл, на 2 шага — 2 балла, и на 3 шага — 3 балла."
+    "trx": "Использовать повтор можно <color=yellow>только 3 раза</color>.\nДля возврата на 1 шаг требуется 1 попытка, на 2 шага — 2 попытки, и на 3 шага — 3 попытки."
   },
   "tutorial_080": {
     "src": "If you fail the Psync, the retry count will be recovered. \nWhen you don't have time, we recommend you use it.",

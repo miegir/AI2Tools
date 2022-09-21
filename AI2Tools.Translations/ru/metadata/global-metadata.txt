@@ -2601,7 +2601,7 @@
   },
   {
     "src": "#{0}\nUNLOCKED",
-    "trx": null
+    "trx": "#{0}\nОТКРЫТО"
   },
   {
     "src": "$",
@@ -36761,15 +36761,15 @@
   },
   {
     "src": "Mental Lock",
-    "trx": null
+    "trx": "Ментальный замок"
   },
   {
     "src": "Mental Lock #{0}",
-    "trx": null
+    "trx": "Ментальный замок #{0}"
   },
   {
     "src": "Mental Lock {0}",
-    "trx": null
+    "trx": "Ментальный замок {0}"
   },
   {
     "src": "Mental Lock{0}解除 : <pos=75%>残り{1}秒",
@@ -112505,7 +112505,7 @@
   },
   {
     "src": "{0}m",
-    "trx": null
+    "trx": "{0}м"
   },
   {
     "src": "{0}x{1}",
