@@ -47,6 +47,9 @@ public partial class Il2CppMetadataResource
         {
             var objectPath = Path.Combine(arguments.ObjectDirectory, "metadata", name + ".pak");
             var sourceChangeTracker = new SourceChangeTracker(source.Destination, objectPath + ".state");
+
+            sourceChangeTracker.RegisterSource(sourcePath);
+
             if (!sourceChangeTracker.HasChanges())
             {
                 yield break;
