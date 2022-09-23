@@ -62,7 +62,7 @@
   "target_014": {
     "src": "False Eye",
     "yax": "Ложный Глаз",
-    "trx": "Ложный глаз"
+    "trx": "Искусственный глаз"
   },
   "target_500": {
     "src": "Inspect",
@@ -112,7 +112,7 @@
   "target_022": {
     "src": "Shoe",
     "yax": "Башмак",
-    "trx": "Туфелька"
+    "trx": "Туфли"
   },
   "target_023": {
     "src": "Metal Pipe",

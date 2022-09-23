@@ -72,7 +72,7 @@
   "dialog_009": {
     "src": "Perform action without using Timie?",
     "yax": "Выполнить действие без использования Timie?",
-    "trx": "Выполнить действие, не используя Тайми?"
+    "trx": "Выполнить действие, не используя тайми?"
   },
   "dialog_010": {
     "src": "Start game with this text language?\nThis cannot be changed later. ",
@@ -97,7 +97,7 @@
   "dialog_505": {
     "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
     "yax": "Разблокированная функция глазных яблок!\r\n《Время ожидания вопроса теперь составляет 0 секунд》\r\n《В книжке с картинками функция \"Поиграйте с глазными яблоками, которые вы встречали в прошлом\" 《\r\nОтныне тоже давайте ответы на вопросы!",
-    "trx": "Разблокирована функция глазок!\n《Время ожидания вопроса теперь 0 секунд》\n《В альбоме доступна функция \"Поиграть со встреченными в прошлом глазками\"》\nПродолжайте отвечать на вопросы!"
+    "trx": "Разблокирована функция глазков!\n《Время ожидания вопроса теперь 0 секунд》\n《В альбоме доступна функция \"Поиграть со встреченными в прошлом глазками\"》\nПродолжайте отвечать на вопросы!"
   },
   "dialog_509": {
     "src": "Remaning Retries",
@@ -362,12 +362,12 @@
   "timie_information_004": {
     "src": "Change time cost\nto 1/{0}",
     "yax": "Изменение временных затрат\r\nдо 1/{0}",
-    "trx": "Сократить расход времени\nв {0} раз"
+    "trx": "<line-height=46>Сократить расход\nвремени в {0} раз(а)"
   },
   "timie_information_005": {
     "src": "Change time cost\nto {0} seconds",
     "yax": "Изменение временных затрат\r\nдо {0} секунд",
-    "trx": "Изменить расход времени\nна {0} сек"
+    "trx": "<line-height=46>Изменить расход\nвремени на {0} сек"
   },
   "ui_title_001": {
     "src": "Current Goal",
@@ -492,7 +492,7 @@
   "purpose_difficulty_detail_003": {
     "src": "Time Reduction Speed: 1/4\nInteraction Times: 1/4\nRetry count: Unlimited",
     "yax": "Скорость сокращения времени: 1/4\r\nВремя взаимодействия: 1/4\r\nКоличество повторных попыток: Неограниченно",
-    "trx": "Скорость расхода времени: 1/4\nВремя взаимодействия: 1/4\nКоличество попыток: Unlimited"
+    "trx": "Скорость расхода времени: 1/4\nВремя взаимодействия: 1/4\nКоличество попыток: Бесконечно"
   },
   "scale_500": {
     "src": "♪Re",
@@ -582,42 +582,42 @@
   "operation_guide_001": {
     "src": "Move Cursor",
     "yax": "Переместить курсор",
-    "trx": "Переместить курсор"
+    "trx": "<line-height=7>\nПереместить курсор"
   },
   "operation_guide_002": {
     "src": "Move Sight",
     "yax": "Переместите Прицел",
-    "trx": "Переместить прицел"
+    "trx": "<line-height=7>\nПереместить прицел"
   },
   "operation_guide_503": {
     "src": "Move Camera",
     "yax": "Переместить Камеру",
-    "trx": "Переместить камеру"
+    "trx": "<line-height=7>\nПереместить камеру"
   },
   "operation_guide_003": {
     "src": "Check",
     "yax": "Проверять",
-    "trx": "Осмотреть"
+    "trx": "<line-height=7>\nОсмотреть"
   },
   "operation_guide_504": {
     "src": "Choose Options",
     "yax": "Выберите параметры",
-    "trx": "Выбрать вариант"
+    "trx": "<line-height=7>\nВыбрать вариант"
   },
   "operation_guide_508": {
     "src": "Move",
     "yax": "Подвиньте",
-    "trx": "Переместить"
+    "trx": "<line-height=7>\nПереместить"
   },
   "operation_guide_509": {
     "src": "Controls",
     "yax": "Управления",
-    "trx": "Управление"
+    "trx": "<line-height=7>\nУправление"
   },
   "operation_guide_510": {
     "src": "Use/Cancel",
     "yax": "Использование/Отмена",
-    "trx": "Использовать/Отмена"
+    "trx": "<size=85%><line-height=7>\nИспользовать/Отмена"
   },
   "operation_guide_004": {
     "src": "Enter",

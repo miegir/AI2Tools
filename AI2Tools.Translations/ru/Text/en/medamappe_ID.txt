@@ -1,0 +1,5142 @@
+{//TBT
+  "medamappe_fukidashi_001": {
+    "src": "What do you think of eyeballs? ",
+    "yax": "Что вы думаете о глазных яблоках? ",
+    "trx": "Что вы думаете о глазных яблоках? "
+  },
+  "medamappe_fukidashi_002": {
+    "src": "What do you think of AI?",
+    "yax": "Что вы думаете об ИИ?",
+    "trx": "Что вы думаете об ИИ?"
+  },
+  "medamappe_fukidashi_003": {
+    "src": "What do you think of shrimp?",
+    "yax": "Что вы думаете о креветках?",
+    "trx": "Что вы думаете о креветках?"
+  },
+  "medamappe_fukidashi_004": {
+    "src": "Do you like insects?",
+    "yax": "Вам нравятся насекомые?",
+    "trx": "Вам нравятся насекомые?"
+  },
+  "medamappe_fukidashi_005": {
+    "src": "How are you feeling right now?",
+    "yax": "Как ты себя сейчас чувствуешь?",
+    "trx": "Как вы себя сейчас чувствуете?"
+  },
+  "medamappe_fukidashi_006": {
+    "src": "What kind of tsukkomi do you like?",
+    "yax": "Какой вид цуккоми тебе нравится?",
+    "trx": "Какого цуккоми вы предпочитаете?" //spell-ignore-line
+  },
+  "medamappe_fukidashi_007": {
+    "src": "What is your preferred cacao ratio in \nchocolate?",
+    "yax": "Каково ваше предпочтительное соотношение какао в \nшоколад?",
+    "trx": "Ваш любимый процент какао в \nшоколаде?"
+  },
+  "medamappe_fukidashi_008": {
+    "src": "What direction do you like?",
+    "yax": "Какое направление вам нравится?",
+    "trx": "Какое направление вам нравится?"
+  },
+  "medamappe_fukidashi_009": {
+    "src": "What food do you like?",
+    "yax": "Какую еду вы любите?",
+    "trx": "Какую еду вы любите?"
+  },
+  "medamappe_fukidashi_010": {
+    "src": "What would you do if you got questioned \nby the police?",
+    "yax": "Что бы вы сделали, если бы вас допросили \nполицией?",
+    "trx": "Что вы сделаете, если вас станет допрашивать \nполиция?"
+  },
+  "medamappe_fukidashi_011": {
+    "src": "How many legs do you like? ",
+    "yax": "Сколько ног тебе нравится? ",
+    "trx": "Сколько ног вы предпочитаете? "
+  },
+  "medamappe_fukidashi_012": {
+    "src": "How do you like your engine to be \nsupplied air?",
+    "yax": "Каким вы хотели бы видеть свой двигатель \nподаваемый воздух?",
+    "trx": "Как бы вы хотели, чтобы в двигатель \nподавался воздух?"
+  },
+  "medamappe_fukidashi_013": {
+    "src": "Why was I born into this world?",
+    "yax": "Почему я родился в этом мире?",
+    "trx": "Зачем я появился в этом мире?"
+  },
+  "medamappe_fukidashi_014": {
+    "src": "Which one do you want?",
+    "yax": "Какой из них ты хочешь?",
+    "trx": "Что из этого вы хотите?"
+  },
+  "medamappe_fukidashi_015": {
+    "src": "What weather do you like?",
+    "yax": "Какая погода вам нравится?",
+    "trx": "Какая погода вам нравится?"
+  },
+  "medamappe_fukidashi_016": {
+    "src": "What did you think deep learning was?",
+    "yax": "Как вы думаете, что такое глубокое обучение?",
+    "trx": "Как вы думаете, что такое глубокое обучение?"
+  },
+  "medamappe_fukidashi_017": {
+    "src": "What kind of dance do you like?",
+    "yax": "Какой танец тебе нравится?",
+    "trx": "Какой танец вам нравится?"
+  },
+  "medamappe_fukidashi_018": {
+    "src": "What kind of music do you like?",
+    "yax": "Какая музыка тебе нравится?",
+    "trx": "Какая музыка вам нравится?"
+  },
+  "medamappe_fukidashi_019": {
+    "src": "What OOPARTS do you like?",
+    "yax": "Какие ООПАРТЫ вам нравятся?",
+    "trx": "Какие неуместные артефакты вам нравятся?"
+  },
+  "medamappe_fukidashi_020": {
+    "src": "What track and field event do you like?",
+    "yax": "Какое мероприятие по легкой атлетике вам нравится?",
+    "trx": "Какое соревнование по легкой атлетике вам нравится?"
+  },
+  "medamappe_fukidashi_021": {
+    "src": "Does Santa really exist?",
+    "yax": "Существует ли Санта на самом деле?",
+    "trx": "Существует ли Санта на самом деле?"
+  },
+  "medamappe_fukidashi_022": {
+    "src": "What UMA do you like?",
+    "yax": "Какая УМА тебе нравится?",
+    "trx": "Какое УМА вам нравится?"
+  },
+  "medamappe_fukidashi_023": {
+    "src": "What phenomenon do you like?",
+    "yax": "Какое явление вам нравится?",
+    "trx": "Какой феномен вы любите?"
+  },
+  "medamappe_fukidashi_024": {
+    "src": "What ability do you want?",
+    "yax": "Какую способность вы хотите?",
+    "trx": "Какую способность вы хотите?"
+  },
+  "medamappe_fukidashi_025": {
+    "src": "Do you believe in fortune-telling?",
+    "yax": "Вы верите в гадания?",
+    "trx": "Вы верите в гадания?"
+  },
+  "medamappe_fukidashi_026": {
+    "src": "What should I do if I saw a UFO?",
+    "yax": "Что мне делать, если я увидел НЛО?",
+    "trx": "Что мне делать, если я увидел НЛО?"
+  },
+  "medamappe_fukidashi_027": {
+    "src": "What should I do if an old guy attacks me?",
+    "yax": "Что мне делать, если старик нападет на меня?",
+    "trx": "Что мне делать, если на меня нападет старик?"
+  },
+  "medamappe_fukidashi_028": {
+    "src": "What monja topping do you like?",
+    "yax": "Какой топпинг monja вам нравится?",
+    "trx": "☯️Какой топпинг monja вам нравится?"
+  },
+  "medamappe_fukidashi_029": {
+    "src": "How hard do you like your ramen?",
+    "yax": "Насколько сильно ты любишь свой рамен?",
+    "trx": "☯️Насколько сильно ты любишь свой рамен?"
+  },
+  "medamappe_fukidashi_030": {
+    "src": "What ability might be useful against \nold men?",
+    "yax": "Какая способность может быть полезна против \nстарики?",
+    "trx": "☯️Какая способность может быть полезна против \nстарики?"
+  },
+  "medamappe_fukidashi_031": {
+    "src": "What's an effective way of training?",
+    "yax": "Каков эффективный способ обучения?",
+    "trx": "☯️Каков эффективный способ обучения?"
+  },
+  "medamappe_fukidashi_032": {
+    "src": "What rank do you like?",
+    "yax": "Какое звание вам нравится?",
+    "trx": "☯️Какое звание вам нравится?"
+  },
+  "medamappe_fukidashi_033": {
+    "src": "What skill can defeat an old man?",
+    "yax": "Какое умение может победить старика?",
+    "trx": "☯️Какое умение может победить старика?"
+  },
+  "medamappe_fukidashi_034": {
+    "src": "What food do you make your visiting \nfriends?",
+    "yax": "Какую еду вы готовите в свое посещение \nдрузья?",
+    "trx": "☯️Какую еду вы готовите в свое посещение \nдрузья?"
+  },
+  "medamappe_fukidashi_035": {
+    "src": "What martial art are you good at?",
+    "yax": "В каком боевом искусстве ты хорош?",
+    "trx": "☯️В каком боевом искусстве ты хорош?"
+  },
+  "medamappe_fukidashi_036": {
+    "src": "What should I do to relax?",
+    "yax": "Что я должен сделать, чтобы расслабиться?",
+    "trx": "☯️Что я должен сделать, чтобы расслабиться?"
+  },
+  "medamappe_fukidashi_037": {
+    "src": "What haunted spot would you like to go to?",
+    "yax": "В какое место с привидениями вы хотели бы отправиться?",
+    "trx": "☯️В какое место с привидениями вы хотели бы отправиться?"
+  },
+  "medamappe_fukidashi_038": {
+    "src": "What fish do you like?",
+    "yax": "Какую рыбу вы любите?",
+    "trx": "☯️Какую рыбу вы любите?"
+  },
+  "medamappe_fukidashi_039": {
+    "src": "How do you like eating your jellyfish?",
+    "yax": "Как тебе нравится есть своих медуз?",
+    "trx": "☯️Как тебе нравится есть своих медуз?"
+  },
+  "medamappe_fukidashi_040": {
+    "src": "How should I call on a UFO?",
+    "yax": "Как я должен вызвать НЛО?",
+    "trx": "☯️Как я должен вызвать НЛО?"
+  },
+  "medamappe_fukidashi_041": {
+    "src": "All the water in the pond...",
+    "yax": "Вся вода в пруду...",
+    "trx": "☯️Вся вода в пруду..."
+  },
+  "medamappe_fukidashi_042": {
+    "src": "What do you think of mermaids?",
+    "yax": "Что вы думаете о русалках?",
+    "trx": "☯️Что вы думаете о русалках?"
+  },
+  "medamappe_fukidashi_043": {
+    "src": "Where should I fish?",
+    "yax": "Где я должен ловить рыбу?",
+    "trx": "☯️Где я должен ловить рыбу?"
+  },
+  "medamappe_fukidashi_044": {
+    "src": "What ocean current do you like?",
+    "yax": "Какое океанское течение вам нравится?",
+    "trx": "☯️Какое океанское течение вам нравится?"
+  },
+  "medamappe_fukidashi_045": {
+    "src": "How deep do you like your ocean?",
+    "yax": "Насколько глубоким вам нравится ваш океан?",
+    "trx": "☯️Насколько глубоким вам нравится ваш океан?"
+  },
+  "medamappe_fukidashi_046": {
+    "src": "Which do you want to befriend?",
+    "yax": "С кем ты хочешь подружиться?",
+    "trx": "☯️С кем ты хочешь подружиться?"
+  },
+  "medamappe_fukidashi_047": {
+    "src": "When you think of Akiba, what do you \nthink of?",
+    "yax": "Когда ты думаешь об Акибе, что ты \nдумать о?",
+    "trx": "☯️Когда ты думаешь об Акибе, что ты \nдумать о?"
+  },
+  "medamappe_fukidashi_048": {
+    "src": "What light novel genre might get popular?",
+    "yax": "Какой жанр легкого романа может стать популярным?",
+    "trx": "☯️Какой жанр легкого романа может стать популярным?"
+  },
+  "medamappe_fukidashi_049": {
+    "src": "What kind of experience do you need to \nwrite a light novel?",
+    "yax": "Какой опыт вам нужен, чтобы \nнаписать легкий роман?",
+    "trx": "☯️Какой опыт вам нужен, чтобы \nнаписать легкий роман?"
+  },
+  "medamappe_fukidashi_050": {
+    "src": "What's your type?",
+    "yax": "Какой ты типаж?",
+    "trx": "☯️Какой ты типаж?"
+  },
+  "medamappe_fukidashi_051": {
+    "src": "What cliche line do you want to say?",
+    "yax": "Какую банальную фразу ты хочешь сказать?",
+    "trx": "☯️Какую банальную фразу ты хочешь сказать?"
+  },
+  "medamappe_fukidashi_052": {
+    "src": "What do you want from an anime?",
+    "yax": "Чего вы хотите от аниме?",
+    "trx": "☯️Чего вы хотите от аниме?"
+  },
+  "medamappe_fukidashi_053": {
+    "src": "How do you want to meet someone?",
+    "yax": "Как вы хотите с кем-то познакомиться?",
+    "trx": "☯️Как вы хотите с кем-то познакомиться?"
+  },
+  "medamappe_fukidashi_054": {
+    "src": "What chocolate do you like?",
+    "yax": "Какой шоколад вы любите?",
+    "trx": "☯️Какой шоколад вы любите?"
+  },
+  "medamappe_fukidashi_055": {
+    "src": "What is common about internet idols?",
+    "yax": "Что общего у интернет-кумиров?",
+    "trx": "☯️Что общего у интернет-кумиров?"
+  },
+  "medamappe_fukidashi_056": {
+    "src": "Where is the mecca of otakus?",
+    "yax": "Где находится мекка отакуса?",
+    "trx": "☯️Где находится мекка отакуса?"
+  },
+  "medamappe_fukidashi_057": {
+    "src": "Where is your favorite wine from?",
+    "yax": "Откуда ваше любимое вино?",
+    "trx": "☯️Откуда ваше любимое вино?"
+  },
+  "medamappe_fukidashi_058": {
+    "src": "What do you want from host clubs?",
+    "yax": "Чего вы хотите от принимающих клубов?",
+    "trx": "☯️Чего вы хотите от принимающих клубов?"
+  },
+  "medamappe_fukidashi_059": {
+    "src": "What's your favorite vegetable?",
+    "yax": "Какой твой любимый овощ?",
+    "trx": "☯️Какой твой любимый овощ?"
+  },
+  "medamappe_fukidashi_060": {
+    "src": "How old is an old lady…?",
+    "yax": "Сколько лет старой леди?..",
+    "trx": "☯️Сколько лет старой леди?.."
+  },
+  "medamappe_fukidashi_061": {
+    "src": "What is your complex?",
+    "yax": "В чем заключается ваш комплекс?",
+    "trx": "☯️В чем заключается ваш комплекс?"
+  },
+  "medamappe_fukidashi_062": {
+    "src": "How do you like your coffee?",
+    "yax": "Как вам нравится ваш кофе?",
+    "trx": "☯️Как вам нравится ваш кофе?"
+  },
+  "medamappe_fukidashi_063": {
+    "src": "Anything you want me to do?",
+    "yax": "Ты хочешь, чтобы я что-нибудь сделал?",
+    "trx": "☯️Ты хочешь, чтобы я что-нибудь сделал?"
+  },
+  "medamappe_fukidashi_064": {
+    "src": "An old lover...",
+    "yax": "Старый любовник...",
+    "trx": "☯️Старый любовник..."
+  },
+  "medamappe_fukidashi_065": {
+    "src": "What is \"love\" for you?",
+    "yax": "Что для вас значит \"любовь\"?",
+    "trx": "☯️Что для вас значит \"любовь\"?"
+  },
+  "medamappe_fukidashi_066": {
+    "src": "What is \"I\" for you?",
+    "yax": "Что такое \"я\" для вас?",
+    "trx": "☯️Что такое \"я\" для вас?"
+  },
+  "medamappe_fukidashi_067": {
+    "src": "What is your favorite food?",
+    "yax": "Какое ваше любимое блюдо?",
+    "trx": "☯️Какое ваше любимое блюдо?"
+  },
+  "medamappe_fukidashi_068": {
+    "src": "What do you want to disappear from \nthis world?",
+    "yax": "От чего ты хочешь исчезнуть \nэтот мир?",
+    "trx": "☯️От чего ты хочешь исчезнуть \nэтот мир?"
+  },
+  "medamappe_fukidashi_069": {
+    "src": "What's the best thing about zombies?",
+    "yax": "Что самое лучшее в зомби?",
+    "trx": "☯️Что самое лучшее в зомби?"
+  },
+  "medamappe_fukidashi_070": {
+    "src": "What impression do you have of teachers?",
+    "yax": "Какое впечатление у вас сложилось об учителях?",
+    "trx": "☯️Какое впечатление у вас сложилось об учителях?"
+  },
+  "medamappe_fukidashi_071": {
+    "src": "What's your favorite gardening style?",
+    "yax": "Какой ваш любимый стиль садоводства?",
+    "trx": "☯️Какой ваш любимый стиль садоводства?"
+  },
+  "medamappe_fukidashi_072": {
+    "src": "What do you do to maintain peace?",
+    "yax": "Что вы делаете для поддержания мира?",
+    "trx": "☯️Что вы делаете для поддержания мира?"
+  },
+  "medamappe_fukidashi_073": {
+    "src": "What type of person makes a good teacher?",
+    "yax": "Из какого человека получается хороший учитель?",
+    "trx": "☯️Из какого человека получается хороший учитель?"
+  },
+  "medamappe_fukidashi_074": {
+    "src": "What kind of vintage items do you like?",
+    "yax": "Какие винтажные вещи вам нравятся?",
+    "trx": "☯️Какие винтажные вещи вам нравятся?"
+  },
+  "medamappe_fukidashi_075": {
+    "src": "Tell me where you hide your \nimportant books.",
+    "yax": "Скажи мне, где ты прячешь свой \nважные книги.",
+    "trx": "☯️Скажи мне, где ты прячешь свой \nважные книги."
+  },
+  "medamappe_fukidashi_076": {
+    "src": "How long should whisky be aged?",
+    "yax": "Как долго должен выдерживаться виски?",
+    "trx": "☯️Как долго должен выдерживаться виски?"
+  },
+  "medamappe_fukidashi_077": {
+    "src": "What kind of dream did you have last night?",
+    "yax": "Какой сон приснился тебе прошлой ночью?",
+    "trx": "☯️Какой сон приснился тебе прошлой ночью?"
+  },
+  "medamappe_fukidashi_078": {
+    "src": "What's your favorite genre?",
+    "yax": "Какой ваш любимый жанр?",
+    "trx": "☯️Какой ваш любимый жанр?"
+  },
+  "medamappe_fukidashi_079": {
+    "src": "What kind of car do you want?",
+    "yax": "Какую машину ты хочешь?",
+    "trx": "☯️Какую машину ты хочешь?"
+  },
+  "medamappe_fukidashi_080": {
+    "src": "What do you vow to protect?",
+    "yax": "Что ты клянешься защищать?",
+    "trx": "☯️Что ты клянешься защищать?"
+  },
+  "medamappe_fukidashi_081": {
+    "src": "What tattoos do you want?",
+    "yax": "Какие татуировки ты хочешь?",
+    "trx": "☯️Какие татуировки ты хочешь?"
+  },
+  "medamappe_fukidashi_082": {
+    "src": "What's a tool you like using?",
+    "yax": "Какой инструмент вам нравится использовать?",
+    "trx": "☯️Какой инструмент вам нравится использовать?"
+  },
+  "medamappe_fukidashi_083": {
+    "src": "Who are you loyal too?",
+    "yax": "Кому ты тоже предан?",
+    "trx": "☯️Кому ты тоже предан?"
+  },
+  "medamappe_fukidashi_084": {
+    "src": "What is chivalry?",
+    "yax": "Что такое рыцарство?",
+    "trx": "☯️Что такое рыцарство?"
+  },
+  "medamappe_fukidashi_085": {
+    "src": "What can you not throw away?",
+    "yax": "Что вы не можете выбросить?",
+    "trx": "☯️Что вы не можете выбросить?"
+  },
+  "medamappe_fukidashi_086": {
+    "src": "What's your favorite torture tool?",
+    "yax": "Какое твое любимое орудие пытки?",
+    "trx": "☯️Какое твое любимое орудие пытки?"
+  },
+  "medamappe_fukidashi_087": {
+    "src": "What kind of lie do you make usually?",
+    "yax": "Какую ложь ты обычно произносишь?",
+    "trx": "☯️Какую ложь ты обычно произносишь?"
+  },
+  "medamappe_fukidashi_088": {
+    "src": "What pet do you want in your pond?",
+    "yax": "Какое домашнее животное вы хотите иметь в своем пруду?",
+    "trx": "☯️Какое домашнее животное вы хотите иметь в своем пруду?"
+  },
+  "medamappe_fukidashi_089": {
+    "src": "What would you do to reconstruct a \ndead town?",
+    "yax": "Что бы вы сделали, чтобы восстановить \nмертвый город?",
+    "trx": "☯️Что бы вы сделали, чтобы восстановить \nмертвый город?"
+  },
+  "medamappe_fukidashi_090": {
+    "src": "What would you do if you see someone \ncrying?",
+    "yax": "Что бы вы сделали, если бы увидели кого-то \nплачешь?",
+    "trx": "☯️Что бы вы сделали, если бы увидели кого-то \nплачешь?"
+  },
+  "medamappe_fukidashi_091": {
+    "src": "Party people?",
+    "yax": "Тусовщики?",
+    "trx": "☯️Тусовщики?"
+  },
+  "medamappe_fukidashi_092": {
+    "src": "Tell me a big-bro-type reptile.",
+    "yax": "Назови мне рептилию типа большого брата.",
+    "trx": "☯️Назови мне рептилию типа большого брата."
+  },
+  "medamappe_fukidashi_093": {
+    "src": "Where to go play?",
+    "yax": "Куда пойти поиграть?",
+    "trx": "☯️Куда пойти поиграть?"
+  },
+  "medamappe_fukidashi_094": {
+    "src": "What is the hottest animal?",
+    "yax": "Какое самое горячее животное?",
+    "trx": "☯️Какое самое горячее животное?"
+  },
+  "medamappe_fukidashi_095": {
+    "src": "What's your favorite law of physics?",
+    "yax": "Какой ваш любимый закон физики?",
+    "trx": "☯️Какой ваш любимый закон физики?"
+  },
+  "medamappe_fukidashi_096": {
+    "src": "What's your favorite DNA base?",
+    "yax": "Какая ваша любимая основа ДНК?",
+    "trx": "☯️Какая ваша любимая основа ДНК?"
+  },
+  "medamappe_fukidashi_097": {
+    "src": "What's your favorite gauge boson?",
+    "yax": "Какой ваш любимый калибровочный бозон?",
+    "trx": "☯️Какой ваш любимый калибровочный бозон?"
+  },
+  "medamappe_fukidashi_098": {
+    "src": "What's your favorite pairing?",
+    "yax": "Какая ваша любимая пара?",
+    "trx": "☯️Какая ваша любимая пара?"
+  },
+  "medamappe_fukidashi_099": {
+    "src": "Where to go drink?",
+    "yax": "Куда пойти выпить?",
+    "trx": "☯️Куда пойти выпить?"
+  },
+  "medamappe_fukidashi_100": {
+    "src": "What's your favorite character in \nWizard of Oz?",
+    "yax": "Какой твой любимый персонаж в \nВолшебник Изумрудного города?",
+    "trx": "☯️Какой твой любимый персонаж в \nВолшебник Изумрудного города?"
+  },
+  "medamappe_fukidashi_101": {
+    "src": "Happy-ie.",
+    "yax": "Счастливый-то есть.",
+    "trx": "☯️Счастливый-то есть."
+  },
+  "medamappe_fukidashi_102": {
+    "src": "Oni-taro's dad isn't scary-ie. ",
+    "yax": "Отец Они-таро не страшный, то есть. ",
+    "trx": "☯️Отец Они-таро не страшный, то есть. "
+  },
+  "medamappe_fukidashi_103": {
+    "src": "Sunny-side-up-ie.",
+    "yax": "Солнечная сторона-вверх-то есть.",
+    "trx": "☯️Солнечная сторона-вверх-то есть."
+  },
+  "medamappe_fukidashi_104": {
+    "src": "Triangle is scary-ie.",
+    "yax": "Треугольник - это страшно, то есть.",
+    "trx": "☯️Треугольник - это страшно, то есть."
+  },
+  "medamappe_fukidashi_105": {
+    "src": "Not really-ie.",
+    "yax": "Не совсем-то есть.",
+    "trx": "☯️Не совсем-то есть."
+  },
+  "medamappe_fukidashi_106": {
+    "src": "I'm looking to take over the world-ie.",
+    "yax": "Я хочу захватить власть над миром - то есть.",
+    "trx": "☯️Я хочу захватить власть над миром - то есть."
+  },
+  "medamappe_fukidashi_107": {
+    "src": "Don't get too close-ie.",
+    "yax": "Не подходите слишком близко - т.е.",
+    "trx": "☯️Не подходите слишком близко - т.е."
+  },
+  "medamappe_fukidashi_108": {
+    "src": "It's not as hard as romance-ie.",
+    "yax": "Это не так сложно, как романтика-то есть.",
+    "trx": "☯️Это не так сложно, как романтика-то есть."
+  },
+  "medamappe_fukidashi_109": {
+    "src": "Saying \"this is good\" and \"so juicy\" is lazy-ie.",
+    "yax": "Говорить \"это вкусно\" и \"так сочно\" - это лениво, т.е.",
+    "trx": "☯️Говорить \"это вкусно\" и \"так сочно\" - это лениво, т.е."
+  },
+  "medamappe_fukidashi_110": {
+    "src": "It's easier to eat than a big hamburger-ie.",
+    "yax": "Это легче съесть, чем большой гамбургер -то есть.",
+    "trx": "☯️Это легче съесть, чем большой гамбургер -то есть."
+  },
+  "medamappe_fukidashi_111": {
+    "src": "It's juicy inside-ie.",
+    "yax": "Он сочный внутри - то есть.",
+    "trx": "☯️Он сочный внутри - то есть."
+  },
+  "medamappe_fukidashi_112": {
+    "src": "It's being heated-ie.",
+    "yax": "Он нагревается - то есть.",
+    "trx": "☯️Он нагревается - то есть."
+  },
+  "medamappe_fukidashi_113": {
+    "src": "I'll enjoy drinking with you-ie.",
+    "yax": "Я с удовольствием выпью с тобой - то есть.",
+    "trx": "☯️Я с удовольствием выпью с тобой - то есть."
+  },
+  "medamappe_fukidashi_114": {
+    "src": "Blocked.",
+    "yax": "Блокированный.",
+    "trx": "☯️Блокированный."
+  },
+  "medamappe_fukidashi_115": {
+    "src": "Stewed grasshopper is supposedly good-ie.",
+    "yax": "Тушеный кузнечик, предположительно, хорош - т.е.",
+    "trx": "☯️Тушеный кузнечик, предположительно, хорош - т.е."
+  },
+  "medamappe_fukidashi_116": {
+    "src": "Please be one or the other.",
+    "yax": "Пожалуйста, будь тем или другим.",
+    "trx": "☯️Пожалуйста, будь тем или другим."
+  },
+  "medamappe_fukidashi_117": {
+    "src": "I'm happy too-ie.",
+    "yax": "Я тоже счастлив - то есть.",
+    "trx": "☯️Я тоже счастлив - то есть."
+  },
+  "medamappe_fukidashi_118": {
+    "src": "I'm sad too-ie.",
+    "yax": "Мне тоже грустно - то есть.",
+    "trx": "☯️Мне тоже грустно - то есть."
+  },
+  "medamappe_fukidashi_119": {
+    "src": "Relax-ie.",
+    "yax": "Расслабьтесь-то есть.",
+    "trx": "☯️Расслабьтесь-то есть."
+  },
+  "medamappe_fukidashi_120": {
+    "src": "That's not good-ie.\nGo to the hospital-ie.",
+    "yax": "Это нехорошо - то есть.\nЛожитесь в больницу -то есть.",
+    "trx": "☯️Это нехорошо - то есть.\nЛожитесь в больницу -то есть."
+  },
+  "medamappe_fukidashi_121": {
+    "src": "This is a Tama-gotch-ie!",
+    "yax": "Это Тама-гоч-ие!",
+    "trx": "☯️Это Тама-гоч-ие!"
+  },
+  "medamappe_fukidashi_122": {
+    "src": "You don't have one?!",
+    "yax": "У тебя его нет?!",
+    "trx": "☯️У тебя его нет?!"
+  },
+  "medamappe_fukidashi_123": {
+    "src": "Right, slap some sushi rice on it, \nspin it, and... No, idiot!",
+    "yax": "Хорошо, посыпьте его рисом для суши., \nвращайте его, и... Нет, идиот!",
+    "trx": "☯️Хорошо, посыпьте его рисом для суши., \nвращайте его, и... Нет, идиот!"
+  },
+  "medamappe_fukidashi_124": {
+    "src": "Why?",
+    "yax": "Почему?",
+    "trx": "☯️Почему?"
+  },
+  "medamappe_fukidashi_125": {
+    "src": "It's the same success rate as Date \nusing eyedrops-ie.",
+    "yax": "Это тот же показатель успеха, что и Дата \nиспользование глазных капель - т.е.",
+    "trx": "☯️Это тот же показатель успеха, что и Дата \nиспользование глазных капель - т.е."
+  },
+  "medamappe_fukidashi_126": {
+    "src": "That's not chocolate-ie.\nIt's poo-ie.",
+    "yax": "Это не шоколадное печенье.\nЭто какашки.",
+    "trx": "☯️Это не шоколадное печенье.\nЭто какашки."
+  },
+  "medamappe_fukidashi_127": {
+    "src": "It's better to just chew on some cacao-ie.",
+    "yax": "Лучше просто пожевать немного какао-бобов.",
+    "trx": "☯️Лучше просто пожевать немного какао-бобов."
+  },
+  "medamappe_fukidashi_128": {
+    "src": "It's normal-ie.",
+    "yax": "Это нормально - то есть.",
+    "trx": "☯️Это нормально - то есть."
+  },
+  "medamappe_fukidashi_129": {
+    "src": "I don't really care-ie.",
+    "yax": "На самом деле мне все равно - то есть.",
+    "trx": "☯️На самом деле мне все равно - то есть."
+  },
+  "medamappe_fukidashi_130": {
+    "src": "I really don't care-ie.",
+    "yax": "Мне действительно все равно - то есть.",
+    "trx": "☯️Мне действительно все равно - то есть."
+  },
+  "medamappe_fukidashi_131": {
+    "src": "I really really don't care-ie.",
+    "yax": "Мне действительно, действительно все равно - то есть.",
+    "trx": "☯️Мне действительно, действительно все равно - то есть."
+  },
+  "medamappe_fukidashi_132": {
+    "src": "I really really really don't care-ie.",
+    "yax": "Мне действительно, действительно, действительно все равно - то есть.",
+    "trx": "☯️Мне действительно, действительно, действительно все равно - то есть."
+  },
+  "medamappe_fukidashi_133": {
+    "src": "I recommend potato chips-ie.",
+    "yax": "Я рекомендую картофельные чипсы-то есть.",
+    "trx": "☯️Я рекомендую картофельные чипсы-то есть."
+  },
+  "medamappe_fukidashi_134": {
+    "src": "Just chew on some cacao-ie.",
+    "yax": "Просто пожуй немного какао-бобов.",
+    "trx": "☯️Просто пожуй немного какао-бобов."
+  },
+  "medamappe_fukidashi_135": {
+    "src": "Sweating-ie.",
+    "yax": "Потоотделение -то есть.",
+    "trx": "☯️Потоотделение -то есть."
+  },
+  "medamappe_fukidashi_136": {
+    "src": "I remember the taste of my first love-ie.",
+    "yax": "Я помню вкус моей первой любви -то есть.",
+    "trx": "☯️Я помню вкус моей первой любви -то есть."
+  },
+  "medamappe_fukidashi_137": {
+    "src": "Correct-ie.",
+    "yax": "Правильно-ie.",
+    "trx": "☯️Правильно-ie."
+  },
+  "medamappe_fukidashi_138": {
+    "src": "Police have their reasons-ie.\nYou should be accepting-ie.",
+    "yax": "У полиции есть свои причины - например.\nВы должны принимать-то есть.",
+    "trx": "☯️У полиции есть свои причины - например.\nВы должны принимать-то есть."
+  },
+  "medamappe_fukidashi_139": {
+    "src": "That's the worst thing you can do-ie.\nYou're gonna get caught-ie.",
+    "yax": "Это худшее, что вы можете сделать - ie.\nТебя поймают - то есть.",
+    "trx": "☯️Это худшее, что вы можете сделать - ie.\nТебя поймают - то есть."
+  },
+  "medamappe_fukidashi_140": {
+    "src": "Don't look down on the police-ie.\nThat won't work-ie.",
+    "yax": "Не смотрите свысока на полицию - то есть.\nЭто не сработает - то есть.",
+    "trx": "☯️Не смотрите свысока на полицию - то есть.\nЭто не сработает - то есть."
+  },
+  "medamappe_fukidashi_141": {
+    "src": "I want to drink till the morning with you-ie.",
+    "yax": "Я хочу пить с тобой до утра - то есть.",
+    "trx": "☯️Я хочу пить с тобой до утра - то есть."
+  },
+  "medamappe_fukidashi_142": {
+    "src": "I don't like erotic talk-ie.",
+    "yax": "Я не люблю эротические разговоры -то есть.",
+    "trx": "☯️Я не люблю эротические разговоры -то есть."
+  },
+  "medamappe_fukidashi_143": {
+    "src": "It's dead-ie.",
+    "yax": "Он мертв-то есть.",
+    "trx": "☯️Он мертв-то есть."
+  },
+  "medamappe_fukidashi_144": {
+    "src": "It's normal-ie.",
+    "yax": "Это нормально - то есть.",
+    "trx": "☯️Это нормально - то есть."
+  },
+  "medamappe_fukidashi_145": {
+    "src": "It's a big roasted pork-ie.",
+    "yax": "Это большая жареная свинина -то есть.",
+    "trx": "☯️Это большая жареная свинина -то есть."
+  },
+  "medamappe_fukidashi_146": {
+    "src": "It's natural Agu pig roasted-ie.",
+    "yax": "Это натуральный жареный поросенок Агу-то есть.",
+    "trx": "☯️Это натуральный жареный поросенок Агу-то есть."
+  },
+  "medamappe_fukidashi_147": {
+    "src": "It's roast pork in the paddy fields-ie.",
+    "yax": "Это жареная свинина на рисовых полях - то есть.",
+    "trx": "☯️Это жареная свинина на рисовых полях - то есть."
+  },
+  "medamappe_fukidashi_148": {
+    "src": "Talking about roast pig-ie.",
+    "yax": "Речь идет о жареном поросенке -то есть.",
+    "trx": "☯️Речь идет о жареном поросенке -то есть."
+  },
+  "medamappe_fukidashi_149": {
+    "src": "Did you find what you need to do-ie?",
+    "yax": "Вы нашли то, что вам нужно сделать-ie?",
+    "trx": "☯️Вы нашли то, что вам нужно сделать-ie?"
+  },
+  "medamappe_fukidashi_150": {
+    "src": "Don't say painful things-ie.",
+    "yax": "Не говорите болезненных вещей - то есть.",
+    "trx": "☯️Не говорите болезненных вещей - то есть."
+  },
+  "medamappe_fukidashi_151": {
+    "src": "Cool-ie.",
+    "yax": "Круто-то есть.",
+    "trx": "☯️Круто-то есть."
+  },
+  "medamappe_fukidashi_152": {
+    "src": "I'm angry-ie!\nI'm going to bear your child-ie!",
+    "yax": "Я злюсь-то есть!\nЯ собираюсь выносить твоего ребенка - то есть!",
+    "trx": "☯️Я злюсь-то есть!\nЯ собираюсь выносить твоего ребенка - то есть!"
+  },
+  "medamappe_fukidashi_153": {
+    "src": "Friends are here-ie.",
+    "yax": "Друзья здесь -то есть.",
+    "trx": "☯️Друзья здесь -то есть."
+  },
+  "medamappe_fukidashi_154": {
+    "src": "It's 16 times the national budget of Japan-ie.",
+    "yax": "Это в 16 раз превышает национальный бюджет Японии - т.е.",
+    "trx": "☯️Это в 16 раз превышает национальный бюджет Японии - т.е."
+  },
+  "medamappe_fukidashi_155": {
+    "src": "Work hard-ie.",
+    "yax": "Работайте усердно - т.е.",
+    "trx": "☯️Работайте усердно - т.е."
+  },
+  "medamappe_fukidashi_156": {
+    "src": "Wanna defeat it with a calf kick-ie.",
+    "yax": "Хочу победить его ударом икры - то есть.",
+    "trx": "☯️Хочу победить его ударом икры - то есть."
+  },
+  "medamappe_fukidashi_157": {
+    "src": "Feels good-ie.",
+    "yax": "Чувствует себя хорошо - то есть.",
+    "trx": "☯️Чувствует себя хорошо - то есть."
+  },
+  "medamappe_fukidashi_158": {
+    "src": "Melancholy-ie.",
+    "yax": "Меланхолия - то есть.",
+    "trx": "☯️Меланхолия - то есть."
+  },
+  "medamappe_fukidashi_159": {
+    "src": "Kinda like it-ie.",
+    "yax": "Вроде как это нравится - то есть.",
+    "trx": "☯️Вроде как это нравится - то есть."
+  },
+  "medamappe_fukidashi_160": {
+    "src": "Looking for upskirts-ie!",
+    "yax": "Ищу юбки-то есть!",
+    "trx": "☯️Ищу юбки-то есть!"
+  },
+  "medamappe_fukidashi_161": {
+    "src": "That's impact-ie.",
+    "yax": "Это impact-ie.",
+    "trx": "☯️Это impact-ie."
+  },
+  "medamappe_fukidashi_162": {
+    "src": "That's Tief Blau-ie.",
+    "yax": "Это Тиф Блау-ие.",
+    "trx": "☯️Это Тиф Блау-ие."
+  },
+  "medamappe_fukidashi_163": {
+    "src": "What's that-ie?",
+    "yax": "Что это такое - ie?",
+    "trx": "☯️Что это такое - ie?"
+  },
+  "medamappe_fukidashi_164": {
+    "src": "Shark thing-ie?\nThat's Blue-ie.",
+    "yax": "Акулья штука-то есть?\nЭто Синий цвет.",
+    "trx": "☯️Акулья штука-то есть?\nЭто Синий цвет."
+  },
+  "medamappe_fukidashi_165": {
+    "src": "It's one of the 4 traditional Indian dances-ie.\nI love it-ie!",
+    "yax": "Это один из 4 традиционных индийских танцев - т.е.\nЯ люблю это-то есть!",
+    "trx": "☯️Это один из 4 традиционных индийских танцев - т.е.\nЯ люблю это-то есть!"
+  },
+  "medamappe_fukidashi_166": {
+    "src": "It's one of the 4 traditional Indian dances-ie.\nI like it-ie!",
+    "yax": "Это один из 4 традиционных индийских танцев - т.е.\nМне это нравится-то есть!",
+    "trx": "☯️Это один из 4 традиционных индийских танцев - т.е.\nМне это нравится-то есть!"
+  },
+  "medamappe_fukidashi_167": {
+    "src": "It's one of the 4 traditional Indian dances-ie.\nI like it so-so-ie!",
+    "yax": "Это один из 4 традиционных индийских танцев - т.е.\nМне это так себе нравится!",
+    "trx": "☯️Это один из 4 традиционных индийских танцев - т.е.\nМне это так себе нравится!"
+  },
+  "medamappe_fukidashi_168": {
+    "src": "Manilla Prince-ie?",
+    "yax": "Манилла Принс-то есть?",
+    "trx": "☯️Манилла Принс-то есть?"
+  },
+  "medamappe_fukidashi_169": {
+    "src": "It's going pingping-ie!",
+    "yax": "Это происходит pingping-ie!",
+    "trx": "☯️Это происходит pingping-ie!"
+  },
+  "medamappe_fukidashi_170": {
+    "src": "It's so death-death-ie!",
+    "yax": "Это так смертельно-смертельно опасно!",
+    "trx": "☯️Это так смертельно-смертельно опасно!"
+  },
+  "medamappe_fukidashi_171": {
+    "src": "It's like sponge cake-ie!",
+    "yax": "Это как бисквитный торт-то есть!",
+    "trx": "☯️Это как бисквитный торт-то есть!"
+  },
+  "medamappe_fukidashi_172": {
+    "src": "It's short for Glamorous Indian Koala-ie?",
+    "yax": "Это сокращение от Гламурной индийской Коалы - то есть?",
+    "trx": "☯️Это сокращение от Гламурной индийской Коалы - то есть?"
+  },
+  "medamappe_fukidashi_173": {
+    "src": "If you keep it, you'll get cursed-ie!",
+    "yax": "Если вы сохраните его, вы будете прокляты - то есть!",
+    "trx": "☯️Если вы сохраните его, вы будете прокляты - то есть!"
+  },
+  "medamappe_fukidashi_174": {
+    "src": "I wanna play soccer-ie!",
+    "yax": "Я хочу играть в футбол-то есть!",
+    "trx": "☯️Я хочу играть в футбол-то есть!"
+  },
+  "medamappe_fukidashi_175": {
+    "src": "That's dangerous-ie!\nIf you touch it, you'll be deleted-ie!",
+    "yax": "Это опасно-то есть!\nЕсли вы прикоснетесь к нему, вы будете удалены - то есть!",
+    "trx": "☯️Это опасно-то есть!\nЕсли вы прикоснетесь к нему, вы будете удалены - то есть!"
+  },
+  "medamappe_fukidashi_176": {
+    "src": "I wanna rub it with steel wool-ie!",
+    "yax": "Я хочу потереть его стальной ватой - ие!",
+    "trx": "☯️Я хочу потереть его стальной ватой - ие!"
+  },
+  "medamappe_fukidashi_177": {
+    "src": "I won't lose -ie!",
+    "yax": "Я не проиграю -то есть!",
+    "trx": "☯️Я не проиграю -то есть!"
+  },
+  "medamappe_fukidashi_178": {
+    "src": "I won't lose for sure-ie!",
+    "yax": "Я точно не проиграю - то есть!",
+    "trx": "☯️Я точно не проиграю - то есть!"
+  },
+  "medamappe_fukidashi_179": {
+    "src": "I'm not good at medium distance-ie...",
+    "yax": "Я не силен на средних дистанциях - то есть...",
+    "trx": "☯️Я не силен на средних дистанциях - то есть..."
+  },
+  "medamappe_fukidashi_180": {
+    "src": "That's the worst-ie!",
+    "yax": "Это самое худшее - ie!",
+    "trx": "☯️Это самое худшее - ie!"
+  },
+  "medamappe_fukidashi_181": {
+    "src": "Right-ie!",
+    "yax": "Правильно-то есть!",
+    "trx": "☯️Правильно-то есть!"
+  },
+  "medamappe_fukidashi_182": {
+    "src": "What would you say that-ie…?",
+    "yax": "Что бы вы сказали, что-то есть...?",
+    "trx": "☯️Что бы вы сказали, что-то есть...?"
+  },
+  "medamappe_fukidashi_183": {
+    "src": "Yay, give me reindeer.",
+    "yax": "Ура, дай мне оленя.",
+    "trx": "☯️Ура, дай мне оленя."
+  },
+  "medamappe_fukidashi_184": {
+    "src": "Down the chimney-ie?\nIt's gonna damage my hair-ie!",
+    "yax": "В дымоход - то есть?\nЭто повредит моим волосам -то есть!",
+    "trx": "☯️В дымоход - то есть?\nЭто повредит моим волосам -то есть!"
+  },
+  "medamappe_fukidashi_185": {
+    "src": "I wanna be in the NBA-ie.",
+    "yax": "Я хочу быть в НБА-то есть.",
+    "trx": "☯️Я хочу быть в НБА-то есть."
+  },
+  "medamappe_fukidashi_186": {
+    "src": "It's called Chupacabra because it sucks on\nblood like chupa-chupa-ie?",
+    "yax": "Его называют Чупакабра, потому что он сосет\nкровь, как у чупа-чупа-ие?",
+    "trx": "☯️Его называют Чупакабра, потому что он сосет\nкровь, как у чупа-чупа-ие?"
+  },
+  "medamappe_fukidashi_187": {
+    "src": "There's an alien pet theory too-ie.",
+    "yax": "Существует также теория о домашних животных-инопланетянах - т.е.",
+    "trx": "☯️Существует также теория о домашних животных-инопланетянах - т.е."
+  },
+  "medamappe_fukidashi_188": {
+    "src": "A genius soccer player from Argentina-ie.",
+    "yax": "Гениальный футболист из Аргентины - то есть.",
+    "trx": "☯️Гениальный футболист из Аргентины - то есть."
+  },
+  "medamappe_fukidashi_189": {
+    "src": "Clay pigeons are shot with this-ie.",
+    "yax": "Глиняных голубей стреляют этим -то есть.",
+    "trx": "☯️Глиняных голубей стреляют этим -то есть."
+  },
+  "medamappe_fukidashi_190": {
+    "src": "Sudden sounds at night are scary-ie.",
+    "yax": "Внезапные звуки ночью пугают - т.е.",
+    "trx": "☯️Внезапные звуки ночью пугают - т.е."
+  },
+  "medamappe_fukidashi_191": {
+    "src": "Date takes it out around Nakameguro\nat night-ie.",
+    "yax": "Свидание проходит в районе Накамегуро\nночью - то есть.",
+    "trx": "☯️Свидание проходит в районе Накамегуро\nночью - то есть."
+  },
+  "medamappe_fukidashi_192": {
+    "src": "I've done it before-ie.",
+    "yax": "Я уже делал это раньше - то есть.",
+    "trx": "☯️Я уже делал это раньше - то есть."
+  },
+  "medamappe_fukidashi_193": {
+    "src": "I want one too-ie!",
+    "yax": "Я тоже хочу такой-то есть!",
+    "trx": "☯️Я тоже хочу такой-то есть!"
+  },
+  "medamappe_fukidashi_194": {
+    "src": "I prefer Cayce over Nostradamus-ie!",
+    "yax": "Я предпочитаю Кейси Нострадамусу - то есть!",
+    "trx": "☯️Я предпочитаю Кейси Нострадамусу - то есть!"
+  },
+  "medamappe_fukidashi_195": {
+    "src": "Erotic-ie!",
+    "yax": "Эротический-то есть!",
+    "trx": "☯️Эротический-то есть!"
+  },
+  "medamappe_fukidashi_196": {
+    "src": "Erotic-ie!",
+    "yax": "Эротический-то есть!",
+    "trx": "☯️Эротический-то есть!"
+  },
+  "medamappe_fukidashi_197": {
+    "src": "I believe it too-ie!",
+    "yax": "Я тоже в это верю - то есть!",
+    "trx": "☯️Я тоже в это верю - то есть!"
+  },
+  "medamappe_fukidashi_198": {
+    "src": "What would you say that-ie…?",
+    "yax": "Что бы вы сказали, что-то есть...?",
+    "trx": "☯️Что бы вы сказали, что-то есть...?"
+  },
+  "medamappe_fukidashi_199": {
+    "src": "Oh right, that...",
+    "yax": "Ах да, это...",
+    "trx": "☯️Ах да, это..."
+  },
+  "medamappe_fukidashi_200": {
+    "src": "It's like video game-ie.",
+    "yax": "Это как видеоигра-то есть.",
+    "trx": "☯️Это как видеоигра-то есть."
+  },
+  "medamappe_fukidashi_201": {
+    "src": "I'll try-ie!",
+    "yax": "Я попробую-то есть!",
+    "trx": "☯️Я попробую-то есть!"
+  },
+  "medamappe_fukidashi_202": {
+    "src": "It's no use-ie.\nI can see it all-ie.",
+    "yax": "Это бесполезно - т.е.\nЯ вижу все это - то есть.",
+    "trx": "☯️Это бесполезно - т.е.\nЯ вижу все это - то есть."
+  },
+  "medamappe_fukidashi_203": {
+    "src": "Amazing jump power-ie!\nAlmost as much as Mizuki-ie!",
+    "yax": "Удивительная сила прыжка-ie!\nПочти столько же, сколько Мизуки-ие!",
+    "trx": "☯️Удивительная сила прыжка-ie!\nПочти столько же, сколько Мизуки-ие!"
+  },
+  "medamappe_fukidashi_204": {
+    "src": "A hearse!\nI'm going to say it-ie.",
+    "yax": "Катафалк!\nЯ собираюсь сказать это - то есть.",
+    "trx": "☯️Катафалк!\nЯ собираюсь сказать это - то есть."
+  },
+  "medamappe_fukidashi_205": {
+    "src": "Not for amateurs-ie. \nCan't breathe-ie.",
+    "yax": "Не для любителей-то есть. \nНе могу дышать -то есть.",
+    "trx": "☯️Не для любителей-то есть. \nНе могу дышать -то есть."
+  },
+  "medamappe_fukidashi_206": {
+    "src": "Not for amateurs-ie. \nThere might be after effects-ie.",
+    "yax": "Не для любителей-то есть. \nТам могут быть after effects-т.е.",
+    "trx": "☯️Не для любителей-то есть. \nТам могут быть after effects-т.е."
+  },
+  "medamappe_fukidashi_207": {
+    "src": "Not for amateurs-ie. \nDon't crush buddha statues!",
+    "yax": "Не для любителей-то есть. \nНе разбивайте статуи будды!",
+    "trx": "☯️Не для любителей-то есть. \nНе разбивайте статуи будды!"
+  },
+  "medamappe_fukidashi_208": {
+    "src": "Not for amateurs-ie. \nThey won't be able to eat squid-ie.",
+    "yax": "Не для любителей-то есть. \nОни не смогут есть кальмаров-то есть.",
+    "trx": "☯️Не для любителей-то есть. \nОни не смогут есть кальмаров-то есть."
+  },
+  "medamappe_fukidashi_209": {
+    "src": "Carbs+carbs-ie.",
+    "yax": "Углеводы+углеводы-т.е.",
+    "trx": "☯️Углеводы+углеводы-т.е."
+  },
+  "medamappe_fukidashi_210": {
+    "src": "It's healthy, low fat high protein-ie.",
+    "yax": "Это полезно для здоровья, с низким содержанием жира и высоким содержанием белка -то есть.",
+    "trx": "☯️Это полезно для здоровья, с низким содержанием жира и высоким содержанием белка -то есть."
+  },
+  "medamappe_fukidashi_211": {
+    "src": "First time I heard-ie.\nLet's try it sometime-ie.",
+    "yax": "Первый раз, когда я услышал - то есть.\nДавайте попробуем это как-нибудь - например.",
+    "trx": "☯️Первый раз, когда я услышал - то есть.\nДавайте попробуем это как-нибудь - например."
+  },
+  "medamappe_fukidashi_212": {
+    "src": "Let's put in that famous dog-ie?",
+    "yax": "Давайте добавим эту знаменитую собаку - то есть?",
+    "trx": "☯️Давайте добавим эту знаменитую собаку - то есть?"
+  },
+  "medamappe_fukidashi_213": {
+    "src": "I like it too-ie.",
+    "yax": "Мне это тоже нравится - т.е.",
+    "trx": "☯️Мне это тоже нравится - т.е."
+  },
+  "medamappe_fukidashi_214": {
+    "src": "I like the hard ones-ie.",
+    "yax": "Мне нравятся жесткие - то есть.",
+    "trx": "☯️Мне нравятся жесткие - то есть."
+  },
+  "medamappe_fukidashi_215": {
+    "src": "Harder than the hardest!\nOnly those who know, know-ie!",
+    "yax": "Труднее, чем самое трудное!\nТолько те, кто знает, знают-то есть!",
+    "trx": "☯️Труднее, чем самое трудное!\nТолько те, кто знает, знают-то есть!"
+  },
+  "medamappe_fukidashi_216": {
+    "src": "Normal is nice... I wish I could've lived a \nnormal life-ie...",
+    "yax": "Нормально - это хорошо... Хотел бы я прожить жизнь \nнормальная жизнь - то есть...",
+    "trx": "☯️Нормально - это хорошо... Хотел бы я прожить жизнь \nнормальная жизнь - то есть..."
+  },
+  "medamappe_fukidashi_217": {
+    "src": "It's a Jeet Kune Do punch move-ie.\nIt's surprisingly hard-ie. ",
+    "yax": "Это ударное движение Джит Кун До -то есть.\nЭто на удивление сложно -ie. ",
+    "trx": "☯️Это ударное движение Джит Кун До -то есть.\nЭто на удивление сложно -ie. "
+  },
+  "medamappe_fukidashi_218": {
+    "src": "It's a Jeet Kune Do eyeball crushing move-ie. \nOld man gonna cry-ie. ",
+    "yax": "Это движение Джит Кун До, сокрушающее глазные яблоки, то есть. \nСтарик будет плакать -то есть. ",
+    "trx": "☯️Это движение Джит Кун До, сокрушающее глазные яблоки, то есть. \nСтарик будет плакать -то есть. "
+  },
+  "medamappe_fukidashi_219": {
+    "src": "It's a Jeet Kune Do eyeball kick move-ie. \nIt's not related to the Summer Salt-ie.",
+    "yax": "Это движение Джит Кун До удара по глазному яблоку - то есть. \nЭто не связано с Летней Солью-то есть.",
+    "trx": "☯️Это движение Джит Кун До удара по глазному яблоку - то есть. \nЭто не связано с Летней Солью-то есть."
+  },
+  "medamappe_fukidashi_220": {
+    "src": "It's a Jeet Kune Do thing...maybe...\nBack-breaking move-ie.",
+    "yax": "Это в духе Джит Кун До...может быть...\nНепосильный ход - то есть.",
+    "trx": "☯️Это в духе Джит Кун До...может быть...\nНепосильный ход - то есть."
+  },
+  "medamappe_fukidashi_221": {
+    "src": "It's for training the chest-ie.\nPunch power will increase-ie.",
+    "yax": "Это для тренировки грудной клетки -то есть.\nМощность удара увеличится - т.е.",
+    "trx": "☯️Это для тренировки грудной клетки -то есть.\nМощность удара увеличится - т.е."
+  },
+  "medamappe_fukidashi_222": {
+    "src": "It's for training the deltoids-ie.\nI don't like it because it make my shoulders \nbroader-ie.",
+    "yax": "Это для тренировки дельтовидных мышц, то есть.\nМне это не нравится, потому что от этого у меня болят плечи \nшире - то есть.",
+    "trx": "☯️Это для тренировки дельтовидных мышц, то есть.\nМне это не нравится, потому что от этого у меня болят плечи \nшире - то есть."
+  },
+  "medamappe_fukidashi_223": {
+    "src": "It's for training the deltoids-ie.\nI don't like it because it make my shoulders \nbroader-ie.",
+    "yax": "Это для тренировки дельтовидных мышц, то есть.\nМне это не нравится, потому что от этого у меня болят плечи \nшире - то есть.",
+    "trx": "☯️Это для тренировки дельтовидных мышц, то есть.\nМне это не нравится, потому что от этого у меня болят плечи \nшире - то есть."
+  },
+  "medamappe_fukidashi_224": {
+    "src": "It's for training the deltoids-ie.\nIt's good for butt lifting too-ie.",
+    "yax": "Это для тренировки дельтовидных мышц, то есть.\nЭто хорошо и для подтяжки ягодиц - то есть.",
+    "trx": "☯️Это для тренировки дельтовидных мышц, то есть.\nЭто хорошо и для подтяжки ягодиц - то есть."
+  },
+  "medamappe_fukidashi_225": {
+    "src": "It's below 61.23kg-ie.\nIt's not light at all-ie.",
+    "yax": "Это ниже 61,23 кг-т.е.\nЭто совсем не свет - то есть.",
+    "trx": "☯️Это ниже 61,23 кг-т.е.\nЭто совсем не свет - то есть."
+  },
+  "medamappe_fukidashi_226": {
+    "src": "It's under 47.62kg-ie.\nThe women have atom-weight below it-ie...",
+    "yax": "Это меньше 47,62 кг -то есть.\nУ женщин атомный вес ниже этого - т.е...",
+    "trx": "☯️Это меньше 47,62 кг -то есть.\nУ женщин атомный вес ниже этого - т.е..."
+  },
+  "medamappe_fukidashi_227": {
+    "src": "90.72kg or higher-ie.\nIt's the heaviest, but it's no match for me-ie.",
+    "yax": "90,72 кг или выше - т.е.\nОн самый тяжелый, но мне с ним не сравниться - т.е.",
+    "trx": "☯️90,72 кг или выше - т.е.\nОн самый тяжелый, но мне с ним не сравниться - т.е."
+  },
+  "medamappe_fukidashi_228": {
+    "src": "53.52kg or lower-ie.\nThe name is like a battle robot-ie.",
+    "yax": "53,52кг или ниже - т.е.\nНазвание похоже на боевого робота-ie.",
+    "trx": "☯️53,52кг или ниже - т.е.\nНазвание похоже на боевого робота-ie."
+  },
+  "medamappe_fukidashi_229": {
+    "src": "Seoi nage～♪",
+    "yax": "Сеой наге~♪",
+    "trx": "☯️Сеой наге~♪"
+  },
+  "medamappe_fukidashi_230": {
+    "src": "I won't do it-ie.\nI just can't get myself to do it-ie...",
+    "yax": "Я не буду этого делать - то есть.\nЯ просто не могу заставить себя сделать это - то есть...",
+    "trx": "☯️Я не буду этого делать - то есть.\nЯ просто не могу заставить себя сделать это - то есть..."
+  },
+  "medamappe_fukidashi_231": {
+    "src": "It's cool if you can pull it off-ie.",
+    "yax": "Это круто, если ты сможешь это сделать - то есть.",
+    "trx": "☯️Это круто, если ты сможешь это сделать - то есть."
+  },
+  "medamappe_fukidashi_232": {
+    "src": "It's the most useful move to perform on an \nenemy when you want to pin them-ie.",
+    "yax": "Это самый полезный ход для выполнения на \nвраг, когда вы хотите прижать их - т.е.",
+    "trx": "☯️Это самый полезный ход для выполнения на \nвраг, когда вы хотите прижать их - т.е."
+  },
+  "medamappe_fukidashi_233": {
+    "src": "I can pretend I'm rich-ie.",
+    "yax": "Я могу притвориться, что я богат - то есть.",
+    "trx": "☯️Я могу притвориться, что я богат - то есть."
+  },
+  "medamappe_fukidashi_234": {
+    "src": "Can you handle it-ie?",
+    "yax": "Можете ли вы справиться с этим-ie?",
+    "trx": "☯️Можете ли вы справиться с этим-ie?"
+  },
+  "medamappe_fukidashi_235": {
+    "src": "So dedicated your friends will back off-ie.",
+    "yax": "Настолько преданные, что ваши друзья отступят - то есть.",
+    "trx": "☯️Настолько преданные, что ваши друзья отступят - то есть."
+  },
+  "medamappe_fukidashi_236": {
+    "src": "I haven't heard it-ie.\nYou sure it's not Anago-ie?",
+    "yax": "Я этого не слышал - то есть.\nТы уверен, что это не Анаго-ие?",
+    "trx": "☯️Я этого не слышал - то есть.\nТы уверен, что это не Анаго-ие?"
+  },
+  "medamappe_fukidashi_237": {
+    "src": "Muay is fist fight in Thai. \n",
+    "yax": "Муай - это кулачный бой по-тайски. ",
+    "trx": "☯️Муай - это кулачный бой по-тайски. "
+  },
+  "medamappe_fukidashi_238": {
+    "src": "Is it true you can breathe a certain way to not \nfeel pain-ie?",
+    "yax": "Правда ли, что вы можете дышать определенным образом, чтобы не \nчувствуешь боль-то есть?",
+    "trx": "☯️Правда ли, что вы можете дышать определенным образом, чтобы не \nчувствуешь боль-то есть?"
+  },
+  "medamappe_fukidashi_239": {
+    "src": "Looks really cool, but it's pretty useless in \nfighting games-ie.",
+    "yax": "Выглядит действительно круто, но это довольно бесполезно в \nфайтинги-то есть.",
+    "trx": "☯️Выглядит действительно круто, но это довольно бесполезно в \nфайтинги-то есть."
+  },
+  "medamappe_fukidashi_240": {
+    "src": "So jealous-ie.\nI'm not good at ground holds-ie.",
+    "yax": "Так ревнует-то есть.\nЯ не силен в захвате земли - то есть.",
+    "trx": "☯️Так ревнует-то есть.\nЯ не силен в захвате земли - то есть."
+  },
+  "medamappe_fukidashi_241": {
+    "src": "Still doing it-ie?",
+    "yax": "Все еще делаешь это-то есть?",
+    "trx": "☯️Все еще делаешь это-то есть?"
+  },
+  "medamappe_fukidashi_242": {
+    "src": "I just think there are way too many types of \nyoga-ie.",
+    "yax": "Я просто думаю, что существует слишком много типов \nйога-то есть.",
+    "trx": "☯️Я просто думаю, что существует слишком много типов \nйога-то есть."
+  },
+  "medamappe_fukidashi_243": {
+    "src": "Spiritual-ie?\nSuspicious-ie...",
+    "yax": "Духовный - то есть?\nПодозрительный - то есть...",
+    "trx": "☯️Духовный - то есть?\nПодозрительный - то есть..."
+  },
+  "medamappe_fukidashi_244": {
+    "src": "I heard it's hot-ie.\nNot good for relaxation-ie.",
+    "yax": "Я слышал, что это горячая штука.\nНе годится для расслабления -то есть.",
+    "trx": "☯️Я слышал, что это горячая штука.\nНе годится для расслабления -то есть."
+  },
+  "medamappe_fukidashi_245": {
+    "src": "Not a bad answer-ie.",
+    "yax": "Неплохой ответ - то есть.",
+    "trx": "☯️Неплохой ответ - то есть."
+  },
+  "medamappe_fukidashi_246": {
+    "src": "High-quality answer-ie.",
+    "yax": "Качественный ответ-ie.",
+    "trx": "☯️Качественный ответ-ie."
+  },
+  "medamappe_fukidashi_247": {
+    "src": "Ochimusha ghosts are scary-ie.\nThey usually have arrows in their heads-ie.",
+    "yax": "Призраки Очимуши страшны -то есть.\nУ них обычно есть стрелы в головах - то есть.",
+    "trx": "☯️Призраки Очимуши страшны -то есть.\nУ них обычно есть стрелы в головах - то есть."
+  },
+  "medamappe_fukidashi_248": {
+    "src": "Aokigahara forest-ie?\nYou really shouldn't do it-ie.",
+    "yax": "Лес Аокигахара-то есть?\nВы действительно не должны этого делать - т.е.",
+    "trx": "☯️Лес Аокигахара-то есть?\nВы действительно не должны этого делать - т.е."
+  },
+  "medamappe_fukidashi_249": {
+    "src": "Tuna… Tuna...\nDon't be perverted-ie.",
+    "yax": "Тунец… Тунец...\nНе будь извращенцем -то есть.",
+    "trx": "☯️Тунец… Тунец...\nНе будь извращенцем -то есть."
+  },
+  "medamappe_fukidashi_250": {
+    "src": "Hairtail fish...\nDon't be perverted-ie.",
+    "yax": "Рыба с волосатым хвостом...\nНе будь извращенцем -то есть.",
+    "trx": "☯️Рыба с волосатым хвостом...\nНе будь извращенцем -то есть."
+  },
+  "medamappe_fukidashi_251": {
+    "src": "Fugu… Fuguri...\nDon't be perverted please-ie.",
+    "yax": "Фугу… Фугури...\nНе будь извращенцем, пожалуйста, то есть.",
+    "trx": "☯️Фугу… Фугури...\nНе будь извращенцем, пожалуйста, то есть."
+  },
+  "medamappe_fukidashi_252": {
+    "src": "Salmon… Ikura… Insemination...\nDon't be perverted please-ie.",
+    "yax": "Лосось… Икура… Оплодотворение...\nНе будь извращенцем, пожалуйста, то есть.",
+    "trx": "☯️Лосось… Икура… Оплодотворение...\nНе будь извращенцем, пожалуйста, то есть."
+  },
+  "medamappe_fukidashi_253": {
+    "src": "It's nice and boney-ie.",
+    "yax": "Это мило и костляво-то есть.",
+    "trx": "☯️Это мило и костляво-то есть."
+  },
+  "medamappe_fukidashi_254": {
+    "src": "First time I heard-ie.\nLet's try it sometime-ie.",
+    "yax": "Первый раз, когда я услышал - то есть.\nДавайте попробуем это как-нибудь - например.",
+    "trx": "☯️Первый раз, когда я услышал - то есть.\nДавайте попробуем это как-нибудь - например."
+  },
+  "medamappe_fukidashi_255": {
+    "src": "First time I heard it-ie.\nIt sound good-ie.",
+    "yax": "Первый раз, когда я это услышал - то есть.\nЭто звучит хорошо - то есть.",
+    "trx": "☯️Первый раз, когда я это услышал - то есть.\nЭто звучит хорошо - то есть."
+  },
+  "medamappe_fukidashi_256": {
+    "src": "It's nice and boney-ie.",
+    "yax": "Это мило и костляво-то есть.",
+    "trx": "☯️Это мило и костляво-то есть."
+  },
+  "medamappe_fukidashi_257": {
+    "src": "Aliens like dancing-ie.\nYou can tell by looking at Iris-ie.",
+    "yax": "Инопланетяне любят танцевать -то есть.\nВы можете сказать это, посмотрев на Iris-ie.",
+    "trx": "☯️Инопланетяне любят танцевать -то есть.\nВы можете сказать это, посмотрев на Iris-ie."
+  },
+  "medamappe_fukidashi_258": {
+    "src": "That's not gonna get a UFO to come-ie.",
+    "yax": "Это не заставит прилететь НЛО - то есть.",
+    "trx": "☯️Это не заставит прилететь НЛО - то есть."
+  },
+  "medamappe_fukidashi_259": {
+    "src": "Get invited to a group NILE chat-ie.\nBlock-ie.",
+    "yax": "Получите приглашение в групповой чат NILE-ie.\nБлок-ie.",
+    "trx": "☯️Получите приглашение в групповой чат NILE-ie.\nБлок-ie."
+  },
+  "medamappe_fukidashi_260": {
+    "src": "Crazy people do that-ie.\nIt reeks of danger-ie.",
+    "yax": "Сумасшедшие люди так делают - то есть.\nЭто пахнет опасностью - то есть.",
+    "trx": "☯️Сумасшедшие люди так делают - то есть.\nЭто пахнет опасностью - то есть."
+  },
+  "medamappe_fukidashi_261": {
+    "src": "Sometimes, amazing treasure can be found-ie.",
+    "yax": "Иногда можно найти удивительное сокровище - например.",
+    "trx": "☯️Иногда можно найти удивительное сокровище - например."
+  },
+  "medamappe_fukidashi_262": {
+    "src": "This is no joke-ie!\nI'm going to file a lawsuit-ie!",
+    "yax": "Это не шутка-то есть!\nЯ собираюсь подать в суд - то есть!",
+    "trx": "☯️Это не шутка-то есть!\nЯ собираюсь подать в суд - то есть!"
+  },
+  "medamappe_fukidashi_263": {
+    "src": "Go into a burning building to save a person's \nlife-ie!",
+    "yax": "Войти в горящее здание, чтобы спасти жизнь человека \nжизнь-то есть!",
+    "trx": "☯️Войти в горящее здание, чтобы спасти жизнь человека \nжизнь-то есть!"
+  },
+  "medamappe_fukidashi_264": {
+    "src": "Just kidding, it's all water-ie.",
+    "yax": "Просто шучу, это все на водной основе.",
+    "trx": "☯️Просто шучу, это все на водной основе."
+  },
+  "medamappe_fukidashi_265": {
+    "src": "You have to respect your elders-ie.\nIf you're not respectful, they'll slap you-ie.",
+    "yax": "Вы должны уважать своих старших - то есть.\nЕсли вы не проявите уважения, они дадут вам пощечину - т.е.",
+    "trx": "☯️Вы должны уважать своих старших - то есть.\nЕсли вы не проявите уважения, они дадут вам пощечину - т.е."
+  },
+  "medamappe_fukidashi_266": {
+    "src": "That's what martial artists wear-ie.",
+    "yax": "Это то, что носят мастера боевых искусств - то есть.",
+    "trx": "☯️Это то, что носят мастера боевых искусств - то есть."
+  },
+  "medamappe_fukidashi_267": {
+    "src": "It's better than getting excited over a doll-ie.",
+    "yax": "Это лучше, чем волноваться из-за куклы-то есть.",
+    "trx": "☯️Это лучше, чем волноваться из-за куклы-то есть."
+  },
+  "medamappe_fukidashi_268": {
+    "src": "It's just processed-ie.",
+    "yax": "Это просто обработано - т.е.",
+    "trx": "☯️Это просто обработано - т.е."
+  },
+  "medamappe_fukidashi_269": {
+    "src": "Freshwater fish is lean and tasty-ie.",
+    "yax": "Пресноводная рыба нежирная и вкусная - т.е.",
+    "trx": "☯️Пресноводная рыба нежирная и вкусная - т.е."
+  },
+  "medamappe_fukidashi_270": {
+    "src": "The only people who can fish there are the\ndirector and Sakane-ie.",
+    "yax": "Единственные люди, которые могут там ловить рыбу, - это\nдиректор и Саканэ-иэ.",
+    "trx": "☯️Единственные люди, которые могут там ловить рыбу, - это\nдиректор и Саканэ-иэ."
+  },
+  "medamappe_fukidashi_271": {
+    "src": "You might get hung upside down-ie.",
+    "yax": "Вы можете повиснуть вниз головой - то есть.",
+    "trx": "☯️Вы можете повиснуть вниз головой - то есть."
+  },
+  "medamappe_fukidashi_272": {
+    "src": "It's normal-ie!",
+    "yax": "Это нормально-то есть!",
+    "trx": "☯️Это нормально-то есть!"
+  },
+  "medamappe_fukidashi_273": {
+    "src": "It's a famous current near Japan-ie.\nI like it too -ie.",
+    "yax": "Это знаменитое течение недалеко от Японии - иэ.\nМне это тоже нравится - т.е.",
+    "trx": "☯️Это знаменитое течение недалеко от Японии - иэ.\nМне это тоже нравится - т.е."
+  },
+  "medamappe_fukidashi_274": {
+    "src": "How do you know about that current-ie?",
+    "yax": "Откуда вы знаете об этом текущем ie?",
+    "trx": "☯️Откуда вы знаете об этом текущем ie?"
+  },
+  "medamappe_fukidashi_275": {
+    "src": "Such a sloppy name-ie!\nIt's a current near Mexico-ie.",
+    "yax": "Такое небрежное название - ie!\nЭто течение недалеко от Мексики - то есть.",
+    "trx": "☯️Такое небрежное название - ie!\nЭто течение недалеко от Мексики - то есть."
+  },
+  "medamappe_fukidashi_276": {
+    "src": "It sounds like a title of an enka song-ie.\nIt's a song about a sailor and a harbor\nwoman-ie.",
+    "yax": "Это звучит как название песни энки - то есть.\nЭто песня о моряке и гавани\nженщина-то есть.",
+    "trx": "☯️Это звучит как название песни энки - то есть.\nЭто песня о моряке и гавани\nженщина-то есть."
+  },
+  "medamappe_fukidashi_277": {
+    "src": "There blob fish around there, they're cute-ie.",
+    "yax": "Там есть рыбки-капельки, они милые-то есть.",
+    "trx": "☯️Там есть рыбки-капельки, они милые-то есть."
+  },
+  "medamappe_fukidashi_278": {
+    "src": "Even an amateur can go diving-ie.",
+    "yax": "Даже любитель может заняться дайвингом-т.е.",
+    "trx": "☯️Даже любитель может заняться дайвингом-т.е."
+  },
+  "medamappe_fukidashi_279": {
+    "src": "There are sea slugs there, they're cute-ie.",
+    "yax": "Там есть морские слизни, они милые-то есть.",
+    "trx": "☯️Там есть морские слизни, они милые-то есть."
+  },
+  "medamappe_fukidashi_280": {
+    "src": "It's beyond earth, it's to the moon-ie.",
+    "yax": "Это за пределами земли, это на Луну - то есть.",
+    "trx": "☯️Это за пределами земли, это на Луну - то есть."
+  },
+  "medamappe_fukidashi_281": {
+    "src": "I heard Mizuki's grandfather was raised by \ndolphins-ie. ",
+    "yax": "Я слышал, что дедушка Мизуки был воспитан \nдельфины-то есть. ",
+    "trx": "☯️Я слышал, что дедушка Мизуки был воспитан \nдельфины-то есть. "
+  },
+  "medamappe_fukidashi_282": {
+    "src": "If you rescue it from the shore, you might \nbecome its friend-ie.",
+    "yax": "Если вы спасете его с берега, вы можете \nстаньте его другом-то есть.",
+    "trx": "☯️Если вы спасете его с берега, вы можете \nстаньте его другом-то есть."
+  },
+  "medamappe_fukidashi_283": {
+    "src": "If you become its friend, bring it to Sunfish \nPocket-ie.",
+    "yax": "Если вы станете его другом, принесите его в Sunfish \nКарманный-то есть.",
+    "trx": "☯️Если вы станете его другом, принесите его в Sunfish \nКарманный-то есть."
+  },
+  "medamappe_fukidashi_284": {
+    "src": "Even if you befriend it, you'll pickle it and eat \nit-ie?",
+    "yax": "Даже если вы подружитесь с ним, вы замаринуете его и съедите \nэто-ie?",
+    "trx": "☯️Даже если вы подружитесь с ним, вы замаринуете его и съедите \nэто-ie?"
+  },
+  "medamappe_fukidashi_285": {
+    "src": "You understand-ie. \nWe go to Sunfish Pocket together-ie.",
+    "yax": "Вы понимаете - то есть. \nМы вместе идем в Карман Солнечной Рыбы - т.е.",
+    "trx": "☯️Вы понимаете - то есть. \nМы вместе идем в Карман Солнечной Рыбы - т.е."
+  },
+  "medamappe_fukidashi_286": {
+    "src": "You understand-ie. \nWe're having dinner together-ie.",
+    "yax": "Вы понимаете - то есть. \nМы ужинаем вместе - то есть.",
+    "trx": "☯️Вы понимаете - то есть. \nМы ужинаем вместе - то есть."
+  },
+  "medamappe_fukidashi_287": {
+    "src": "You understand-ie. \nWe pass out flyers together-ie.",
+    "yax": "Вы понимаете - то есть. \nМы вместе раздаем листовки - т.е.",
+    "trx": "☯️Вы понимаете - то есть. \nМы вместе раздаем листовки - т.е."
+  },
+  "medamappe_fukidashi_288": {
+    "src": "It doesn't have the image now, does it-ie?",
+    "yax": "Теперь у него нет изображения, не так ли -ie?",
+    "trx": "☯️Теперь у него нет изображения, не так ли -ie?"
+  },
+  "medamappe_fukidashi_289": {
+    "src": "That's like saying \"Rice is going to be popular \nin Japan!\" -ie.",
+    "yax": "Это все равно что сказать: \"Рис будет популярен \nв Японии!\" - т.е.",
+    "trx": "☯️Это все равно что сказать: \"Рис будет популярен \nв Японии!\" - т.е."
+  },
+  "medamappe_fukidashi_290": {
+    "src": "I don't think a hardcore SF like that will be \npopular in Japan-ie.",
+    "yax": "Я не думаю, что такая хардкорная научная фантастика будет \nпопулярный в Японии-ie.",
+    "trx": "☯️Я не думаю, что такая хардкорная научная фантастика будет \nпопулярный в Японии-ie."
+  },
+  "medamappe_fukidashi_291": {
+    "src": "Classic Model painting already does that-ie.",
+    "yax": "Классическая модель живописи уже делает это - т.е.",
+    "trx": "☯️Классическая модель живописи уже делает это - т.е."
+  },
+  "medamappe_fukidashi_292": {
+    "src": "Burdock, taro, carrot, daikon battle royal... \nThat's it-ie!",
+    "yax": "Лопух, таро, морковь, дайкон баттл ройал... \nВот именно - ie!",
+    "trx": "☯️Лопух, таро, морковь, дайкон баттл ройал... \nВот именно - ie!"
+  },
+  "medamappe_fukidashi_293": {
+    "src": "Such a hassle... Any easier-ie?",
+    "yax": "Такая морока... Что-нибудь проще-ie?",
+    "trx": "☯️Такая морока... Что-нибудь проще-ie?"
+  },
+  "medamappe_fukidashi_294": {
+    "src": "Overflowing talent-ie...",
+    "yax": "Переполненный талант - то есть...",
+    "trx": "☯️Переполненный талант - то есть..."
+  },
+  "medamappe_fukidashi_295": {
+    "src": "I did it three times-ie.",
+    "yax": "Я сделал это три раза - т.е.",
+    "trx": "☯️Я сделал это три раза - т.е."
+  },
+  "medamappe_fukidashi_296": {
+    "src": "Such a hassle... Any easier-ie?",
+    "yax": "Такая морока... Что-нибудь проще-ie?",
+    "trx": "☯️Такая морока... Что-нибудь проще-ie?"
+  },
+  "medamappe_fukidashi_297": {
+    "src": "I like it too-ie!",
+    "yax": "Мне это тоже нравится - то есть!",
+    "trx": "☯️Мне это тоже нравится - то есть!"
+  },
+  "medamappe_fukidashi_298": {
+    "src": "Yes yes yes-ie!",
+    "yax": "Да, да, да-то есть!",
+    "trx": "☯️Да, да, да-то есть!"
+  },
+  "medamappe_fukidashi_299": {
+    "src": "That!\nYou don't have to be human-ie!",
+    "yax": "Это!\nВам не обязательно быть человеком-то есть!",
+    "trx": "☯️Это!\nВам не обязательно быть человеком-то есть!"
+  },
+  "medamappe_fukidashi_300": {
+    "src": "I like it too-ie!",
+    "yax": "Мне это тоже нравится - то есть!",
+    "trx": "☯️Мне это тоже нравится - то есть!"
+  },
+  "medamappe_fukidashi_301": {
+    "src": "\"Your wife died in an accident.\"\n\"What's the bad news?\"",
+    "yax": "\"Ваша жена погибла в результате несчастного случая\".\n\"Какие плохие новости?\"",
+    "trx": "☯️\"Ваша жена погибла в результате несчастного случая\".\n\"Какие плохие новости?\""
+  },
+  "medamappe_fukidashi_302": {
+    "src": "I'll do it too-ie!",
+    "yax": "Я тоже это сделаю - то есть!",
+    "trx": "☯️Я тоже это сделаю - то есть!"
+  },
+  "medamappe_fukidashi_303": {
+    "src": "\"Saying that is my shadow.\"\n\"Saying THAT is my shadow.\"",
+    "yax": "\"Сказать, что это моя тень\".\n\"Сказать, ЧТО ЭТО моя тень\".",
+    "trx": "☯️\"Сказать, что это моя тень\".\n\"Сказать, ЧТО ЭТО моя тень\"."
+  },
+  "medamappe_fukidashi_304": {
+    "src": "You can talk to maid Sideburns?\nAmazing-ie!",
+    "yax": "Ты можешь разговаривать с горничной с бакенбардами?\nУдивительно-то есть!",
+    "trx": "☯️Ты можешь разговаривать с горничной с бакенбардами?\nУдивительно-то есть!"
+  },
+  "medamappe_fukidashi_305": {
+    "src": "Right, you need to be able to tell an \nenjoyable story-ie!",
+    "yax": "Правильно, вы должны быть в состоянии отличить \nприятная история-то есть!",
+    "trx": "☯️Правильно, вы должны быть в состоянии отличить \nприятная история-то есть!"
+  },
+  "medamappe_fukidashi_306": {
+    "src": "Right, voice actors give life to characters-ie!",
+    "yax": "Правильно, актеры озвучки дают жизнь персонажам - то есть!",
+    "trx": "☯️Правильно, актеры озвучки дают жизнь персонажам - то есть!"
+  },
+  "medamappe_fukidashi_307": {
+    "src": "Right, people get more than 80% of their info\nfrom what they see-ie!",
+    "yax": "Правильно, люди получают более 80% своей информации\nот того, что они видят - то есть!",
+    "trx": "☯️Правильно, люди получают более 80% своей информации\nот того, что они видят - то есть!"
+  },
+  "medamappe_fukidashi_308": {
+    "src": "Right, there has to be a taiko scene in a \nloincloth-ie.",
+    "yax": "Верно, должна быть сцена с тайко в \nнабедренная повязка -то есть.",
+    "trx": "☯️Верно, должна быть сцена с тайко в \nнабедренная повязка -то есть."
+  },
+  "medamappe_fukidashi_309": {
+    "src": "Taro: I'm running late! (Slam!)\nOuch... Hey, what are you looking at?!",
+    "yax": "Таро: Я опаздываю! (Хлоп!)\nОй... Эй, на что ты смотришь?!",
+    "trx": "☯️Таро: Я опаздываю! (Хлоп!)\nОй... Эй, на что ты смотришь?!"
+  },
+  "medamappe_fukidashi_310": {
+    "src": "Teacher: Let me introduce a transfer student. \nBurdock: Hi… I'm Burdock...",
+    "yax": "Учитель: Позвольте мне представить вам переводного студента. \nБердок: Привет… Я Бердок...",
+    "trx": "☯️Учитель: Позвольте мне представить вам переводного студента. \nБердок: Привет… Я Бердок..."
+  },
+  "medamappe_fukidashi_311": {
+    "src": "Teacher: The seat next to Taro is open.\nTaro: Isn't he the person I ran into this \nmorning…?",
+    "yax": "Учитель: Место рядом с Таро свободно.\nТаро: Разве это не тот человек, с которым я столкнулся в этом \nдоброе утро...?",
+    "trx": "☯️Учитель: Место рядом с Таро свободно.\nТаро: Разве это не тот человек, с которым я столкнулся в этом \nдоброе утро...?"
+  },
+  "medamappe_fukidashi_312": {
+    "src": "Teacher: Now, all of you will engage in a \nbattle royale...\nBurdock: Taro, watch out! \nTaro: Huh?!",
+    "yax": "Учитель: Теперь все вы будете участвовать в \nкоролевская битва...\nБердок: Таро, берегись! \nТаро: Да?!",
+    "trx": "☯️Учитель: Теперь все вы будете участвовать в \nкоролевская битва...\nБердок: Таро, берегись! \nТаро: Да?!"
+  },
+  "medamappe_fukidashi_313": {
+    "src": "It's a bite-sized chocolate with fillings-ie. ",
+    "yax": "Это шоколад размером с кусочек с начинкой - то есть. ",
+    "trx": "☯️Это шоколад размером с кусочек с начинкой - то есть. "
+  },
+  "medamappe_fukidashi_314": {
+    "src": "It's a melty chocolate made from cream and \nchocolate-ie. ",
+    "yax": "Это расплавленный шоколад, приготовленный из сливок и \nшоколад-то есть. ",
+    "trx": "☯️Это расплавленный шоколад, приготовленный из сливок и \nшоколад-то есть. "
+  },
+  "medamappe_fukidashi_315": {
+    "src": "It's chocolate mixed with nutpaste-ie. ",
+    "yax": "Это шоколад, смешанный с ореховой пастой - то есть. ",
+    "trx": "☯️Это шоколад, смешанный с ореховой пастой - то есть. "
+  },
+  "medamappe_fukidashi_316": {
+    "src": "It's a chocolate with a cute drawing...\nOr not-ie. ",
+    "yax": "Это шоколад с милым рисунком...\nИли нет - то есть. ",
+    "trx": "☯️Это шоколад с милым рисунком...\nИли нет - то есть. "
+  },
+  "medamappe_fukidashi_317": {
+    "src": "Tell me about it later-ie",
+    "yax": "Расскажи мне об этом позже - то есть",
+    "trx": "☯️Расскажи мне об этом позже - то есть"
+  },
+  "medamappe_fukidashi_318": {
+    "src": "Then I'll say it-ie. \nMoms like to walk in on kids dancing.",
+    "yax": "Тогда я скажу это - то есть. \nМамам нравится смотреть, как танцуют дети.",
+    "trx": "☯️Тогда я скажу это - то есть. \nМамам нравится смотреть, как танцуют дети."
+  },
+  "medamappe_fukidashi_319": {
+    "src": "Tell me now-ie!",
+    "yax": "Скажи мне сейчас-то есть!",
+    "trx": "☯️Скажи мне сейчас-то есть!"
+  },
+  "medamappe_fukidashi_320": {
+    "src": "Then I'll say it-ie.\nLivestreams have horizontally inverted \nimages.",
+    "yax": "Тогда я скажу это - то есть.\nПрямые трансляции имеют горизонтально перевернутые \nизображения.",
+    "trx": "☯️Тогда я скажу это - то есть.\nПрямые трансляции имеют горизонтально перевернутые \nизображения."
+  },
+  "medamappe_fukidashi_321": {
+    "src": "Maiden Road-ie!",
+    "yax": "Девичья дорога-ие!",
+    "trx": "☯️Девичья дорога-ие!"
+  },
+  "medamappe_fukidashi_322": {
+    "src": "Broadway-ie!",
+    "yax": "Бродвей-то есть!",
+    "trx": "☯️Бродвей-то есть!"
+  },
+  "medamappe_fukidashi_323": {
+    "src": "Big Site-ie!",
+    "yax": "Большой сайт-ie!",
+    "trx": "☯️Большой сайт-ie!"
+  },
+  "medamappe_fukidashi_324": {
+    "src": "Sunfish Pocket-ie!",
+    "yax": "Карманная рыба-солнце-ie!",
+    "trx": "☯️Карманная рыба-солнце-ie!"
+  },
+  "medamappe_fukidashi_325": {
+    "src": "I like it too. The bitter and sour flavor is \nnotable.",
+    "yax": "Мне это тоже нравится. Горько-кислый вкус - это \nпримечательный.",
+    "trx": "☯️Мне это тоже нравится. Горько-кислый вкус - это \nпримечательный."
+  },
+  "medamappe_fukidashi_326": {
+    "src": "I like it too, it's the fruity medley of flavor.",
+    "yax": "Мне он тоже нравится, это фруктовая смесь ароматов.",
+    "trx": "☯️Мне он тоже нравится, это фруктовая смесь ароматов."
+  },
+  "medamappe_fukidashi_327": {
+    "src": "I like it too. I like the fruity easy-to-drink \nflavor.",
+    "yax": "Мне это тоже нравится. Мне нравится фруктовый легкий напиток. \nаромат.",
+    "trx": "☯️Мне это тоже нравится. Мне нравится фруктовый легкий напиток. \nаромат."
+  },
+  "medamappe_fukidashi_328": {
+    "src": "France is famous for wine. \nSo much variety, but they're all good.",
+    "yax": "Франция славится вином. \nТак много разнообразия, но все они хороши.",
+    "trx": "☯️Франция славится вином. \nТак много разнообразия, но все они хороши."
+  },
+  "medamappe_fukidashi_329": {
+    "src": "Totally, I release all my stress at the store.",
+    "yax": "Полностью, я снимаю весь свой стресс в магазине.",
+    "trx": "☯️Полностью, я снимаю весь свой стресс в магазине."
+  },
+  "medamappe_fukidashi_330": {
+    "src": "Know your self as well as you know your \nenemies is a famous saying.",
+    "yax": "Знайте себя так же хорошо, как вы знаете своего \nвраги - это известная поговорка.",
+    "trx": "☯️Знайте себя так же хорошо, как вы знаете своего \nвраги - это известная поговорка."
+  },
+  "medamappe_fukidashi_331": {
+    "src": "Totally, I can sometimes hear the badump-\nbadump.",
+    "yax": "В общем, иногда я слышу плохие новости.-\nплохой парень.",
+    "trx": "☯️В общем, иногда я слышу плохие новости.-\nплохой парень."
+  },
+  "medamappe_fukidashi_332": {
+    "src": "Totally, going there looking for \"healing\" is so \ndumb.",
+    "yax": "В общем, идти туда в поисках \"исцеления\" - это так \nтупой.",
+    "trx": "☯️В общем, идти туда в поисках \"исцеления\" - это так \nтупой."
+  },
+  "medamappe_fukidashi_333": {
+    "src": "Eggplant, eggplant, I love eggplant.\nI like eggplant too.",
+    "yax": "Баклажаны, баклажаны, я люблю баклажаны.\nЯ тоже люблю баклажаны.",
+    "trx": "☯️Баклажаны, баклажаны, я люблю баклажаны.\nЯ тоже люблю баклажаны."
+  },
+  "medamappe_fukidashi_334": {
+    "src": "It's filled with lycopene...\nIt has antioxidant effects.",
+    "yax": "Он наполнен ликопином...\nОн обладает антиоксидантным действием.",
+    "trx": "☯️Он наполнен ликопином...\nОн обладает антиоксидантным действием."
+  },
+  "medamappe_fukidashi_335": {
+    "src": "It has diastase which breaks down starch.",
+    "yax": "В нем есть диастаза, которая расщепляет крахмал.",
+    "trx": "☯️В нем есть диастаза, которая расщепляет крахмал."
+  },
+  "medamappe_fukidashi_336": {
+    "src": "Why are carrots called carrots?",
+    "yax": "Почему морковь называют морковью?",
+    "trx": "☯️Почему морковь называют морковью?"
+  },
+  "medamappe_fukidashi_337": {
+    "src": "Right, I thought that would be the case.",
+    "yax": "Верно, я так и думал, что так оно и будет.",
+    "trx": "☯️Верно, я так и думал, что так оно и будет."
+  },
+  "medamappe_fukidashi_338": {
+    "src": "Whew... I'm categorized the same as a 20-\nyear-old.",
+    "yax": "Фух... Я отношусь к той же категории, что и 20-летний-\nгодовалый ребенок.",
+    "trx": "☯️Фух... Я отношусь к той же категории, что и 20-летний-\nгодовалый ребенок."
+  },
+  "medamappe_fukidashi_339": {
+    "src": "Don't say childish things. I'm gonna get mad!",
+    "yax": "Не говори глупостей. Я сейчас разозлюсь!",
+    "trx": "☯️Не говори глупостей. Я сейчас разозлюсь!"
+  },
+  "medamappe_fukidashi_340": {
+    "src": "Do you know Aconitum? \nIt bears a pretty flower.",
+    "yax": "Вы знаете Аконит? \nНа нем красивый цветок.",
+    "trx": "☯️Вы знаете Аконит? \nНа нем красивый цветок."
+  },
+  "medamappe_fukidashi_341": {
+    "src": "You like those kinds of guys?\nYou have strange taste...",
+    "yax": "Тебе нравятся такие парни?\nУ тебя странный вкус...",
+    "trx": "☯️Тебе нравятся такие парни?\nУ тебя странный вкус..."
+  },
+  "medamappe_fukidashi_342": {
+    "src": "Remember to hydrate...",
+    "yax": "Не забывайте увлажнять кожу...",
+    "trx": "☯️Не забывайте увлажнять кожу..."
+  },
+  "medamappe_fukidashi_343": {
+    "src": "Shoma? Yeah, he seems nice...",
+    "yax": "Шома? Да, он кажется милым...",
+    "trx": "☯️Шома? Да, он кажется милым..."
+  },
+  "medamappe_fukidashi_344": {
+    "src": "I hope not.",
+    "yax": "Я надеюсь, что нет.",
+    "trx": "☯️Я надеюсь, что нет."
+  },
+  "medamappe_fukidashi_345": {
+    "src": "It's a refreshing, mild flavor.",
+    "yax": "Это освежающий, мягкий вкус.",
+    "trx": "☯️Это освежающий, мягкий вкус."
+  },
+  "medamappe_fukidashi_346": {
+    "src": "Those who don't grind their own coffee are \nweak! Though, I use it too...",
+    "yax": "Те, кто не молол свой кофе сам, - это \nслабый! Хотя я тоже им пользуюсь...",
+    "trx": "☯️Те, кто не молол свой кофе сам, - это \nслабый! Хотя я тоже им пользуюсь..."
+  },
+  "medamappe_fukidashi_347": {
+    "src": "…What?",
+    "yax": "...Что?",
+    "trx": "☯️...Что?"
+  },
+  "medamappe_fukidashi_348": {
+    "src": "It gives it a good, strong flavor.",
+    "yax": "Это придает ему хороший, сильный вкус.",
+    "trx": "☯️Это придает ему хороший, сильный вкус."
+  },
+  "medamappe_fukidashi_349": {
+    "src": "You swine! You said you would go to Tenjiku \nwith me!",
+    "yax": "Ты свинья! Ты сказал, что поедешь в Тэндзику \nсо мной!",
+    "trx": "☯️Ты свинья! Ты сказал, что поедешь в Тэндзику \nсо мной!"
+  },
+  "medamappe_fukidashi_350": {
+    "src": "I missed the last train.",
+    "yax": "Я опоздал на последний поезд.",
+    "trx": "☯️Я опоздал на последний поезд."
+  },
+  "medamappe_fukidashi_351": {
+    "src": "Tama is better at bondage.\nThat body of hers…",
+    "yax": "Тама лучше справляется с рабством.\nЭто ее тело…",
+    "trx": "☯️Тама лучше справляется с рабством.\nЭто ее тело…"
+  },
+  "medamappe_fukidashi_352": {
+    "src": "I put bags of flour in your bag.",
+    "yax": "Я положил мешки с мукой в твою сумку.",
+    "trx": "☯️Я положил мешки с мукой в твою сумку."
+  },
+  "medamappe_fukidashi_353": {
+    "src": "Oh, the goodie two-shoes...\nI don't like those types.",
+    "yax": "О, эти хорошие туфли-двойки...\nМне не нравятся такие типы.",
+    "trx": "☯️О, эти хорошие туфли-двойки...\nМне не нравятся такие типы."
+  },
+  "medamappe_fukidashi_354": {
+    "src": "I don't know what happened, but you should \nforget it.",
+    "yax": "Я не знаю, что случилось, но ты должен \nзабудь это.",
+    "trx": "☯️Я не знаю, что случилось, но ты должен \nзабудь это."
+  },
+  "medamappe_fukidashi_355": {
+    "src": "Can you tell me your name and address?",
+    "yax": "Не могли бы вы сообщить мне свое имя и адрес?",
+    "trx": "☯️Не могли бы вы сообщить мне свое имя и адрес?"
+  },
+  "medamappe_fukidashi_356": {
+    "src": "I'll make you forget it.",
+    "yax": "Я заставлю тебя забыть об этом.",
+    "trx": "☯️Я заставлю тебя забыть об этом."
+  },
+  "medamappe_fukidashi_357": {
+    "src": "Don't demand love, give it.",
+    "yax": "Не требуйте любви, дайте ее.",
+    "trx": "☯️Не требуйте любви, дайте ее."
+  },
+  "medamappe_fukidashi_358": {
+    "src": "I don't like talk with no thought behind it.",
+    "yax": "Я не люблю разговоров, за которыми не стоит никаких мыслей.",
+    "trx": "☯️Я не люблю разговоров, за которыми не стоит никаких мыслей."
+  },
+  "medamappe_fukidashi_359": {
+    "src": "You mean AI: THE SOMNIUM FILES? Please \ntake good care of it.",
+    "yax": "Ты имеешь в виду AI: ФАЙЛЫ SOMNIUM? Пожалуйста \nпозаботься об этом хорошенько.",
+    "trx": "☯️Ты имеешь в виду AI: ФАЙЛЫ SOMNIUM? Пожалуйста \nпозаботься об этом хорошенько."
+  },
+  "medamappe_fukidashi_360": {
+    "src": "You want me to make you lose it?",
+    "yax": "Ты хочешь, чтобы я заставил тебя потерять самообладание?",
+    "trx": "☯️Ты хочешь, чтобы я заставил тебя потерять самообладание?"
+  },
+  "medamappe_fukidashi_361": {
+    "src": "It's the ninth letter of the alphabet.",
+    "yax": "Это девятая буква алфавита.",
+    "trx": "☯️Это девятая буква алфавита."
+  },
+  "medamappe_fukidashi_362": {
+    "src": "It means \"I am.\"",
+    "yax": "Это означает \"Я есть\".",
+    "trx": "☯️Это означает \"Я есть\"."
+  },
+  "medamappe_fukidashi_363": {
+    "src": "It's the roman numeral for 1.",
+    "yax": "Это римская цифра, обозначающая 1.",
+    "trx": "☯️Это римская цифра, обозначающая 1."
+  },
+  "medamappe_fukidashi_364": {
+    "src": "Its atomic number is 53. ",
+    "yax": "Его атомный номер - 53. ",
+    "trx": "☯️Его атомный номер - 53. "
+  },
+  "medamappe_fukidashi_365": {
+    "src": "Huh? You can eat pig testicles?",
+    "yax": "А? Вы можете есть свиные яички?",
+    "trx": "☯️А? Вы можете есть свиные яички?"
+  },
+  "medamappe_fukidashi_366": {
+    "src": "Huh? Squid have testicles?",
+    "yax": "А? У кальмаров есть яички?",
+    "trx": "☯️А? У кальмаров есть яички?"
+  },
+  "medamappe_fukidashi_367": {
+    "src": "Huh? Shrimp have testicles?",
+    "yax": "А? У креветок есть яички?",
+    "trx": "☯️А? У креветок есть яички?"
+  },
+  "medamappe_fukidashi_368": {
+    "src": "Huh? That famous dog has testicles?",
+    "yax": "А? У этой знаменитой собаки есть яички?",
+    "trx": "☯️А? У этой знаменитой собаки есть яички?"
+  },
+  "medamappe_fukidashi_369": {
+    "src": "Right. I believe it with all my heart too.",
+    "yax": "Верно. Я тоже верю в это всем своим сердцем.",
+    "trx": "☯️Верно. Я тоже верю в это всем своим сердцем."
+  },
+  "medamappe_fukidashi_370": {
+    "src": "I can't agree or disagree.\nIt's a hard question.",
+    "yax": "Я не могу согласиться или не согласиться.\nЭто трудный вопрос.",
+    "trx": "☯️Я не могу согласиться или не согласиться.\nЭто трудный вопрос."
+  },
+  "medamappe_fukidashi_371": {
+    "src": "Right. I believe it with all my heart too.",
+    "yax": "Верно. Я тоже верю в это всем своим сердцем.",
+    "trx": "☯️Верно. Я тоже верю в это всем своим сердцем."
+  },
+  "medamappe_fukidashi_372": {
+    "src": "Mandatory overtime...\nBut what about self-imposed overtime?",
+    "yax": "Обязательная сверхурочная работа...\nНо как насчет добровольной сверхурочной работы?",
+    "trx": "☯️Обязательная сверхурочная работа...\nНо как насчет добровольной сверхурочной работы?"
+  },
+  "medamappe_fukidashi_373": {
+    "src": "Shocking. \nI thought it was illegal.",
+    "yax": "Шокирующий. \nЯ думал, что это незаконно.",
+    "trx": "☯️Шокирующий. \nЯ думал, что это незаконно."
+  },
+  "medamappe_fukidashi_374": {
+    "src": "It's common they join your side...\nBut it is sad...",
+    "yax": "Это обычное дело, когда они переходят на вашу сторону...\nНо это печально...",
+    "trx": "☯️Это обычное дело, когда они переходят на вашу сторону...\nНо это печально..."
+  },
+  "medamappe_fukidashi_375": {
+    "src": "I haven't seen it before.\nI'll watch it with that person later.",
+    "yax": "Я никогда не видел этого раньше.\nЯ посмотрю его с этим человеком позже.",
+    "trx": "☯️Я никогда не видел этого раньше.\nЯ посмотрю его с этим человеком позже."
+  },
+  "medamappe_fukidashi_376": {
+    "src": "At the end of the day, orthodox is the best!",
+    "yax": "В конце концов, православие - это самое лучшее!",
+    "trx": "☯️В конце концов, православие - это самое лучшее!"
+  },
+  "medamappe_fukidashi_377": {
+    "src": "Everyone is the main character of a mobile \ngame.",
+    "yax": "Каждый является главным героем мобильного \nигра.",
+    "trx": "☯️Каждый является главным героем мобильного \nигра."
+  },
+  "medamappe_fukidashi_378": {
+    "src": "The work conditions are harsh, but...\nThere are three times a year with no class.",
+    "yax": "Условия работы суровые, но...\nЕсть три раза в год без занятий.",
+    "trx": "☯️Условия работы суровые, но...\nЕсть три раза в год без занятий."
+  },
+  "medamappe_fukidashi_379": {
+    "src": "Please stop that. \nI'm going to take you to the counseling room.",
+    "yax": "Пожалуйста, прекрати это. \nЯ отведу тебя в кабинет психолога.",
+    "trx": "☯️Пожалуйста, прекрати это. \nЯ отведу тебя в кабинет психолога."
+  },
+  "medamappe_fukidashi_380": {
+    "src": "It's not amazing. I'm just getting better \nfighting off monster parents. ",
+    "yax": "Это не удивительно. Мне просто становится лучше \nотбиваясь от родителей-монстров. ",
+    "trx": "☯️Это не удивительно. Мне просто становится лучше \nотбиваясь от родителей-монстров. "
+  },
+  "medamappe_fukidashi_381": {
+    "src": "You know those hedge mazes? \nDon't you wanna solve them?",
+    "yax": "Ты знаешь эти лабиринты живой изгороди? \nРазве ты не хочешь их решить?",
+    "trx": "☯️Ты знаешь эти лабиринты живой изгороди? \nРазве ты не хочешь их решить?"
+  },
+  "medamappe_fukidashi_382": {
+    "src": "You mean like natural-style gardens?\nI think those are my favorites too. ",
+    "yax": "Вы имеете в виду сады в естественном стиле?\nЯ думаю, что это тоже мои любимые блюда. ",
+    "trx": "☯️Вы имеете в виду сады в естественном стиле?\nЯ думаю, что это тоже мои любимые блюда. "
+  },
+  "medamappe_fukidashi_383": {
+    "src": "When I see those, I want to mix it all up.",
+    "yax": "Когда я их вижу, мне хочется все это перепутать.",
+    "trx": "☯️Когда я их вижу, мне хочется все это перепутать."
+  },
+  "medamappe_fukidashi_384": {
+    "src": "You mean formal gardens?\nI don't like them. Too unnatural…",
+    "yax": "Вы имеете в виду официальные сады?\nМне они не нравятся. Слишком неестественно…",
+    "trx": "☯️Вы имеете в виду официальные сады?\nМне они не нравятся. Слишком неестественно…"
+  },
+  "medamappe_fukidashi_385": {
+    "src": "I get along with my neighbors...\nI let them borrow soy sauce, play with my \nnice set…",
+    "yax": "Я хорошо ладлю со своими соседями...\nЯ позволяю им позаимствовать соевый соус, поиграть со своим \nхороший набор…",
+    "trx": "☯️Я хорошо ладлю со своими соседями...\nЯ позволяю им позаимствовать соевый соус, поиграть со своим \nхороший набор…"
+  },
+  "medamappe_fukidashi_386": {
+    "src": "That's one way to do it, but isn't it a little \nsad...?",
+    "yax": "Это один из способов сделать это, но не слишком ли это \nгрустно...?",
+    "trx": "☯️Это один из способов сделать это, но не слишком ли это \nгрустно...?"
+  },
+  "medamappe_fukidashi_387": {
+    "src": "I think it's good, but...\nI have a bad history with it...",
+    "yax": "Я думаю, что это хорошо, но...\nУ меня с этим плохая история...",
+    "trx": "☯️Я думаю, что это хорошо, но...\nУ меня с этим плохая история..."
+  },
+  "medamappe_fukidashi_388": {
+    "src": "It's not good to hold it in...\nIt's all about how you say it.",
+    "yax": "Нехорошо держать это в себе...\nВсе зависит от того, как ты это говоришь.",
+    "trx": "☯️Нехорошо держать это в себе...\nВсе зависит от того, как ты это говоришь."
+  },
+  "medamappe_fukidashi_389": {
+    "src": "It's been hard...\nIf you go too hard, the parents will...",
+    "yax": "Это было тяжело...\nЕсли ты будешь слишком усердствовать, это сделают родители...",
+    "trx": "☯️Это было тяжело...\nЕсли ты будешь слишком усердствовать, это сделают родители..."
+  },
+  "medamappe_fukidashi_390": {
+    "src": "I can't do that.\nStudents are like my own kids.",
+    "yax": "Я не могу этого сделать.\nСтуденты - как мои собственные дети.",
+    "trx": "☯️Я не могу этого сделать.\nСтуденты - как мои собственные дети."
+  },
+  "medamappe_fukidashi_391": {
+    "src": "I was like that when I was younger...",
+    "yax": "Я был таким же, когда был моложе...",
+    "trx": "☯️Я был таким же, когда был моложе..."
+  },
+  "medamappe_fukidashi_392": {
+    "src": "You need to be tough sometimes.\nPlease understand...",
+    "yax": "Иногда тебе нужно быть жестким.\nПожалуйста, поймите...",
+    "trx": "☯️Иногда тебе нужно быть жестким.\nПожалуйста, поймите..."
+  },
+  "medamappe_fukidashi_393": {
+    "src": "You can play instruments?\nYou must have some quick fingers... That's \nsexy.",
+    "yax": "Вы умеете играть на музыкальных инструментах?\nУ тебя, должно быть, быстрые пальцы... Это \nсексуальный.",
+    "trx": "☯️Вы умеете играть на музыкальных инструментах?\nУ тебя, должно быть, быстрые пальцы... Это \nсексуальный."
+  },
+  "medamappe_fukidashi_394": {
+    "src": "You mean tights, right?\nLike maids? That's sexy...",
+    "yax": "Ты имеешь в виду колготки, верно?\nКак горничные? Это сексуально...",
+    "trx": "☯️Ты имеешь в виду колготки, верно?\nКак горничные? Это сексуально..."
+  },
+  "medamappe_fukidashi_395": {
+    "src": "Wine and women are better aged.\nThat's sexy…",
+    "yax": "Вино и женщины лучше выдерживаются.\nЭто сексуально…",
+    "trx": "☯️Вино и женщины лучше выдерживаются.\nЭто сексуально…"
+  },
+  "medamappe_fukidashi_396": {
+    "src": "You're gonna ride that.\nThat's sexy.",
+    "yax": "Ты поедешь на нем верхом.\nЭто сексуально.",
+    "trx": "☯️Ты поедешь на нем верхом.\nЭто сексуально."
+  },
+  "medamappe_fukidashi_397": {
+    "src": "I can't put it there...\nMy roommate will find it.",
+    "yax": "Я не могу поместить его туда...\nМой сосед по комнате найдет его.",
+    "trx": "☯️Я не могу поместить его туда...\nМой сосед по комнате найдет его."
+  },
+  "medamappe_fukidashi_398": {
+    "src": "I can't put it there. \nOnly 2 or 3 will fit.",
+    "yax": "Я не могу поместить его туда. \nПодойдут только 2 или 3.",
+    "trx": "☯️Я не могу поместить его туда. \nПодойдут только 2 или 3."
+  },
+  "medamappe_fukidashi_399": {
+    "src": "That's where dealers sell their goods!",
+    "yax": "Вот где дилеры продают свои товары!",
+    "trx": "☯️Вот где дилеры продают свои товары!"
+  },
+  "medamappe_fukidashi_400": {
+    "src": "It's cliche. Key in visor and gun in the glove \nbox…",
+    "yax": "Это банально. Ключ в козырьке и пистолет в перчатке \nкоробка…",
+    "trx": "☯️Это банально. Ключ в козырьке и пистолет в перчатке \nкоробка…"
+  },
+  "medamappe_fukidashi_401": {
+    "src": "Aged for a long while...\nIt's expensive, but it's mild and had a deep \nflavor.",
+    "yax": "Состарился на долгое время...\nОн дорогой, но мягкий и обладает глубоким \nаромат.",
+    "trx": "☯️Состарился на долгое время...\nОн дорогой, но мягкий и обладает глубоким \nаромат."
+  },
+  "medamappe_fukidashi_402": {
+    "src": "It's a younger drink...\nYoung and naughty isn't bad.",
+    "yax": "Это более молодой напиток...\nМолодой и озорной - это неплохо.",
+    "trx": "☯️Это более молодой напиток...\nМолодой и озорной - это неплохо."
+  },
+  "medamappe_fukidashi_403": {
+    "src": "Some go for 10,000,000 yen! Have you drank \none before?!",
+    "yax": "Некоторые идут за 10 000 000 иен! Ты пил \nодин раз раньше?!",
+    "trx": "☯️Некоторые идут за 10 000 000 иен! Ты пил \nодин раз раньше?!"
+  },
+  "medamappe_fukidashi_404": {
+    "src": "That's very good. Saves you from seeing your \nlocker covered in your own pee.",
+    "yax": "Это очень хорошо. Избавляет вас от необходимости видеть свой \nшкафчик, весь в твоей собственной моче.",
+    "trx": "☯️Это очень хорошо. Избавляет вас от необходимости видеть свой \nшкафчик, весь в твоей собственной моче."
+  },
+  "medamappe_fukidashi_405": {
+    "src": "Miniskirt police? \nThat's sexy.",
+    "yax": "Полиция в мини-юбке? \nЭто сексуально.",
+    "trx": "☯️Полиция в мини-юбке? \nЭто сексуально."
+  },
+  "medamappe_fukidashi_406": {
+    "src": "A bewitching female demon shows up there \ntoo. Signing a contract... It's sexy...",
+    "yax": "Там появляется очаровательная женщина-демон \nтоже. Подписание контракта... Это сексуально...",
+    "trx": "☯️Там появляется очаровательная женщина-демон \nтоже. Подписание контракта... Это сексуально..."
+  },
+  "medamappe_fukidashi_407": {
+    "src": "Being chased by Amazons in a dense forest...\nThat's sexy.",
+    "yax": "Преследуемый амазонками в густом лесу...\nЭто сексуально.",
+    "trx": "☯️Преследуемый амазонками в густом лесу...\nЭто сексуально."
+  },
+  "medamappe_fukidashi_408": {
+    "src": "That's sexy.",
+    "yax": "Это сексуально.",
+    "trx": "☯️Это сексуально."
+  },
+  "medamappe_fukidashi_409": {
+    "src": "You like camping and BBQ videos? \nThat's healthy.",
+    "yax": "Вам нравятся видео с кемпингом и барбекю? \nЭто здорово.",
+    "trx": "☯️Вам нравятся видео с кемпингом и барбекю? \nЭто здорово."
+  },
+  "medamappe_fukidashi_410": {
+    "src": "The one where a new and old detective team \nup? That's passionate.",
+    "yax": "Тот, где новая и старая детективная команда \nвстал? Это страстно.",
+    "trx": "☯️Тот, где новая и старая детективная команда \nвстал? Это страстно."
+  },
+  "medamappe_fukidashi_411": {
+    "src": "That's the one where wives become\nzombies. That's scary. ",
+    "yax": "Это тот случай, когда жены становятся\nзомби. Это пугает. ",
+    "trx": "☯️Это тот случай, когда жены становятся\nзомби. Это пугает. "
+  },
+  "medamappe_fukidashi_412": {
+    "src": "A story of highschool kids fighting at a school \ninfested by monsters...\nHow emo.",
+    "yax": "История о том, как старшеклассники дрались в школе \nкишащий монстрами...\nКак эмо.",
+    "trx": "☯️История о том, как старшеклассники дрались в школе \nкишащий монстрами...\nКак эмо."
+  },
+  "medamappe_fukidashi_413": {
+    "src": "Cars are an embodiment of the opposite sex. \nThat means you like celeb men.",
+    "yax": "Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравятся знаменитости.",
+    "trx": "☯️Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравятся знаменитости."
+  },
+  "medamappe_fukidashi_414": {
+    "src": "Cars are an embodiment of the opposite sex. \nThat means you like being the big spoon.",
+    "yax": "Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравится быть большой ложкой.",
+    "trx": "☯️Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравится быть большой ложкой."
+  },
+  "medamappe_fukidashi_415": {
+    "src": "Cars are an embodiment of the opposite sex. \nThat means you like androids.",
+    "yax": "Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравятся андроиды.",
+    "trx": "☯️Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравятся андроиды."
+  },
+  "medamappe_fukidashi_416": {
+    "src": "Cars are an embodiment of the opposite sex. \nThat means you like Maruo.",
+    "yax": "Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравится Маруо.",
+    "trx": "☯️Автомобили - это воплощение противоположного пола. \nЭто значит, что тебе нравится Маруо."
+  },
+  "medamappe_fukidashi_417": {
+    "src": "That's impressive.",
+    "yax": "Это впечатляет.",
+    "trx": "☯️Это впечатляет."
+  },
+  "medamappe_fukidashi_418": {
+    "src": "That's most important.",
+    "yax": "Это самое важное.",
+    "trx": "☯️Это самое важное."
+  },
+  "medamappe_fukidashi_419": {
+    "src": "Don't give up, I'm rooting for you.",
+    "yax": "Не сдавайся, я болею за тебя.",
+    "trx": "☯️Не сдавайся, я болею за тебя."
+  },
+  "medamappe_fukidashi_420": {
+    "src": "Nama-katsu... That's sexy.",
+    "yax": "Нама-катсу... Это сексуально.",
+    "trx": "☯️Нама-катсу... Это сексуально."
+  },
+  "medamappe_fukidashi_421": {
+    "src": "Tigers are cats. I like cats too. \nThere's a cat on Tesa's waist too.",
+    "yax": "Тигры - это кошки. Я тоже люблю кошек. \nНа талии Тесы тоже сидит кошка.",
+    "trx": "☯️Тигры - это кошки. Я тоже люблю кошек. \nНа талии Тесы тоже сидит кошка."
+  },
+  "medamappe_fukidashi_422": {
+    "src": "Prajna is a demon mask used in noh theater.\nIt symbolizes the anger and jealousy of a \nwoman. ",
+    "yax": "Праджня - это маска демона, используемая в театре но.\nЭто символизирует гнев и ревность человека \nженщина. ",
+    "trx": "☯️Праджня - это маска демона, используемая в театре но.\nЭто символизирует гнев и ревность человека \nженщина. "
+  },
+  "medamappe_fukidashi_423": {
+    "src": "I like dragons too.\nI have a statue of one in my office.",
+    "yax": "Мне тоже нравятся драконы.\nУ меня в кабинете есть статуя одного из них.",
+    "trx": "☯️Мне тоже нравятся драконы.\nУ меня в кабинете есть статуя одного из них."
+  },
+  "medamappe_fukidashi_424": {
+    "src": "Koi... is a homonym for love in Japanese...\nReminds me of when I was young.",
+    "yax": "Кои... - это омоним любви в японском языке...\nНапоминает мне о том времени, когда я был молод.",
+    "trx": "☯️Кои... - это омоним любви в японском языке...\nНапоминает мне о том времени, когда я был молод."
+  },
+  "medamappe_fukidashi_425": {
+    "src": "You can use a katana?\nThat's impressive...",
+    "yax": "Ты умеешь пользоваться катаной?\nЭто впечатляет...",
+    "trx": "☯️Ты умеешь пользоваться катаной?\nЭто впечатляет..."
+  },
+  "medamappe_fukidashi_426": {
+    "src": "You can throw?\nThat's crazy...",
+    "yax": "Ты умеешь бросать?\nЭто безумие...",
+    "trx": "☯️Ты умеешь бросать?\nЭто безумие..."
+  },
+  "medamappe_fukidashi_427": {
+    "src": "You've shot before?\nYou in the army?",
+    "yax": "Вы стреляли раньше?\nТы в армии?",
+    "trx": "☯️Вы стреляли раньше?\nТы в армии?"
+  },
+  "medamappe_fukidashi_428": {
+    "src": "I don't really like it.\nIt's kind of cheap.",
+    "yax": "Мне это не очень нравится.\nЭто довольно дешево.",
+    "trx": "☯️Мне это не очень нравится.\nЭто довольно дешево."
+  },
+  "medamappe_fukidashi_429": {
+    "src": "Anyone can believe whatever.\nIt's up to you.",
+    "yax": "Любой может верить во что угодно.\nЭто зависит от вас.",
+    "trx": "☯️Любой может верить во что угодно.\nЭто зависит от вас."
+  },
+  "medamappe_fukidashi_430": {
+    "src": "I don't know about that, but...\nIf you mean like Boss I guess it's different...",
+    "yax": "Я не знаю об этом, но...\nЕсли ты имеешь в виду, как Босс, то, наверное, это другое дело...",
+    "trx": "☯️Я не знаю об этом, но...\nЕсли ты имеешь в виду, как Босс, то, наверное, это другое дело..."
+  },
+  "medamappe_fukidashi_431": {
+    "src": "Right right right.\nTotally, totally. ",
+    "yax": "Правильно, правильно, правильно.\nПолностью, полностью. ",
+    "trx": "☯️Правильно, правильно, правильно.\nПолностью, полностью. "
+  },
+  "medamappe_fukidashi_432": {
+    "src": "You mean like siblings who shared a drink?\nThat's passionate.",
+    "yax": "Ты имеешь в виду, как братья и сестры, которые выпили вместе?\nЭто страстно.",
+    "trx": "☯️Ты имеешь в виду, как братья и сестры, которые выпили вместе?\nЭто страстно."
+  },
+  "medamappe_fukidashi_433": {
+    "src": "Right, a man would never break a promise.",
+    "yax": "Верно, мужчина никогда не нарушит обещания.",
+    "trx": "☯️Верно, мужчина никогда не нарушит обещания."
+  },
+  "medamappe_fukidashi_434": {
+    "src": "Right, a man needs to be strong.",
+    "yax": "Правильно, мужчина должен быть сильным.",
+    "trx": "☯️Правильно, мужчина должен быть сильным."
+  },
+  "medamappe_fukidashi_435": {
+    "src": "Right, a man who can't make decisions is \npitiful.",
+    "yax": "Верно, человек, который не может принимать решения, - это \nжалкий.",
+    "trx": "☯️Верно, человек, который не может принимать решения, - это \nжалкий."
+  },
+  "medamappe_fukidashi_436": {
+    "src": "Right, a big heart means you're confident.",
+    "yax": "Верно, большое сердце означает, что вы уверены в себе.",
+    "trx": "☯️Верно, большое сердце означает, что вы уверены в себе."
+  },
+  "medamappe_fukidashi_437": {
+    "src": "I like you! How about you join my \norganization? I'll pay you 150,000 yen a \nmonth.",
+    "yax": "Ты мне нравишься! Как насчет того, чтобы присоединиться к моему \nорганизация? Я заплачу тебе 150 000 иен в год. \nмесяц.",
+    "trx": "☯️Ты мне нравишься! Как насчет того, чтобы присоединиться к моему \nорганизация? Я заплачу тебе 150 000 иен в год. \nмесяц."
+  },
+  "medamappe_fukidashi_438": {
+    "src": "You can't take money to the afterlife.\nInvest in a cassava farm or something. ",
+    "yax": "Вы не можете взять деньги с собой в загробную жизнь.\nВложите деньги в ферму по выращиванию маниоки или что-то в этом роде. ",
+    "trx": "☯️Вы не можете взять деньги с собой в загробную жизнь.\nВложите деньги в ферму по выращиванию маниоки или что-то в этом роде. "
+  },
+  "medamappe_fukidashi_439": {
+    "src": "Good answer. Live in honor, die in honor.",
+    "yax": "Хороший ответ. Живи с честью, умри с честью.",
+    "trx": "☯️Хороший ответ. Живи с честью, умри с честью."
+  },
+  "medamappe_fukidashi_440": {
+    "src": "Right right right.\nTotally, totally. ",
+    "yax": "Правильно, правильно, правильно.\nПолностью, полностью. ",
+    "trx": "☯️Правильно, правильно, правильно.\nПолностью, полностью. "
+  },
+  "medamappe_fukidashi_441": {
+    "src": "You like listening to the cries of people\non fire? That's tasteless.",
+    "yax": "Тебе нравится слушать крики людей\nв огне? Это безвкусно.",
+    "trx": "☯️Тебе нравится слушать крики людей\nв огне? Это безвкусно."
+  },
+  "medamappe_fukidashi_442": {
+    "src": "Hmph, you like gouging the stomachs of \ncaged mice? That's terrible.",
+    "yax": "Хм, тебе нравится вспарывать животы людям \nмыши в клетке? Это ужасно.",
+    "trx": "☯️Хм, тебе нравится вспарывать животы людям \nмыши в клетке? Это ужасно."
+  },
+  "medamappe_fukidashi_443": {
+    "src": "Hmph, you want to stab bodies with\nneedles? That's old-fashioned.",
+    "yax": "Хм, ты хочешь заколоть тела ножом\nиглы? Это старомодно.",
+    "trx": "☯️Хм, ты хочешь заколоть тела ножом\nиглы? Это старомодно."
+  },
+  "medamappe_fukidashi_444": {
+    "src": "Hmph, that's stupid. \nI've been on it so many times.",
+    "yax": "Хм, это глупо. \nЯ был на этом так много раз.",
+    "trx": "☯️Хм, это глупо. \nЯ был на этом так много раз."
+  },
+  "medamappe_fukidashi_445": {
+    "src": "Did you see that in a tabloid magazine?\nSomething a low-class citizen would like.",
+    "yax": "Вы видели это в бульварном журнале?\nЧто-то, что понравилось бы гражданину низшего класса.",
+    "trx": "☯️Вы видели это в бульварном журнале?\nЧто-то, что понравилось бы гражданину низшего класса."
+  },
+  "medamappe_fukidashi_446": {
+    "src": "Just like me...",
+    "yax": "Совсем как я...",
+    "trx": "☯️Совсем как я..."
+  },
+  "medamappe_fukidashi_447": {
+    "src": "You're a terrible human. \nI hope the devil pulls your tongue out.",
+    "yax": "Ты ужасный человек. \nЯ надеюсь, что дьявол вырвет тебе язык.",
+    "trx": "☯️Ты ужасный человек. \nЯ надеюсь, что дьявол вырвет тебе язык."
+  },
+  "medamappe_fukidashi_448": {
+    "src": "You're lying right now!\nYou liar!",
+    "yax": "Ты лжешь прямо сейчас!\nТы лжец!",
+    "trx": "☯️Ты лжешь прямо сейчас!\nТы лжец!"
+  },
+  "medamappe_fukidashi_449": {
+    "src": "You got good taste.\nI think we can get along.",
+    "yax": "У тебя хороший вкус.\nЯ думаю, мы сможем поладить.",
+    "trx": "☯️У тебя хороший вкус.\nЯ думаю, мы сможем поладить."
+  },
+  "medamappe_fukidashi_450": {
+    "src": "It's special natural monument.\nYou couldn't own one.",
+    "yax": "Это особый памятник природы.\nТы не мог бы владеть им.",
+    "trx": "☯️Это особый памятник природы.\nТы не мог бы владеть им."
+  },
+  "medamappe_fukidashi_451": {
+    "src": "If anyone has one in a pond, I'd like to see it.",
+    "yax": "Если у кого-нибудь есть такой в пруду, я бы хотел на него посмотреть.",
+    "trx": "☯️Если у кого-нибудь есть такой в пруду, я бы хотел на него посмотреть."
+  },
+  "medamappe_fukidashi_452": {
+    "src": "If anyone has one in a pond, I'd like to see it.",
+    "yax": "Если у кого-нибудь есть такой в пруду, я бы хотел на него посмотреть.",
+    "trx": "☯️Если у кого-нибудь есть такой в пруду, я бы хотел на него посмотреть."
+  },
+  "medamappe_fukidashi_453": {
+    "src": "I thought that was best too, but the plan \nfailed.",
+    "yax": "Я тоже думал, что так будет лучше, но план \nпровалившийся.",
+    "trx": "☯️Я тоже думал, что так будет лучше, но план \nпровалившийся."
+  },
+  "medamappe_fukidashi_454": {
+    "src": "People will come naturally, it's not a bad \nidea.",
+    "yax": "Люди придут естественным путем, это не так уж плохо. \nидея.",
+    "trx": "☯️Люди придут естественным путем, это не так уж плохо. \nидея."
+  },
+  "medamappe_fukidashi_455": {
+    "src": "It's a good way of using land, but it's gonna\nbe a sad town.",
+    "yax": "Это хороший способ использования земли, но это будет\nбыть печальным городом.",
+    "trx": "☯️Это хороший способ использования земли, но это будет\nбыть печальным городом."
+  },
+  "medamappe_fukidashi_456": {
+    "src": "Are you an elementary schooler?",
+    "yax": "Вы учитесь в начальной школе?",
+    "trx": "☯️Вы учитесь в начальной школе?"
+  },
+  "medamappe_fukidashi_457": {
+    "src": "Do as you please.\nI'm sure you have your stupid reasons.",
+    "yax": "Делай, что тебе заблагорассудится.\nЯ уверен, что у тебя есть свои дурацкие причины.",
+    "trx": "☯️Делай, что тебе заблагорассудится.\nЯ уверен, что у тебя есть свои дурацкие причины."
+  },
+  "medamappe_fukidashi_458": {
+    "src": "Good decision. \nYou shouldn't get involved with them.",
+    "yax": "Хорошее решение. \nТебе не следует связываться с ними.",
+    "trx": "☯️Хорошее решение. \nТебе не следует связываться с ними."
+  },
+  "medamappe_fukidashi_459": {
+    "src": "That's an ideal answer, but I don't think it's \nrealistic.",
+    "yax": "Это идеальный ответ, но я не думаю, что это \nреалистичный.",
+    "trx": "☯️Это идеальный ответ, но я не думаю, что это \nреалистичный."
+  },
+  "medamappe_fukidashi_460": {
+    "src": "What's the point of doing that?\nYou're just gonna get mixed up in trouble.",
+    "yax": "Какой смысл это делать?\nТы просто влипнешь в неприятности.",
+    "trx": "☯️Какой смысл это делать?\nТы просто влипнешь в неприятности."
+  },
+  "medamappe_fukidashi_461": {
+    "src": "My fault for saying it, but...\nI don't think they say \"party people\" any \nmore.",
+    "yax": "Я виноват, что сказал это, но...\nЯ не думаю, что они говорят \"тусовщики\". \nбольше.",
+    "trx": "☯️Я виноват, что сказал это, но...\nЯ не думаю, что они говорят \"тусовщики\". \nбольше."
+  },
+  "medamappe_fukidashi_462": {
+    "src": "Good, I personally like calm people more.",
+    "yax": "Хорошо, лично мне больше нравятся спокойные люди.",
+    "trx": "☯️Хорошо, лично мне больше нравятся спокойные люди."
+  },
+  "medamappe_fukidashi_463": {
+    "src": "I personally prefer Ce League. ",
+    "yax": "Лично я предпочитаю Се Лигу. ",
+    "trx": "☯️Лично я предпочитаю Се Лигу. "
+  },
+  "medamappe_fukidashi_464": {
+    "src": "So poor... So pitiful.",
+    "yax": "Такой бедный... Такой жалкий.",
+    "trx": "☯️Такой бедный... Такой жалкий."
+  },
+  "medamappe_fukidashi_465": {
+    "src": "Oh, I see... \nTotally big-brother type.",
+    "yax": "о, я понимаю... \nСовершенно в духе старшего брата.",
+    "trx": "☯️о, я понимаю... \nСовершенно в духе старшего брата."
+  },
+  "medamappe_fukidashi_466": {
+    "src": "My ex-ex-ex-boyfriend's thing was like an \nanaconda.",
+    "yax": "Штучка моего бывшего-бывшего-бывшего парня была похожа на \nанаконда.",
+    "trx": "☯️Штучка моего бывшего-бывшего-бывшего парня была похожа на \nанаконда."
+  },
+  "medamappe_fukidashi_467": {
+    "src": "Don't they eat monkeys, goats, boars, deer, \nand humans? That's scary!",
+    "yax": "Разве они не едят обезьян, коз, кабанов, оленей, \nа люди? Это страшно!",
+    "trx": "☯️Разве они не едят обезьян, коз, кабанов, оленей, \nа люди? Это страшно!"
+  },
+  "medamappe_fukidashi_468": {
+    "src": "Let's fly!",
+    "yax": "Давайте полетим!",
+    "trx": "☯️Давайте полетим!"
+  },
+  "medamappe_fukidashi_469": {
+    "src": "I wanna go to Macau.\nTake me sometime. ",
+    "yax": "Я хочу поехать в Макао.\nВозьми меня с собой как-нибудь. ",
+    "trx": "☯️Я хочу поехать в Макао.\nВозьми меня с собой как-нибудь. "
+  },
+  "medamappe_fukidashi_470": {
+    "src": "The first turn in the first lap usually decides \nthe winner.",
+    "yax": "Первый поворот на первом круге обычно решает \nпобедитель.",
+    "trx": "☯️Первый поворот на первом круге обычно решает \nпобедитель."
+  },
+  "medamappe_fukidashi_471": {
+    "src": "Bike racer thighs are crazy, aren't they?\nThey almost look tasty.",
+    "yax": "Бедра велогонщика - это безумие, не так ли?\nОни выглядят почти аппетитно.",
+    "trx": "☯️Бедра велогонщика - это безумие, не так ли?\nОни выглядят почти аппетитно."
+  },
+  "medamappe_fukidashi_472": {
+    "src": "I like riding more than watching.\nI like riding horses.",
+    "yax": "Мне больше нравится кататься верхом, чем смотреть.\nЯ люблю кататься на лошадях.",
+    "trx": "☯️Мне больше нравится кататься верхом, чем смотреть.\nЯ люблю кататься на лошадях."
+  },
+  "medamappe_fukidashi_473": {
+    "src": "It's boiled!",
+    "yax": "Он вареный!",
+    "trx": "☯️Он вареный!"
+  },
+  "medamappe_fukidashi_474": {
+    "src": "Happy!",
+    "yax": "Счастлив!",
+    "trx": "☯️Счастлив!"
+  },
+  "medamappe_fukidashi_475": {
+    "src": "These are just disgusting...",
+    "yax": "Это просто отвратительно...",
+    "trx": "☯️Это просто отвратительно..."
+  },
+  "medamappe_fukidashi_476": {
+    "src": "It looks like a turtle head...\nIt reminds me of something...",
+    "yax": "Это похоже на черепашью голову...\nЭто мне кое-что напоминает...",
+    "trx": "☯️Это похоже на черепашью голову...\nЭто мне кое-что напоминает..."
+  },
+  "medamappe_fukidashi_477": {
+    "src": "I like the law…because life is about\nfighting it.",
+    "yax": "Мне нравится закон... потому что жизнь - это\nборюсь с этим.",
+    "trx": "☯️Мне нравится закон... потому что жизнь - это\nборюсь с этим."
+  },
+  "medamappe_fukidashi_478": {
+    "src": "Hyper people look like that.",
+    "yax": "Гиперактивные люди выглядят именно так.",
+    "trx": "☯️Гиперактивные люди выглядят именно так."
+  },
+  "medamappe_fukidashi_479": {
+    "src": "They say that 80% of profits are made by\n20% of the staff...",
+    "yax": "Они говорят, что 80% прибыли получают\n20% персонала...",
+    "trx": "☯️Они говорят, что 80% прибыли получают\n20% персонала..."
+  },
+  "medamappe_fukidashi_480": {
+    "src": "When you drop toast with butter on it, the \nbutter side always lands face-down.",
+    "yax": "Когда вы намазываете тост маслом, то \nсторона с маслом всегда ложится лицевой стороной вниз.",
+    "trx": "☯️Когда вы намазываете тост маслом, то \nсторона с маслом всегда ложится лицевой стороной вниз."
+  },
+  "medamappe_fukidashi_481": {
+    "src": "That's impossible! That can't be! \nWhat's so good about Thymine?!",
+    "yax": "Это невозможно! Этого не может быть! \nЧто такого хорошего в Тимине?!",
+    "trx": "☯️Это невозможно! Этого не может быть! \nЧто такого хорошего в Тимине?!"
+  },
+  "medamappe_fukidashi_482": {
+    "src": "You must be joking! I never anyone who likes \nGuanine.",
+    "yax": "Ты, должно быть, шутишь! Я никогда никому не нравлюсь \nГуанин.",
+    "trx": "☯️Ты, должно быть, шутишь! Я никогда никому не нравлюсь \nГуанин."
+  },
+  "medamappe_fukidashi_483": {
+    "src": "You have good taste. \nWant to go eat sometime?",
+    "yax": "У тебя хороший вкус. \nХочешь как-нибудь сходить поесть?",
+    "trx": "☯️У тебя хороший вкус. \nХочешь как-нибудь сходить поесть?"
+  },
+  "medamappe_fukidashi_484": {
+    "src": "Are you playing with me? I don't understand \nhow you can like Cytosine.",
+    "yax": "Ты что, играешь со мной? Я не понимаю \nкак вам может нравиться Цитозин.",
+    "trx": "☯️Ты что, играешь со мной? Я не понимаю \nкак вам может нравиться Цитозин."
+  },
+  "medamappe_fukidashi_485": {
+    "src": "It's Koshi in Japanese. Sometimes I want to \nread it as Mitsuko. ",
+    "yax": "По-японски это Коси. Иногда мне хочется \nпрочитай это как Мицуко. ",
+    "trx": "☯️По-японски это Коси. Иногда мне хочется \nпрочитай это как Мицуко. "
+  },
+  "medamappe_fukidashi_486": {
+    "src": "Why do you like Weak Boson? \nYou're just randomly answering now.",
+    "yax": "Почему вам нравится Слабый Бозон? \nСейчас ты просто отвечаешь наугад.",
+    "trx": "☯️Почему вам нравится Слабый Бозон? \nСейчас ты просто отвечаешь наугад."
+  },
+  "medamappe_fukidashi_487": {
+    "src": "I'm skeptical of the existence of gravitons...\nI can explain it without it.",
+    "yax": "Я скептически отношусь к существованию гравитонов...\nЯ могу объяснить это и без этого.",
+    "trx": "☯️Я скептически отношусь к существованию гравитонов...\nЯ могу объяснить это и без этого."
+  },
+  "medamappe_fukidashi_488": {
+    "src": "Isn't it nice…? It's like me, who connects two \npeople with differing personalities.",
+    "yax": "Разве это не мило?.. Это как я, который соединяет два \nлюди с разными характерами.",
+    "trx": "☯️Разве это не мило?.. Это как я, который соединяет два \nлюди с разными характерами."
+  },
+  "medamappe_fukidashi_489": {
+    "src": "Me too. I think I like all-out-attack characters.",
+    "yax": "Я тоже. Я думаю, что мне нравятся персонажи, готовые к тотальной атаке.",
+    "trx": "☯️Я тоже. Я думаю, что мне нравятся персонажи, готовые к тотальной атаке."
+  },
+  "medamappe_fukidashi_490": {
+    "src": "That's not bad.",
+    "yax": "Это неплохо.",
+    "trx": "☯️Это неплохо."
+  },
+  "medamappe_fukidashi_491": {
+    "src": "I don't think I like it.",
+    "yax": "Я не думаю, что мне это нравится.",
+    "trx": "☯️Я не думаю, что мне это нравится."
+  },
+  "medamappe_fukidashi_492": {
+    "src": "Yeah...",
+    "yax": "Да...",
+    "trx": "☯️Да..."
+  },
+  "medamappe_fukidashi_493": {
+    "src": "Come to Shinjuku. Golden Yokocho...\nI'll be waiting!",
+    "yax": "Приезжай в Синдзюку. Золотой Йокочо...\nЯ буду ждать!",
+    "trx": "☯️Приезжай в Синдзюку. Золотой Йокочо...\nЯ буду ждать!"
+  },
+  "medamappe_fukidashi_494": {
+    "src": "Are you rich...?\nCome to Marble!",
+    "yax": "Ты богат? ..\nПриходите в Marble!",
+    "trx": "☯️Ты богат? ..\nПриходите в Marble!"
+  },
+  "medamappe_fukidashi_495": {
+    "src": "I'll go too. \nWe might see each other sometime. ",
+    "yax": "Я тоже пойду. \nВозможно, мы когда-нибудь увидимся. ",
+    "trx": "☯️Я тоже пойду. \nВозможно, мы когда-нибудь увидимся. "
+  },
+  "medamappe_fukidashi_496": {
+    "src": "A stereotypical salary man.\nThere are tons of good stores, I guess...",
+    "yax": "Стереотипный человек с зарплатой.\nЯ думаю, есть куча хороших магазинов...",
+    "trx": "☯️Стереотипный человек с зарплатой.\nЯ думаю, есть куча хороших магазинов..."
+  },
+  "medamappe_fukidashi_497": {
+    "src": "How does that scarecrow talk without a \nbrain?",
+    "yax": "Как это пугало может говорить без \nмозг?",
+    "trx": "☯️Как это пугало может говорить без \nмозг?"
+  },
+  "medamappe_fukidashi_498": {
+    "src": "I want a heart... But doesn't feeling like that \nmean you have a heart?",
+    "yax": "Я хочу сердце... Но разве это не похоже на то, что \nзначит, у тебя есть сердце?",
+    "trx": "☯️Я хочу сердце... Но разве это не похоже на то, что \nзначит, у тебя есть сердце?"
+  },
+  "medamappe_fukidashi_499": {
+    "src": "A liar who tricks a girl into killing someone...",
+    "yax": "Лжец, который обманом заставил девушку кого-то убить...",
+    "trx": "☯️Лжец, который обманом заставил девушку кого-то убить..."
+  },
+  "medamappe_fukidashi_500": {
+    "src": "Don't you think they're courageous already, \ngoing on a mission with a talking scarecrow \nand a tin man?",
+    "yax": "Тебе не кажется, что они уже смелые, \nотправляешься на задание с говорящим пугалом \nи железный дровосек?",
+    "trx": "☯️Тебе не кажется, что они уже смелые, \nотправляешься на задание с говорящим пугалом \nи железный дровосек?"
+  },
+  "medamappe_fukidashi_501": {
+    "src": "Can you answer more questions so I can \nbecome an Adult-ie?!",
+    "yax": "Можете ли вы ответить на другие вопросы, чтобы я мог \nстать взрослым-то есть?!",
+    "trx": "Ответите на новые вопросы, чтобы я смог \nстать взрослым?!"
+  },
+  "medamappe_fukidashi_502": {
+    "src": "I became a Child-ie! Tell me more-ie!",
+    "yax": "Я стал Ребенком-то есть! Расскажи мне больше-то есть!",
+    "trx": "Я стал ребенком! Расскажите мне больше!"
+  },
+  "medamappe_fukidashi_503": {
+    "src": "I became an Adult-ie!\nThanks for talking to me so much-ie!",
+    "yax": "Я стал Взрослым - то есть!\nСпасибо, что так много говорили со мной -то есть!",
+    "trx": "Я стал взрослым!\nСпасибо, что столько разговаривали со мной!"
+  },
+  "medamappe_fukidashi_504": {
+    "src": "Time to say goodbye-ie!\nI'll see you in another timeline!\nBye-bye!",
+    "yax": "Время попрощаться-то есть!\nУвидимся в другой временной шкале!\nПока-пока!",
+    "trx": "Время попрощаться!\nУвидимся в другой временной линии!\nПока-пока!"
+  },
+  "medamappe_fukidashi_505": {
+    "src": "Thinking of next question...\nWill wait [time]",
+    "yax": "Обдумываю следующий вопрос...\nБудет ждать [время]",
+    "trx": "Обдумываю следующий вопрос...\nПодождите [time]"
+  },
+  "medamappe_fukidashi_506": {
+    "src": "Minute(s)",
+    "yax": "Минута(ы)",
+    "trx": "мин"
+  },
+  "medamappe_fukidashi_507": {
+    "src": "Second(s)",
+    "yax": "Второй(и)",
+    "trx": "сек"
+  },
+  "medamappe_fukidashi_508": {
+    "src": "No-ie!\nI'm not close to done asking the questions-ie!\n",
+    "yax": "Нет-нет!\nЯ еще не закончил задавать вопросы - то есть!",
+    "trx": "Нет!\nЯ еще не закончил задавать вопросы!"
+  },
+  "medamappe_fukidashi_509": {
+    "src": "I'm curious about everyone else's answer, so\nI will go on a journey to the other\nworld line-ie!",
+    "yax": "Мне любопытен ответ всех остальных, так что\nЯ отправлюсь в путешествие к другому\nмировая линия-ie!",
+    "trx": "Мне любопытно, как отвечали другие, так что\nя отправляюсь в путешествие в другую\nвременную линию!"
+  },
+  "medamappe_fukidashi_510": {
+    "src": "I'll be going now!",
+    "yax": "Я сейчас пойду!",
+    "trx": "Я ухожу!"
+  },
+  "medamappe_selection_001": {
+    "src": "Pretty",
+    "yax": "Хорошенький",
+    "trx": "Хорошенькие"
+  },
+  "medamappe_selection_002": {
+    "src": "Scary",
+    "yax": "Жуткий",
+    "trx": "Жуткие"
+  },
+  "medamappe_selection_003": {
+    "src": "Tasty",
+    "yax": "Вкусный",
+    "trx": "Вкусные"
+  },
+  "medamappe_selection_004": {
+    "src": "Round",
+    "yax": "Круглый",
+    "trx": "Круглые"
+  },
+  "medamappe_selection_005": {
+    "src": "Amazing",
+    "yax": "Удивительный",
+    "trx": "Удивительно"
+  },
+  "medamappe_selection_006": {
+    "src": "Scary",
+    "yax": "Жуткий",
+    "trx": "Жутко"
+  },
+  "medamappe_selection_007": {
+    "src": "Useful",
+    "yax": "Полезный",
+    "trx": "Полезно"
+  },
+  "medamappe_selection_008": {
+    "src": "Difficult",
+    "yax": "Трудный",
+    "trx": "Сложно"
+  },
+  "medamappe_selection_009": {
+    "src": "Tasty",
+    "yax": "Вкусный",
+    "trx": "Вкусные"
+  },
+  "medamappe_selection_010": {
+    "src": "Hard to eat",
+    "yax": "Трудно есть",
+    "trx": "Их сложно есть"
+  },
+  "medamappe_selection_011": {
+    "src": "Hard",
+    "yax": "Трудный",
+    "trx": "Жесткие"
+  },
+  "medamappe_selection_012": {
+    "src": "Red",
+    "yax": "Красный",
+    "trx": "Красные"
+  },
+  "medamappe_selection_013": {
+    "src": "Like",
+    "yax": "Нравится",
+    "trx": "Нравятся"
+  },
+  "medamappe_selection_014": {
+    "src": "Dislike",
+    "yax": "Неприязнь",
+    "trx": "Не нравятся"
+  },
+  "medamappe_selection_015": {
+    "src": "Tasty",
+    "yax": "Вкусный",
+    "trx": "Вкусные"
+  },
+  "medamappe_selection_016": {
+    "src": "Neither",
+    "yax": "Ни",
+    "trx": "Я к ним нейтрален"
+  },
+  "medamappe_selection_017": {
+    "src": "Happy",
+    "yax": "Счастливый",
+    "trx": "Счастливо"
+  },
+  "medamappe_selection_018": {
+    "src": "Sad",
+    "yax": "Печальный",
+    "trx": "Печально"
+  },
+  "medamappe_selection_019": {
+    "src": "Popping",
+    "yax": "Всплывающий",
+    "trx": "Нервно"
+  },
+  "medamappe_selection_020": {
+    "src": "Don't feel anything",
+    "yax": "Ничего не чувствую",
+    "trx": "Ничего не чувствую"
+  },
+  "medamappe_selection_021": {
+    "src": "Metaphorical Tsukkomi",
+    "yax": "Метафорический Цуккоми",
+    "trx": "Метафорический цуккоми" //spell-ignore-line
+  },
+  "medamappe_selection_022": {
+    "src": "That doesn't exist",
+    "yax": "Этого не существует",
+    "trx": "Его не существует"
+  },
+  "medamappe_selection_023": {
+    "src": "Playing along Tsukkomi",
+    "yax": "Подыгрывая Цуккоми",
+    "trx": "Подыгрывающий цуккоми" //spell-ignore-line
+  },
+  "medamappe_selection_024": {
+    "src": "Simple Tsukkomi",
+    "yax": "Простой Цуккоми",
+    "trx": "Простой цуккоми" //spell-ignore-line
+  },
+  "medamappe_selection_025": {
+    "src": "60%",
+    "yax": "60%",
+    "trx": "60%"
+  },
+  "medamappe_selection_026": {
+    "src": "0%",
+    "yax": "0%",
+    "trx": "0%"
+  },
+  "medamappe_selection_027": {
+    "src": "100%",
+    "yax": "100%",
+    "trx": "100%"
+  },
+  "medamappe_selection_028": {
+    "src": "30%",
+    "yax": "30%",
+    "trx": "30%"
+  },
+  "medamappe_selection_029": {
+    "src": "Up",
+    "yax": "Вверх",
+    "trx": "Вверх"
+  },
+  "medamappe_selection_030": {
+    "src": "Down",
+    "yax": "Вниз",
+    "trx": "Вниз"
+  },
+  "medamappe_selection_031": {
+    "src": "Left",
+    "yax": "Слева",
+    "trx": "Влево"
+  },
+  "medamappe_selection_032": {
+    "src": "Right",
+    "yax": "Правильно",
+    "trx": "Вправо"
+  },
+  "medamappe_selection_033": {
+    "src": "Salty",
+    "yax": "Соленый",
+    "trx": "Соленую"
+  },
+  "medamappe_selection_034": {
+    "src": "Bitter",
+    "yax": "Горький",
+    "trx": "Горькую"
+  },
+  "medamappe_selection_035": {
+    "src": "Spicy",
+    "yax": "Острый",
+    "trx": "Острую"
+  },
+  "medamappe_selection_036": {
+    "src": "Sweet",
+    "yax": "Сладкий",
+    "trx": "Сладкую"
+  },
+  "medamappe_selection_037": {
+    "src": "Accept",
+    "yax": "Принимать",
+    "trx": "Соглашусь"
+  },
+  "medamappe_selection_038": {
+    "src": "Complain",
+    "yax": "Жаловаться",
+    "trx": "Буду жаловаться"
+  },
+  "medamappe_selection_039": {
+    "src": "Run",
+    "yax": "Бежать",
+    "trx": "Убегу"
+  },
+  "medamappe_selection_040": {
+    "src": "Play off",
+    "yax": "Плей-офф",
+    "trx": "Подыграю"
+  },
+  "medamappe_selection_041": {
+    "src": "6",
+    "yax": "6",
+    "trx": "6"
+  },
+  "medamappe_selection_042": {
+    "src": "3",
+    "yax": "3",
+    "trx": "3"
+  },
+  "medamappe_selection_043": {
+    "src": "0",
+    "yax": "0",
+    "trx": "0"
+  },
+  "medamappe_selection_044": {
+    "src": "2",
+    "yax": "2",
+    "trx": "2"
+  },
+  "medamappe_selection_045": {
+    "src": "Supercharger",
+    "yax": "Нагнетатель",
+    "trx": "Нагнетателем"
+  },
+  "medamappe_selection_046": {
+    "src": "NA",
+    "yax": "na",
+    "trx": "Естественным наддувом"
+  },
+  "medamappe_selection_047": {
+    "src": "Turbocharger",
+    "yax": "Турбонагнетатель",
+    "trx": "Турбонагнетателем" //spell-ignore-line
+  },
+  "medamappe_selection_048": {
+    "src": "What are you talking about?",
+    "yax": "О чем ты говоришь?",
+    "trx": "О чем это ты?"
+  },
+  "medamappe_selection_049": {
+    "src": "Something needs to be done",
+    "yax": "Нужно что-то делать",
+    "trx": "Нужно кое-что сделать"
+  },
+  "medamappe_selection_050": {
+    "src": "It's pointless",
+    "yax": "Это бессмысленно",
+    "trx": "Это бессмысленно"
+  },
+  "medamappe_selection_051": {
+    "src": "Thinking about that is life",
+    "yax": "Размышления об этом и есть жизнь",
+    "trx": "Чтобы размышлять об этом"
+  },
+  "medamappe_selection_052": {
+    "src": "Shut up",
+    "yax": "Заткнись",
+    "trx": "Заткнись"
+  },
+  "medamappe_selection_053": {
+    "src": "Friends",
+    "yax": "Друзья",
+    "trx": "Друзей"
+  },
+  "medamappe_selection_054": {
+    "src": "5 quadrillion yen",
+    "yax": "5 квадриллионов иен",
+    "trx": "5 квадриллионов иен"
+  },
+  "medamappe_selection_055": {
+    "src": "Super power",
+    "yax": "Сверхдержава",
+    "trx": "Суперсилу" //spell-ignore-line
+  },
+  "medamappe_selection_056": {
+    "src": "Nothing needs to be done",
+    "yax": "Ничего не нужно делать",
+    "trx": "Ничего не нужно"
+  },
+  "medamappe_selection_057": {
+    "src": "Sunny day",
+    "yax": "Солнечный день",
+    "trx": "Солнечный день"
+  },
+  "medamappe_selection_058": {
+    "src": "Rainy day",
+    "yax": "Дождливый день",
+    "trx": "Дождливый день"
+  },
+  "medamappe_selection_059": {
+    "src": "Snowy day",
+    "yax": "Снежный день",
+    "trx": "Снежный день"
+  },
+  "medamappe_selection_060": {
+    "src": "Windy day",
+    "yax": "Ветреный день",
+    "trx": "Ветреный день"
+  },
+  "medamappe_selection_061": {
+    "src": "Name of horse",
+    "yax": "Имя лошади",
+    "trx": "Имя лошади"
+  },
+  "medamappe_selection_062": {
+    "src": "Hostess club name",
+    "yax": "Название клуба хостесс",
+    "trx": "Название хостес-клуба"
+  },
+  "medamappe_selection_063": {
+    "src": "Name of special skill",
+    "yax": "Название специального навыка",
+    "trx": "Название особой способности"
+  },
+  "medamappe_selection_064": {
+    "src": "Movie title",
+    "yax": "Название фильма",
+    "trx": "Название фильма"
+  },
+  "medamappe_selection_065": {
+    "src": "Bharatanatyam",
+    "yax": "Бхаратанатьям",
+    "trx": "Бхаратнатьям" //spell-ignore-line
+  },
+  "medamappe_selection_066": {
+    "src": "Kathakali",
+    "yax": "Катхакали",
+    "trx": "Катхакали" //spell-ignore-line
+  },
+  "medamappe_selection_067": {
+    "src": "Kathak",
+    "yax": "Катхак",
+    "trx": "Катхак" //spell-ignore-line
+  },
+  "medamappe_selection_068": {
+    "src": "Manipuri",
+    "yax": "Манипури",
+    "trx": "Манипури" //spell-ignore-line
+  },
+  "medamappe_selection_069": {
+    "src": "Industrial",
+    "yax": "Промышленный",
+    "trx": "Индустриальная"
+  },
+  "medamappe_selection_070": {
+    "src": "Death Metal",
+    "yax": "Дэт-метал",
+    "trx": "Дэт-метал" //spell-ignore-line
+  },
+  "medamappe_selection_071": {
+    "src": "Symphonic",
+    "yax": "Симфонический",
+    "trx": "☯️Симфоническая"
+  },
+  "medamappe_selection_072": {
+    "src": "Grindcore",
+    "yax": "Грайндкор",
+    "trx": "Грайндкор" //spell-ignore-line
+  },
+  "medamappe_selection_073": {
+    "src": "Crystal Skull",
+    "yax": "Хрустальный Череп",
+    "trx": "Хрустальный Череп"
+  },
+  "medamappe_selection_074": {
+    "src": "Costa Rica Sone Ball",
+    "yax": "Коста-Рика Соне Болл",
+    "trx": "Каменные шары Коста-Рики"
+  },
+  "medamappe_selection_075": {
+    "src": "Pyramid Eye Tablet",
+    "yax": "Пирамидальная Глазная таблетка",
+    "trx": null
+  },
+  "medamappe_selection_076": {
+    "src": "Mechanismós ton Antikythíron",
+    "yax": "Механизм - тонный Антикитирон",
+    "trx": null
+  },
+  "medamappe_selection_077": {
+    "src": "200m dash",
+    "yax": "200-метровый рывок",
+    "trx": "Забег на 200м"
+  },
+  "medamappe_selection_078": {
+    "src": "100m dash",
+    "yax": "100-метровый рывок",
+    "trx": "Забег на 100м"
+  },
+  "medamappe_selection_079": {
+    "src": "800m dash",
+    "yax": "рывок на 800 м",
+    "trx": "Забег на 800м"
+  },
+  "medamappe_selection_080": {
+    "src": "400m dash",
+    "yax": "рывок на 400 м",
+    "trx": "Забег на 400м"
+  },
+  "medamappe_selection_081": {
+    "src": "It exists",
+    "yax": "Он существует",
+    "trx": "Он существует"
+  },
+  "medamappe_selection_082": {
+    "src": "It doesn't exist",
+    "yax": "Его не существует",
+    "trx": "Его не существует"
+  },
+  "medamappe_selection_083": {
+    "src": "I'm Santa",
+    "yax": "Я Санта",
+    "trx": "Санта — это я"
+  },
+  "medamappe_selection_084": {
+    "src": "You become Santa",
+    "yax": "Ты становишься Сантой",
+    "trx": "Ты будешь Сантой" //spell-ignore-line
+  },
+  "medamappe_selection_085": {
+    "src": "Bigfoot",
+    "yax": "Снежный человек",
+    "trx": "Снежный человек"
+  },
+  "medamappe_selection_086": {
+    "src": "Chupacabra",
+    "yax": "Чупакабра",
+    "trx": "Чупакабра" //spell-ignore-line
+  },
+  "medamappe_selection_087": {
+    "src": "Mothman",
+    "yax": "Человек-мотылек",
+    "trx": "Человек-мотылек"
+  },
+  "medamappe_selection_088": {
+    "src": "Loch Ness Monster",
+    "yax": "Лох-Несское чудовище",
+    "trx": "Лох-Несское чудовище" //spell-ignore-line
+  },
+  "medamappe_selection_089": {
+    "src": "Poltergeist",
+    "yax": "Полтергейст",
+    "trx": "Полтергейст"
+  },
+  "medamappe_selection_090": {
+    "src": "Rapping sound",
+    "yax": "Стучащий звук",
+    "trx": "Стучащий звук"
+  },
+  "medamappe_selection_091": {
+    "src": "Ectoplasm",
+    "yax": "Эктоплазма",
+    "trx": "Эктоплазму"
+  },
+  "medamappe_selection_092": {
+    "src": "Near-death experience",
+    "yax": "Предсмертный опыт",
+    "trx": "Предсмертный опыт"
+  },
+  "medamappe_selection_093": {
+    "src": "Telepathy",
+    "yax": "Телепатия",
+    "trx": "Телепатия"
+  },
+  "medamappe_selection_094": {
+    "src": "Future-sight",
+    "yax": "Взгляд в будущее",
+    "trx": "Взгляд в будущее"
+  },
+  "medamappe_selection_095": {
+    "src": "Time control",
+    "yax": "Контроль времени",
+    "trx": "Контроль времени"
+  },
+  "medamappe_selection_096": {
+    "src": "X-ray vision",
+    "yax": "Рентгеновское зрение",
+    "trx": "Рентгеновское зрение"
+  },
+  "medamappe_selection_097": {
+    "src": "Believe",
+    "yax": "Верить",
+    "trx": "Верю"
+  },
+  "medamappe_selection_098": {
+    "src": "Not really",
+    "yax": "Не совсем",
+    "trx": "Не совсем"
+  },
+  "medamappe_selection_099": {
+    "src": "You're going to hell",
+    "yax": "Ты попадешь в ад",
+    "trx": "Ты попадешь в ад"
+  },
+  "medamappe_selection_100": {
+    "src": "It can be right or wrong",
+    "yax": "Это может быть правильно или неправильно",
+    "trx": "Оно может говорить правду и неправду"
+  },
+  "medamappe_selection_101": {
+    "src": "Wave",
+    "yax": "Волна",
+    "trx": "Помахать"
+  },
+  "medamappe_selection_102": {
+    "src": "Hide",
+    "yax": "Скрыть",
+    "trx": "Спрятаться"
+  },
+  "medamappe_selection_103": {
+    "src": "Get on",
+    "yax": "Ладить",
+    "trx": "Забраться внутрь"
+  },
+  "medamappe_selection_104": {
+    "src": "Hide thumb",
+    "yax": "Скрыть большой палец",
+    "trx": "Спрятать большой палец"
+  },
+  "medamappe_selection_105": {
+    "src": "Hit epigastrium",
+    "yax": "Попадание в эпигастрий",
+    "trx": "Ударить в эпигастрий" //spell-ignore-line
+  },
+  "medamappe_selection_106": {
+    "src": "Hit temple",
+    "yax": "Удар в висок",
+    "trx": "Ударить в висок"
+  },
+  "medamappe_selection_107": {
+    "src": "Crush throat",
+    "yax": "Раздавить горло",
+    "trx": "Сжать горло"
+  },
+  "medamappe_selection_108": {
+    "src": "Kick chin",
+    "yax": "Удар в подбородок",
+    "trx": "Ударить в подбородок"
+  },
+  "medamappe_selection_109": {
+    "src": "Mochi",
+    "yax": "Моти",
+    "trx": "☯️Моти"
+  },
+  "medamappe_selection_110": {
+    "src": "Ebi",
+    "yax": "Ebi",
+    "trx": "☯️Ebi"
+  },
+  "medamappe_selection_111": {
+    "src": "Pepperoncino",
+    "yax": "Пепперончино",
+    "trx": "☯️Пепперончино"
+  },
+  "medamappe_selection_112": {
+    "src": "Cheese",
+    "yax": "Сыр",
+    "trx": "☯️Сыр"
+  },
+  "medamappe_selection_113": {
+    "src": "Extra hard",
+    "yax": "Очень жесткий",
+    "trx": "☯️Очень жесткий"
+  },
+  "medamappe_selection_114": {
+    "src": "Soft-ish",
+    "yax": "Мягкий-иш",
+    "trx": "☯️Мягкий-иш"
+  },
+  "medamappe_selection_115": {
+    "src": "Steamed",
+    "yax": "Пропаренный",
+    "trx": "☯️Пропаренный"
+  },
+  "medamappe_selection_116": {
+    "src": "Normal",
+    "yax": "Обычный",
+    "trx": "☯️Обычный"
+  },
+  "medamappe_selection_117": {
+    "src": "Straight Lead",
+    "yax": "Прямой Вывод",
+    "trx": "☯️Прямой Вывод"
+  },
+  "medamappe_selection_118": {
+    "src": "Finger Jab",
+    "yax": "Удар пальцем",
+    "trx": "☯️Удар пальцем"
+  },
+  "medamappe_selection_119": {
+    "src": "Summersault Kick",
+    "yax": "Удар в сальто",
+    "trx": "☯️Удар в сальто"
+  },
+  "medamappe_selection_120": {
+    "src": "Schmidt-style Back Breaker",
+    "yax": "Задний выключатель в стиле Шмидта",
+    "trx": "☯️Задний выключатель в стиле Шмидта"
+  },
+  "medamappe_selection_121": {
+    "src": "Bench-press",
+    "yax": "Жим лежа",
+    "trx": "☯️Жим лежа"
+  },
+  "medamappe_selection_122": {
+    "src": "Upright Row",
+    "yax": "Вертикальный Ряд",
+    "trx": "☯️Вертикальный Ряд"
+  },
+  "medamappe_selection_123": {
+    "src": "Back-press",
+    "yax": "Обратный пресс",
+    "trx": "☯️Обратный пресс"
+  },
+  "medamappe_selection_124": {
+    "src": "Deadlift",
+    "yax": "Становая тяга",
+    "trx": "☯️Становая тяга"
+  },
+  "medamappe_selection_125": {
+    "src": "Lightweight",
+    "yax": "Легкий",
+    "trx": "☯️Легкий"
+  },
+  "medamappe_selection_126": {
+    "src": "Strawweight",
+    "yax": "Соломенный вес",
+    "trx": "☯️Соломенный вес"
+  },
+  "medamappe_selection_127": {
+    "src": "Heavyweight",
+    "yax": "Тяжеловес",
+    "trx": "☯️Тяжеловес"
+  },
+  "medamappe_selection_128": {
+    "src": "Bantamweight",
+    "yax": "Легчайший вес",
+    "trx": "☯️Легчайший вес"
+  },
+  "medamappe_selection_129": {
+    "src": "Seoi nage",
+    "yax": "Сеой наге",
+    "trx": "☯️Сеой наге"
+  },
+  "medamappe_selection_130": {
+    "src": "Yoko shiho gatame",
+    "yax": "Йоко шихо гатаме",
+    "trx": "☯️Йоко шихо гатаме"
+  },
+  "medamappe_selection_131": {
+    "src": "Tomoe nage",
+    "yax": "Томоэ наге",
+    "trx": "☯️Томоэ наге"
+  },
+  "medamappe_selection_132": {
+    "src": "Osotogari",
+    "yax": "Осотогари",
+    "trx": "☯️Осотогари"
+  },
+  "medamappe_selection_133": {
+    "src": "Grilled eel",
+    "yax": "Угорь на гриле",
+    "trx": "☯️Угорь на гриле"
+  },
+  "medamappe_selection_134": {
+    "src": "Eel liver soup",
+    "yax": "Суп из печени угря",
+    "trx": "☯️Суп из печени угря"
+  },
+  "medamappe_selection_135": {
+    "src": "Eel hitsumabushi",
+    "yax": "Угорь хитсумабуши",
+    "trx": "☯️Угорь хитсумабуши"
+  },
+  "medamappe_selection_136": {
+    "src": "Eel sushi",
+    "yax": "Суши с угрем",
+    "trx": "☯️Суши с угрем"
+  },
+  "medamappe_selection_137": {
+    "src": "Muay Thai",
+    "yax": "Муай Тай",
+    "trx": "☯️Муай Тай"
+  },
+  "medamappe_selection_138": {
+    "src": "Systema",
+    "yax": "Система",
+    "trx": "☯️Система"
+  },
+  "medamappe_selection_139": {
+    "src": "Capoeira",
+    "yax": "Капоэйра",
+    "trx": "☯️Капоэйра"
+  },
+  "medamappe_selection_140": {
+    "src": "Brazilian Jiujitsu",
+    "yax": "Бразильское джиу-джитсу",
+    "trx": "☯️Бразильское джиу-джитсу"
+  },
+  "medamappe_selection_141": {
+    "src": "Aerial Yoga",
+    "yax": "Воздушная йога",
+    "trx": "☯️Воздушная йога"
+  },
+  "medamappe_selection_142": {
+    "src": "Iyengar Yoga",
+    "yax": "Йога Айенгара",
+    "trx": "☯️Йога Айенгара"
+  },
+  "medamappe_selection_143": {
+    "src": "Field Yoga",
+    "yax": "Полевая йога",
+    "trx": "☯️Полевая йога"
+  },
+  "medamappe_selection_144": {
+    "src": "Hot Yoga",
+    "yax": "Горячая Йога",
+    "trx": "☯️Горячая Йога"
+  },
+  "medamappe_selection_145": {
+    "src": "Graveyard",
+    "yax": "Кладбище",
+    "trx": "☯️Кладбище"
+  },
+  "medamappe_selection_146": {
+    "src": "Ruins",
+    "yax": "Руины",
+    "trx": "☯️Руины"
+  },
+  "medamappe_selection_147": {
+    "src": "Old battlefield",
+    "yax": "Старое поле битвы",
+    "trx": "☯️Старое поле битвы"
+  },
+  "medamappe_selection_148": {
+    "src": "Mountains",
+    "yax": "Горы",
+    "trx": "☯️Горы"
+  },
+  "medamappe_selection_149": {
+    "src": "Tuna",
+    "yax": "Тунец",
+    "trx": "☯️Тунец"
+  },
+  "medamappe_selection_150": {
+    "src": "Hairtail",
+    "yax": "Хвостик для волос",
+    "trx": "☯️Хвостик для волос"
+  },
+  "medamappe_selection_151": {
+    "src": "Fugu",
+    "yax": "Фугу",
+    "trx": "☯️Фугу"
+  },
+  "medamappe_selection_152": {
+    "src": "Salmon",
+    "yax": "Лосось",
+    "trx": "☯️Лосось"
+  },
+  "medamappe_selection_153": {
+    "src": "Pickled",
+    "yax": "Маринованный",
+    "trx": "☯️Маринованный"
+  },
+  "medamappe_selection_154": {
+    "src": "With peanuts",
+    "yax": "С арахисом",
+    "trx": "☯️С арахисом"
+  },
+  "medamappe_selection_155": {
+    "src": "Miso soup",
+    "yax": "Мисо-суп",
+    "trx": "☯️Мисо-суп"
+  },
+  "medamappe_selection_156": {
+    "src": "Chinese salad",
+    "yax": "Китайский салат",
+    "trx": "☯️Китайский салат"
+  },
+  "medamappe_selection_157": {
+    "src": "Dance",
+    "yax": "Танец",
+    "trx": "☯️Танец"
+  },
+  "medamappe_selection_158": {
+    "src": "Look at sky",
+    "yax": "Посмотри на небо",
+    "trx": "☯️Посмотри на небо"
+  },
+  "medamappe_selection_159": {
+    "src": "Nile",
+    "yax": "Нил",
+    "trx": "☯️Нил"
+  },
+  "medamappe_selection_160": {
+    "src": "Meditate",
+    "yax": "Медитируйте",
+    "trx": "☯️Медитируйте"
+  },
+  "medamappe_selection_161": {
+    "src": "Pull out",
+    "yax": "Вытаскивать",
+    "trx": "☯️Вытаскивать"
+  },
+  "medamappe_selection_162": {
+    "src": "Poison",
+    "yax": "Яд",
+    "trx": "☯️Яд"
+  },
+  "medamappe_selection_163": {
+    "src": "Drink",
+    "yax": "Пить",
+    "trx": "☯️Пить"
+  },
+  "medamappe_selection_164": {
+    "src": "Water",
+    "yax": "Вода",
+    "trx": "☯️Вода"
+  },
+  "medamappe_selection_165": {
+    "src": "Cute",
+    "yax": "Милый",
+    "trx": "☯️Милый"
+  },
+  "medamappe_selection_166": {
+    "src": "Slimy",
+    "yax": "Скользкий",
+    "trx": "☯️Скользкий"
+  },
+  "medamappe_selection_167": {
+    "src": "Get excited",
+    "yax": "Будьте взволнованы",
+    "trx": "☯️Будьте взволнованы"
+  },
+  "medamappe_selection_168": {
+    "src": "Pretty",
+    "yax": "Хорошенький",
+    "trx": "☯️Хорошенький"
+  },
+  "medamappe_selection_169": {
+    "src": "River",
+    "yax": "Река",
+    "trx": "☯️Река"
+  },
+  "medamappe_selection_170": {
+    "src": "Aquarium",
+    "yax": "Аквариум",
+    "trx": "☯️Аквариум"
+  },
+  "medamappe_selection_171": {
+    "src": "Somalian waters",
+    "yax": "Сомалийские воды",
+    "trx": "☯️Сомалийские воды"
+  },
+  "medamappe_selection_172": {
+    "src": "Fishing pond",
+    "yax": "Пруд для ловли рыбы",
+    "trx": "☯️Пруд для ловли рыбы"
+  },
+  "medamappe_selection_173": {
+    "src": "Kuroshio Current",
+    "yax": "Ток Куросио",
+    "trx": "☯️Ток Куросио"
+  },
+  "medamappe_selection_174": {
+    "src": "South Indian Current",
+    "yax": "Южно-Индийское течение",
+    "trx": "☯️Южно-Индийское течение"
+  },
+  "medamappe_selection_175": {
+    "src": "Gulf stream Current",
+    "yax": "Течение Гольфстрима",
+    "trx": "☯️Течение Гольфстрима"
+  },
+  "medamappe_selection_176": {
+    "src": "Equatorial Current",
+    "yax": "Экваториальное течение",
+    "trx": "☯️Экваториальное течение"
+  },
+  "medamappe_selection_177": {
+    "src": "1000m",
+    "yax": "1000 м",
+    "trx": "☯️1000 м"
+  },
+  "medamappe_selection_178": {
+    "src": "5m",
+    "yax": "5 м",
+    "trx": "☯️5 м"
+  },
+  "medamappe_selection_179": {
+    "src": "6000m",
+    "yax": "6000 м",
+    "trx": "☯️6000 м"
+  },
+  "medamappe_selection_180": {
+    "src": "400,000,000m",
+    "yax": "400 000 000м",
+    "trx": "☯️400 000 000м"
+  },
+  "medamappe_selection_181": {
+    "src": "Dolphin",
+    "yax": "Дельфин",
+    "trx": "☯️Дельфин"
+  },
+  "medamappe_selection_182": {
+    "src": "Turtle",
+    "yax": "Черепаха",
+    "trx": "☯️Черепаха"
+  },
+  "medamappe_selection_183": {
+    "src": "Whale",
+    "yax": "Кит",
+    "trx": "☯️Кит"
+  },
+  "medamappe_selection_184": {
+    "src": "Jellyfish",
+    "yax": "Медуза",
+    "trx": "☯️Медуза"
+  },
+  "medamappe_selection_185": {
+    "src": "Maid cafe",
+    "yax": "Кафе для прислуги",
+    "trx": "☯️Кафе для прислуги"
+  },
+  "medamappe_selection_186": {
+    "src": "Oden can",
+    "yax": "Оден может",
+    "trx": "☯️Оден может"
+  },
+  "medamappe_selection_187": {
+    "src": "Biradori",
+    "yax": "Бирадори",
+    "trx": "☯️Бирадори"
+  },
+  "medamappe_selection_188": {
+    "src": "Electronics store",
+    "yax": "Магазин электроники",
+    "trx": "☯️Магазин электроники"
+  },
+  "medamappe_selection_189": {
+    "src": "Isekai",
+    "yax": "Исекай",
+    "trx": "☯️Исекай"
+  },
+  "medamappe_selection_190": {
+    "src": "Sci-Fi",
+    "yax": "Научно-фантастический",
+    "trx": "☯️Научно-фантастический"
+  },
+  "medamappe_selection_191": {
+    "src": "Retirement Home Harem Love Comedy",
+    "yax": "Дом престарелых Гарем Любовная Комедия",
+    "trx": "☯️Дом престарелых Гарем Любовная Комедия"
+  },
+  "medamappe_selection_192": {
+    "src": "Stewed",
+    "yax": "Тушеный",
+    "trx": "☯️Тушеный"
+  },
+  "medamappe_selection_193": {
+    "src": "Write tons of lines",
+    "yax": "Написать тонны строк",
+    "trx": "☯️Написать тонны строк"
+  },
+  "medamappe_selection_194": {
+    "src": "Talent is everything",
+    "yax": "Талант - это все",
+    "trx": "☯️Талант - это все"
+  },
+  "medamappe_selection_195": {
+    "src": "Disarming a military base alone",
+    "yax": "Разоружение военной базы в одиночку",
+    "trx": "☯️Разоружение военной базы в одиночку"
+  },
+  "medamappe_selection_196": {
+    "src": "Read tons of books",
+    "yax": "Прочитал тонны книг",
+    "trx": "☯️Прочитал тонны книг"
+  },
+  "medamappe_selection_197": {
+    "src": "An energetic person",
+    "yax": "Энергичный человек",
+    "trx": "☯️Энергичный человек"
+  },
+  "medamappe_selection_198": {
+    "src": "A quiet person",
+    "yax": "Спокойный человек",
+    "trx": "☯️Спокойный человек"
+  },
+  "medamappe_selection_199": {
+    "src": "No need to be human",
+    "yax": "Не нужно быть человеком",
+    "trx": "☯️Не нужно быть человеком"
+  },
+  "medamappe_selection_200": {
+    "src": "Caring person",
+    "yax": "Заботливый человек",
+    "trx": "☯️Заботливый человек"
+  },
+  "medamappe_selection_201": {
+    "src": "I've got good and bad news",
+    "yax": "У меня есть хорошие и плохие новости",
+    "trx": "☯️У меня есть хорошие и плохие новости"
+  },
+  "medamappe_selection_202": {
+    "src": "I'm getting married after the war",
+    "yax": "Я выхожу замуж после войны",
+    "trx": "☯️Я выхожу замуж после войны"
+  },
+  "medamappe_selection_203": {
+    "src": "Only a shadow of myself...",
+    "yax": "Только тень меня самого...",
+    "trx": "☯️Только тень меня самого..."
+  },
+  "medamappe_selection_204": {
+    "src": "See you in hell",
+    "yax": "Увидимся в аду",
+    "trx": "☯️Увидимся в аду"
+  },
+  "medamappe_selection_205": {
+    "src": "Story",
+    "yax": "История",
+    "trx": "☯️История"
+  },
+  "medamappe_selection_206": {
+    "src": "Voice actor",
+    "yax": "Актер озвучки",
+    "trx": "☯️Актер озвучки"
+  },
+  "medamappe_selection_207": {
+    "src": "Visual",
+    "yax": "Визуальный",
+    "trx": "☯️Визуальный"
+  },
+  "medamappe_selection_208": {
+    "src": "Hype",
+    "yax": "Шумиха",
+    "trx": "☯️Шумиха"
+  },
+  "medamappe_selection_209": {
+    "src": "Run into on the corner",
+    "yax": "Столкнемся на углу",
+    "trx": "☯️Столкнемся на углу"
+  },
+  "medamappe_selection_210": {
+    "src": "A mean transfer student",
+    "yax": "Подлый студент-переводчик",
+    "trx": "☯️Подлый студент-переводчик"
+  },
+  "medamappe_selection_211": {
+    "src": "Transfer student sitting next to you",
+    "yax": "Студент-переводчик, сидящий рядом с вами",
+    "trx": "☯️Студент-переводчик, сидящий рядом с вами"
+  },
+  "medamappe_selection_212": {
+    "src": "Teachers calls for a battle royale",
+    "yax": "Учителя призывают к королевской битве",
+    "trx": "☯️Учителя призывают к королевской битве"
+  },
+  "medamappe_selection_213": {
+    "src": "Bonbon de chocolat",
+    "yax": "Шоколадная конфета",
+    "trx": "☯️Шоколадная конфета"
+  },
+  "medamappe_selection_214": {
+    "src": "Ganache",
+    "yax": "Ганаш",
+    "trx": "☯️Ганаш"
+  },
+  "medamappe_selection_215": {
+    "src": "Gianduja",
+    "yax": "Джандуя",
+    "trx": "☯️Джандуя"
+  },
+  "medamappe_selection_216": {
+    "src": "Chocolate bar",
+    "yax": "Плитка шоколада",
+    "trx": "☯️Плитка шоколада"
+  },
+  "medamappe_selection_217": {
+    "src": "I want to say it",
+    "yax": "Я хочу сказать это",
+    "trx": "☯️Я хочу сказать это"
+  },
+  "medamappe_selection_218": {
+    "src": "I don't want to say it",
+    "yax": "Я не хочу этого говорить",
+    "trx": "☯️Я не хочу этого говорить"
+  },
+  "medamappe_selection_219": {
+    "src": "I really want to say it",
+    "yax": "Я действительно хочу это сказать",
+    "trx": "☯️Я действительно хочу это сказать"
+  },
+  "medamappe_selection_220": {
+    "src": "Not really",
+    "yax": "Не совсем",
+    "trx": "☯️Не совсем"
+  },
+  "medamappe_selection_221": {
+    "src": "Ikebukuro",
+    "yax": "Икебукуро",
+    "trx": "☯️Икебукуро"
+  },
+  "medamappe_selection_222": {
+    "src": "Nakano",
+    "yax": "Накано",
+    "trx": "☯️Накано"
+  },
+  "medamappe_selection_223": {
+    "src": "Ariake",
+    "yax": "Ариаке",
+    "trx": "☯️Ариаке"
+  },
+  "medamappe_selection_224": {
+    "src": "Akihabara",
+    "yax": "Акихабара",
+    "trx": "☯️Акихабара"
+  },
+  "medamappe_selection_225": {
+    "src": "Spain",
+    "yax": "Испания",
+    "trx": "☯️Испания"
+  },
+  "medamappe_selection_226": {
+    "src": "Chile",
+    "yax": "Чили",
+    "trx": "☯️Чили"
+  },
+  "medamappe_selection_227": {
+    "src": "California",
+    "yax": "Калифорния",
+    "trx": "☯️Калифорния"
+  },
+  "medamappe_selection_228": {
+    "src": "France",
+    "yax": "Франция",
+    "trx": "☯️Франция"
+  },
+  "medamappe_selection_229": {
+    "src": "Stress relief",
+    "yax": "Снятие стресса",
+    "trx": "☯️Снятие стресса"
+  },
+  "medamappe_selection_230": {
+    "src": "I don't know",
+    "yax": "Я не знаю",
+    "trx": "☯️Я не знаю"
+  },
+  "medamappe_selection_231": {
+    "src": "Heartbeat",
+    "yax": "Сердцебиение",
+    "trx": "☯️Сердцебиение"
+  },
+  "medamappe_selection_232": {
+    "src": "Healing",
+    "yax": "Исцеление",
+    "trx": "☯️Исцеление"
+  },
+  "medamappe_selection_233": {
+    "src": "Eggplant",
+    "yax": "Баклажан",
+    "trx": "☯️Баклажан"
+  },
+  "medamappe_selection_234": {
+    "src": "Tomato",
+    "yax": "Помидор",
+    "trx": "☯️Помидор"
+  },
+  "medamappe_selection_235": {
+    "src": "Daikon",
+    "yax": "Дайкон",
+    "trx": "☯️Дайкон"
+  },
+  "medamappe_selection_236": {
+    "src": "Carrot",
+    "yax": "Морковь",
+    "trx": "☯️Морковь"
+  },
+  "medamappe_selection_237": {
+    "src": "60 years  old",
+    "yax": "60 лет",
+    "trx": "☯️60 лет"
+  },
+  "medamappe_selection_238": {
+    "src": "20 years old",
+    "yax": "20 лет",
+    "trx": "☯️20 лет"
+  },
+  "medamappe_selection_239": {
+    "src": "100043 years old",
+    "yax": "100043 года",
+    "trx": "☯️100043 года"
+  },
+  "medamappe_selection_240": {
+    "src": "40 years old",
+    "yax": "40 лет",
+    "trx": "☯️40 лет"
+  },
+  "medamappe_selection_241": {
+    "src": "Bro complex",
+    "yax": "Комплекс братана",
+    "trx": "☯️Комплекс братана"
+  },
+  "medamappe_selection_242": {
+    "src": "Food complex",
+    "yax": "Продовольственный комплекс",
+    "trx": "☯️Продовольственный комплекс"
+  },
+  "medamappe_selection_243": {
+    "src": "Shota complex",
+    "yax": "Комплекс Шота",
+    "trx": "☯️Комплекс Шота"
+  },
+  "medamappe_selection_244": {
+    "src": "Father complex",
+    "yax": "Комплекс отца",
+    "trx": "☯️Комплекс отца"
+  },
+  "medamappe_selection_245": {
+    "src": "Siphon",
+    "yax": "Сифон",
+    "trx": "☯️Сифон"
+  },
+  "medamappe_selection_246": {
+    "src": "Coffee maker",
+    "yax": "Кофеварка",
+    "trx": "☯️Кофеварка"
+  },
+  "medamappe_selection_247": {
+    "src": "Hand-squeezed",
+    "yax": "Сжатый вручную",
+    "trx": "☯️Сжатый вручную"
+  },
+  "medamappe_selection_248": {
+    "src": "Drip",
+    "yax": "Капать",
+    "trx": "☯️Капать"
+  },
+  "medamappe_selection_249": {
+    "src": "Talk dirty to me",
+    "yax": "Говори со мной непристойности",
+    "trx": "☯️Говори со мной непристойности"
+  },
+  "medamappe_selection_250": {
+    "src": "Leave",
+    "yax": "Покидать",
+    "trx": "☯️Покидать"
+  },
+  "medamappe_selection_251": {
+    "src": "Tie me up",
+    "yax": "Свяжи меня",
+    "trx": "☯️Свяжи меня"
+  },
+  "medamappe_selection_252": {
+    "src": "Play with me",
+    "yax": "Поиграй со мной",
+    "trx": "☯️Поиграй со мной"
+  },
+  "medamappe_selection_253": {
+    "src": "Forget and proceed",
+    "yax": "Забудьте и продолжайте",
+    "trx": "☯️Забудьте и продолжайте"
+  },
+  "medamappe_selection_254": {
+    "src": "I resent you",
+    "yax": "Я возмущен тобой",
+    "trx": "☯️Я возмущен тобой"
+  },
+  "medamappe_selection_255": {
+    "src": "Deleted from existence",
+    "yax": "Исключен из существования",
+    "trx": "☯️Исключен из существования"
+  },
+  "medamappe_selection_256": {
+    "src": "Can't forget",
+    "yax": "Не могу забыть",
+    "trx": "☯️Не могу забыть"
+  },
+  "medamappe_selection_257": {
+    "src": "Wants",
+    "yax": "Хочет",
+    "trx": "☯️Хочет"
+  },
+  "medamappe_selection_258": {
+    "src": "A type of biology program",
+    "yax": "Своего рода программа по биологии",
+    "trx": "☯️Своего рода программа по биологии"
+  },
+  "medamappe_selection_259": {
+    "src": "Reason to live",
+    "yax": "Причина жить",
+    "trx": "☯️Причина жить"
+  },
+  "medamappe_selection_260": {
+    "src": "Something I don't want lost",
+    "yax": "Что-то, чего я не хочу потерять",
+    "trx": "☯️Что-то, чего я не хочу потерять"
+  },
+  "medamappe_selection_261": {
+    "src": "Heart",
+    "yax": "Сердце",
+    "trx": "☯️Сердце"
+  },
+  "medamappe_selection_262": {
+    "src": "Body",
+    "yax": "Тело",
+    "trx": "☯️Тело"
+  },
+  "medamappe_selection_263": {
+    "src": "World",
+    "yax": "Мир",
+    "trx": "☯️Мир"
+  },
+  "medamappe_selection_264": {
+    "src": "Existence",
+    "yax": "Существование",
+    "trx": "☯️Существование"
+  },
+  "medamappe_selection_265": {
+    "src": "Pork",
+    "yax": "Свинина",
+    "trx": "☯️Свинина"
+  },
+  "medamappe_selection_266": {
+    "src": "Squid",
+    "yax": "Кальмар",
+    "trx": "☯️Кальмар"
+  },
+  "medamappe_selection_267": {
+    "src": "Shrimp",
+    "yax": "Креветка",
+    "trx": "☯️Креветка"
+  },
+  "medamappe_selection_268": {
+    "src": "Cheese",
+    "yax": "Сыр",
+    "trx": "☯️Сыр"
+  },
+  "medamappe_selection_269": {
+    "src": "War",
+    "yax": "Война",
+    "trx": "☯️Война"
+  },
+  "medamappe_selection_270": {
+    "src": "Borders",
+    "yax": "Границы",
+    "trx": "☯️Границы"
+  },
+  "medamappe_selection_271": {
+    "src": "Racism",
+    "yax": "Расизм",
+    "trx": "☯️Расизм"
+  },
+  "medamappe_selection_272": {
+    "src": "Overtime",
+    "yax": "Сверхурочные",
+    "trx": "☯️Сверхурочные"
+  },
+  "medamappe_selection_273": {
+    "src": "Running zombie",
+    "yax": "Бегущий зомби",
+    "trx": "☯️Бегущий зомби"
+  },
+  "medamappe_selection_274": {
+    "src": "Person who I like who became a zombie",
+    "yax": "Человек, который мне нравится, который стал зомби",
+    "trx": "☯️Человек, который мне нравится, который стал зомби"
+  },
+  "medamappe_selection_275": {
+    "src": "Zombie shark",
+    "yax": "Зомби-акула",
+    "trx": "☯️Зомби-акула"
+  },
+  "medamappe_selection_276": {
+    "src": "Walking zombie",
+    "yax": "Ходячий зомби",
+    "trx": "☯️Ходячий зомби"
+  },
+  "medamappe_selection_277": {
+    "src": "Smart",
+    "yax": "Умный",
+    "trx": "☯️Умный"
+  },
+  "medamappe_selection_278": {
+    "src": "Shady workplace",
+    "yax": "Сомнительное рабочее место",
+    "trx": "☯️Сомнительное рабочее место"
+  },
+  "medamappe_selection_279": {
+    "src": "Get excited",
+    "yax": "Будьте взволнованы",
+    "trx": "☯️Будьте взволнованы"
+  },
+  "medamappe_selection_280": {
+    "src": "Amazing",
+    "yax": "Удивительный",
+    "trx": "☯️Удивительный"
+  },
+  "medamappe_selection_281": {
+    "src": "Italian style",
+    "yax": "Итальянский стиль",
+    "trx": "☯️Итальянский стиль"
+  },
+  "medamappe_selection_282": {
+    "src": "English style",
+    "yax": "Английский стиль",
+    "trx": "☯️Английский стиль"
+  },
+  "medamappe_selection_283": {
+    "src": "Japanese style",
+    "yax": "Японский стиль",
+    "trx": "☯️Японский стиль"
+  },
+  "medamappe_selection_284": {
+    "src": "French style",
+    "yax": "Французский стиль",
+    "trx": "☯️Французский стиль"
+  },
+  "medamappe_selection_285": {
+    "src": "Being friendly with neighbors",
+    "yax": "Быть дружелюбным с соседями",
+    "trx": "☯️Быть дружелюбным с соседями"
+  },
+  "medamappe_selection_286": {
+    "src": "Avoiding others",
+    "yax": "Избегая других",
+    "trx": "☯️Избегая других"
+  },
+  "medamappe_selection_287": {
+    "src": "Starting an NPO",
+    "yax": "Создание НПО",
+    "trx": "☯️Создание НПО"
+  },
+  "medamappe_selection_288": {
+    "src": "Don't complain",
+    "yax": "Не жалуйся",
+    "trx": "☯️Не жалуйся"
+  },
+  "medamappe_selection_289": {
+    "src": "Tough but loyal person",
+    "yax": "Жесткий, но преданный человек",
+    "trx": "☯️Жесткий, но преданный человек"
+  },
+  "medamappe_selection_290": {
+    "src": "Indifferent person",
+    "yax": "Равнодушный человек",
+    "trx": "☯️Равнодушный человек"
+  },
+  "medamappe_selection_291": {
+    "src": "A hardboiled person that cries every day",
+    "yax": "Закоренелый человек, который плачет каждый день",
+    "trx": "☯️Закоренелый человек, который плачет каждый день"
+  },
+  "medamappe_selection_292": {
+    "src": "Someone kind like a friend",
+    "yax": "Кто-то добрый, как друг",
+    "trx": "☯️Кто-то добрый, как друг"
+  },
+  "medamappe_selection_293": {
+    "src": "Instrument",
+    "yax": "Инструмент",
+    "trx": "☯️Инструмент"
+  },
+  "medamappe_selection_294": {
+    "src": "Jeans",
+    "yax": "Джинсы",
+    "trx": "☯️Джинсы"
+  },
+  "medamappe_selection_295": {
+    "src": "Beautiful women",
+    "yax": "Красивые женщины",
+    "trx": "☯️Красивые женщины"
+  },
+  "medamappe_selection_296": {
+    "src": "Automobile",
+    "yax": "Автомобиль",
+    "trx": "☯️Автомобиль"
+  },
+  "medamappe_selection_297": {
+    "src": "Bookshelf",
+    "yax": "Книжная полка",
+    "trx": "☯️Книжная полка"
+  },
+  "medamappe_selection_298": {
+    "src": "A locked drawer",
+    "yax": "Запертый ящик",
+    "trx": "☯️Запертый ящик"
+  },
+  "medamappe_selection_299": {
+    "src": "Toilet tank",
+    "yax": "Бачок для унитаза",
+    "trx": "☯️Бачок для унитаза"
+  },
+  "medamappe_selection_300": {
+    "src": "Under the bed",
+    "yax": "Под кроватью",
+    "trx": "☯️Под кроватью"
+  },
+  "medamappe_selection_301": {
+    "src": "30 years",
+    "yax": "30 лет",
+    "trx": "☯️30 лет"
+  },
+  "medamappe_selection_302": {
+    "src": "6 years",
+    "yax": "6 лет",
+    "trx": "☯️6 лет"
+  },
+  "medamappe_selection_303": {
+    "src": "50 years",
+    "yax": "50 лет",
+    "trx": "☯️50 лет"
+  },
+  "medamappe_selection_304": {
+    "src": "Don't drink",
+    "yax": "Не пей",
+    "trx": "☯️Не пей"
+  },
+  "medamappe_selection_305": {
+    "src": "Dream of getting arrested",
+    "yax": "Мечтаю о том, чтобы меня арестовали",
+    "trx": "☯️Мечтаю о том, чтобы меня арестовали"
+  },
+  "medamappe_selection_306": {
+    "src": "Dream of getting killed",
+    "yax": "Мечтаю о том, чтобы меня убили",
+    "trx": "☯️Мечтаю о том, чтобы меня убили"
+  },
+  "medamappe_selection_307": {
+    "src": "Dream of getting chased",
+    "yax": "Мечтаю о том, чтобы за мной гнались",
+    "trx": "☯️Мечтаю о том, чтобы за мной гнались"
+  },
+  "medamappe_selection_308": {
+    "src": "Dream of staying at hospital",
+    "yax": "Мечтаю остаться в больнице",
+    "trx": "☯️Мечтаю остаться в больнице"
+  },
+  "medamappe_selection_309": {
+    "src": "Outside",
+    "yax": "Внешний",
+    "trx": "☯️Внешний"
+  },
+  "medamappe_selection_310": {
+    "src": "Newcomer",
+    "yax": "Новоприбывший",
+    "trx": "☯️Новоприбывший"
+  },
+  "medamappe_selection_311": {
+    "src": "Someone's wife",
+    "yax": "Чья-то жена",
+    "trx": "☯️Чья-то жена"
+  },
+  "medamappe_selection_312": {
+    "src": "School",
+    "yax": "Школа",
+    "trx": "☯️Школа"
+  },
+  "medamappe_selection_313": {
+    "src": "Super car",
+    "yax": "Супер автомобиль",
+    "trx": "☯️Супер автомобиль"
+  },
+  "medamappe_selection_314": {
+    "src": "Man-powered car",
+    "yax": "Автомобиль, управляемый человеком",
+    "trx": "☯️Автомобиль, управляемый человеком"
+  },
+  "medamappe_selection_315": {
+    "src": "Transforming car",
+    "yax": "Трансформирующийся автомобиль",
+    "trx": "☯️Трансформирующийся автомобиль"
+  },
+  "medamappe_selection_316": {
+    "src": "Maruokart",
+    "yax": "Маруокарт",
+    "trx": "☯️Маруокарт"
+  },
+  "medamappe_selection_317": {
+    "src": "Will",
+    "yax": "Будет",
+    "trx": "☯️Будет"
+  },
+  "medamappe_selection_318": {
+    "src": "Health",
+    "yax": "Здоровье",
+    "trx": "☯️Здоровье"
+  },
+  "medamappe_selection_319": {
+    "src": "Dream",
+    "yax": "Мечта",
+    "trx": "☯️Мечта"
+  },
+  "medamappe_selection_320": {
+    "src": "Life",
+    "yax": "Жизнь",
+    "trx": "☯️Жизнь"
+  },
+  "medamappe_selection_321": {
+    "src": "Tiger",
+    "yax": "Тигр",
+    "trx": "☯️Тигр"
+  },
+  "medamappe_selection_322": {
+    "src": "Prajna",
+    "yax": "Праджня",
+    "trx": "☯️Праджня"
+  },
+  "medamappe_selection_323": {
+    "src": "Dragon",
+    "yax": "Дракон",
+    "trx": "☯️Дракон"
+  },
+  "medamappe_selection_324": {
+    "src": "Koi",
+    "yax": "Кои",
+    "trx": "☯️Кои"
+  },
+  "medamappe_selection_325": {
+    "src": "Katana",
+    "yax": "Катана",
+    "trx": "☯️Катана"
+  },
+  "medamappe_selection_326": {
+    "src": "Hand grenade",
+    "yax": "Ручная граната",
+    "trx": "☯️Ручная граната"
+  },
+  "medamappe_selection_327": {
+    "src": "Rocket launcher",
+    "yax": "Ракетная установка",
+    "trx": "☯️Ракетная установка"
+  },
+  "medamappe_selection_328": {
+    "src": "Stun gun",
+    "yax": "Электрошокер",
+    "trx": "☯️Электрошокер"
+  },
+  "medamappe_selection_329": {
+    "src": "God",
+    "yax": "Бог",
+    "trx": "☯️Бог"
+  },
+  "medamappe_selection_330": {
+    "src": "Parent",
+    "yax": "Родитель",
+    "trx": "☯️Родитель"
+  },
+  "medamappe_selection_331": {
+    "src": "Idol",
+    "yax": "Идол",
+    "trx": "☯️Идол"
+  },
+  "medamappe_selection_332": {
+    "src": "Siblings",
+    "yax": "Братья и сестры",
+    "trx": "☯️Братья и сестры"
+  },
+  "medamappe_selection_333": {
+    "src": "Sense of responsibility",
+    "yax": "Чувство ответственности",
+    "trx": "☯️Чувство ответственности"
+  },
+  "medamappe_selection_334": {
+    "src": "Arm strength",
+    "yax": "Сила руки",
+    "trx": "☯️Сила руки"
+  },
+  "medamappe_selection_335": {
+    "src": "Decision-making",
+    "yax": "Принятие решений",
+    "trx": "☯️Принятие решений"
+  },
+  "medamappe_selection_336": {
+    "src": "Tolerance",
+    "yax": "Толерантность",
+    "trx": "☯️Толерантность"
+  },
+  "medamappe_selection_337": {
+    "src": "Justice",
+    "yax": "Справедливость",
+    "trx": "☯️Справедливость"
+  },
+  "medamappe_selection_338": {
+    "src": "Money",
+    "yax": "Деньги",
+    "trx": "☯️Деньги"
+  },
+  "medamappe_selection_339": {
+    "src": "Pride",
+    "yax": "Гордость",
+    "trx": "☯️Гордость"
+  },
+  "medamappe_selection_340": {
+    "src": "Tesa figure",
+    "yax": "Фигура Tesa",
+    "trx": "☯️Фигура Tesa"
+  },
+  "medamappe_selection_341": {
+    "src": "Bull of Phalaris",
+    "yax": "Бык Фалариса",
+    "trx": "☯️Бык Фалариса"
+  },
+  "medamappe_selection_342": {
+    "src": "Mice",
+    "yax": "Мыши",
+    "trx": "☯️Мыши"
+  },
+  "medamappe_selection_343": {
+    "src": "Iron Maiden",
+    "yax": "железная дева",
+    "trx": "☯️железная дева"
+  },
+  "medamappe_selection_344": {
+    "src": "Triangular wooden horse",
+    "yax": "Треугольная деревянная лошадка",
+    "trx": "☯️Треугольная деревянная лошадка"
+  },
+  "medamappe_selection_345": {
+    "src": "Stupid lie",
+    "yax": "Глупая ложь",
+    "trx": "☯️Глупая ложь"
+  },
+  "medamappe_selection_346": {
+    "src": "Lie that hurts no one",
+    "yax": "Ложь, которая никому не причинит вреда",
+    "trx": "☯️Ложь, которая никому не причинит вреда"
+  },
+  "medamappe_selection_347": {
+    "src": "Lie that makes a person fail",
+    "yax": "Ложь, которая заставляет человека терпеть неудачу",
+    "trx": "☯️Ложь, которая заставляет человека терпеть неудачу"
+  },
+  "medamappe_selection_348": {
+    "src": "I don't lie",
+    "yax": "Я не лгу",
+    "trx": "☯️Я не лгу"
+  },
+  "medamappe_selection_349": {
+    "src": "Nishiki-koi",
+    "yax": "Нисики-кои",
+    "trx": "☯️Нисики-кои"
+  },
+  "medamappe_selection_350": {
+    "src": "Japanese salamander",
+    "yax": "Японская саламандра",
+    "trx": "☯️Японская саламандра"
+  },
+  "medamappe_selection_351": {
+    "src": "Merman",
+    "yax": "Водяной",
+    "trx": "☯️Водяной"
+  },
+  "medamappe_selection_352": {
+    "src": "Kappa",
+    "yax": "Каппа",
+    "trx": "☯️Каппа"
+  },
+  "medamappe_selection_353": {
+    "src": "Casino",
+    "yax": "Казино",
+    "trx": "☯️Казино"
+  },
+  "medamappe_selection_354": {
+    "src": "Red light district",
+    "yax": "Район красных фонарей",
+    "trx": "☯️Район красных фонарей"
+  },
+  "medamappe_selection_355": {
+    "src": "Factory",
+    "yax": "Фабрика",
+    "trx": "☯️Фабрика"
+  },
+  "medamappe_selection_356": {
+    "src": "Secret base",
+    "yax": "Секретная база",
+    "trx": "☯️Секретная база"
+  },
+  "medamappe_selection_357": {
+    "src": "Ask why they're crying",
+    "yax": "Спросите, почему они плачут",
+    "trx": "☯️Спросите, почему они плачут"
+  },
+  "medamappe_selection_358": {
+    "src": "Leave them alone",
+    "yax": "Оставь их в покое",
+    "trx": "☯️Оставь их в покое"
+  },
+  "medamappe_selection_359": {
+    "src": "Make them laugh",
+    "yax": "Заставь их смеяться",
+    "trx": "☯️Заставь их смеяться"
+  },
+  "medamappe_selection_360": {
+    "src": "Cheer them up",
+    "yax": "Подбодрите их",
+    "trx": "☯️Подбодрите их"
+  },
+  "medamappe_selection_361": {
+    "src": "I'm party people",
+    "yax": "Я тусовщица",
+    "trx": "☯️Я тусовщица"
+  },
+  "medamappe_selection_362": {
+    "src": "I'm not party people",
+    "yax": "Я не любитель вечеринок",
+    "trx": "☯️Я не любитель вечеринок"
+  },
+  "medamappe_selection_363": {
+    "src": "Ultimate party people",
+    "yax": "Лучшие тусовщики",
+    "trx": "☯️Лучшие тусовщики"
+  },
+  "medamappe_selection_364": {
+    "src": "I party like Barbie",
+    "yax": "Я веселюсь, как Барби",
+    "trx": "☯️Я веселюсь, как Барби"
+  },
+  "medamappe_selection_365": {
+    "src": "Saltwater crocodile",
+    "yax": "Морской крокодил",
+    "trx": "☯️Морской крокодил"
+  },
+  "medamappe_selection_366": {
+    "src": "Anaconda",
+    "yax": "Анаконда",
+    "trx": "☯️Анаконда"
+  },
+  "medamappe_selection_367": {
+    "src": "Komodo Dragon",
+    "yax": "Комодский дракон",
+    "trx": "☯️Комодский дракон"
+  },
+  "medamappe_selection_368": {
+    "src": "Leatherback turtle",
+    "yax": "Кожистая черепаха",
+    "trx": "☯️Кожистая черепаха"
+  },
+  "medamappe_selection_369": {
+    "src": "Casino",
+    "yax": "Казино",
+    "trx": "☯️Казино"
+  },
+  "medamappe_selection_370": {
+    "src": "Boat race",
+    "yax": "Гонки на лодках",
+    "trx": "☯️Гонки на лодках"
+  },
+  "medamappe_selection_371": {
+    "src": "Bicycle race",
+    "yax": "Велогонка",
+    "trx": "☯️Велогонка"
+  },
+  "medamappe_selection_372": {
+    "src": "Horse race",
+    "yax": "Скачки",
+    "trx": "☯️Скачки"
+  },
+  "medamappe_selection_373": {
+    "src": "Bulmer's fruit bat",
+    "yax": "Фруктовая летучая мышь Балмера",
+    "trx": "☯️Фруктовая летучая мышь Балмера"
+  },
+  "medamappe_selection_374": {
+    "src": "Puerto Rican emerald",
+    "yax": "Пуэрториканский изумруд",
+    "trx": "☯️Пуэрториканский изумруд"
+  },
+  "medamappe_selection_375": {
+    "src": "Red goldenrod aphid",
+    "yax": "Красная золотарниковая тля",
+    "trx": "☯️Красная золотарниковая тля"
+  },
+  "medamappe_selection_376": {
+    "src": "Yellow-spotted-necked turtle",
+    "yax": "Черепаха с желтой пятнистой шеей",
+    "trx": "☯️Черепаха с желтой пятнистой шеей"
+  },
+  "medamappe_selection_377": {
+    "src": "Principle of Entropy",
+    "yax": "Принцип энтропии",
+    "trx": "☯️Принцип энтропии"
+  },
+  "medamappe_selection_378": {
+    "src": "Fleming's left hand rule",
+    "yax": "Правило левой руки Флеминга",
+    "trx": "☯️Правило левой руки Флеминга"
+  },
+  "medamappe_selection_379": {
+    "src": "Pareto's Principle",
+    "yax": "Принцип Парето",
+    "trx": "☯️Принцип Парето"
+  },
+  "medamappe_selection_380": {
+    "src": "Murphy's Principle",
+    "yax": "Принцип Мерфи",
+    "trx": "☯️Принцип Мерфи"
+  },
+  "medamappe_selection_381": {
+    "src": "Thymine",
+    "yax": "Тимин",
+    "trx": "☯️Тимин"
+  },
+  "medamappe_selection_382": {
+    "src": "Guanine",
+    "yax": "Гуанин",
+    "trx": "☯️Гуанин"
+  },
+  "medamappe_selection_383": {
+    "src": "Adenine",
+    "yax": "Аденин",
+    "trx": "☯️Аденин"
+  },
+  "medamappe_selection_384": {
+    "src": "Cytosine",
+    "yax": "Цитозин",
+    "trx": "☯️Цитозин"
+  },
+  "medamappe_selection_385": {
+    "src": "Photon",
+    "yax": "Фотон",
+    "trx": "☯️Фотон"
+  },
+  "medamappe_selection_386": {
+    "src": "Weak Boson",
+    "yax": "Слабый бозон",
+    "trx": "☯️Слабый бозон"
+  },
+  "medamappe_selection_387": {
+    "src": "Graviton",
+    "yax": "Гравитон",
+    "trx": "☯️Гравитон"
+  },
+  "medamappe_selection_388": {
+    "src": "Gluon",
+    "yax": "Глюон",
+    "trx": "☯️Глюон"
+  },
+  "medamappe_selection_389": {
+    "src": "All-out-attack",
+    "yax": "Тотальная атака",
+    "trx": "☯️Тотальная атака"
+  },
+  "medamappe_selection_390": {
+    "src": "Official",
+    "yax": "Официальный",
+    "trx": "☯️Официальный"
+  },
+  "medamappe_selection_391": {
+    "src": "Switch",
+    "yax": "Переключатель",
+    "trx": "☯️Переключатель"
+  },
+  "medamappe_selection_392": {
+    "src": "All-out-defense",
+    "yax": "Тотальная оборона",
+    "trx": "☯️Тотальная оборона"
+  },
+  "medamappe_selection_393": {
+    "src": "Roppongi",
+    "yax": "Роппонги",
+    "trx": "☯️Роппонги"
+  },
+  "medamappe_selection_394": {
+    "src": "Ginza",
+    "yax": "Гинза",
+    "trx": "☯️Гинза"
+  },
+  "medamappe_selection_395": {
+    "src": "Nichome",
+    "yax": "Нихоме",
+    "trx": "☯️Нихоме"
+  },
+  "medamappe_selection_396": {
+    "src": "Shinbashi",
+    "yax": "Шинбаши",
+    "trx": "☯️Шинбаши"
+  },
+  "medamappe_selection_397": {
+    "src": "Scarecrow",
+    "yax": "Пугало",
+    "trx": "☯️Пугало"
+  },
+  "medamappe_selection_398": {
+    "src": "Lumberjack",
+    "yax": "Лесоруб",
+    "trx": "☯️Лесоруб"
+  },
+  "medamappe_selection_399": {
+    "src": "Oz",
+    "yax": "Унция",
+    "trx": "☯️Унция"
+  },
+  "medamappe_selection_400": {
+    "src": "Lion",
+    "yax": "Лев",
+    "trx": "Лев"
+  },
+  "medamappe_selection_500": {
+    "src": "Aiba-ie",
+    "yax": "Aiba-ie",
+    "trx": "Айба-ай"
+  },
+  "medamappe_selection_501": {
+    "src": "Iris-ie",
+    "yax": "Радужная оболочка-ie",
+    "trx": "Айрис-ай"
+  },
+  "medamappe_selection_502": {
+    "src": "Mizuki-ie",
+    "yax": "Мидзуки-иэ",
+    "trx": "Мизуки-ай"
+  },
+  "medamappe_selection_503": {
+    "src": "Amame-ie",
+    "yax": "Amame-ie",
+    "trx": "Амаме-ай"
+  },
+  "medamappe_selection_504": {
+    "src": "Ota-ie",
+    "yax": "Ota-ie",
+    "trx": "Ота-ай"
+  },
+  "medamappe_selection_505": {
+    "src": "Boss-ie",
+    "yax": "Босс-ие",
+    "trx": "Босс-ай"
+  },
+  "medamappe_selection_506": {
+    "src": "Hitomi-ie",
+    "yax": "Хитоми-ие",
+    "trx": "Хитоми-ай"
+  },
+  "medamappe_selection_507": {
+    "src": "Date-ie",
+    "yax": "Дата-ie",
+    "trx": "Датэ-ай"
+  },
+  "medamappe_selection_508": {
+    "src": "Moma-ie",
+    "yax": "Moma-ie",
+    "trx": "Мома-ай"
+  },
+  "medamappe_selection_509": {
+    "src": "So-ie",
+    "yax": "Так что-то есть",
+    "trx": "Со-ай"
+  },
+  "medamappe_selection_510": {
+    "src": "Ristuko-ie",
+    "yax": "Ристуко-ие",
+    "trx": "Рицуко-ай"
+  },
+  "medamappe_selection_511": {
+    "src": "Pewter-ie",
+    "yax": "Оловянный-ie",
+    "trx": "Пьютер-ай"
+  },
+  "medamappe_selection_512": {
+    "src": "Mama-ie",
+    "yax": "Мама-ие",
+    "trx": "Мама-ай"
+  },
+  "medamappe_selection_513": {
+    "src": "??????",
+    "yax": "??????",
+    "trx": "??????"
+  },
+  "medamappe_parameter_001": {
+    "src": "Brave ",
+    "yax": "Храбрый ",
+    "trx": "Храбрость"
+  },
+  "medamappe_parameter_002": {
+    "src": "Loving",
+    "yax": "Любящий",
+    "trx": "Любовь   "
+  },
+  "medamappe_parameter_003": {
+    "src": "Impish",
+    "yax": "Озорной",
+    "trx": "Озорство "
+  },
+  "medamappe_parameter_004": {
+    "src": "Crazy ",
+    "yax": "Сумасшедший ",
+    "trx": "Безумие  "
+  },
+  "medamappe_parameter_500": {
+    "src": "Age ",
+    "yax": "Возраст ",
+    "trx": "Возр." //spell-ignore-line
+  },
+  "medamappe_parameter_501": {
+    "src": "Name",
+    "yax": "Имя",
+    "trx": "Имя"
+  },
+  "medamappe_parameter_005": {
+    "src": "Aiba-ie",
+    "yax": "Aiba-ie",
+    "trx": "Айба-ай"
+  },
+  "medamappe_parameter_006": {
+    "src": "Iris-ie",
+    "yax": "Радужная оболочка-ie",
+    "trx": "Айрис-ай"
+  },
+  "medamappe_parameter_007": {
+    "src": "Mizuki-ie",
+    "yax": "Мидзуки-иэ",
+    "trx": "Мизуки-ай"
+  },
+  "medamappe_parameter_008": {
+    "src": "Amame-ie",
+    "yax": "Amame-ie",
+    "trx": "Амаме-ай"
+  },
+  "medamappe_parameter_009": {
+    "src": "Ota-ie",
+    "yax": "Ota-ie",
+    "trx": "Ота-ай"
+  },
+  "medamappe_parameter_010": {
+    "src": "Boss-ie",
+    "yax": "Босс-ие",
+    "trx": "Босс-ай"
+  },
+  "medamappe_parameter_011": {
+    "src": "Hitomi-ie",
+    "yax": "Хитоми-ие",
+    "trx": "Хитоми-ай"
+  },
+  "medamappe_parameter_012": {
+    "src": "Date-ie",
+    "yax": "Дата-ie",
+    "trx": "Датэ-ай"
+  },
+  "medamappe_parameter_013": {
+    "src": "Moma-ie",
+    "yax": "Moma-ie",
+    "trx": "Мома-ай"
+  },
+  "medamappe_parameter_014": {
+    "src": "So-ie",
+    "yax": "Так что-то есть",
+    "trx": "Со-ай"
+  },
+  "medamappe_parameter_015": {
+    "src": "Ristuko-ie",
+    "yax": "Ристуко-ие",
+    "trx": "Рицуко-ай"
+  },
+  "medamappe_parameter_016": {
+    "src": "Pewter-ie",
+    "yax": "Оловянный-ie",
+    "trx": "Пьютер-ай"
+  },
+  "medamappe_parameter_017": {
+    "src": "Mama-ie",
+    "yax": "Мама-ие",
+    "trx": "Мама-ай"
+  },
+  "medamappe_parameter_502": {
+    "src": "Infant",
+    "yax": "Младенец",
+    "trx": "Младенец"
+  },
+  "medamappe_parameter_503": {
+    "src": "Child",
+    "yax": "Ребенок",
+    "trx": "Ребенок"
+  },
+  "medamappe_parameter_504": {
+    "src": "Adult",
+    "yax": "Взрослый",
+    "trx": "Взрослый"
+  },
+  "medamappe_parameter_505": {
+    "src": "Adult; will not grow any further.",
+    "yax": "Взрослый; дальше расти не будет.",
+    "trx": "Взрослый; дальше расти не будет."
+  },
+  "medamappe_parameter_508": {
+    "src": "+",
+    "yax": "+",
+    "trx": "+"
+  },
+  "medamappe_parameter_509": {
+    "src": "-",
+    "yax": "-",
+    "trx": "-"
+  },
+  "medamappe_parameter_506": {
+    "src": "Open Album",
+    "yax": "Открыть альбом",
+    "trx": "Открыть альбом"
+  },
+  "medamappe_parameter_507": {
+    "src": "Play with this Eyeballie",
+    "yax": "Поиграй с этим Глазным яблоком",
+    "trx": "Поиграть с этим глазком"
+  },
+  "medamappe_parameter_510": {
+    "src": "▼Organism\nNewly born and squishy.\nCurious little ball who wants to\nknow everything about this world.",
+    "yax": "▼Организм\nНоворожденный и мягкий.\nЛюбопытный маленький шарик, который хочет\nзнаю все об этом мире.",
+    "trx": "▼Организм\nПушистый новорожденный.\nЛюбопытный маленький шарик, который хочет\nузнать об этом мире всё."
+  },
+  "medamappe_parameter_511": {
+    "src": "▼Organism\nA Child full of love.\nAn idol who is good at singing and\ndancing and is worshipped by fans.\nLikes occult stuff.\n",
+    "yax": "▼Организм\nРебенок, полный любви.\nИдол, который хорошо поет и\nтанцует и поклоняется поклонникам.\nЛюбит оккультные штучки.",
+    "trx": "▼Организм\nРебенок, полный любви.\nИдол, который хорошо поет и\nтанцует, ему поклоняются фанаты.\nУвлекается оккультизмом."
+  },
+  "medamappe_parameter_512": {
+    "src": "▼Organism\nA Child with intense bravery.\nIrrationally beats up villains and \nmiddle-aged men by swinging her metal \npipe. Loves Adorabbit.\n",
+    "yax": "▼Организм\nРебенок с невероятной храбростью.\nИррационально избивает злодеев и \nмужчин среднего возраста, размахивая своим металлическим \nтруба. Обожает Adorabbit.",
+    "trx": "▼Организм\nНевероятно храбрый ребенок.\nЛюбит избивать злодеев и \nмужчин среднего возраста своей металлической \nтрубой. Обожает плюшевых кроликов."
+  },
+  "medamappe_parameter_513": {
+    "src": "▼Organism\nA Child who's kinda crazy.\nEarns money by conning people.\nLoves quizzes.\n",
+    "yax": "▼Организм\nРебенок, который немного сумасшедший.\nЗарабатывает деньги, обманывая людей.\nЛюбит викторины.",
+    "trx": "▼Организм\nСлегка сумасшедший ребенок.\nЗарабатывает деньги, обманывая людей.\nЛюбит викторины."
+  },
+  "medamappe_parameter_514": {
+    "src": "▼Organism\nA mischievous and cocky Child.\nOtaku who visits Akiba everyday.\nKind of pretentious and loves Iris-ie.",
+    "yax": "▼Организм\nОзорной и дерзкий Ребенок.\nОтаку, который каждый день навещает Акибу.\nВид претенциозный и любит Ирис-то есть.",
+    "trx": "▼Организм\nОзорной и дерзкий ребенок.\nОтаку, который ежедневно навещает Акибу.\nПретенциозен и любит Айрис-ай."
+  },
+  "medamappe_parameter_515": {
+    "src": "▼Organism\nA brave but sometimes perverted Adult.\nThey supposedly know all the tricks and \ntips for getting discounts at host clubs. \nLoves alcohol.",
+    "yax": "▼Организм\nХрабрый, но иногда извращенный Взрослый Человек.\nОни якобы знают все хитрости и \nсоветы по получению скидок в принимающих клубах. \nЛюбит алкоголь.",
+    "trx": "▼Организм\nХрабрый, но иногда извращенный взрослый.\nЯкобы знает все хитрости и \nуловки по получению скидок в хостес-клубах. \nЛюбит алкоголь."
+  },
+  "medamappe_parameter_516": {
+    "src": "▼Organism\nAdult with a crazy amount of love.\nPrefers peace and quiet to arguing.\nNothing gets in the way of love!\nGood with kids.",
+    "yax": "▼Организм\nВзрослый человек с сумасшедшим количеством любви.\nПредпочитает тишину и покой спорам.\nНичто не стоит на пути любви!\nХорошо ладит с детьми.",
+    "trx": "▼Организм\nБезумно любвеобильный взрослый.\nСпорам предпочитает тишину и покой.\nНичто не стоит на пути у любви!\nХорошо ладит с детьми."
+  },
+  "medamappe_parameter_517": {
+    "src": "▼Organism\nAdult with a heart full of bravery, love, \nand justice. Always thinking dirty \nthoughts and is dangerously close\nto a lawsuit. Loves porn mags.\n",
+    "yax": "▼Организм\nВзрослый человек с сердцем, полным храбрости, любви, \nи правосудие. Всегда думаешь о грязном \nмысли и находится в опасной близости\nк судебному иску. Обожает порнографические журналы.",
+    "trx": "▼Организм\nВзрослый человек с сердцем, полным храбрости, любви, \nи справедливости. Постоянно имеет грязные \nмысли и балансирует на грани\nсудебных исков. Обожает порнографические журналы."
+  },
+  "medamappe_parameter_518": {
+    "src": "▼Organism\nA crazy Adult trying to live a clean life.\nWants to make a non-violent gang, so\nuses the minimum amount of violence \nnecessary. Actually loves Iris-ie.",
+    "yax": "▼Организм\nСумасшедший Взрослый человек, пытающийся жить чистой жизнью.\nХочет создать ненасильственную банду, так что\nиспользует минимальное количество насилия \nнеобходимый. На самом деле любит Айрис-то есть.",
+    "trx": "▼Организм\nСумасшедший взрослый, пытающийся жить чистой жизнью.\nХочет создать ненасильственную банду, поэтому\nиспользует насилие только тогда, когда это \nдействительно необходимо. По существу любит Айрис-ай."
+  },
+  "medamappe_parameter_519": {
+    "src": "▼Organism\nAn Adult who handles craziness and love \nwell. No one can beat them when it \ncomes to cunning or flirtation.\nLoves having power and authority.",
+    "yax": "▼Организм\nВзрослый, который справляется с безумием и любовью \nхорошо. Никто не может победить их, когда это \nдоходит до хитрости или флирта.\nЛюбит обладать властью и авторитетом.",
+    "trx": "▼Организм\nВзрослый, сочетающий в себе безумие и \nлюбовь. Ему нет равных, когда дело \nкасается хитрости или флирта.\nЛюбит обладать властью и авторитетом."
+  },
+  "medamappe_parameter_520": {
+    "src": "▼Organism\nMischievous and confident Adult.\nUses modern lingo without really \nknowing the meaning.\nExtremely, enormously huge...\nLoves Atami.",
+    "yax": "▼Организм\nОзорной и уверенный в себе Взрослый.\nИспользует современный жаргон, на самом деле не \nзная значение.\nЧрезвычайно, невероятно огромный...\nЛюбит Атами.",
+    "trx": "▼Организм\nОзорной и уверенный в себе взрослый.\nИспользует современный жаргон, значения которого \nне знает.\nЧрезвычайно, невероятно сильно...\nлюбит Атами."
+  },
+  "medamappe_parameter_521": {
+    "src": "▼Organism\nAn Adult filled with love and a little \ncraziness. A smart and collected engineer, \nbut kinda sensitive about his outfit. Loves \nthin books.\n",
+    "yax": "▼Организм\nВзрослый, наполненный любовью и немного \nсумасшествие. Умный и собранный инженер, \nно немного чувствителен к своему наряду. Любит \nтонкие книги.",
+    "trx": "▼Организм\nВзрослый, наполненный любовью и немного \nсумасшедший. Умный и собранный инженер, \nно слегка чувствителен к своему наряду. Любит \nтонкие книги."
+  },
+  "medamappe_parameter_522": {
+    "src": "▼Organism\nA prankster Adult enriched with love.\nGood at listening to other people's \nproblems but not so good at keeping \nthose problems secret. Loves macho \nmuscles.",
+    "yax": "▼Организм\nВзрослый проказник, обогащенный любовью.\nХорошо умеет прислушиваться к мнению других людей. \nпроблемы, но не так хороши в сохранении \nэти проблемы засекречены. Любит мачо \nмышцы.",
+    "trx": "▼Организм\nВзрослый проказник, купающийся в любви.\nХорошо умеет прислушиваться к проблемам других людей, \nно не так хорошо умеет хранить \nэти проблемы в секрете. Любит мачо с \nмускулами."
+  },
+  "medamappe_window_001": {
+    "src": "Get notifications when a character asks a question?\n*You can get this notification in any scene",
+    "yax": "Получать уведомления, когда персонаж задает вопрос?\n* Вы можете получить это уведомление в любой сцене",
+    "trx": "Получать уведомления, когда персонаж задает вопрос?\n*Вы можете получить такое уведомление в любой сцене"
+  },
+  "medamappe_window_002": {
+    "src": "Turned Eyeballies question notification ON\n*You can get this notification in any scene",
+    "yax": "Включил уведомление с вопросом О глазных яблоках\n* Вы можете получить это уведомление в любой сцене",
+    "trx": "Уведомления о вопросах глазков ВКЛЮЧЕНЫ\n*Эти уведомления могут появиться в любой сцене"
+  },
+  "medamappe_window_003": {
+    "src": "Turned Eyeballies question notification OFF",
+    "yax": "Отключил уведомление о вопросах для глазных яблок",
+    "trx": "Уведомления о вопросах глазков ВЫКЛЮЧЕНЫ"
+  },
+  "medamappe_window_004": {
+    "src": "Reset Eyeballies and start from beginning?\n*Current character will leave to another timeline…",
+    "yax": "Сбросить зрачки и начать с самого начала?\n* Текущий персонаж перейдет на другую временную шкалу…",
+    "trx": "Сбросить развитие и начать с самого начала?\n*Текущий персонаж перейдет в другую временную линию..."
+  },
+  "medamappe_window_005": {
+    "src": "\"Eyeballies Strategy Guide\" has been added to the \"Manual\" in the FILE!",
+    "yax": "\"Руководство по стратегии Eyeballies\" было добавлено в \"Руководство\" в ФАЙЛЕ!",
+    "trx": "\"Стратегия по глазкам\" добавлена в \"Руководство\" в меню ФАЙЛЕ!"
+  },
+  "medamappe_window_006": {
+    "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
+    "yax": "Разблокированная функция глазных яблок!\n《Время ожидания вопроса теперь составляет 0 секунд》\n《В книжке с картинками функция \"Поиграйте с глазными яблоками, которые вы встречали в прошлом\" 《\nС этого момента тоже давайте ответы на вопросы!",
+    "trx": "Разблокирована функция глазков!\n《Время ожидания вопроса теперь 0 секунд》\n《В альбоме доступна функция \"Поиграть со встреченными в прошлом глазками\"》\nПродолжайте отвечать на вопросы!"
+  },
+  "medamappe_window_500": {
+    "src": "Depending on how you raise it, you might be able to meet new Eyeballies.\nYou can view Eyeballies that you raised in the picture book.",
+    "yax": "В зависимости от того, как вы его поднимете, вы сможете познакомиться с новыми людьми.\nВы можете просмотреть глазные яблоки, которые вы вырастили в книжке с картинками.",
+    "trx": "В зависимости от того, как вы их растите, в можете получить новые разновидности глазков.\nВ альбоме вы можете просмотреть все разновидности глазков, которых вы вырастили."
+  },
+  "medamappe_window_007": {
+    "src": "Aiba-ie",
+    "yax": "Aiba-ie",
+    "trx": "Айба-ай"
+  },
+  "medamappe_window_008": {
+    "src": "Iris-ie",
+    "yax": "Радужная оболочка-ie",
+    "trx": "Айрис-ай"
+  },
+  "medamappe_window_009": {
+    "src": "Mizuki-ie",
+    "yax": "Мидзуки-иэ",
+    "trx": "Мизуки-ай"
+  },
+  "medamappe_window_010": {
+    "src": "Amame-ie",
+    "yax": "Amame-ie",
+    "trx": "Амаме-ай"
+  },
+  "medamappe_window_011": {
+    "src": "Ota-ie",
+    "yax": "Ota-ie",
+    "trx": "Ота-ай"
+  },
+  "medamappe_window_012": {
+    "src": "Evolved to Boss-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал до Босса-то есть!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Босс-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_013": {
+    "src": "Evolved to Hitomi-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал до Хитоми-ие!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Хитоми-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_014": {
+    "src": "Evolved to Date-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал на сегодняшний день - то есть!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Датэ-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_015": {
+    "src": "Evolved to Moma-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал до Moma-ie!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Мома-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_016": {
+    "src": "Evolved to So-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал до So-ie!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Со-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_017": {
+    "src": "Evolved to Ritsuko-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировала в Рицуко-ие!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Рицуко-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_018": {
+    "src": "Evolved to Pewter-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Эволюционировал до оловянного-то есть!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Пьютер-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_019": {
+    "src": "Evolved to Mama-ie!\nReceived \"1000 Eyeballs\" as a reward.",
+    "yax": "Превратился в маму-ие!\nПолучил \"1000 глазных яблок\" в качестве награды.",
+    "trx": "Дорос до Мама-ай!\nВ награду получено \"1000 глазных яблок\"."
+  },
+  "medamappe_window_020": {
+    "src": "Aiba-ie",
+    "yax": "Aiba-ie",
+    "trx": "Айба-ай"
+  },
+  "medamappe_window_021": {
+    "src": "Iris-ie",
+    "yax": "Радужная оболочка-ie",
+    "trx": "Айрис-ай"
+  },
+  "medamappe_window_022": {
+    "src": "Mizuki-ie",
+    "yax": "Мидзуки-иэ",
+    "trx": "Мизуки-ай"
+  },
+  "medamappe_window_023": {
+    "src": "Amame-ie",
+    "yax": "Amame-ie",
+    "trx": "Амаме-ай"
+  },
+  "medamappe_window_024": {
+    "src": "Ota-ie",
+    "yax": "Ota-ie",
+    "trx": "Ота-ай"
+  },
+  "medamappe_window_025": {
+    "src": "Evolved to Boss-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал до Босса-то есть!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Босс-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_026": {
+    "src": "Evolved to Hitomi-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал до Хитоми-ие!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Хитоми-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_027": {
+    "src": "Evolved to Date-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал на сегодняшний день - то есть!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Датэ-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_028": {
+    "src": "Evolved to Moma-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал до Moma-ie!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Мома-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_029": {
+    "src": "Evolved to So-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал до So-ie!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Со-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_030": {
+    "src": "Evolved to Ristsuko-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал в Рицуко-ие!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Рицуко-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_031": {
+    "src": "Evolved to Pewter-ie!\n*This reward has already been collected.",
+    "yax": "Эволюционировал до оловянного-то есть!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Пьютер-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_032": {
+    "src": "Evolved to Mama-ie!\n*This reward has already been collected.",
+    "yax": "Превратился в маму-ие!\n*Эта награда уже собрана.",
+    "trx": "Дорос до Мама-ай!\n*Награда уже получена."
+  },
+  "medamappe_window_501": {
+    "src": "Aiba-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Айба-ие отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Айба-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_502": {
+    "src": "Iris-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Айрис-ие отправилась в путешествие после того, как стала респектабельной взрослой женщиной!",
+    "trx": "Айрис-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_503": {
+    "src": "Mizuki-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Мидзуки-иэ отправилась в путешествие, став респектабельной взрослой женщиной!",
+    "trx": "Мизуки-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_504": {
+    "src": "Amame-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Амаме-ие отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Амаме-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_505": {
+    "src": "Ota-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Ота-ие отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Ота-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_506": {
+    "src": "Boss-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Босс-ие отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Босс-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_507": {
+    "src": "Hitomi-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Хитоми-ие отправилась в путешествие, став респектабельной взрослой женщиной!",
+    "trx": "Хитоми-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_508": {
+    "src": "Date-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Свидание-то есть отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Датэ-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_509": {
+    "src": "Moma-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Moma-ie отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Мома-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_510": {
+    "src": "So-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Итак, я отправился в путешествие, став респектабельным взрослым человеком!",
+    "trx": "Со-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_511": {
+    "src": "Ristuko-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Ристуко-ие отправилась в путешествие, став респектабельной взрослой женщиной!",
+    "trx": "Рицуко-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_512": {
+    "src": "Pewter-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Пьютер-ие отправился в путешествие после того, как стал респектабельным взрослым человеком!",
+    "trx": "Пьютер-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_window_513": {
+    "src": "Mama-ie went off on a journey after becoming a respectable adult!",
+    "yax": "Мама-ие отправилась в путешествие после того, как стала респектабельной взрослой женщиной!",
+    "trx": "Мама-ай отправился в путешествие, став респектабельным взрослым!"
+  },
+  "medamappe_notification_001": {
+    "src": "Aiba-ie is asking a question.",
+    "yax": "Aiba-ie задает вопрос.",
+    "trx": "Айба-ай задает вопрос."
+  },
+  "medamappe_notification_002": {
+    "src": "Iris-ie is asking a question.",
+    "yax": "Iris-ie задает вопрос.",
+    "trx": "Айрис-ай задает вопрос."
+  },
+  "medamappe_notification_003": {
+    "src": "Mizuki-ie is asking a question.",
+    "yax": "Мизуки-иэ задает вопрос.",
+    "trx": "Мизуки-ай задает вопрос."
+  },
+  "medamappe_notification_004": {
+    "src": "Amame-ie is asking a question.",
+    "yax": "Amame-ie задает вопрос.",
+    "trx": "Амаме-ай задает вопрос."
+  },
+  "medamappe_notification_005": {
+    "src": "Ota-ie is asking a question.",
+    "yax": "Ota-ie задает вопрос.",
+    "trx": "Ота-ай задает вопрос."
+  },
+  "medamappe_notification_006": {
+    "src": "Boss-ie is asking a question.",
+    "yax": "Босс-ие задает вопрос.",
+    "trx": "Босс-ай задает вопрос."
+  },
+  "medamappe_notification_007": {
+    "src": "Hitomi-ie is asking a question.",
+    "yax": "Хитоми-ие задает вопрос.",
+    "trx": "Хитоми-ай задает вопрос."
+  },
+  "medamappe_notification_008": {
+    "src": "Date-ie is asking a question.",
+    "yax": "Дата-ie задает вопрос.",
+    "trx": "Датэ-ай задает вопрос."
+  },
+  "medamappe_notification_009": {
+    "src": "Moma-ie is asking a question.",
+    "yax": "Moma-ie задает вопрос.",
+    "trx": "Мома-ай задает вопрос."
+  },
+  "medamappe_notification_010": {
+    "src": "So-ie is asking a question.",
+    "yax": "Итак, ie задает вопрос.",
+    "trx": "Со-ай, задает вопрос."
+  },
+  "medamappe_notification_011": {
+    "src": "Ritsuko-ie is asking a question.",
+    "yax": "Рицуко-иэ задает вопрос.",
+    "trx": "Рицуко-ай задает вопрос."
+  },
+  "medamappe_notification_012": {
+    "src": "Pewter-ie is asking a question.",
+    "yax": "Pewter-ie задает вопрос.",
+    "trx": "Пьютер-ай задает вопрос."
+  },
+  "medamappe_notification_013": {
+    "src": "Mama-ie is asking a question.",
+    "yax": "Мама-ие задает вопрос.",
+    "trx": "Мама-ай задает вопрос."
+  },
+  "medamappe_operationguide_500": {
+    "src": "Reset",
+    "yax": "Сброс",
+    "trx": "<line-height=8>\nСброс"
+  },
+  "medamappe_operationguide_501": {
+    "src": "Notifications ON",
+    "yax": "Уведомления О",
+    "trx": "<line-height=8>\nУведомления ВКЛ"
+  },
+  "medamappe_operationguide_502": {
+    "src": "Notifications OFF",
+    "yax": "Уведомления ОТКЛЮЧЕНЫ",
+    "trx": "<line-height=8>\nУведомления ВЫКЛ"
+  },
+  "medamappe_caption_500": {
+    "src": "Eyeballie",
+    "yax": "Глазное яблоко",
+    "trx": "Глазки"
+  },
+  "medamappe_caption_501": {
+    "src": "Eyeballie Album",
+    "yax": "Альбом Eyeballie",
+    "trx": "Альбом глазков"
+  }
+}
