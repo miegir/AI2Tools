@@ -29,6 +29,8 @@
     <Expression Match="\b[Вв]инк-псинк" />
     <Expression Match="\b[Гг]рр+\b" />
     <Expression Match="\b[Гг]ун-фу\b" />
+    <Expression Match="\b[Дд]о скольки\b" />
+    <Expression Match="\b[Кк]и-я!" />
     <Expression Match="\b[Мм]эйдо-кафе" />
     <Expression Match="\b[Уу]ти-пути\b" />
     <Expression Match="\bа(ха)+\b" />
@@ -38,7 +40,7 @@
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\b[Кк]и-я!" />
+    <Expression Match="\bбукинг-агентство\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>
