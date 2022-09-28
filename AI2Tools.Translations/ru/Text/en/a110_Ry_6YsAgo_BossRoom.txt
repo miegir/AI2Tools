@@ -882,7 +882,7 @@
   "022_024": {
     "src": "Do you wanna ride along for the investigation, Mr. Date?",
     "yax": "Вы хотите участвовать в расследовании, мистер Дата?",
-    "trx": "Не хочешь пойти со мной на расследование, мистер Датэ?"
+    "trx": "Датэ, не хочешь пойти со мной на расследование?"
   },
   "022_025": {
     "src": "Tch, I'm not going to work on my day off. I'm not that bored.",

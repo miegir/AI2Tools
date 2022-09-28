@@ -34,13 +34,14 @@
     <Expression Match="\b[Мм]эйдо-кафе" />
     <Expression Match="\b[Уу]ти-пути\b" />
     <Expression Match="\bа(ха)+\b" />
+    <Expression Match="\bбукинг-агентство\b" />
     <Expression Match="\bвы?кл\." />
     <Expression Match="\bмм+\b" />
     <Expression Match="\bХа(ха)+\b" />
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\bбукинг-агентство\b" />
+    <Expression Match="\b[Мм]анэки-нэко\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>

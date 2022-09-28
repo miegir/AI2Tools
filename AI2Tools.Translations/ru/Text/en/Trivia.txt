@@ -97,7 +97,7 @@
   "trivia_021": {
     "src": "Matsushita Diner was closed for a long time... It recently reopened. They get decent customer traffic and make a pretty good amount of money.",
     "yax": "Закусочная \"Мацусита\" долгое время была закрыта... Недавно он вновь открылся. Они получают приличный трафик клиентов и зарабатывают довольно приличную сумму денег.",
-    "trx": "Закусочная Мацуситы долгое время была закрыта... Недавно она вновь открылась. Теперь там много клиентов, поэтому они имеют весьма приличную выручку."
+    "trx": "Закусочная Мацуситы долгое время была закрыта... Недавно она вновь открылась. Теперь в ней много клиентов, поэтому они имеют весьма приличную выручку."
   },
   "trivia_022": {
     "src": "The goal of an ARG varies. If someone \"beats\" it, they might get a prize, but most times, it's just a prank. Often times the main objective is simply to solve the mystery. Sometimes they're even used as a marketing tool... ARG are progressed by an undefined number of players working together, mainly online. Due to this, it has high potential to spread fast. That makes it very helpful when marketing content.",

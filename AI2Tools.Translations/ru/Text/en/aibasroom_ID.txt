@@ -2507,77 +2507,77 @@
   "aibasroom_fukidashi_450": {
     "src": "Don't believe in any shady cult.",
     "yax": "Не верьте ни в какие темные культы.",
-    "trx": "☯️Не верьте ни в какие темные культы."
+    "trx": "Не верьте ни в какие темные культы."
   },
   "aibasroom_fukidashi_451": {
     "src": "Got it... Don't over think it.",
     "yax": "Понял... Не переусердствуйте с этим.",
-    "trx": "☯️Понял... Не переусердствуйте с этим."
+    "trx": "Понятно... Не переусердствуйте с этим."
   },
   "aibasroom_fukidashi_452": {
     "src": "I am glad that you brought this up \nwith me, but...",
     "yax": "Я рад, что вы заговорили об этом \nсо мной, но...",
-    "trx": "☯️Я рад, что вы заговорили об этом \nсо мной, но..."
+    "trx": "Я рада, что вы заговорили об этом \nсо мной, но..."
   },
   "aibasroom_fukidashi_453": {
     "src": "Don't you have someone better to \ntalk to about this?",
     "yax": "Разве у тебя нет кого-нибудь получше, чтобы \nпоговорить об этом?",
-    "trx": "☯️Разве у тебя нет кого-нибудь получше, чтобы \nпоговорить об этом?"
+    "trx": "Вам больше не с кем \nоб этом поговорить?"
   },
   "aibasroom_fukidashi_454": {
     "src": "I'm not pushing you away...",
     "yax": "Я не отталкиваю тебя...",
-    "trx": "☯️Я не отталкиваю тебя..."
+    "trx": "Я не отталкиваю вас..."
   },
   "aibasroom_fukidashi_455": {
     "src": "But you should consult a specialist.",
     "yax": "Но вам следует проконсультироваться со специалистом.",
-    "trx": "☯️Но вам следует проконсультироваться со специалистом."
+    "trx": "Но вам следует проконсультироваться со специалистом."
   },
   "aibasroom_fukidashi_456": {
     "src": "There are many ways to achieve beauty.",
     "yax": "Есть много способов добиться красоты.",
-    "trx": "☯️Есть много способов добиться красоты."
+    "trx": "Есть много способов добиться красоты."
   },
   "aibasroom_fukidashi_457": {
     "src": "However, many beauty products \nare fraudulent.",
     "yax": "Однако многие косметические средства \nявляются мошенническими.",
-    "trx": "☯️Однако многие косметические средства \nявляются мошенническими."
+    "trx": "Однако многие косметические средства \nявляются подделками."
   },
   "aibasroom_fukidashi_458": {
     "src": "Do not be deceived.",
     "yax": "Не обманывайтесь.",
-    "trx": "☯️Не обманывайтесь."
+    "trx": "Не обманывайтесь."
   },
   "aibasroom_fukidashi_459": {
     "src": "You can exercise and eat healthy.",
     "yax": "Вы можете заниматься спортом и питаться здоровой пищей.",
-    "trx": "☯️Вы можете заниматься спортом и питаться здоровой пищей."
+    "trx": "Вы можете заниматься спортом и питаться здоровой пищей."
   },
   "aibasroom_fukidashi_460": {
     "src": "But perhaps, first focus on cleanliness.",
     "yax": "Но, возможно, сначала сосредоточьтесь на чистоте.",
-    "trx": "☯️Но, возможно, сначала сосредоточьтесь на чистоте."
+    "trx": "Но, возможно, нужно для начала сосредоточиться на чистоте."
   },
   "aibasroom_fukidashi_461": {
     "src": "People who are considered beautiful \nare often times simply very clean.",
     "yax": "Люди, которых считают красивыми \nчасто бывают просто очень чистыми.",
-    "trx": "☯️Люди, которых считают красивыми \nчасто бывают просто очень чистыми."
+    "trx": "Люди, которых считают красивыми, \nчасто бывают просто очень чистыми."
   },
   "aibasroom_fukidashi_462": {
     "src": "That is why some people complain \nabout \"too much makeup.\"",
     "yax": "Вот почему некоторые люди жалуются \nо \"слишком большом количестве косметики\".",
-    "trx": "☯️Вот почему некоторые люди жалуются \nо \"слишком большом количестве косметики\"."
+    "trx": "Вот почему некоторые люди жалуются \nна \"слишком большое количество макияжа\"."
   },
   "aibasroom_fukidashi_463": {
     "src": "It doesn't give off that \"clean\" look.",
     "yax": "Это не придает тому \"чистому\" виду.",
-    "trx": "☯️Это не придает тому \"чистому\" виду."
+    "trx": "Это не дает такого \"чистого\" вида."
   },
   "aibasroom_fukidashi_464": {
     "src": "Consider that.",
     "yax": "Подумайте об этом.",
-    "trx": "☯️Подумайте об этом."
+    "trx": "Подумайте об этом."
   },
   "aibasroom_fukidashi_465": {
     "src": "I have no reservations against going \nunder the knife.",
@@ -6352,7 +6352,7 @@
   "aibasroom_invitation_005": {
     "src": "Don't you think it's wonderful you're \ntalking about it?",
     "yax": "Тебе не кажется, что это замечательно, что ты \nговорить об этом?",
-    "trx": "☯️Тебе не кажется, что это замечательно, что ты \nговорить об этом?"
+    "trx": "Разве не замечательно, что мы можем \nпоговорить об этом?"
   },
   "aibasroom_invitation_006": {
     "src": "You don't have a costume for this category.\n\nYou can get costumes in the Bonus Menu by trading in eyeballs.",
