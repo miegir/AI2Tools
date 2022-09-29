@@ -107,7 +107,7 @@
   "trivia_023": {
     "src": "The song Ryuki was just singing was \"German Soupsocks,\" I think...",
     "yax": "Песня, которую только что пел Рюки, была, по-моему, \"Немецкие супы\"...",
-    "trx": "Песня, которую только что пел Рюки, называется, по-моему, \"Немецкие супы\"..."
+    "trx": "Песня, которую только что пел Рюки, называется, по-моему, \"Немецкий суп\"..."
   },
   "trivia_024": {
     "src": "\"Labor Standards Law Article 61\" declares that you cannot employ anyone younger than 18 from 10:00PM to 5:00AM.",

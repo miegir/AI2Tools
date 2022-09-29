@@ -962,7 +962,7 @@
   "035_002": {
     "src": "Jin Furue...29 years old. The CEO of Music Food Co., Ltd.",
     "yax": "Цзинь Фуруэ... 29 лет. Генеральный директор компании Music Food Co., Ltd.",
-    "trx": "Джин Фуруэ... 29 лет. Генеральный директор компании Music Food Co., Ltd."
+    "trx": "Джин Фуруэ... 29 лет. Исполнительный директор компании Music Food Co., Ltd."
   },
   "035_003": {
     "src": "He's also an executive at several IT firms, consultation companies, investment firms, and advertising agencies.",
@@ -1367,12 +1367,12 @@
   "choice_007": {
     "src": "Are you okay...?",
     "yax": "Ты в порядке? ..",
-    "trx": "Вы в порядке? .."
+    "trx": "Ты в порядке? .."
   },
   "choice_008": {
     "src": "Do you know the victim?",
     "yax": "Вы знаете жертву?",
-    "trx": "Вы знаете жертву?"
+    "trx": "Ты знаешь жертву?"
   },
   "choice_009": {
     "src": "Her name...",
