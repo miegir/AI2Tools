@@ -932,7 +932,7 @@
   "title_686": {
     "src": "Audience",
     "yax": "Аудитория",
-    "trx": "Аудитория"
+    "trx": "Зрители"
   },
   "title_687": {
     "src": "Host Komeji",

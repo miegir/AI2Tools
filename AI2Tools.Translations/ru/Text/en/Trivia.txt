@@ -122,7 +122,7 @@
   "trivia_026": {
     "src": "By the way, Iris and Mizuki were called \"Team Lemniscate\" and Moma and Chinpei were called \"Team Yakuza.\"",
     "yax": "Кстати, Айрис и Мизуки назывались \"Команда Лемнискейт\", а Мома и Чинпей - \"Команда Якудза\".",
-    "trx": "Кстати, Айрис и Мизуки были в \"команде Лемнискейт\", а Мома и Чинпей - в \"команде Якудза\"."
+    "trx": "Кстати, Айрис и Мизуки были в \"Команде Лемнискейт\", а Мома и Чинпей — в \"Команде Якудза\"."
   },
   "trivia_027": {
     "src": "Right now, I'm using the car camera to steer the car remotely. I of course control the gas and brakes. I send signals electronically. It's technically a \"self-driving\" car.",
