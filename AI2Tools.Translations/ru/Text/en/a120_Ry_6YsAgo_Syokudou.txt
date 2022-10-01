@@ -572,7 +572,7 @@
   "015_013": {
     "src": "A video similar to that one went viral. Everyone was talking about it online.",
     "yax": "Видео, похожее на это, стало вирусным. Все говорили об этом в Интернете.",
-    "trx": "То видео было в том же стиле, и оно стало вирусным. Все обсуждали его в Интернете."
+    "trx": "То видео было в том же стиле, и оно стало вирусным. В Интернете все его обсуждали."
   },
   "015_014": {
     "src": "Ah, I know of that one as well.",
@@ -587,7 +587,7 @@
   "015_016": {
     "src": "Yup. There was some kind of code hidden in it too.",
     "yax": "Ага. В нем тоже был скрыт какой-то код.",
-    "trx": "Ага. В нем тоже был скрыт какой-то код."
+    "trx": "Ага. В нем тоже был спрятан какой-то код."
   },
   "015_017": {
     "src": "According to the rumors, whoever deciphers it will learn the \"secret of the world\"...",

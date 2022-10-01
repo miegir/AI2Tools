@@ -127,7 +127,7 @@
   "file_trivia_025": {
     "src": "Right now, I'm using the car camera to steer the car remotely. I of course control the gas and brakes. I send signals electronically. It's technically a \"self-driving\" car.",
     "yax": "Прямо сейчас я использую автомобильную камеру, чтобы дистанционно управлять автомобилем. Я, конечно, контролирую газ и тормоза. Я посылаю сигналы электронным способом. Технически это \"самоуправляемый\" автомобиль.",
-    "trx": "Прямо сейчас я использую автомобильную камеру, чтобы дистанционно управлять автомобилем. Я, конечно, контролирую газ и тормоза. Я посылаю сигналы электронным способом. Технически это \"самоуправляемый\" автомобиль."
+    "trx": "Прямо сейчас я использую автомобильную камеру, чтобы дистанционно управлять машиной. Разумеется, я контролирую газ и тормоза. Я посылаю сигналы электронным способом. Технически это \"самоуправляемый\" автомобиль."
   },
   "file_trivia_026": {
     "src": "A popular phone game is a puzzle game in which you try to navigate lava to a safe area by using pins and closing valves. Most of the time though, it takes to you to a page to try to force you to download a different game. It's kinda like advertising fraud.",
