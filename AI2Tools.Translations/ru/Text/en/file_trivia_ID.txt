@@ -142,7 +142,7 @@
   "file_trivia_028": {
     "src": "The \"nipple game\" is a game in which a man asks a woman to guess where their nipple is while their shirt is on. Even if it's a guy asking a girl to do it, it's kinda problematic...",
     "yax": "\"Игра в сосок\" - это игра, в которой мужчина просит женщину угадать, где находится их сосок, пока на них надета рубашка. Даже если парень просит девушку сделать это, это довольно проблематично...",
-    "trx": "\"Игра в соски\" — это игра, в которой мужчина просит женщину угадать, где находятся его соски, когда на нем надета рубашка. Даже при том, что об этом парень просит девушку, это весьма спорная игра..."
+    "trx": "\"Игра в соски\" — это игра, в которой мужчина просит женщину угадать, где находятся его соски, когда на нем надета рубашка. Даже при том, что парень просит об этом девушку, это весьма спорная игра..."
   },
   "file_trivia_029": {
     "src": "CNT is highly flammable carbon material... It doesn't stand a chance against 3,000 degree temperature, but it bonds with oxygen to create carbon dioxide which helps extinguish the flame.",
