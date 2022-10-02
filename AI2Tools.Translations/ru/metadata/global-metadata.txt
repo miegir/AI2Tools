@@ -11201,7 +11201,7 @@
   },
   {
     "src": "Aiba's Trivia",
-    "trx": null
+    "trx": "Факты Айбы"
   },
   {
     "src": "AibasRoom",
@@ -51741,7 +51741,7 @@
   },
   {
     "src": "Tama's Trivia",
-    "trx": null
+    "trx": "Факты Тамы"
   },
   {
     "src": "Tap",
@@ -56261,7 +56261,7 @@
   },
   {
     "src": "Tutorial",
-    "trx": null
+    "trx": "Обучение"
   },
   {
     "src": "Tutorial:tutorial_007",

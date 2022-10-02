@@ -682,7 +682,7 @@
   "tutorial_098": {
     "src": "《Wink Psync》is a simplified version of Psyncing.\nYou can analyze the brainwaves of the Psync subject\nand temporarily <color=yellow>look into their dream</color>.",
     "yax": "\"Wink Psync\" - это упрощенная версия Psyncing.\nВы можете анализировать мозговые волны субъекта Psync\nи временно <color=yellow>загляни в их сон</color>.",
-    "trx": "《Винк-псинк》 — это упрощенная версия псинхронизации.\nС ее помощью можно проанализировать мозговые волны субъекта псинхронизации\nи временно <color=yellow>заглянуть в их сон</color>."
+    "trx": "《Винк-псинк》 — это упрощенная версия псинхронизации.\nС ее помощью можно проанализировать мозговые волны субъекта\nпсинхронизации и временно <color=yellow>заглянуть в его сон</color>."
   },
   "tutorial_099": {
     "src": "Select Chikara with the cursor. \nChoose <color=yellow>Wink Psync icon</color> to view a simplified version\nof his dream.",

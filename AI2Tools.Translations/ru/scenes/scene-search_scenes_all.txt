@@ -8,6 +8,10 @@
     "text": "Сторона\nМизуки"
   },
   {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject (1)/simplepsync Variant/adjust/timer/base01/Text_remaining (TMP)",
+    "text": "<cspace=2>     Оставшееся время : "
+  },
+  {
     "path": "_root/Canvas2/ScreenScaler2/GameObject (1)/simplepsync Variant/adjust/timer/base01/Text_sec (TMP)",
     "text": "сек"
   },

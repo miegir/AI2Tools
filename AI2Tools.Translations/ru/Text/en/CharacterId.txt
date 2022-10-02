@@ -1047,7 +1047,7 @@
   "character_211": {
     "src": "Scientists",
     "yax": "Ученые",
-    "trx": "Исследователи"
+    "trx": "Ученые"
   },
   "character_212": {
     "src": "Scientist",

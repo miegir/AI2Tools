@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4157151929
+CRC: 2574021138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0654458bde19b1c15650bfdc6104c18f
+    Hash: 9756333eefc2735703400a3ff0975bcf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 57e6d5d99f48d96514b0861aa8c1fa5c
@@ -44,6 +44,7 @@ Assets:
 - Assets/Fonts/Build/map#en-font.asset
 - Assets/Fonts/Build/information#en-font.asset
 - Assets/Fonts/Build/m11_joy#en-font.asset
+- Assets/Fonts/Build/kafu_techno#ja-font.asset
 - Assets/Fonts/Build/timie_infomation#en-font.asset
 - Assets/Fonts/Build/term#en-font.asset
 - Assets/Fonts/Build/ui_title#en-font.asset

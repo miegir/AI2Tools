@@ -47,12 +47,12 @@
   "optionmenu_top_operationguide_001": {
     "src": "Select Menu",
     "yax": "Выберите меню",
-    "trx": "Выбрать меню"
+    "trx": "<line-height=8>\nВыбрать меню"
   },
   "optionmenu_top_operationguide_002": {
     "src": "Select",
     "yax": "Выбрать",
-    "trx": "Открыть"
+    "trx": "<line-height=8>\nОткрыть"
   },
   "optionmenu_top_operationguide_500": {
     "src": "Logging",
