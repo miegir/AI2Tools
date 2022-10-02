@@ -167,7 +167,7 @@
   "009_008": {
     "src": "There's a code hidden inside Bats490...",
     "yax": "Внутри Bats490 скрыт код...",
-    "trx": "Внутри Bats490 спрятан код..."
+    "trx": "Внутри Bats490 есть скрытый код..."
   },
   "009_009": {
     "src": "They say the code reveals a specific location.",
@@ -207,7 +207,7 @@
   "009_016": {
     "src": "They say there's a hidden message inside, but I can't even tell where we're supposed to look.",
     "yax": "Они говорят, что внутри скрыто послание, но я даже не могу сказать, где мы должны искать.",
-    "trx": "Говорят, что внутри спрятано сообщение, но я даже не понимаю, где его нужно искать."
+    "trx": "Говорят, что внутри скрыто сообщение, но я даже не понимаю, где его искать."
   },
   "choice_001": {
     "src": "Where did Bats490 come from?",
@@ -397,7 +397,7 @@
   "013_010": {
     "src": "He decoded the hidden message in Bats490...",
     "yax": "Он расшифровал скрытое сообщение в Bats490...",
-    "trx": "Он расшифровал сообщение, спрятанное в Bats490..."
+    "trx": "Он расшифровал сообщение, скрытое в Bats490..."
   },
   "013_011": {
     "src": "...He did?",

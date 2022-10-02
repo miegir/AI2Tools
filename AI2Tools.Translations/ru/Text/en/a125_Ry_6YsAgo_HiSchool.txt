@@ -317,7 +317,7 @@
   "008_001": {
     "src": "Wooow, Amame turned into a skeleton!",
     "yax": "Уууу, Амаме превратился в скелет!",
-    "trx": "Вууух, Амаме стала скелетом!" //spell-ignore-line
+    "trx": "Вууух, Амаме стала скелетом!"
   },
   "008_002": {
     "src": "It's an X-ray!",
@@ -577,7 +577,7 @@
   "014_005": {
     "src": "There's a code hidden inside Bats490...",
     "yax": "Внутри Bats490 скрыт код...",
-    "trx": "Внутри Bats490 спрятан код..."
+    "trx": "Внутри Bats490 есть скрытый код..."
   },
   "014_006": {
     "src": "They say the code reveals a specific location.",

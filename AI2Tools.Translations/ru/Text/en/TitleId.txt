@@ -232,7 +232,7 @@
   "title_546": {
     "src": "Closet",
     "yax": "Шкаф",
-    "trx": "Туалет"
+    "trx": "Шкаф"
   },
   "title_547": {
     "src": "Chest of Drawers",
