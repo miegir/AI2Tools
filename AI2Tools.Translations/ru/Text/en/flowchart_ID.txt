@@ -287,7 +287,7 @@
   "flowchart_summary_507": {
     "src": "Subject: Chikara\nObjective: Uncover the secret Chikara is hiding.\nSummary: There is no doubt Chikara is hiding something.\nOpen the door to expose what he is hiding!",
     "yax": "Тема: Чикара\nЦель: Раскрыть тайну, которую скрывает Чикара.\nКраткое описание: Нет никаких сомнений, что Чикара что-то скрывает.\nОткрой дверь, чтобы показать, что он скрывает!",
-    "trx": "Субъект: Чикара\nЦель: Раскрыть тайну, которую скрывает Чикара.\nКраткое описание: Нет никаких сомнений, что Чикара что-то скрывает.\nОткройте дверь, чтобы раскрыть его секрет!"
+    "trx": "Субъект: Чикара\nЦель: Раскройте тайну, которую скрывает Чикара.\nКраткое описание: Нет никаких сомнений, что Чикара что-то скрывает.\nОткройте дверь, чтобы раскрыть его секрет!"
   },
   "flowchart_summary_508": {
     "src": "Inside Chikara's Somnium, Ryuki and Tama saw something...\nA member of Naix creating the Bats490 video. \nRyuki decides to head to Naix Japan Branch to talk to Tokiko, the president. \n",

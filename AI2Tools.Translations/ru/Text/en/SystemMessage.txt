@@ -647,27 +647,27 @@
   "operation_guide_009": {
     "src": "Move",
     "yax": "Подвиньте",
-    "trx": "Переместить"
+    "trx": "<line-height=8>\nПереместить"
   },
   "operation_guide_010": {
     "src": "Zoom",
     "yax": "Увеличение",
-    "trx": "Увеличить"
+    "trx": "<line-height=8>\nУвеличить"
   },
   "operation_guide_011": {
     "src": "Snap To",
     "yax": "Привязка К",
-    "trx": "Вернуться"
+    "trx": "<line-height=8>\nВернуться"
   },
   "operation_guide_012": {
     "src": "Change",
     "yax": "Изменить",
-    "trx": "Изменить"
+    "trx": "<line-height=8>\nИзменить"
   },
   "operation_guide_013": {
     "src": "Navi",
     "yax": "Navi",
-    "trx": "Нави" //spell-ignore-line
+    "trx": "<line-height=8>\nНави" //spell-ignore-line
   },
   "operation_guide_014": {
     "src": "Check",
