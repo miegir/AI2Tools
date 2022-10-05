@@ -582,47 +582,47 @@
   "operation_guide_001": {
     "src": "Move Cursor",
     "yax": "Переместить курсор",
-    "trx": "<line-height=7>\nПереместить курсор"
+    "trx": "<line-height=8>\nПереместить курсор"
   },
   "operation_guide_002": {
     "src": "Move Sight",
     "yax": "Переместите Прицел",
-    "trx": "<line-height=7>\nПереместить прицел"
+    "trx": "<line-height=8>\nПереместить прицел"
   },
   "operation_guide_503": {
     "src": "Move Camera",
     "yax": "Переместить Камеру",
-    "trx": "<line-height=7>\nПереместить камеру"
+    "trx": "<line-height=8>\nПереместить камеру"
   },
   "operation_guide_003": {
     "src": "Check",
     "yax": "Проверять",
-    "trx": "<line-height=7>\nОсмотреть"
+    "trx": "<line-height=8>\nОсмотреть"
   },
   "operation_guide_504": {
     "src": "Choose Options",
     "yax": "Выберите параметры",
-    "trx": "<line-height=7>\nВыбрать вариант"
+    "trx": "<line-height=8>\nВыбрать вариант"
   },
   "operation_guide_508": {
     "src": "Move",
     "yax": "Подвиньте",
-    "trx": "<line-height=7>\nПереместить"
+    "trx": "<line-height=8>\nПереместить"
   },
   "operation_guide_509": {
     "src": "Controls",
     "yax": "Управления",
-    "trx": "<line-height=7>\nУправление"
+    "trx": "<line-height=8>\nУправление"
   },
   "operation_guide_510": {
     "src": "Use/Cancel",
     "yax": "Использование/Отмена",
-    "trx": "<size=85%><line-height=7>\nИспользовать/Отмена"
+    "trx": "<size=85%><line-height=8>\nИспользовать/Отмена"
   },
   "operation_guide_004": {
     "src": "Enter",
     "yax": "Входить",
-    "trx": "Ввод"
+    "trx": "<line-height=8>\nВвод"
   },
   "operation_guide_005": {
     "src": "Close",
@@ -672,17 +672,17 @@
   "operation_guide_014": {
     "src": "Check",
     "yax": "Проверять",
-    "trx": "Осмотреть"
+    "trx": "<line-height=8>\nОсмотреть"
   },
   "operation_guide_500": {
     "src": "Switch Mode",
     "yax": "Переключение режима",
-    "trx": "Переключить режим"
+    "trx": "<line-height=8>\nПереключить режим"
   },
   "operation_guide_501": {
     "src": "Hold: Mode List",
     "yax": "Удержание: Список режимов",
-    "trx": "Удерживать: Список режимов"
+    "trx": "<line-height=8>\nУдерживать: Список режимов"
   },
   "operation_guide_511": {
     "src": "Background\nCharacter\n\nLyrics ON/OFF\nUI ON/OFF\n\nSwitch Camera\nCamera Zoom\nCamera Reset\n\nPlay normal speed\nFastforward/cancel\nRewind/cancel\nSlow/cancel\n\nWatch from start\nMirrored\nPause/play\n\nPlay Grand Finale\nReturn to BONUS",
@@ -702,22 +702,22 @@
   "operation_guide_502": {
     "src": "UI Display",
     "yax": "Отображение пользовательского интерфейса",
-    "trx": "Интерфейс"
+    "trx": "<line-height=8>\nИнтерфейс"
   },
   "operation_guide_505": {
     "src": "Open Chart",
     "yax": "Открытый график",
-    "trx": "Диаграмма"
+    "trx": "<line-height=8>\nДиаграмма"
   },
   "operation_guide_506": {
     "src": "Move Cursor",
     "yax": "Переместить курсор",
-    "trx": "Переместить курсор"
+    "trx": "<line-height=8>\nПереместить курсор"
   },
   "operation_guide_507": {
     "src": "Choose Options",
     "yax": "Выберите параметры",
-    "trx": "Выбрать вариант"
+    "trx": "<line-height=8>\nВыбрать вариант"
   },
   "difficulty_title_001": {
     "src": "Select Difficulty",

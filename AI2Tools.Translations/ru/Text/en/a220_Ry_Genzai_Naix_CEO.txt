@@ -487,7 +487,7 @@
   "012_001": {
     "src": "The symbol of Naix, the Nonuple-X...",
     "yax": "Символ Naix, Непараметрический-X...",
-    "trx": "Символ Naix, Девятеричный X..."
+    "trx": "Символ Naix, девятеричный X..."
   },
   "012_002": {
     "src": "There are four unseen Xs hidden within.",
@@ -502,7 +502,7 @@
   "012_004": {
     "src": "That is yet another meaning inside the Nonuple-X.",
     "yax": "Это еще одно значение внутри Nonuple-X.",
-    "trx": "Это еще одно значение внутри Девятеричного X."
+    "trx": "Это еще одно значение внутри девятеричного X."
   },
   "012_005": {
     "src": "Four unseen Xs...?",
