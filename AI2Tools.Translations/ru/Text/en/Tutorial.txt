@@ -112,7 +112,7 @@
   "tutorial_022": {
     "src": "By <color=yellow>changing the special mode</color>, \n<color=yellow>what you can inspect will change</color>.\nUtilize this to find the hidden information.",
     "yax": "Путем <color=yellow>изменения специального режима</color>, \n<color=yellow>то, что вы можете проверить, изменится</color>.\nИспользуйте это, чтобы найти скрытую информацию.",
-    "trx": "В каждом <color=yellow>визуальном режиме</color> для исследования\nдоступны <color=yellow>разные объекты</color>.\nИспользуйте это, чтобы обнаружить скрытую информацию."
+    "trx": "В каждом <color=yellow>визуальном режиме</color> для исследования доступны <color=yellow>разные объекты</color>.\nИспользуйте это, чтобы обнаружить скрытую информацию."
   },
   "tutorial_title_010": {
     "src": "Truth Reenactment",
@@ -132,7 +132,7 @@
   "tutorial_025": {
     "src": "Only by correctly answering her questions\nwill the truth be reenacted.",
     "yax": "Только правильно ответив на ее вопросы\nбудет ли воспроизведена правда.",
-    "trx": "Истину можно раскрыть, только\nправильно ответив на ее вопросы."
+    "trx": "Истину можно раскрыть, только\nправильно ответив на все вопросы."
   },
   "tutorial_title_011": {
     "src": "Menu",

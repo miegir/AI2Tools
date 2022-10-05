@@ -1,0 +1,572 @@
+{
+  "information_name_500": {
+    "src": "１２３４５６７８９０１２３４",
+    "yax": "１２３４５６７８９０１２３４",
+    "trx": "１２３４５６７８９０１２３４"
+  },
+  "information_description_500": {
+    "src": "１２３４５６７８９０１２３４５６７８９０２２\n１２３４５６７８９０１２３４５６７８９０２２",
+    "yax": "１２３４５６７８９０１２３４５６７８９０２２\n１２３４５６７８９０１２３４５６７８９０２２",
+    "trx": "１２３４５６７８９０１２３４５６７８９０２２\n１２３４５６７８９０１２３４５６７８９０２２"
+  },
+  "information_name_501": {
+    "src": "Renju's Body Discovery 1",
+    "yax": "Обнаружение тела Рэндзю 1",
+    "trx": "Обнаружение тела Рэндзю 1"
+  },
+  "information_description_501": {
+    "src": "Various Things",
+    "yax": "Разные Вещи",
+    "trx": "Разные предметы"
+  },
+  "information_name_502": {
+    "src": "Renju's Murder Scene",
+    "yax": "Место убийства Рэндзю",
+    "trx": "Место убийства Рэндзю"
+  },
+  "information_description_502": {
+    "src": "Various Things",
+    "yax": "Разные Вещи",
+    "trx": "Разные предметы"
+  },
+  "information_name_503": {
+    "src": "Corpse Discovery Situation",
+    "yax": "Ситуация с Обнаружением Трупа",
+    "trx": "Ситуация обнаружения тела"
+  },
+  "information_description_503": {
+    "src": "Rigor mortis was already fading and the body had somewhat softened by the time it was found.",
+    "yax": "Трупное окоченение уже проходило, и к тому времени, когда его нашли, тело несколько размягчилось.",
+    "trx": "Трупное окоченение уже почти прошло, и к тому времени, когда его обнаружили, тело несколько размягчилось."
+  },
+  "information_name_504": {
+    "src": "CNT Extending from Corpse",
+    "yax": "УНТ, отходящий от трупа",
+    "trx": "УНТ, выходящая из тела"
+  },
+  "information_description_504": {
+    "src": "The CNT extending from the corpse was threaded through the ceiling beam and tied to the light switch.",
+    "yax": "УНТ, отходящий от трупа, был продет через потолочную балку и привязан к выключателю.",
+    "trx": "УНТ, выходящая из тела, была переброшена через потолочную балку и присоединена к выключателю."
+  },
+  "information_name_505": {
+    "src": "Situation of Corpse Internals",
+    "yax": "Положение внутренних органов трупа",
+    "trx": "Внутренности тела"
+  },
+  "information_description_505": {
+    "src": "Inside the corpse is fuel that goes off with even the slightest impact, a fuse, and a substance that causes a thermite reaction.",
+    "yax": "Внутри трупа находится топливо, которое взрывается даже при малейшем ударе, запал и вещество, вызывающее термитную реакцию.",
+    "trx": "Внутри тела находится топливо, которое воспламеняется от малейшей искры, запал и вещество, вызывающее термитную реакцию."
+  },
+  "information_name_506": {
+    "src": "Sign Stabbing Corpse",
+    "yax": "Знак Заколотого Трупа",
+    "trx": "Знак, проколовший тело"
+  },
+  "information_description_506": {
+    "src": "The signboard was stuck in the corpse, so it's difficult to remove.",
+    "yax": "Вывеска застряла в трупе, поэтому ее трудно снять.",
+    "trx": "Знак застрял в теле, поэтому его трудно вытащить."
+  },
+  "information_name_507": {
+    "src": "Estimated TOD and Culprit",
+    "yax": "Предполагаемый Виновник и Виновник",
+    "trx": "Предполагаемое время смерти и преступник"
+  },
+  "information_description_507": {
+    "src": "The estimated time of death is around 19:00 today... The culprit is believed to be Tearer.",
+    "yax": "Предполагаемое время смерти - сегодня около 19:00... Считается, что виновником является Слезоточивый газ.",
+    "trx": "Предполагаемое время смерти — сегодня около 19:00... Считается, что преступником является Рассекатель."
+  },
+  "information_name_508": {
+    "src": "Situation of Corpse Internals",
+    "yax": "Положение внутренних органов трупа",
+    "trx": "Внутренности тела"
+  },
+  "information_description_508": {
+    "src": "There were traces of childbirth in Tokiko's womb.",
+    "yax": "В утробе Токико были следы родов.",
+    "trx": "В утробе Токико были следы родов."
+  },
+  "information_name_509": {
+    "src": "Nonuple-X Symbol",
+    "yax": "Символ, не являющийся кратным X",
+    "trx": "Символ девятеричного X"
+  },
+  "information_description_509": {
+    "src": "The other side of the Nonuple-X symbol... There's a device for entering a PIN code behind the wall.",
+    "yax": "Другая сторона символа, не являющегося кратным X... За стеной есть устройство для ввода PIN-кода.",
+    "trx": "Другая сторона символа девятеричного X... За стеной находится устройство для ввода PIN-кода."
+  },
+  "information_name_510": {
+    "src": "It's the Nonuple-X symbol.",
+    "yax": "Это символ, не являющийся кратным X.",
+    "trx": "Это символ девятеричного X."
+  },
+  "information_description_510": {
+    "src": "There are seven arrows and squares drawn under the Nonuple-X symbol.",
+    "yax": "Под символом Nonuple-X нарисованы семь стрелок и квадратов.",
+    "trx": "Под символом девятеричного X нарисованы семь стрелок и квадратов."
+  },
+  "information_name_511": {
+    "src": "Inside Front of Desk",
+    "yax": "Внутри передней части стола",
+    "trx": "Внутри передней части стола"
+  },
+  "information_description_511": {
+    "src": "There are 16 numbers in a diamond shape at the front of the desk...",
+    "yax": "На передней панели стола расположены 16 цифр в форме ромба...",
+    "trx": "В передней части стола расположены 16 цифр в форме ромба..."
+  },
+  "information_name_512": {
+    "src": "Statue Material",
+    "yax": "Материал статуи",
+    "trx": "Материал статуи"
+  },
+  "information_description_512": {
+    "src": "This statue is  made of iron.",
+    "yax": "Эта статуя сделана из железа.",
+    "trx": "Эта статуя сделана из железа."
+  },
+  "information_name_513": {
+    "src": "North Eastern Statue Under Floor",
+    "yax": "Северо-Восточная Статуя Под Полом",
+    "trx": "Северо-восточная статуя под полом"
+  },
+  "information_description_513": {
+    "src": "An electromagnetic rail under the floor... It stretches from the northeast statue toward the pond.",
+    "yax": "Электромагнитный рельс под полом... Она тянется от северо-восточной статуи к пруду.",
+    "trx": "Электромагнитный рельс под полом... Он тянется от северо-восточной статуи к пруду."
+  },
+  "information_name_514": {
+    "src": "South Eastern Statue Under Floor",
+    "yax": "Юго-Восточная Статуя Под Полом",
+    "trx": "Юго-восточная статуя под полом"
+  },
+  "information_description_514": {
+    "src": "An electromagnetic rail under the floor... It stretches from the southeast statue toward the pond.",
+    "yax": "Электромагнитный рельс под полом... Она тянется от юго-восточной статуи к пруду.",
+    "trx": "Электромагнитный рельс под полом... Она тянется от юго-восточной статуи к пруду."
+  },
+  "information_name_515": {
+    "src": "State of North Western Statue",
+    "yax": "Состояние Северо-Западной статуи",
+    "trx": "Состояние северо-западной статуи"
+  },
+  "information_description_515": {
+    "src": "An infrared laser is emitting from the northwest statue toward the southeast.",
+    "yax": "Инфракрасный лазер излучается от северо-западной статуи на юго-восток.",
+    "trx": "Инфракрасный лазер направлен из северо-западной статуи на юго-восток."
+  },
+  "information_name_516": {
+    "src": "State of South Western Statue",
+    "yax": "Состояние Юго-Западной статуи",
+    "trx": "Состояние юго-западной статуи"
+  },
+  "information_description_516": {
+    "src": "An infrared laser is emitting from the southwest statue toward the northeast.",
+    "yax": "Инфракрасный лазер излучается от юго-западной статуи на северо-восток.",
+    "trx": "Инфракрасный лазер направлен из юго-западной статуи на северо-восток."
+  },
+  "information_name_556": {
+    "src": "Symbol and Numbers",
+    "yax": "Символ и цифры",
+    "trx": "Символ и цифры"
+  },
+  "information_description_556": {
+    "src": "The Nonuple-X symbol in thermo mode and the 16 numbers placed in a rhombus.",
+    "yax": "Символ, не являющийся кратным X, в терморежиме и 16 цифр, расположенных в виде ромба.",
+    "trx": "Символ девятеричного X в терморежиме и 16 цифр, расположенных в виде ромба."
+  },
+  "information_name_517": {
+    "src": "Estimated Time of Death",
+    "yax": "Предполагаемое время смерти",
+    "trx": "Предполагаемое время смерти"
+  },
+  "information_description_517": {
+    "src": "Komeji's estimated time of death is February 13th, 22:00.",
+    "yax": "Предполагаемое время смерти Комедзи - 13 февраля, 22:00.",
+    "trx": "Предполагаемое время смерти Комедзи — 13 февраля, 22:00."
+  },
+  "information_name_518": {
+    "src": "Rope Tying Up Ryuki",
+    "yax": "Веревка, Связывающая Рюки",
+    "trx": "Веревка, связывающая Рюки"
+  },
+  "information_description_518": {
+    "src": "Mame's fake nail on the rope I was bound in...",
+    "yax": "Фальшивый ноготь Мэйми на веревке, которой я был связан...",
+    "trx": "Накладной ноготь Маме на веревке, которой меня связали..."
+  },
+  "information_name_519": {
+    "src": "Camera Tripod",
+    "yax": "Штатив для камеры",
+    "trx": "Штатив для камеры"
+  },
+  "information_description_519": {
+    "src": "The camera tripod is tipped over.",
+    "yax": "Штатив камеры опрокинут.",
+    "trx": "Штатив для камеры опрокинут."
+  },
+  "information_name_520": {
+    "src": "Kettle on Floor",
+    "yax": "Чайник на полу",
+    "trx": "Чайник на полу"
+  },
+  "information_description_520": {
+    "src": "There is an electric kettle on the floor.",
+    "yax": "На полу установлен электрический чайник.",
+    "trx": "На полу находится электрический чайник."
+  },
+  "information_name_521": {
+    "src": "Hot Water Spilled Near Kettle",
+    "yax": "Горячая Вода Пролилась Рядом С Чайником",
+    "trx": "Горячая вода, разлитая рядом с чайником"
+  },
+  "information_description_521": {
+    "src": "There is hot water spilled near the kettle...",
+    "yax": "Рядом с чайником пролилась горячая вода...",
+    "trx": "Рядом с чайником разлилась горячая вода..."
+  },
+  "information_name_522": {
+    "src": "Footprints",
+    "yax": "Следы",
+    "trx": "Следы"
+  },
+  "information_description_522": {
+    "src": "The prints lead from the warm puddle of water to the west door.",
+    "yax": "Отпечатки ведут от теплой лужи воды к западной двери.",
+    "trx": "Следы ведут от теплой лужи к западной двери."
+  },
+  "information_name_523": {
+    "src": "West Door",
+    "yax": "Западная дверь",
+    "trx": "Западная дверь"
+  },
+  "information_description_523": {
+    "src": "There are only two exits, one to the east and the other to the west... The door to the west is locked.",
+    "yax": "Есть только два выхода, один на восток, а другой на запад... Дверь на запад заперта.",
+    "trx": "Есть только два выхода, восточный и западный... Западная дверь заперта."
+  },
+  "information_name_524": {
+    "src": "Body",
+    "yax": "Тело",
+    "trx": "Тело"
+  },
+  "information_description_524": {
+    "src": "The only wounds on the body are the cut itself.",
+    "yax": "Единственные раны на теле - это сам порез.",
+    "trx": "Единственной раной на теле является сам разрез."
+  },
+  "information_name_525": {
+    "src": "Situation of Corpse Internals",
+    "yax": "Положение внутренних органов трупа",
+    "trx": "Внутренности тела"
+  },
+  "information_description_525": {
+    "src": "Jin Furue's face and body show no signs of plastic surgery.",
+    "yax": "На лице и теле Цзинь Фуруэ нет никаких признаков пластической операции.",
+    "trx": "На лице и теле Джина Фуруэ нет никаких признаков пластической операции."
+  },
+  "information_name_526": {
+    "src": "Tire",
+    "yax": "Шина",
+    "trx": "Шина"
+  },
+  "information_description_526": {
+    "src": "There's a tire track on the halfway line.",
+    "yax": "На полпути есть след от шин.",
+    "trx": "На центральной линии есть след от шины."
+  },
+  "information_name_527": {
+    "src": "Screw",
+    "yax": "Винт",
+    "trx": "Винт"
+  },
+  "information_description_527": {
+    "src": "There's a screw on the halfway line.",
+    "yax": "На средней линии есть винт.",
+    "trx": "На центральной линии находится винт."
+  },
+  "information_name_528": {
+    "src": "Oil",
+    "yax": "Нефть",
+    "trx": "Масло"
+  },
+  "information_description_528": {
+    "src": "There's oil spilled near the halfway line...",
+    "yax": "Около промежуточной линии разлилась нефть...",
+    "trx": "Около центральной линии разлито масло..."
+  },
+  "information_name_529": {
+    "src": "Letters on Monument",
+    "yax": "Буквы на памятнике",
+    "trx": "Буквы на монументе"
+  },
+  "information_description_529": {
+    "src": "It says \"AEF\" on the stone monument.",
+    "yax": "На каменном памятнике написано \"АЭФ\".",
+    "trx": "На каменном монументе написано \"AEF\"."
+  },
+  "information_name_530": {
+    "src": "Body",
+    "yax": "Тело",
+    "trx": "Тело"
+  },
+  "information_description_530": {
+    "src": "Chikara was killed around 8:00PM.",
+    "yax": "Чикара был убит около 8:00 вечера.",
+    "trx": "Чикара был убит около 20:00."
+  },
+  "information_name_531": {
+    "src": "Letters Inside Body",
+    "yax": "Буквы Внутри Корпуса",
+    "trx": "Буквы внутри тела"
+  },
+  "information_description_531": {
+    "src": "The letters \"RLE\" inside the body...",
+    "yax": "Буквы \"RLE\" внутри корпуса...",
+    "trx": "Буквы \"RLE\" внутри тела..."
+  },
+  "information_name_532": {
+    "src": "Pieces of Paper in Balloon",
+    "yax": "Кусочки бумаги в воздушном шаре",
+    "trx": "Листки бумаги в воздушном шаре"
+  },
+  "information_description_532": {
+    "src": "The piece of paper inside the balloon had two pairs of intersecting arrows. ",
+    "yax": "На листе бумаги внутри воздушного шара были две пары пересекающихся стрелок. ",
+    "trx": "На листке бумаги внутри воздушного шара были две пары пересекающихся стрелок. "
+  },
+  "information_name_533": {
+    "src": "Body",
+    "yax": "Тело",
+    "trx": "Тело"
+  },
+  "information_description_533": {
+    "src": "Komeji was murdered around 22:00 yesterday.",
+    "yax": "Комедзи был убит вчера около 22:00.",
+    "trx": "Комедзи был убит вчера около 22:00."
+  },
+  "information_name_534": {
+    "src": "Left Half Body Shape",
+    "yax": "Форма Левой Половины Тела",
+    "trx": "Силуэт левой половины тела"
+  },
+  "information_description_534": {
+    "src": "The shape of the left half of someone's body on the stage... It was left here sometime between the 10th and the 11th.",
+    "yax": "Очертания левой половины чьего-то тела на сцене... Его оставили здесь где-то между 10-м и 11-м числами.",
+    "trx": "Силуэт левой половины какого-то тела на сцене... Его оставили здесь где-то между 10-м и 11-м числом."
+  },
+  "information_name_535": {
+    "src": "Marks",
+    "yax": "Метки",
+    "trx": "Следы"
+  },
+  "information_description_535": {
+    "src": "Someone passed through the body print while pulling on a suitcase. ",
+    "yax": "Кто-то прошел по отпечатку тела, когда тащил чемодан. ",
+    "trx": "Кто-то прошел по силуэту тела, когда тащил чемодан. "
+  },
+  "information_name_536": {
+    "src": "Inside Trash",
+    "yax": "Внутренний Мусор",
+    "trx": "Внутри мусорного бака"
+  },
+  "information_description_536": {
+    "src": "Inside the trash can was a plastic bag which had clothes, shoes, and suitcase-type hanger in it.",
+    "yax": "Внутри мусорного бака лежал пластиковый пакет, в котором были одежда, обувь и вешалка типа чемодана.",
+    "trx": "Внутри мусорного бака лежал пластиковый пакет, в котором были одежда, обувь и плечики для костюма."
+  },
+  "information_name_537": {
+    "src": "Tooth",
+    "yax": "Зуб",
+    "trx": "Зуб"
+  },
+  "information_description_537": {
+    "src": "Someone's (T's) tooth on the floor.\nIt appears to be the first molar of the maxilla.",
+    "yax": "Чей-то (Т) зуб на полу.\nПо-видимому, это первый коренной зуб верхней челюсти.",
+    "trx": "Чей-то (Т) зуб на полу.\nПо-видимому, это первый коренной зуб верхней челюсти."
+  },
+  "information_name_538": {
+    "src": "Steel Plate A",
+    "yax": "Стальная Пластина А",
+    "trx": "Стальная пластина А"
+  },
+  "information_description_538": {
+    "src": "There's a steel plate above the door...",
+    "yax": "Над дверью есть стальная пластина...",
+    "trx": "Над дверью находится стальная пластина..."
+  },
+  "information_name_539": {
+    "src": "Steel Plate B",
+    "yax": "Стальная пластина B",
+    "trx": "Стальная пластина Б"
+  },
+  "information_description_539": {
+    "src": "The door is past the plate.",
+    "yax": "Дверь находится за табличкой.",
+    "trx": "Дверь находится за пластиной."
+  },
+  "information_name_540": {
+    "src": "Hidden Switch",
+    "yax": "Скрытый переключатель",
+    "trx": "Потайной выключатель"
+  },
+  "information_description_540": {
+    "src": "There's a hidden switch in the wall.",
+    "yax": "В стене есть потайной выключатель.",
+    "trx": "В стене есть потайной выключатель."
+  },
+  "information_name_541": {
+    "src": "Power Switch",
+    "yax": "переключатель питания",
+    "trx": "Выключатель питания"
+  },
+  "information_description_541": {
+    "src": "A power switch. Using X-ray, you can see the\npower cables running to the ceiling.",
+    "yax": "Выключатель питания. Используя рентгеновский снимок, вы можете увидеть\nсиловые кабели тянутся к потолку.",
+    "trx": "Выключатель питания. Используя рентгеновский режим, вы можете увидеть\nсиловые кабели, тянущиеся к потолку."
+  },
+  "information_name_542": {
+    "src": "Foot Switch",
+    "yax": "Ножной переключатель",
+    "trx": "Ножной выключатель"
+  },
+  "information_description_542": {
+    "src": "A bloody footprint is nearby.",
+    "yax": "Рядом кровавый след.",
+    "trx": "Поблизости находится кровавый след."
+  },
+  "information_name_543": {
+    "src": "[C]Kaniza",
+    "yax": "[C]Каниза",
+    "trx": "[C]Каниза"
+  },
+  "information_description_543": {
+    "src": "An inspector with a difficult-to-remember name.",
+    "yax": "Инспектор с трудно запоминающимся именем.",
+    "trx": "Инспектор с трудно запоминающимся именем."
+  },
+  "information_name_544": {
+    "src": "[C]Kagami",
+    "yax": "[C]Кагами",
+    "trx": "[C]Кагами"
+  },
+  "information_description_544": {
+    "src": "An inspector with a name that is difficult to remember.",
+    "yax": "Инспектор с именем, которое трудно запомнить.",
+    "trx": "Инспектор с именем, которое трудно запомнить."
+  },
+  "information_name_545": {
+    "src": "[R]Mama",
+    "yax": "[R]Мама",
+    "trx": "[R]Мама"
+  },
+  "information_description_545": {
+    "src": "A well-connected informant with lots of off-the-record intel.",
+    "yax": "Информатор с хорошими связями и большим количеством неофициальной информации.",
+    "trx": "Информатор с хорошими связями и множеством неофициальных сведений."
+  },
+  "information_name_546": {
+    "src": "[R]Pewter",
+    "yax": "[R]Оловянный",
+    "trx": "[R]Пьютер"
+  },
+  "information_description_546": {
+    "src": "An incredibly smart scientist and inventor of fantastic devices.",
+    "yax": "Невероятно умный ученый и изобретатель фантастических устройств.",
+    "trx": "Невероятно умный ученый и изобретатель фантастических устройств."
+  },
+  "information_name_547": {
+    "src": "[SR]Ota",
+    "yax": "[SR]Ota",
+    "trx": "[SR]Ота"
+  },
+  "information_description_547": {
+    "src": "A proud warrior who chases his dream career despite being an otaku whose only real skill is sockpuppeting on To-Witter.",
+    "yax": "Гордый воин, который преследует карьеру своей мечты, несмотря на то, что он отаку, чей единственный настоящий навык - играть в носках.",
+    "trx": "Гордый воин, гоняющийся за карьерой своей мечты, несмотря на то, что он отаку, чей единственный настоящий навык — подделка учетных записей в To-Witter."
+  },
+  "information_name_548": {
+    "src": "[SR]Moma",
+    "yax": "[SR]Moma",
+    "trx": "[SR]Мома"
+  },
+  "information_description_548": {
+    "src": "A jack of all trades who can fight close range or long range with the help of a certain illegal \"tool.\"",
+    "yax": "Мастер на все руки, который может сражаться на близком или дальнем расстоянии с помощью определенного незаконного \"инструмента\".",
+    "trx": "Мастер на все руки, который может сражаться как на близком, так и на дальнем расстоянии при помощи определенного незаконного \"инструмента\"."
+  },
+  "information_name_549": {
+    "src": "[SR]Boss",
+    "yax": "[Старший] Босс",
+    "trx": "[SR]Босс"
+  },
+  "information_description_549": {
+    "src": "Inflicting damage on society by exploiting the weaknesses of politicans and respectable socialites. ",
+    "yax": "Наносит ущерб обществу, используя слабости политиков и респектабельных светских львиц. ",
+    "trx": "Наносит ущерб обществу, используя слабости политиков и респектабельных светских львиц. "
+  },
+  "information_name_550": {
+    "src": "[SSR]Date",
+    "yax": "[SSR] Дата",
+    "trx": "[SSR]Датэ"
+  },
+  "information_description_550": {
+    "src": "A reliable and exceptional Special Agent who has solved numerous difficult cases with the help of certain magazines.",
+    "yax": "Надежный и исключительный Специальный агент, который раскрыл множество сложных дел с помощью определенных журналов.",
+    "trx": "Надежный и исключительный специальный агент, который раскрыл множество сложных дел с помощью определенных журналов."
+  },
+  "information_name_551": {
+    "src": "[SSR]Aiba",
+    "yax": "[ССР]Аиба",
+    "trx": "[SSR]Айба"
+  },
+  "information_description_551": {
+    "src": "An ultra-high-spec AI who can toy with her opponents using her extraordinary high-speed calculations.",
+    "yax": "Сверхвысокочастотный искусственный интеллект, который может играть со своими противниками, используя свои экстраординарные высокоскоростные вычисления.",
+    "trx": "Продвинутый искусственный интеллект, который может играть с противниками, используя свои экстраординарные высокоскоростные вычисления."
+  },
+  "information_name_552": {
+    "src": "[SSR]Mizuki",
+    "yax": "[ССР]Мидзуки",
+    "trx": "[SSR]Мизуки"
+  },
+  "information_description_552": {
+    "src": "An elementary school student with inhuman physical strength and the courage to stare down even well-armed foes.",
+    "yax": "Ученик начальной школы, обладающий нечеловеческой физической силой и смелостью, способной сразить даже хорошо вооруженных врагов.",
+    "trx": "Ученица начальной школы, обладающая нечеловеческой физической силой и смелостью, способной сразить даже хорошо вооруженных врагов."
+  },
+  "information_name_553": {
+    "src": "F",
+    "yax": "F",
+    "trx": "F"
+  },
+  "information_description_553": {
+    "src": "F",
+    "yax": "F",
+    "trx": "F"
+  },
+  "information_name_554": {
+    "src": "[SC]Black and White Bear",
+    "yax": "[SC]Черно-Белый медведь",
+    "trx": "[SC]Черно-белый медведь"
+  },
+  "information_description_554": {
+    "src": "Don't be fooled by the cute appearance: this is one scary bear who delivers extreme \"punishments.\"",
+    "yax": "Пусть вас не вводит в заблуждение симпатичный внешний вид: это один страшный медведь, который наносит экстремальные \"наказания\".",
+    "trx": "Пусть вас не вводит в заблуждение симпатичный внешний вид: это страшный медведь, который исполняет экстремальные \"наказания\"."
+  },
+  "information_name_555": {
+    "src": "[SC]Wanderer",
+    "yax": "[SC]Странник",
+    "trx": "[SC]Странник"
+  },
+  "information_description_555": {
+    "src": "A dungeon explorer known for breaking jars and has ventured into the dungeon thousands of times.",
+    "yax": "Исследователь подземелий, известный тем, что разбивает кувшины, и тысячи раз заходил в подземелье.",
+    "trx": "Исследователь подземелий, известный тем, что разбивал кувшины и тысячи раз посещал подземелья."
+  }
+}

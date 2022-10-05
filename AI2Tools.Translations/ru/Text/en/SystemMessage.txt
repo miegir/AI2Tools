@@ -677,12 +677,12 @@
   "operation_guide_500": {
     "src": "Switch Mode",
     "yax": "Переключение режима",
-    "trx": "<line-height=8>\nПереключить режим"
+    "trx": "<line-height=8>\n<size=80%>Переключить режим"
   },
   "operation_guide_501": {
     "src": "Hold: Mode List",
     "yax": "Удержание: Список режимов",
-    "trx": "<line-height=8>\nУдерживать: Список режимов"
+    "trx": "<size=80%>Удерживать: Список режимов"
   },
   "operation_guide_511": {
     "src": "Background\nCharacter\n\nLyrics ON/OFF\nUI ON/OFF\n\nSwitch Camera\nCamera Zoom\nCamera Reset\n\nPlay normal speed\nFastforward/cancel\nRewind/cancel\nSlow/cancel\n\nWatch from start\nMirrored\nPause/play\n\nPlay Grand Finale\nReturn to BONUS",
@@ -837,12 +837,12 @@
   "exsight_500": {
     "src": "Start of Investigation",
     "yax": "Начало расследования",
-    "trx": "Начать расследование"
+    "trx": "Начало расследования"
   },
   "exsight_501": {
     "src": "Obtain Information",
     "yax": "Получение Информации",
-    "trx": "Получить информацию"
+    "trx": "Полученная информация"
   },
   "exsight_502": {
     "src": "Normal",
@@ -872,7 +872,7 @@
   "exsight_507": {
     "src": "Reenacted",
     "yax": "Воспроизведенный",
-    "trx": null
+    "trx": "Реконструировано"
   },
   "language_select_500": {
     "src": "Japanese",

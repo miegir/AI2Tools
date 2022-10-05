@@ -1,0 +1,222 @@
+{
+  "fragmented_info_500": {
+    "src": "Confirm the status before the body combusted.",
+    "yax": "Подтвердите статус до того, как тело сгорело.",
+    "trx": "Осмотритесь в состоянии до того, как тело сгорело."
+  },
+  "fragmented_info_501": {
+    "src": "The CNT attached to the corpse's hip is extending towards the light.",
+    "yax": "УНТ, прикрепленный к бедру трупа, тянется к свету.",
+    "trx": "УНТ, привязанная к телу, тянется от бедра к выключателю."
+  },
+  "fragmented_info_502": {
+    "src": "There is a foreign object reaction from inside the corpse.",
+    "yax": "Внутри трупа происходит реакция на инородный предмет.",
+    "trx": "Изнутри тела исходит инородная реакция."
+  },
+  "fragmented_info_503": {
+    "src": "The end of the signboard that is stabbed into the corpse can be verified with X-ray mode.",
+    "yax": "Конец вывески, воткнутый в труп, можно проверить с помощью рентгеновского снимка.",
+    "trx": "Вставленный в тело конец знака можно осмотреть в рентгеновском режиме."
+  },
+  "fragmented_info_504": {
+    "src": "Confirm the status of the corpse.",
+    "yax": "Подтвердите статус трупа.",
+    "trx": "Изучите состояние тела."
+  },
+  "fragmented_info_505": {
+    "src": "There is some mark left inside the corpse.",
+    "yax": "Внутри трупа остался какой-то след.",
+    "trx": "Внутри трупа остался какой-то след."
+  },
+  "fragmented_info_506": {
+    "src": "There is an electromagnetic noise coming from somewhere in the wall.",
+    "yax": "Откуда-то из стены доносится электромагнитный шум.",
+    "trx": "Откуда-то из стены доносится электромагнитный шум."
+  },
+  "fragmented_info_507": {
+    "src": "There is a spot unnaturally producing heat.",
+    "yax": "Есть место, неестественно выделяющее тепло.",
+    "trx": "Есть место, неестественно выделяющее тепло."
+  },
+  "fragmented_info_508": {
+    "src": "Odd parts are buried inside the desk.",
+    "yax": "Лишние детали спрятаны внутри стола.",
+    "trx": "Что-то спрятано внутри стола."
+  },
+  "fragmented_info_509": {
+    "src": "Investigate the statue's material.",
+    "yax": "Исследуйте материал статуи.",
+    "trx": "Исследуйте материал статуи."
+  },
+  "fragmented_info_510": {
+    "src": "There is an unnatural reaction of matter somewhere below the floor.",
+    "yax": "Где-то под полом происходит неестественная реакция материи.",
+    "trx": "Где-то под полом присутствует неестественная реакция материи."
+  },
+  "fragmented_info_511": {
+    "src": "There is another unnatural reaction of matter below the floor.",
+    "yax": "Существует еще одна неестественная реакция материи под полом.",
+    "trx": "Присутствует еще одна неестественная реакция материи под полом."
+  },
+  "fragmented_info_512": {
+    "src": "There is an unnatural reaction of infrared light.",
+    "yax": "Существует неестественная реакция инфракрасного света.",
+    "trx": "Присутствует неестественная реакция инфракрасного света."
+  },
+  "fragmented_info_513": {
+    "src": "There is another unnatural reaction of infrared light.",
+    "yax": "Существует еще одна неестественная реакция инфракрасного света.",
+    "trx": "Присутствует еще одна неестественная реакция инфракрасного света."
+  },
+  "fragmented_info_514": {
+    "src": "Confirm the status of Komeji's corpse.",
+    "yax": "Подтвердите статус трупа Комедзи.",
+    "trx": "Осмотрите тело Комедзи."
+  },
+  "fragmented_info_515": {
+    "src": "There is an unnatural spot on the rope that was used to tie up Ryuki.",
+    "yax": "На веревке, которой был связан Рюки, есть неестественное пятно.",
+    "trx": "На веревке, которой был связан Рюки, есть неестественное пятно."
+  },
+  "fragmented_info_516": {
+    "src": "The camera tripod is tipped over.",
+    "yax": "Штатив камеры опрокинут.",
+    "trx": "Штатив камеры опрокинут."
+  },
+  "fragmented_info_517": {
+    "src": "There are objects other than the camera tipped over.",
+    "yax": "Есть другие объекты, кроме опрокинутой камеры.",
+    "trx": "Есть другие объекты, кроме опрокинутой камеры."
+  },
+  "fragmented_info_518": {
+    "src": "There is an unnatural heat source reaction.",
+    "yax": "Происходит неестественная реакция источника тепла.",
+    "trx": "Присутствует неестественная реакция источника тепла."
+  },
+  "fragmented_info_519": {
+    "src": "There are other unnatural heat source reactions.",
+    "yax": "Существуют и другие неестественные реакции источника тепла.",
+    "trx": "Присутствуют другие неестественные реакции источника тепла."
+  },
+  "fragmented_info_520": {
+    "src": "Check the door in front of the footprints.",
+    "yax": "Проверьте дверь напротив следов.",
+    "trx": "Проверьте дверь напротив следов."
+  },
+  "fragmented_info_521": {
+    "src": "Confirm the status of the corpse.",
+    "yax": "Подтвердите статус трупа.",
+    "trx": "Осмотрите тело."
+  },
+  "fragmented_info_522": {
+    "src": "Confirm the status of the inside of the corpse.",
+    "yax": "Подтвердите состояние внутренней части трупа.",
+    "trx": "Осмотрите внутреннюю часть тела."
+  },
+  "fragmented_info_523": {
+    "src": "There is an odd spot on the ground.",
+    "yax": "На земле есть странное пятно.",
+    "trx": "На земле находится странное пятно."
+  },
+  "fragmented_info_524": {
+    "src": "There is an unnatural object somewhere on the ground.",
+    "yax": "Где-то на земле лежит неестественный предмет.",
+    "trx": "Где-то на земле находится неестественный предмет."
+  },
+  "fragmented_info_525": {
+    "src": "Something other than snow was detected somewhere on the ground.",
+    "yax": "Где-то на земле было обнаружено что-то еще, кроме снега.",
+    "trx": "Где-то на земле было обнаружено что-то еще, кроме снега."
+  },
+  "fragmented_info_526": {
+    "src": "There is an unnatural heat source somewhere in the stone monument.",
+    "yax": "Где-то в каменном памятнике есть неестественный источник тепла.",
+    "trx": "Где-то в каменном монументе находится неестественный источник тепла."
+  },
+  "fragmented_info_527": {
+    "src": "Confirm the status of the corpse.",
+    "yax": "Подтвердите статус трупа.",
+    "trx": "Осмотрите тело."
+  },
+  "fragmented_info_528": {
+    "src": "There is a foreign objection reaction inside the corpse.",
+    "yax": "Внутри трупа возникает реакция инородного тела.",
+    "trx": "Внутри тела присутствует реакция инородного предмета."
+  },
+  "fragmented_info_529": {
+    "src": "Detected unnatural helium gas components in the vicinity.",
+    "yax": "Обнаружены неестественные компоненты газообразного гелия в непосредственной близости.",
+    "trx": "Поблизости обнаружены неестественные компоненты газообразного гелия."
+  },
+  "fragmented_info_530": {
+    "src": "Check the balloon.",
+    "yax": "Проверьте воздушный шар.",
+    "trx": "Осмотрите воздушный шар."
+  },
+  "fragmented_info_531": {
+    "src": "Detected a character string that is likely related to this incident.",
+    "yax": "Обнаружена символьная строка, которая, вероятно, связана с этим инцидентом.",
+    "trx": "Обнаружена символьная строка, которая, вероятно, связана с этим инцидентом."
+  },
+  "fragmented_info_532": {
+    "src": "There is a power switch for something.",
+    "yax": "Для чего-то есть выключатель питания.",
+    "trx": "Здесь находится какой-то выключатель."
+  },
+  "fragmented_info_533": {
+    "src": "Follow the power cable extending from the switch using X-ray mode.",
+    "yax": "Следуйте за кабелем питания, идущим от выключателя, используя режим рентгеновского снимка.",
+    "trx": "Следуйте за кабелем питания, идущим от выключателя, используя рентгеновский режим."
+  },
+  "fragmented_info_534": {
+    "src": "There is a suspicious part.",
+    "yax": "Есть одна подозрительная деталь.",
+    "trx": "Есть одна подозрительная деталь."
+  },
+  "fragmented_info_535": {
+    "src": "",
+    "yax": "",
+    "trx": ""
+  },
+  "fragmented_info_536": {
+    "src": "",
+    "yax": "",
+    "trx": ""
+  },
+  "fragmented_info_537": {
+    "src": "",
+    "yax": "",
+    "trx": ""
+  },
+  "fragmented_info_538": {
+    "src": "Objects that cannot be seen with the naked eye can be viewed with night-vision mode.",
+    "yax": "Объекты, которые не видны невооруженным глазом, можно просматривать в режиме ночного видения.",
+    "trx": "Объекты, которые не видны невооруженным глазом, можно рассмотреть в режиме ночного видения."
+  },
+  "fragmented_info_539": {
+    "src": "There is a mysterious metal plate.",
+    "yax": "Там есть таинственная металлическая пластина.",
+    "trx": "Там находится таинственная металлическая пластина."
+  },
+  "fragmented_info_540": {
+    "src": "There are other mysterious metal plates.",
+    "yax": "Есть и другие таинственные металлические пластины.",
+    "trx": "Присутствуют и другие таинственные металлические пластины."
+  },
+  "fragmented_info_541": {
+    "src": "Confirm the luminol reaction.",
+    "yax": "Подтвердите реакцию с люминолом.",
+    "trx": "Подтвердите реакцию с люминолом."
+  },
+  "fragmented_info_542": {
+    "src": "There are parts that have not been completely investigated yet.",
+    "yax": "Есть части, которые еще не были полностью исследованы.",
+    "trx": "Есть части, которые еще не были полностью исследованы."
+  },
+  "fragmented_info_543": {
+    "src": "What is inside the trash can?",
+    "yax": "Что находится внутри мусорного бака?",
+    "trx": "Что находится внутри мусорного бака?"
+  }
+}

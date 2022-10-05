@@ -1187,7 +1187,7 @@
   "title_737": {
     "src": "Corpse in Ceiling",
     "yax": "Труп в потолке",
-    "trx": "Труп на потолке"
+    "trx": "Тело на потолке"
   },
   "title_738": {
     "src": "Cathedral",
