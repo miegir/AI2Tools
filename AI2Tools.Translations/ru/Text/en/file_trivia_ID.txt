@@ -152,7 +152,7 @@
   "file_trivia_030": {
     "src": "The reason the corpse is on the blackboard is because it doesn't have internal organs anymore. The open space inside the body has a lower pressure than the outside. It's similar to how suctions cups work.",
     "yax": "Причина, по которой труп находится на доске, заключается в том, что у него больше нет внутренних органов. Открытое пространство внутри корпуса имеет более низкое давление, чем снаружи. Это похоже на то, как работают присоски.",
-    "trx": "☯️Причина, по которой труп находится на доске, заключается в том, что у него больше нет внутренних органов. Открытое пространство внутри корпуса имеет более низкое давление, чем снаружи. Это похоже на то, как работают присоски."
+    "trx": "Причина, по которой тело висит на доске, заключается в том, что у него отсутствуют внутренние органы. В пустом пространстве внутри тела давление ниже, чем снаружи. По такому же принципу работают присоски. "
   },
   "file_trivia_031": {
     "src": "Additionally, the simulation in the real world may be a simulation itself, kind of like a Matryoshka doll. Just so you know, I'm not saying I believe the simulation theory... The simulation theory isn't too credible because of this matryoshka aspect.",

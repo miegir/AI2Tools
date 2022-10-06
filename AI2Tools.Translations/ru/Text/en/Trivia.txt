@@ -143,11 +143,11 @@
     "src": "CNT is highly flammable carbon material... It doesn't stand a chance against 3,000 degree temperature, but it bonds with oxygen to create carbon dioxide which helps extinguish the flame.",
     "yax": "УНТ - это легковоспламеняющийся углеродный материал... У него нет шансов противостоять температуре в 3000 градусов, но он связывается с кислородом, образуя углекислый газ, который помогает погасить пламя.",
     "trx": "УНТ — это легковоспламеняющийся углеродный материал... Он не сможет выдержать температуру в 3000 градусов, но он соединяется с кислородом, образуя углекислый газ, помогающий погасить пламя."
-  },//TBT
+  },
   "trivia_031": {
     "src": "The reason the corpse is on the blackboard is because it doesn't have internal organs anymore. The open space inside the body has a lower pressure than the outside. It's similar to how suctions cups work. ",
     "yax": "Причина, по которой труп находится на доске, заключается в том, что у него больше нет внутренних органов. Открытое пространство внутри корпуса имеет более низкое давление, чем снаружи. Это похоже на то, как работают присоски. ",
-    "trx": "☯️Причина, по которой труп находится на доске, заключается в том, что у него больше нет внутренних органов. Открытое пространство внутри корпуса имеет более низкое давление, чем снаружи. Это похоже на то, как работают присоски. "
+    "trx": "Причина, по которой тело висит на доске, заключается в том, что у него отсутствуют внутренние органы. В пустом пространстве внутри тела давление ниже, чем снаружи. По такому же принципу работают присоски. "
   },
   "trivia_032": {
     "src": "Additionally, the simulation in the real world may be a simulation itself, kind of like a Matryoshka doll. Just so you know, I'm not saying I believe the simulation theory... The simulation theory isn't too credible because of this matryoshka aspect.",
