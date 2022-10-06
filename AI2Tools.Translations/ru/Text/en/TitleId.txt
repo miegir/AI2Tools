@@ -552,7 +552,7 @@
   "title_610": {
     "src": "Symbol of the Order of %",
     "yax": "Символ ордена %",
-    "trx": "Символ ордена %"
+    "trx": "Символ Ордена %"
   },
   "title_611": {
     "src": "Ota",
@@ -1167,7 +1167,7 @@
   "title_733": {
     "src": "Black Hole",
     "yax": "черная дыра",
-    "trx": "черная дыра"
+    "trx": "Черная дыра"
   },
   "title_734": {
     "src": "Projected Universe",
@@ -1182,7 +1182,7 @@
   "title_736": {
     "src": "Game Screen",
     "yax": "Игровой экран",
-    "trx": "Игровой экран"
+    "trx": "Экран игры"
   },
   "title_737": {
     "src": "Corpse in Ceiling",
