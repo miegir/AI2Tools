@@ -352,7 +352,7 @@
   "timie_information_002": {
     "src": "Remove {0} seconds\nfrom time cost",
     "yax": "Удалить {0} секунд\r\nот временных затрат",
-    "trx": "Вычитает {0} сек\nиз расхода времени"
+    "trx": "Вычитает {0} сек из\nрасхода времени"
   },
   "timie_information_003": {
     "src": "Time cost\nis {0} x",
@@ -362,12 +362,12 @@
   "timie_information_004": {
     "src": "Change time cost\nto 1/{0}",
     "yax": "Изменение временных затрат\r\nдо 1/{0}",
-    "trx": "<line-height=46>Сократить расход\nвремени в {0} раз(а)"
+    "trx": "<line-height=46>Сокращает расход\nвремени в {0} раз(а)"
   },
   "timie_information_005": {
     "src": "Change time cost\nto {0} seconds",
     "yax": "Изменение временных затрат\r\nдо {0} секунд",
-    "trx": "<line-height=46>Изменить расход\nвремени на {0} сек"
+    "trx": "<line-height=46>Изменяет расход\nвремени на {0} сек"
   },
   "ui_title_001": {
     "src": "Current Goal",
@@ -957,17 +957,17 @@
   "underwater_500": {
     "src": "Descend",
     "yax": "Спускаться",
-    "trx": "Спуск"
+    "trx": "<line-height=8>\nСпуск"
   },
   "underwater_501": {
     "src": "Ascend ",
     "yax": "Восходить ",
-    "trx": "Подъем "
+    "trx": "<line-height=8>\nПодъем "
   },
   "underwater_502": {
     "src": "Strafe",
     "yax": "Обстреливать",
-    "trx": "Движение"
+    "trx": "<line-height=8>\nДвижение"
   },
   "underwater_503": {
     "src": "Decelerate ",
