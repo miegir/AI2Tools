@@ -352,7 +352,7 @@
   "YukiNiSakuHana_001": {
     "src": "Late at night, I get a call from you",
     "yax": "Поздно ночью ты мне звонишь.",
-    "trx": "Поздно ночью я ты звонишь мне"
+    "trx": "Поздно ночью ты звонишь мне"
   },
   "YukiNiSakuHana_002": {
     "src": "Satellites circle and fade from view",

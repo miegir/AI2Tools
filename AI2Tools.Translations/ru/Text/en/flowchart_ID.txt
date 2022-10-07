@@ -607,7 +607,7 @@
   "flowchart_summary_571": {
     "src": "By syncing into Lien, a important truth is uncovered. \nLien unlocked the freezer at Brahman for Gen. When he opened the door...he saw the left half of a corpse.",
     "yax": "При синхронизации с Lien раскрывается важная истина. \nЛиен открыл морозильную камеру в Брахмане для генерала. Когда он открыл дверь... он увидел левую половину трупа.",
-    "trx": "При псинхронизации с Лиеном раскрывается важная информация. \nЛиен открыл в Брахмане морозильную камеру по просьбе Гена. Когда он открыл дверь... он увидел там левую половину трупа."
+    "trx": "При псинхронизации с Лиеном раскрывается важная информация. \nЛиен открыл в Брахмане морозильник по просьбе Гена. Когда он открыл дверь... он увидел там левую половину трупа."
   },
   "flowchart_summary_572": {
     "src": "Mizuki takes Lien to Brahman. Gen is nowhere to be found, but she doesn't have time to get permission from the owner. She needs to confirm what she saw in Lien's Somnium...\nMizuki orders Lien to open the lock on the freezer. Lien begrudgingly obliges and unlocks the freezer. Inside the freezer is...\n\"Who is this...?\"\nIt is the left half of an unknown person... There's a distinct mark on the face, but Mizuki doesn't know who it is...\nGen and Amame arrive at the scene, so Mizuki decides to start a conversation with everyone there.",
@@ -617,7 +617,7 @@
   "flowchart_summary_573": {
     "src": "Gen, Lien, and Amame are interrogated by Mizuki. The three of them say they know nothing about the body. Gen will not answer why there's a corpse in the freezer.\n",
     "yax": "Ген, Лиен и Амаме допрашиваются Мизуки. Все трое говорят, что ничего не знают о теле. Джен не ответит, почему в морозильной камере лежит труп.",
-    "trx": "Мизуки допрашивает Гена, Лиена и Амаме. Все трое говорят, что ничего не знают о теле. Ген не говорит, почему в морозильной камере лежит труп."
+    "trx": "Мизуки допрашивает Гена, Лиена и Амаме. Все трое говорят, что ничего не знают о теле. Ген не говорит, почему в мрозильнике лежит труп."
   },
   "flowchart_summary_574": {
     "src": "Mizuki leaves the restaurant to find she's surrounded by SAT. A battle begins, but another Gen shows up at the scene. \nThe true identity of the other Gen is Date. Date gets rid of the enemies with perverted powers, and they all head to the old machine room in the park. \nMizuki asks Date about the 6 years he was gone. She finds out it was Amame who asked Gen to hide the corpse. \nAgain they are attacked by SAT. Mizuki surrenders, but Amame steals a gun and runs out. Gen gets mobbed trying to help her. Seeing this, Amame pulls the trigger. The SAT is given permission to shoot and the echo of shots resonate into the night. Gen is shot protecting Amame... Gen passes away as he tells Amame how grateful he is to her. ",

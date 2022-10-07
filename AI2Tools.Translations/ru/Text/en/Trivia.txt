@@ -172,12 +172,12 @@
   "trivia_036": {
     "src": "You would think \"10 yen\" is the correct answer. If the price of the ball was 10 yen, that would make the price of the bat 110 yen, which would add up to 120 yen, and therefore the answer is 5 yen and the bat 105 yen... How cheap is that?! It's probably more expensive than Ryuki's \"bat and balls\"...",
     "yax": "Вы могли бы подумать, что \"10 иен\" - это правильный ответ. Если бы цена мяча составляла 10 иен, это сделало бы цену биты 110 иен, что в сумме составило бы 120 иен, и, следовательно, ответ - 5 иен, а бита - 105 иен... Насколько это дешево?! Это, наверное, дороже, чем \"бита и мячи\" Рюки...",
-    "trx": "☯️Вы могли бы подумать, что \"10 иен\" - это правильный ответ. Если бы цена мяча составляла 10 иен, это сделало бы цену биты 110 иен, что в сумме составило бы 120 иен, и, следовательно, ответ - 5 иен, а бита - 105 иен... Насколько это дешево?! Это, наверное, дороже, чем \"бита и мячи\" Рюки..."
+    "trx": "Вы могли бы подумать, что правильный ответ — это \"10 иен\". Но если бы мяч стоил 10 иен, то бита стоила бы тогда 110 иен, что в сумме составило бы 120 иен, и, следовательно, ответ — 5 иен, а бита стоит 105 иен... Насколько это дорого?! Наверняка дороже, чем \"бита и мячи\" Рюки..."
   },
   "trivia_037": {
     "src": "I estimated the depth by calculating the acceleration and the time spent in the elevator.",
     "yax": "Я оценил глубину, рассчитав ускорение и время, проведенное в лифте.",
-    "trx": "☯️Я оценил глубину, рассчитав ускорение и время, проведенное в лифте."
+    "trx": "Я прикинула глубину, рассчитав ускорение и время, проведенное в лифте."
   },
   "trivia_038": {
     "src": "After the New Cyclops Serial Killings, So Sejima's life as a politician ended. However, what So did wasn't technically illegal, so he hasn't been arrested or charged. He still has tons of money. So may not be a politician anymore, but he still holds tons of power.",
