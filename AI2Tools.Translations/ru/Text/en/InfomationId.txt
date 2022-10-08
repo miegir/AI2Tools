@@ -72,12 +72,12 @@
   "information_name_507": {
     "src": "Estimated TOD and Culprit",
     "yax": "Предполагаемый Виновник и Виновник",
-    "trx": "Предполагаемое время смерти и преступник"
+    "trx": "Время смерти и преступник"
   },
   "information_description_507": {
     "src": "The estimated time of death is around 19:00 today... The culprit is believed to be Tearer.",
     "yax": "Предполагаемое время смерти - сегодня около 19:00... Считается, что виновником является Слезоточивый газ.",
-    "trx": "Предполагаемое время смерти — сегодня около 19:00... Считается, что преступником является Рассекатель."
+    "trx": "Предполагаемое время смерти — сегодня около 19:00... Вероятно, преступником является Рассекатель."
   },
   "information_name_508": {
     "src": "Situation of Corpse Internals",
@@ -147,7 +147,7 @@
   "information_description_514": {
     "src": "An electromagnetic rail under the floor... It stretches from the southeast statue toward the pond.",
     "yax": "Электромагнитный рельс под полом... Она тянется от юго-восточной статуи к пруду.",
-    "trx": "Электромагнитный рельс под полом... Она тянется от юго-восточной статуи к пруду."
+    "trx": "Электромагнитный рельс под полом... Он тянется от юго-восточной статуи к пруду."
   },
   "information_name_515": {
     "src": "State of North Western Statue",

@@ -32,7 +32,7 @@
   "fragmented_info_506": {
     "src": "There is an electromagnetic noise coming from somewhere in the wall.",
     "yax": "Откуда-то из стены доносится электромагнитный шум.",
-    "trx": "Откуда-то из стены доносится электромагнитный шум."
+    "trx": "Откуда-то из стены исходит электромагнитный шум."
   },
   "fragmented_info_507": {
     "src": "There is a spot unnaturally producing heat.",

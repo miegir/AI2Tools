@@ -162,7 +162,7 @@
   "target_033": {
     "src": "Desktop",
     "yax": "Рабочий стол",
-    "trx": "Рабочий стол"
+    "trx": "Офисный стол"
   },
   "target_034": {
     "src": "Nonuple-X",
@@ -172,7 +172,7 @@
   "target_035": {
     "src": "Desk Front",
     "yax": "Стойка регистрации",
-    "trx": "Стойка регистрации"
+    "trx": "Передняя часть стола"
   },
   "target_036": {
     "src": "North-East Statue",
@@ -202,7 +202,7 @@
   "target_041": {
     "src": "South-East Statue",
     "yax": "Юго-Восточная статуя",
-    "trx": "Юго-восточная статуя"
+    "trx": "Юго-западная статуя"
   },
   "target_042": {
     "src": "Houseplant",
@@ -227,7 +227,7 @@
   "target_046": {
     "src": "Light",
     "yax": "Свет",
-    "trx": "Свет"
+    "trx": "Освещение"
   },
   "target_501": {
     "src": "Glass Doll",
@@ -257,7 +257,7 @@
   "target_052": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Сиденье"
   },
   "target_053": {
     "src": "Corpse",

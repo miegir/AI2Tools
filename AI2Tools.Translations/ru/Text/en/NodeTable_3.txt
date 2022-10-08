@@ -2,7 +2,7 @@
   "target_002": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Сиденье"
   },
   "target_003": {
     "src": "Two-way Mirror",

@@ -37,6 +37,8 @@
     <Expression Match="\b[Оо]х+\b" />
     <Expression Match="\b[Уу]ти-пути\b" />
     <Expression Match="\bа(ха)+\b" />
+    <Expression Match="\bАма-но Ивато\b" />
+    <Expression Match="\bАматэрасу-о-миками\b" />
     <Expression Match="\bАмэ-но Удзумэ\b" />
     <Expression Match="\bбукинг-агентство\b" />
     <Expression Match="\bвы?кл\." />
@@ -45,8 +47,7 @@
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\bАматэрасу-о-миками\b" />
-    <Expression Match="\bАма-но Ивато\b" />
+    <Expression Match="\bнее+т\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>
