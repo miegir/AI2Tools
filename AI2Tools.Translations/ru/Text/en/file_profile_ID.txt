@@ -1152,7 +1152,7 @@
   "file_profile_220": {
     "src": "Kumakura member. He isn't taking the divorce well... He says weird things, but that's supposedly caused by watching the Nirvana Trial video.",
     "yax": "Член Кумакуры. Он плохо переносит развод... Он говорит странные вещи, но предположительно это вызвано просмотром пробного видео Nirvana.",
-    "trx": "Член семьи Кумакура. Он плохо переносит развод... Он говорит странные вещи, но это вероятно вызвано просмотром видео Nirvana Trial."
+    "trx": "Член семьи Кумакура. Он плохо переносит развод... Он говорит странные вещи, но это вероятно вызвано просмотром видео Испытание нирваны."
   },
   "file_profile_221": {
     "src": "Ritsuko Enshu",
