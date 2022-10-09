@@ -607,7 +607,7 @@
   "title_621": {
     "src": "Broken Watch",
     "yax": "Сломанные Часы",
-    "trx": "Сломанные часы"
+    "trx": "Разбитые часы"
   },
   "title_622": {
     "src": "Cathedral [East]",
