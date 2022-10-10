@@ -157,7 +157,7 @@
   "file_trivia_031": {
     "src": "Additionally, the simulation in the real world may be a simulation itself, kind of like a Matryoshka doll. Just so you know, I'm not saying I believe the simulation theory... The simulation theory isn't too credible because of this matryoshka aspect.",
     "yax": "Кроме того, симуляция в реальном мире может быть сама по себе симуляцией, чем-то вроде матрешки. Просто чтобы вы знали, я не говорю, что верю в теорию симуляции... Теория моделирования не слишком правдоподобна из-за этого аспекта матрешки.",
-    "trx": "Кроме того, симуляция реального мира может находиться внутри другой симуляции, что напоминает матрешку. Между прочим, я не говорю, что верю в теорию симуляции... Теория моделирования не может считаться правдоподобной из-за этого аспекта матрешки."
+    "trx": "Кроме того, симуляция реального мира может находиться внутри другой симуляции, что напоминает матрешку. Между прочим, я не говорю, что верю в теорию симуляции... Теория симуляции не может считаться правдоподобной из-за этого аспекта матрешки."
   },
   "file_trivia_032": {
     "src": "In Kyoto, people say \"you have a nice watch\" as a way to say \"can we stop talking already?\" By making someone look at their watch, they'll see how much time they've spent to prompt them to ask them to wrap up the conversation. Tokiko doesn't have a watch, so she must've been really annoyed when she heard this.",
@@ -187,7 +187,7 @@
   "file_trivia_037": {
     "src": "After the New Cyclops Serial Killings, So Sejima's life as a politician ended. However, what So did wasn't technically illegal, so he hasn't been arrested or charged. He still has tons of money. So may not be a politician anymore, but he still holds tons of power.",
     "yax": "После Новых серийных убийств Циклопов жизнь Сэдзимы как политика закончилась. Однако то, что сделал Со, технически не было незаконным, поэтому он не был арестован или обвинен. У него все еще есть куча денег. Так что, возможно, он больше не политик, но он по-прежнему обладает огромной властью.",
-    "trx": "☯️После Новых серийных убийств Циклопов жизнь Сэдзимы как политика закончилась. Однако то, что сделал Со, технически не было незаконным, поэтому он не был арестован или обвинен. У него все еще есть куча денег. Так что, возможно, он больше не политик, но он по-прежнему обладает огромной властью."
+    "trx": "После серийных убийств нового Циклопа жизнь Сэдзимы в качестве политика закончилась. Однако то, что сделал Со, технически не было незаконным, поэтому он не был арестован или обвинен. У него все еще осталась куча денег. Так что, хоть он больше, возможно, и не политик, но он по-прежнему обладает огромной властью."
   },
   "file_trivia_038": {
     "src": "By the way, don't even think about slapping Komeji to wake him up. After a Psync session, the brain is in a delicate state. It's better for him to wake up naturally.",
@@ -237,7 +237,7 @@
   "file_trivia_504": {
     "src": "Halloween is all about costumes. Speaking of costumes makes me think about monsters, which makes me think about unidentified animals (UMA). I think my favorite UMA is the \"Chupacabra\" found in Puerto Rico. It has big fangs in its mouth, and it sucks the blood of humans and livestock. It can jump over fifteen feet. I don't remember the specific height... but it seems to be relatively small in comparison to other monsters.",
     "yax": "Хэллоуин - это все о костюмах. Разговор о костюмах заставляет меня думать о монстрах, что заставляет меня думать о неопознанных животных (УМА). Я думаю, что моя любимая УМА - это \"Чупакабра\", найденная в Пуэрто-Рико. У него большие клыки во рту, и он сосет кровь людей и домашнего скота. Он может прыгать более чем на пятнадцать футов. Я не помню конкретной высоты... но он кажется относительно маленьким по сравнению с другими монстрами.",
-    "trx": "☯️Хэллоуин - это все о костюмах. Разговор о костюмах заставляет меня думать о монстрах, что заставляет меня думать о неопознанных животных (УМА). Я думаю, что моя любимая УМА - это \"Чупакабра\", найденная в Пуэрто-Рико. У него большие клыки во рту, и он сосет кровь людей и домашнего скота. Он может прыгать более чем на пятнадцать футов. Я не помню конкретной высоты... но он кажется относительно маленьким по сравнению с другими монстрами."
+    "trx": "☯️Хэллоуин - это все о костюмах. Разговор о костюмах заставляет меня думать о монстрах, что заставляет меня думать о неопознанных животных (криптидах). Я думаю, что моя любимая УМА - это \"Чупакабра\", найденная в Пуэрто-Рико. У него большие клыки во рту, и он сосет кровь людей и домашнего скота. Он может прыгать более чем на пятнадцать футов. Я не помню конкретной высоты... но он кажется относительно маленьким по сравнению с другими монстрами."
   },
   "file_trivia_043": {
     "src": "Lien and Shoma became friends after the incident six years ago. Mizuki was the one who put them together... Shoma lost his father six years ago. Mizuki thought it would be a good idea to introduce Lien to Shoma to cheer him up. Nowadays, they are almost like brothers, though it's hard to tell who the older one and who the younger one is...",

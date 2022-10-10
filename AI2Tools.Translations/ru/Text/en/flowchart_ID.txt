@@ -417,7 +417,7 @@
   "flowchart_summary_533": {
     "src": "Ryuki goes all over the city to look for Kizuna. During his search, he runs into Date and Mizuki among others. They decide to work together to find Kizuna... That's when Date gets some unexpected information... A man in an iron mask is at the Sejima residence. Ryuki rushes over there. There, he sees So and Iris collapsed in front of him. Without knowing the circumstances, Ryuki takes Iris and talks to her. She overheard So and Tearer talking in the garden. But due to a concussion, she can't remember the details. A Wink Psync reveals the phrase \"execution chamber.\" Kizuna must be there... If Ryuki can access Iris's memory...",
     "yax": "Рюки ходит по всему городу в поисках Кидзуны. Во время своих поисков он сталкивается с Датой и Мизуки среди прочих. Они решают работать вместе, чтобы найти Кидзуну... Вот тогда-то Дата и получает неожиданную информацию... Человек в железной маске находится в резиденции Седжима. Рюки бросается туда. Там он видит, что Так и Айрис рухнули перед ним. Не зная обстоятельств, Рюки берет Айрис и разговаривает с ней. Она подслушала разговор Со и Тирера в саду. Но из-за сотрясения мозга она не может вспомнить деталей. Подмигивание Psync показывает фразу \"камера казни\". Кидзуна должен быть там... Если Рюки сможет получить доступ к памяти Айрис...",
-    "trx": "Рюки обходит весь город в поисках Кизуны. Во время своих поисков он сталкивается в том числе с Датэ и Мизуки. Они решают сотрудничать в поисках Кизуны... В этот момент Датэ получает неожиданную информацию... Человек в железной маске находится в резиденции Седзимы. Рюки бросается туда. В резиденции он находит Со, а Айрис теряет перед ним сознание. Не понимая, что происходит, Рюки забирает Айрис и разговаривает с ней. Она подслушала в саду разговор между Со и Рассекателем. Но из-за сотрясения мозга она не может вспомнить деталей. Винк-псинк открывает фразу \"камера для казни\". Кизуна должна быть там... Как же Рюки получить доступ к памяти Айрис..."
+    "trx": "Рюки обходит весь город в поисках Кизуны. Во время своих поисков он сталкивается в том числе с Датэ и Мизуки. Они решают сотрудничать в поисках Кизуны... В этот момент Датэ получает неожиданную информацию... Человек в железной маске находится в резиденции Сэдзимы. Рюки бросается туда. В резиденции он находит Со, а Айрис теряет перед ним сознание. Не понимая, что происходит, Рюки забирает Айрис и разговаривает с ней. Она подслушала в саду разговор между Со и Рассекателем. Но из-за сотрясения мозга она не может вспомнить деталей. Винк-псинк открывает фразу \"камера для казни\". Кизуна должна быть там... Как же Рюки получить доступ к памяти Айрис..."
   },
   "flowchart_summary_534": {
     "src": "Subject: Iris\nObjective: Make Iris remember what she heard\nSummary: Iris eavesdropped on a conversation between So \nand the suspected culprit, but she lost her memory.\nRetrace Iris's steps and make her remember!",
@@ -1947,7 +1947,7 @@
   "flowchart_other_message_window_533": {
     "src": "End the game and return to title menu.\nProceed?",
     "yax": "Завершите игру и вернитесь в меню заголовка.\nПродолжить?",
-    "trx": "Завершить игру и вернуться в главное меню.\nПродолжить?"
+    "trx": "Завершение игры и возврат в главное меню.\nПродолжить?"
   },
   "flowchart_other_message_window_534": {
     "src": "Required data is not installed. You will be able to continue playing after installation is complete.",

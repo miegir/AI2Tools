@@ -272,7 +272,7 @@
   "011_004": {
     "src": "The simulation theory. Have you heard of it?",
     "yax": "Теория моделирования. Вы слышали об этом?",
-    "trx": "Теория моделирования. Вы слышали о ней?"
+    "trx": "Теория симуляции. Вы слышали о ней?"
   },
   "011_005": {
     "src": "That the world is an artificial simulation of reality created by someone or something.",

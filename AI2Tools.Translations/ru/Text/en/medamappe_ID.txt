@@ -107,7 +107,7 @@
   "medamappe_fukidashi_022": {
     "src": "What UMA do you like?",
     "yax": "Какая УМА тебе нравится?",
-    "trx": "Какое УМА вам нравится?"
+    "trx": "Какой криптид вам нравится?"
   },
   "medamappe_fukidashi_023": {
     "src": "What phenomenon do you like?",
