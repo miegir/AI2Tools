@@ -1287,12 +1287,12 @@
   "title_757": {
     "src": "Note",
     "yax": "Примечание",
-    "trx": "Заметка"
+    "trx": "Записка"
   },
   "title_758": {
     "src": "Van",
     "yax": "Ван",
-    "trx": "Вэн" //spell-ignore-line
+    "trx": "Фургон"
   },
   "title_759": {
     "src": "Lab",
