@@ -192,7 +192,7 @@
   "file_trivia_038": {
     "src": "By the way, don't even think about slapping Komeji to wake him up. After a Psync session, the brain is in a delicate state. It's better for him to wake up naturally.",
     "yax": "Кстати, даже не думай о том, чтобы дать Комедзи пощечину, чтобы разбудить его. После сеанса Psync мозг находится в деликатном состоянии. Для него лучше просыпаться естественным путем.",
-    "trx": "☯️Кстати, даже не думай о том, чтобы дать Комедзи пощечину, чтобы разбудить его. После сеанса Psync мозг находится в деликатном состоянии. Для него лучше просыпаться естественным путем."
+    "trx": "Кстати, не стоит даже думать о том, чтобы разбудить Комедзи, дав ему пощечину. После сеанса псинхронизации мозг находится в деликатном состоянии. Лучше для него будет проснуться естественным путем."
   },
   "file_trivia_039": {
     "src": "We showed the security guard at Misetan our Police IDs to get in here. We told him this was regarding the investigation and he let us through. The main power at the amusement park is still on, and the key to the Ferris wheel control board is still stuck in the ignition, so it would be easy to move this.",

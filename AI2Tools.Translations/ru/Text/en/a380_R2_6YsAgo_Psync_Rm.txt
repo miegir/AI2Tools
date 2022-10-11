@@ -62,7 +62,7 @@
   "001_013": {
     "src": "He lied about the hidden message in Bats490 pointing to Horadori Institute...",
     "yax": "Он солгал о скрытом сообщении в Bats490, указывающем на Институт Хорадори...",
-    "trx": "Он солгал о скрытом сообщении в Bats490, указывающем на институт Хорадори..."
+    "trx": "Он солгал о скрытом сообщении в Bats490, указав на институт Хорадори..."
   },
   "001_014": {
     "src": "Maybe this is related.",
@@ -92,7 +92,7 @@
   "001_019": {
     "src": "But he and Shoma are in the middle of a fight...",
     "yax": "Но они с Шомой в самом разгаре ссоры...",
-    "trx": "Но они с Шомой в самом разгаре ссоры..."
+    "trx": "Но они с Шомой сейчас в ссоре..."
   },
   "001_020": {
     "src": "It might actually have the opposite effect...",
