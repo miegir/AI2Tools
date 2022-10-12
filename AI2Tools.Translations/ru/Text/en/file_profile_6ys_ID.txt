@@ -92,7 +92,7 @@
   "file_profile_6ys_008": {
     "src": "Raising Clione, Collecting Adorabbit Merch",
     "yax": "Растим Клиону, Собираем товары Adorabbit",
-    "trx": "Выращивание Клионы, Коллекционирование плюшевых кроликов"
+    "trx": "Выращивание клионы, Коллекционирование плюшевых кроликов"
   },
   "file_profile_6ys_009": {
     "src": "Martial Arts (All)",

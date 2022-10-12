@@ -417,7 +417,7 @@
   "target_088": {
     "src": "Choose Adorabbit",
     "yax": "Выберите Adorabbit",
-    "trx": "Выбрать плюшевого кролика"
+    "trx": "Выбрать Адораббита"
   },
   "target_089": {
     "src": "Choose Omelet Rice",

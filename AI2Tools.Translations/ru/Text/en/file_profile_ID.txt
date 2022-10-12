@@ -92,7 +92,7 @@
   "file_profile_008": {
     "src": "Raising Clione, Collecting Adorabbit Merch",
     "yax": "Растим Клиону, Собираем товары Adorabbit",
-    "trx": "Выращивание Клионы, Коллекционирование плюшевых кроликов"
+    "trx": "Выращивание клионы, Коллекционирование плюшевых кроликов"
   },
   "file_profile_009": {
     "src": "Beating Up Bad Guys, Motorcycle Riding",
