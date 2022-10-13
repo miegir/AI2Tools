@@ -24,8 +24,10 @@
     <Expression Match="\\&quot;-er\\&quot;" />
     <Expression Match="\\&quot;Нави\\&quot;" />
     <Expression Match="\\n" />
+    <Expression Match="\b(\w+)(?=\b.*//spell-ignore:\1\b)" />
     <Expression Match="\b[Аа]аа+!" />
     <Expression Match="\b[Аа]нти-тел" />
+    <Expression Match="\b[Аа]хх+\b" />
     <Expression Match="\b[Бб]ой-бенд" />
     <Expression Match="\b[Вв]инк-псинк" />
     <Expression Match="\b[Гг]рр+\b" />
@@ -42,13 +44,14 @@
     <Expression Match="\bАмэ-но Удзумэ\b" />
     <Expression Match="\bбукинг-агентство\b" />
     <Expression Match="\bвы?кл\." />
+    <Expression Match="\bМачу-Пикчу\b" />
     <Expression Match="\bмм+\b" />
     <Expression Match="\bнее+т\b" />
     <Expression Match="\bХа(ха)+\b" />
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
-    <Expression Match="\b[Аа]хх+\b" />
+    <Expression Match="//spell-ignore:\w+\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>

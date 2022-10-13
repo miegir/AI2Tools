@@ -2412,7 +2412,7 @@
   "055_013": {
     "src": "Tch!",
     "yax": "Тч!",
-    "trx": "Уфф!" //spell-ignore-line
+    "trx": "Тч!" //spell-ignore-line
   },
   "056_001": {
     "src": "This place is...",
