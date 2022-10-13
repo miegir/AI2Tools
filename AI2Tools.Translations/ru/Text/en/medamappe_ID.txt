@@ -4622,22 +4622,22 @@
   "medamappe_parameter_001": {
     "src": "Brave ",
     "yax": "Храбрый ",
-    "trx": "Храбрость"
+    "trx": "Смелость"
   },
   "medamappe_parameter_002": {
     "src": "Loving",
     "yax": "Любящий",
-    "trx": "Любовь   "
+    "trx": "Любовь  "
   },
   "medamappe_parameter_003": {
     "src": "Impish",
     "yax": "Озорной",
-    "trx": "Озорство "
+    "trx": "Озорство"
   },
   "medamappe_parameter_004": {
     "src": "Crazy ",
     "yax": "Сумасшедший ",
-    "trx": "Безумие  "
+    "trx": "Безумие "
   },
   "medamappe_parameter_500": {
     "src": "Age ",
@@ -4766,7 +4766,7 @@
   },
   "medamappe_parameter_512": {
     "src": "▼Organism\nA Child with intense bravery.\nIrrationally beats up villains and \nmiddle-aged men by swinging her metal \npipe. Loves Adorabbit.\n",
-    "yax": "▼Организм\nРебенок с невероятной храбростью.\nИррационально избивает злодеев и \nмужчин среднего возраста, размахивая своим металлическим \nтруба. Обожает Adorabbit.",
+    "yax": "▼Организм\nРебенок с невероятной смелостью.\nИррационально избивает злодеев и \nмужчин среднего возраста, размахивая своим металлическим \nтруба. Обожает Adorabbit.",
     "trx": "▼Организм\nНевероятно храбрый ребенок.\nЛюбит избивать злодеев и \nмужчин среднего возраста своей металлической \nтрубой. Обожает плюшевых кроликов."
   },
   "medamappe_parameter_513": {
