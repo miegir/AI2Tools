@@ -217,12 +217,12 @@
   "information_description_520": {
     "src": "There is an electric kettle on the floor.",
     "yax": "На полу установлен электрический чайник.",
-    "trx": "На полу находится электрический чайник."
+    "trx": "На полу валяется электрический чайник."
   },
   "information_name_521": {
     "src": "Hot Water Spilled Near Kettle",
     "yax": "Горячая Вода Пролилась Рядом С Чайником",
-    "trx": "Горячая вода, разлитая рядом с чайником"
+    "trx": "Горячая вода рядом с чайником"
   },
   "information_description_521": {
     "src": "There is hot water spilled near the kettle...",
