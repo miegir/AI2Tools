@@ -602,7 +602,7 @@
   "title_620": {
     "src": "Electron Microscope Image of TC-Perge",
     "yax": "Изображение TC-Perge под электронным микроскопом",
-    "trx": "Вид TC-PERGE под электронным микроскопом"
+    "trx": "TC-PERGE под электронным микроскопом"
   },
   "title_621": {
     "src": "Broken Watch",
