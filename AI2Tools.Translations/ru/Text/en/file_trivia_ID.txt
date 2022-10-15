@@ -217,7 +217,7 @@
   "file_trivia_041": {
     "src": "Bodhidharma meditated in the direction of the wall for nine years. There have been idioms created about this. Since he was in the same position for so long, his limbs rotted off, which is why the \"Daruma\" dolls sold in stores look the way they look.",
     "yax": "Бодхидхарма медитировал в направлении стены в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продаваемые в магазинах, выглядят так, как они выглядят.",
-    "trx": "Бодхидхарма медитировал по направлению к стене в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продающиеся в магазинах, выглядят так, как они выглядят."
+    "trx": "Бодхидхарма медитировал лицом к стене в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продающиеся в магазинах, выглядят так, как они выглядят."
   },
   "file_trivia_503": {
     "src": "The Ujisaki Family is a diabolical criminal group. Basically, they earn their income through illegal activities in the underworld, but they also seem to be receiving requests for work from secret societies. It seems that they have connections with the Freemasons... You know, Freemasons, a fraternal society said to have been created in the late 16th or early 17th century. They have members all over the world. They call each other \"Brother,\" and they operate from the Grand Lodge, their headquarters... ",

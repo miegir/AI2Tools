@@ -377,7 +377,7 @@
   "title_575": {
     "src": "All Red",
     "yax": "Весь Красный",
-    "trx": "Весь красный"
+    "trx": "Красный"
   },
   "title_576": {
     "src": "Bodhidharma's 9-Year Meditation",

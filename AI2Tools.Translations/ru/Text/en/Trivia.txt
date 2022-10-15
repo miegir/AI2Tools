@@ -212,7 +212,7 @@
   "trivia_044": {
     "src": "Bodhidharma meditated in the direction of the wall for nine years. There have been idioms created about this. Since he was in the same position for so long, his limbs rotted off, which is why the \"Daruma\" dolls sold in stores look the way they look.",
     "yax": "Бодхидхарма медитировал в направлении стены в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продаваемые в магазинах, выглядят так, как они выглядят.",
-    "trx": "Бодхидхарма медитировал по направлению к стене в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продающиеся в магазинах, выглядят так, как они выглядят."
+    "trx": "Бодхидхарма медитировал лицом к стене в течение девяти лет. По этому поводу были созданы идиомы. Поскольку он так долго находился в одном и том же положении, его конечности сгнили, вот почему куклы \"Дарума\", продающиеся в магазинах, выглядят так, как они выглядят."
   },
   "trivia_045": {
     "src": "By the way, 1 Konvertibilna Marka is equivalent to 64 yen. So 100,000 Konvertibilna Marka is 6,400,000 yen... That's so much money! How rich is Ryuki?! I don't think Lien knew that... Sheesh.",
