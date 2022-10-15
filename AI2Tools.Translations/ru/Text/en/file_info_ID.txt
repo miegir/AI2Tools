@@ -1462,12 +1462,12 @@
   "file_info_title_500": {
     "src": "Nirvana X",
     "yax": "Нирвана X",
-    "trx": "☯️Нирвана X"
+    "trx": "Nirvana X"
   },
   "file_info_title_501": {
     "src": "Nirvana Trial",
     "yax": "Испытание Нирваной",
-    "trx": "☯️Испытание Нирваной"
+    "trx": "Nirvana Trial"
   },
   "file_info_title_079": {
     "src": "Neanderthal",

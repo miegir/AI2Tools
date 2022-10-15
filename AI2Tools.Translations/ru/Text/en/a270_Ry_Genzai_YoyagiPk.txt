@@ -427,6 +427,6 @@
   "choice_004": {
     "src": "Do you know about the Nirvana Trial?",
     "yax": "Вы знаете о суде над Нирваной?",
-    "trx": "Вы знаете об Испытании нирваны?"
+    "trx": "Вы знаете о Nirvana Trial?"
   }
 }

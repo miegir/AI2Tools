@@ -212,12 +212,12 @@
   "004_010": {
     "src": "But...the Nirvana Trial on the other hand...",
     "yax": "Но... испытание Нирваной, с другой стороны...",
-    "trx": "Но... Испытание нирваны, с другой стороны..."
+    "trx": "Но... Nirvana Trial, с другой стороны..."
   },
   "004_011": {
     "src": "\"Nirvana Trial\"...?",
     "yax": "\"Испытание Нирваной\"...?",
-    "trx": "\"Испытание нирваны\"...?"
+    "trx": "\"Nirvana Trial\"...?"
   },
   "004_012": {
     "src": "...",
@@ -232,7 +232,7 @@
   "choice_002": {
     "src": "What's the Nirvana Trial?",
     "yax": "Что такое испытание Нирваной?",
-    "trx": "Что такое Испытание нирваны?"
+    "trx": "Что такое Nirvana Trial?"
   },
   "005_001": {
     "src": "It's a video that's been going viral.",
@@ -287,7 +287,7 @@
   "005_011": {
     "src": "But the Nirvana Trial is different!",
     "yax": "Но испытание Нирваной - это совсем другое дело!",
-    "trx": "Но Испытание нирваны совсем другое!"
+    "trx": "Но Nirvana Trial совсем другое!"
   },
   "005_012": {
     "src": "It's not just a game. It's real.",
@@ -352,7 +352,7 @@
   "006_002": {
     "src": "I only know about the video called the Nirvana Trial.",
     "yax": "Я знаю только о видео под названием \"Испытание Нирваны\".",
-    "trx": "Я знаю лишь о видео под названием \"Испытание нирваны\"."
+    "trx": "Я знаю лишь о видео под названием \"Nirvana Trial\"."
   },
   "007_001": {
     "src": "I'm sorry, but please don't ask about my dad...",

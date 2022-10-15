@@ -447,7 +447,7 @@
   "title_589": {
     "src": "Nirvana Trial",
     "yax": "Испытание Нирваной",
-    "trx": "Испытание нирваны"
+    "trx": "Nirvana Trial"
   },
   "title_590": {
     "src": "Refrigerator",
@@ -527,12 +527,12 @@
   "title_605": {
     "src": "Number of Nirvana X",
     "yax": "Количество Нирваны X",
-    "trx": "Число Нирваны-X"
+    "trx": "Число из Nirvana X"
   },
   "title_606": {
     "src": "Alphabetic String of Nirvana X",
     "yax": "Буквенная строка Nirvana X",
-    "trx": "Текст Нирваны-X"
+    "trx": "Буквы из Nirvana X"
   },
   "title_607": {
     "src": "Riichi",
