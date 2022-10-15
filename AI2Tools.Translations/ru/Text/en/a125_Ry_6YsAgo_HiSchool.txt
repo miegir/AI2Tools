@@ -42,7 +42,7 @@
   "001_009": {
     "src": "That's Mame! She's one of my best friends!",
     "yax": "Это Мэйми! Она одна из моих лучших подруг!",
-    "trx": "Это Маме! Она одна из моих лучших подруг!"
+    "trx": "Это Мэйми! Она одна из моих лучших подруг!"
   },
   "001_010": {
     "src": "Nice to meet you! My name is Amame Doi.",
@@ -202,7 +202,7 @@
   "003_006": {
     "src": "So I invited Mame, and we just kinda ended up here...",
     "yax": "Так что я пригласил Мэйм, и мы просто оказались здесь...",
-    "trx": "Так что я пригласила Маме, и мы просто оказались здесь..."
+    "trx": "Так что я пригласила Мэйми, и мы просто оказались здесь..."
   },
   "003_007": {
     "src": "Iris and Amame are third years... They'll be graduating soon.",
@@ -312,7 +312,7 @@
   "007_001": {
     "src": "It's Amame Doi. Her friends call her Mame.",
     "yax": "Это Амаме Дои. Ее друзья называют ее Мэйми.",
-    "trx": "Это Амаме Дои. Друзья называют ее Маме."
+    "trx": "Это Амаме Дои. Друзья называют ее Мэйми."
   },
   "008_001": {
     "src": "Wooow, Amame turned into a skeleton!",
@@ -357,7 +357,7 @@
   "009_003": {
     "src": "But Mame is so smart!",
     "yax": "Но Мэйми такая умная!",
-    "trx": "Но Маме такая умная!"
+    "trx": "Но Мэйми такая умная!"
   },
   "009_004": {
     "src": "She always has the best grades, even though she doesn't go to class much.",
@@ -397,7 +397,7 @@
   "009_011": {
     "src": "Mame works there at night after dance practice...",
     "yax": "Мэйм работает там по вечерам после танцевальной практики...",
-    "trx": "Маме работает там по вечерам после танцевальной практики..."
+    "trx": "Мэйми работает там по вечерам после танцевальной практики..."
   },
   "choice_001": {
     "src": "How late do you work?",

@@ -227,7 +227,7 @@
   "010_016": {
     "src": "Miss Iris, Miss Mame, and I were having dinner at Yurakucho.",
     "yax": "Мисс Айрис, мисс Мэйми и я ужинали в Юракучо.",
-    "trx": "Мисс Айрис, мисс Маме и я ужинали в Юракутё."
+    "trx": "Мисс Айрис, мисс Мэйми и я ужинали в Юракутё."
   },
   "010_017": {
     "src": "Then I got a NILE message from Shoma...",

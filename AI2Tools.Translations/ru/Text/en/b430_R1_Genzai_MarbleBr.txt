@@ -567,7 +567,7 @@
   "choice_003": {
     "src": "Do you know where Mame is?",
     "yax": "Ты знаешь, где Мэйми?",
-    "trx": "Ты не знаешь, где Маме?"
+    "trx": "Ты не знаешь, где Мэйми?"
   },
   "choice_004": {
     "src": "How about any information on the HB case...?",

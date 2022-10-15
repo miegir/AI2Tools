@@ -197,7 +197,7 @@
   "information_description_518": {
     "src": "Mame's fake nail on the rope I was bound in...",
     "yax": "Фальшивый ноготь Мэйми на веревке, которой я был связан...",
-    "trx": "Накладной ноготь Маме на веревке, которой меня связали..."
+    "trx": "Накладной ноготь Мэйми на веревке, которой меня связали..."
   },
   "information_name_519": {
     "src": "Camera Tripod",
