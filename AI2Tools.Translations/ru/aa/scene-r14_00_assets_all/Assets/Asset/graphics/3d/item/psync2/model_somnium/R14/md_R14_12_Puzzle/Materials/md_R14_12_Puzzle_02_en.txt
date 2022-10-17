@@ -1,0 +1,13 @@
+﻿A (Bigfoot):
+Footprint			Следы
+Dog					Собака
+Oregon				Орегон
+Fur					Мех
+Patterson-Gimlin	Паттерсон-Гимлин
+
+B (Chupacabra):
+Fangs				Клыки
+Leap				Прыжок
+Blood				Кровь
+Puerto Rico			Пуэрто-Рико
+Livestock			Домашний скот

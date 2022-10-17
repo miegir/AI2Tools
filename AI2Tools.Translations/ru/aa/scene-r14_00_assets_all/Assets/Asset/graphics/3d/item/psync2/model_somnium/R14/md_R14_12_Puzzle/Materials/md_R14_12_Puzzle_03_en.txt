@@ -1,0 +1,13 @@
+﻿A:
+Newsworthy				Новости
+Rumors					Слухи
+Net Lore				Интернет
+Hitchicker				Автостопщик
+Kuchisake-onna			Кутисакэ-онна
+
+B (Subliminal):
+Marketing				Маркетинг
+Flashbacks				Ретроспекция
+Message					Сообщение
+Undetectable			Незаметное
+Tachistoscope			Тахистоскоп
