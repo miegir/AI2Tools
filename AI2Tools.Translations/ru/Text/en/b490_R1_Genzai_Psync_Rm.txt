@@ -62,7 +62,7 @@
   "001_013": {
     "src": "And they're all getting murdered...",
     "yax": "И их всех убивают...",
-    "trx": "И их всех убивают..."
+    "trx": "И всех их убивают..."
   },
   "001_014": {
     "src": "So the rumors were true...",
