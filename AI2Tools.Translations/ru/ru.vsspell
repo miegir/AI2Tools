@@ -53,6 +53,7 @@
     <Expression Match="\bЧжуан-цзы\b" />
     <Expression Match="\bэкшн-игр" />
     <Expression Match="^\s*\&quot;[^&quot;]+\&quot;: \{$" Options="Multiline" />
+    <Expression Match="\bАма-но-Ивато\b" />
   </ExclusionExpressions>
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>
