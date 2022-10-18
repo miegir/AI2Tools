@@ -242,7 +242,7 @@
   "025_001": {
     "src": "It's a chair.",
     "yax": "Это стул.",
-    "trx": "Это стул."
+    "trx": "Это кресло."
   },
   "026_001": {
     "src": "It's a door connecting to the next room.",
