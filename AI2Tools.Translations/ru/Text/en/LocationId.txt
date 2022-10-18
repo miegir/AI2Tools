@@ -87,7 +87,7 @@
   "location_517": {
     "src": "Sejima Mansion",
     "yax": "Особняк Сэдзима",
-    "trx": "Поместье Сэдзимы"
+    "trx": "Особняк Сэдзимы"
   },
   "location_518": {
     "src": "Sekiba High",
