@@ -152,7 +152,7 @@
   "r15_dialog_500": {
     "src": "You already have 3 Kusemon.\n{1}{0}\nWhich Kusemon would you like to replace?",
     "yax": "У вас уже есть 3 Кусемона.\r\n{1}{0}\r\nКакого Кусемона вы хотели бы заменить?",
-    "trx": "У вас уже есть 3 Куземона.\n{1}{0}\nКакой Куземон вы хотите заменить?"
+    "trx": "У вас уже есть 3 куземона.\n{1}{0}\nКакой куземон вы хотите заменить?"
   },
   "r15_dialog_501": {
     "src": "Date",
@@ -197,67 +197,67 @@
   "r15_dialog_509": {
     "src": "Kaniza",
     "yax": "Каниза",
-    "trx": "Каниза"
+    "trx": "<line-height=11>\nКаниза"
   },
   "r15_dialog_510": {
     "src": "Kagami",
     "yax": "Кагами",
-    "trx": "Кагами"
+    "trx": "<line-height=11>\nКагами"
   },
   "r15_dialog_511": {
     "src": "Mama",
     "yax": "Мама",
-    "trx": "Мама"
+    "trx": "<line-height=11>\nМама"
   },
   "r15_dialog_512": {
     "src": "Pewter",
     "yax": "Оловянный",
-    "trx": "Пьютер"
+    "trx": "<line-height=11>\nПьютер"
   },
   "r15_dialog_513": {
     "src": "Ota",
     "yax": "Ota",
-    "trx": "Ота"
+    "trx": "<line-height=11>\nОта"
   },
   "r15_dialog_514": {
     "src": "Moma",
     "yax": "Мома",
-    "trx": "Мома"
+    "trx": "<line-height=11>\nМома"
   },
   "r15_dialog_515": {
     "src": "Boss",
     "yax": "Босс",
-    "trx": "Босс"
+    "trx": "<line-height=11>\nБосс"
   },
   "r15_dialog_516": {
     "src": "Date",
     "yax": "Дата",
-    "trx": "Датэ"
+    "trx": "<line-height=11>\nДатэ"
   },
   "r15_dialog_517": {
     "src": "Aiba",
     "yax": "Aiba",
-    "trx": "Айба"
+    "trx": "<line-height=11>\nАйба"
   },
   "r15_dialog_518": {
     "src": "Mizuki",
     "yax": "Мизуки",
-    "trx": "Мизуки"
+    "trx": "<line-height=11>\nМизуки"
   },
   "r15_dialog_519": {
     "src": "F",
     "yax": "F",
-    "trx": "Ф"
+    "trx": "<line-height=11>\nF"
   },
   "r15_dialog_520": {
     "src": "BW Bear",
     "yax": "Медведь BW",
-    "trx": "Ч/Б медведь"
+    "trx": "<line-height=11>\nЧ/Б медведь"
   },
   "r15_dialog_521": {
     "src": "Wanderer",
     "yax": "Странник",
-    "trx": "Странник"
+    "trx": "<line-height=11>\nСтранник"
   },
   "r15_dialog_522": {
     "src": "Which should we replace?",
@@ -277,32 +277,32 @@
   "r15_dialog_525": {
     "src": "Red Assassin",
     "yax": "Красный Убийца",
-    "trx": "Красный киллер"
+    "trx": "<line-height=11>\nКрасный убийца"
   },
   "r15_dialog_526": {
     "src": "Blue Assassin",
     "yax": "Синий Убийца",
-    "trx": "Синий киллер"
+    "trx": "<line-height=11>\nСиний убийца"
   },
   "r15_dialog_527": {
     "src": "Green Assassin",
     "yax": "Зеленый Убийца",
-    "trx": "Зеленый киллер"
+    "trx": "<line-height=11>\nЗеленый убийца"
   },
   "r15_dialog_528": {
     "src": "Mansion Leader",
     "yax": "Особняк Лидера",
-    "trx": "Лидер особняка"
+    "trx": "<line-height=11>\nЛидер особняка"
   },
   "r15_dialog_529": {
     "src": "T. Mansion Leader",
     "yax": "Т. Особняк Лидера",
-    "trx": "Ист. лидер особняка"
+    "trx": "<line-height=11>\nИст. лидер особняка"
   },
   "r15_dialog_530": {
     "src": "F",
     "yax": "F",
-    "trx": "Ф"
+    "trx": "<line-height=11>\nF"
   },
   "information_001": {
     "src": "Checkpoint Saved",

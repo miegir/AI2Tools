@@ -732,7 +732,7 @@
   "tutorial_505": {
     "src": "You can check your currently owned Kusemon by selecting<color=yellow>《Kusemon List》</color> on the bottom right of the screen.",
     "yax": "Вы можете проверить свой текущий Kusemon, выбрав<color=yellow>》Список Kusemon》</color> в правом нижнем углу экрана.",
-    "trx": "Вы можете просмотреть список приобретенных куземонов, нажав на <color=yellow>《Список куземонов》</color> в правом нижнем углу экрана."
+    "trx": "Вы можете просмотреть список полученных куземонов, нажав на <color=yellow>《Список куземонов》</color> в правом нижнем углу экрана."
   },
   "tutorial_510": {
     "src": "《What is BONUS？》",

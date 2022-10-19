@@ -507,7 +507,7 @@
   "character_103": {
     "src": "F",
     "yax": "F",
-    "trx": "Ф"
+    "trx": "F"
   },
   "character_104": {
     "src": "Culprit",
