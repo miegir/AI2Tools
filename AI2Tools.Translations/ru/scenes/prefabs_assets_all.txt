@@ -1,0 +1,1090 @@
+[
+  {
+    "path": "ui_search_3d_target00 Variant/ui_search_3d_target00_hit/tab_root/ui_search_3d_target00_00Back/ui_search_3d_target00LayOut/Text (TMP)",
+    "text": "Sample text"
+  },
+  {
+    "path": "true_end Variant Variant/text/text_set/text_roman (TMP)",
+    "text": "yomikata"
+  },
+  {
+    "path": "true_end Variant Variant/text/text_set/text_date (TMP)",
+    "text": "何日目・曜日"
+  },
+  {
+    "path": "true_end Variant Variant/text/text_set/text_true_end (TMP)",
+    "text": "true_end\n"
+  },
+  {
+    "path": "FileDebug/Base/LaunchButton/Text (TMP)",
+    "text": "FileMenu"
+  },
+  {
+    "path": "FileDebug/Base/FolderSelectButtonRoot/Folder_01_ProfileNow/Text (TMP)",
+    "text": "ProfileNow"
+  },
+  {
+    "path": "FileDebug/Base/FolderSelectButtonRoot/Folder_02_Info/Text (TMP)",
+    "text": "Info"
+  },
+  {
+    "path": "FileDebug/Base/FolderSelectButtonRoot/Folder_04_Guide/Text (TMP)",
+    "text": "Guide"
+  },
+  {
+    "path": "FileDebug/Base/FolderSelectButtonRoot/Folder_00_Profile6ys/Text (TMP)",
+    "text": "Profile6ys\n"
+  },
+  {
+    "path": "FileDebug/Base/AllOperationButtonRoot/All_00_Lock/Text (TMP)",
+    "text": "AllLock"
+  },
+  {
+    "path": "FileDebug/Base/AllOperationButtonRoot/All_01_Unlock/Text (TMP)",
+    "text": "AllUnlock"
+  },
+  {
+    "path": "FileDebug/Base/ButtonSrc/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "FileDebug/Base/FolderSelectButtonRoot/Folder_03_Trivia/Text (TMP)",
+    "text": "Trivia"
+  },
+  {
+    "path": "FileDebug/Base/CanselButton/Text (TMP)",
+    "text": "Close"
+  },
+  {
+    "path": "FileDebug/Base/AllOperationButtonRoot/All_02_Viewed/Text (TMP)",
+    "text": "AllViewed"
+  },
+  {
+    "path": "modechanger Variant Variant/adjust/buttons/button01/info/text_list01 (TMP)",
+    "text": "通常モード <size=70%>消費電力：高"
+  },
+  {
+    "path": "modechanger Variant Variant/adjust/buttons/button03/info/text_list03 (TMP)",
+    "text": "サーモモード <size=70%>消費電力：高"
+  },
+  {
+    "path": "modechanger Variant Variant/adjust/buttons/button04/info/text_list04 (TMP)",
+    "text": "暗視モード <size=70%>消費電力：高"
+  },
+  {
+    "path": "modechanger Variant Variant/adjust/buttons/button02/info/text_list02 (TMP)",
+    "text": "Ｘ線モード <size=70%>消費電力：高"
+  },
+  {
+    "path": "modechanger Variant Variant/adjust/buttons/button05/info/text_list05 (TMP)",
+    "text": "音源探知モード <size=70%>消費電力：高"
+  },
+  {
+    "path": "m14_operationguide01 Variant Variant/adjust/operationguide01/text_hiraku (TMP)",
+    "text": "文字盤を開く"
+  },
+  {
+    "path": "battery Variant Variant/adjust/text_battery (TMP)",
+    "text": "100"
+  },
+  {
+    "path": "r15_window01 Variant Variant/window01/base/text_confirmation (TMP)",
+    "text": "手持ちのクセモンがいっぱいです\n****【***】と\nどのクセモンを入れ替えますか？"
+  },
+  {
+    "path": "r15_window01 Variant Variant/operationguide01/base01/text_erabu (TMP)",
+    "text": "選択肢を選ぶ"
+  },
+  {
+    "path": "r15_window01 Variant Variant/operationguide01/base01/text_idou (TMP)",
+    "text": "カーソル移動"
+  },
+  {
+    "path": "r15_window01 Variant Variant/window01/base/choice04/text_kouho (TMP)",
+    "text": "入れ替えをやめる"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_genzai (TMP)",
+    "text": "現在地"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_zoom (TMP)",
+    "text": "ズーム"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/map/cursor/GameObject/name2/text_name (TMP)",
+    "text": "???"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/map/cursor/GameObject/name1/text_name (TMP)",
+    "text": "???"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_slide (TMP)",
+    "text": "スライド"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_shirabe (TMP)",
+    "text": "調べる"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_navi (TMP)",
+    "text": "ナビ"
+  },
+  {
+    "path": "somnium_mapwindow Variant Variant/operationguide/base/text_kirikae (TMP)",
+    "text": "選択切替"
+  },
+  {
+    "path": "retrycheckwindow Variant Variant/base/buttons/button_no/text_no (TMP)",
+    "text": "いいえ"
+  },
+  {
+    "path": "retrycheckwindow Variant Variant/base/text_retrycheck (TMP)",
+    "text": "Mental Lock 0"
+  },
+  {
+    "path": "retrycheckwindow Variant Variant/base/text_modori (TMP)",
+    "text": "このチェックポイントまで戻りますか？"
+  },
+  {
+    "path": "retrycheckwindow Variant Variant/base/buttons/button_yes/text_yes (TMP)",
+    "text": "はい"
+  },
+  {
+    "path": "bad_end_black Variant Variant/text/text_set/text_date (TMP)",
+    "text": "何日目・曜日"
+  },
+  {
+    "path": "bad_end_black Variant Variant/text/text_set/text_roman (TMP)",
+    "text": "yomikata"
+  },
+  {
+    "path": "bad_end_black Variant Variant/text/text_set/text_bad_end_black (TMP)",
+    "text": "bad_end_black"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list05/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list06/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list02/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list04/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list03/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list07/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/infotime/base01/text_infotime (TMP)",
+    "text": "-999"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list01/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/clue_list/m15_list08/show/time/text_listtime (TMP)",
+    "text": "-00"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/infotime/base01/text_goukei (TMP)",
+    "text": "現在の合計消費時間"
+  },
+  {
+    "path": "somnium_m15cluelist Variant Variant/deadtime Variant/base02/text_deadtime (TMP)",
+    "text": "99\n"
+  },
+  {
+    "path": "BonusDebug/Base/LaunchButton/Text (TMP)",
+    "text": "BonusMenu"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/MedamaButton100/Text (TMP)",
+    "text": "100"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_04_SONG_AMAME/Text (TMP)",
+    "text": "SONG_AMAME"
+  },
+  {
+    "path": "BonusDebug/Base/AllOperationButtonRoot/All_02_Paid/Text (TMP)",
+    "text": "AllPaid"
+  },
+  {
+    "path": "BonusDebug/Base/ButtonSrc/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/MedamaButtonClear/Text (TMP)",
+    "text": "Clear"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_01_DREAM_ALBUM/Text (TMP)",
+    "text": "DREAM_ALBUM"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_02_SWAP_ACTIONS/Text (TMP)",
+    "text": "SWAP_ACTIONS"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/MedamaButton10/Text (TMP)",
+    "text": "10"
+  },
+  {
+    "path": "BonusDebug/Base/AllOperationButtonRoot/All_00_Lock/Text (TMP)",
+    "text": "AllLock"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_03_SONG_KIZUNA/Text (TMP)",
+    "text": "SONG_KIZUNA"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/MedamaButton10000/Text (TMP)",
+    "text": "10000"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/Text (TMP)",
+    "text": "New Text"
+  },
+  {
+    "path": "BonusDebug/Base/CanselButton/Text (TMP)",
+    "text": "Close"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_00_CLOTH_CHANGE/Text (TMP)",
+    "text": "CLOTH_CHANGE\n"
+  },
+  {
+    "path": "BonusDebug/Base/AllOperationButtonRoot/All_01_Unlock/Text (TMP)",
+    "text": "AllUnlock"
+  },
+  {
+    "path": "BonusDebug/Base/MedamaRoot/MedamaButton1000/Text (TMP)",
+    "text": "1000"
+  },
+  {
+    "path": "BonusDebug/Base/FolderSelectButtonRoot/Folder_05_SANTOU_CABIN/Text (TMP)",
+    "text": "SANTOU_CABIN"
+  },
+  {
+    "path": "infomationdetail Variant Variant/infomation/text_name (TMP)",
+    "text": "画像の表題\n画像の表題"
+  },
+  {
+    "path": "infomationdetail Variant Variant/infomation/text_infomation (TMP)",
+    "text": "WWWWWWWWWWWWWWWWWWWWWWWWW\nじせいげんもじせいげんもじせいげんもじせいげんもじせいげんもじせいげんもじせいげん"
+  },
+  {
+    "path": "telop_past Variant Variant/telop_down/base02/text_past (TMP)",
+    "text": "6年前"
+  },
+  {
+    "path": "bad_end_red Variant Variant/text/text_set/text_bad_end_red (TMP)",
+    "text": "bad_end_red"
+  },
+  {
+    "path": "bad_end_red Variant Variant/text/text_set/text_date (TMP)",
+    "text": "何日目・曜日"
+  },
+  {
+    "path": "bad_end_red Variant Variant/text/text_set/text_roman (TMP)",
+    "text": "yomikata"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/ChapterCommands/C04_Complete/Text (TMP)",
+    "text": "Complete"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/ChapterCommands/C00_ChapterClose/Text (TMP)",
+    "text": "ChapterClose"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/ChapterCommands/C03_Initialize/Text (TMP)",
+    "text": "Initialize"
+  },
+  {
+    "path": "FlowchartDebug2/Base/ButtonSrc_01/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/JumpFromMarker/Title",
+    "text": "Marked:"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/JumpFromMarker/Script",
+    "text": "Script"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/ChapterCommands/C02_Jump/Text (TMP)",
+    "text": "Jump"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/JumpFromMarker/Chapter",
+    "text": "Chapter"
+  },
+  {
+    "path": "FlowchartDebug2/Base/CanselButton/Text (TMP)",
+    "text": "Close"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/C505/Text (TMP)",
+    "text": "C505"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/Lock/Text (TMP)",
+    "text": "Lock"
+  },
+  {
+    "path": "FlowchartDebug2/Base/Select_02/Base/CommandButtonss/ChapterCommands/C01_ChapterClear/Text (TMP)",
+    "text": "ChapterClear"
+  },
+  {
+    "path": "FlowchartDebug2/Base/ButtonSrc_00/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/pageguide/base02/text_page (TMP)",
+    "text": "9/9"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/operationguide/base01/text_toziru (TMP)",
+    "text": "閉じる\n"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/tag/text_title (TMP)",
+    "text": "title"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/pageguide/base02/text_okuri (TMP)",
+    "text": "ページ送り"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/operationguide/base01/text_syukusyou (TMP)",
+    "text": "縮小"
+  },
+  {
+    "path": "tutorial Variant Variant/adjust/base/text_tutorial (TMP)",
+    "text": "あいうえおかきくけこさしすせそたちつてと\nWWWWWWWWWWWWWWWWWWWWWWWWW\nNew Text\nNew Text\nNew Text\n"
+  },
+  {
+    "path": "float_timie Variant Variant/adjust/timie00/text_timie (TMP)",
+    "text": "??"
+  },
+  {
+    "path": "MotionName/Square/Text (TMP) (2)",
+    "text": "Sample text"
+  },
+  {
+    "path": "MotionName/Square/Text (TMP) (1)",
+    "text": "Sample text"
+  },
+  {
+    "path": "MotionName/Square/Text (TMP)",
+    "text": "Sample text"
+  },
+  {
+    "path": "Panel/Toggle (2)/Label",
+    "text": "MSAA"
+  },
+  {
+    "path": "Panel/Text (TMP)",
+    "text": "顔窓"
+  },
+  {
+    "path": "Panel/Toggle/Label",
+    "text": "Post Process\n"
+  },
+  {
+    "path": "ui_search_start Variant/text/text_search (TMP)",
+    "text": "拡張視覚起動"
+  },
+  {
+    "path": "EvaluationDebug/Base/CanselButton/Text (TMP)",
+    "text": "Close"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button43/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button16/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button42/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button22/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/LaunchButton/Text (TMP)",
+    "text": "Evaluation"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button27/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button37/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button32/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button09/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button35/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button44/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button26/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button41/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button46/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button31/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button48/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/All/AllUnlock/Text (TMP)",
+    "text": "AllUnlock"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button30/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button36/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button24/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button40/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button02/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button11/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button39/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button34/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button18/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button25/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button47/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button29/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button07/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button05/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button23/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button15/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button28/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button45/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button03/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/All/AllLock/Text (TMP)",
+    "text": "AllLock"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button33/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button08/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button06/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button13/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button10/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button38/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button19/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button01/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button20/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button21/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button14/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button04/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button12/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "EvaluationDebug/Base/Scroll View/Viewport/Content/Button17/Text (TMP)",
+    "text": "Button"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/rank/rank01/text_rank01 (TMP)",
+    "text": "Rank1"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/timer/base/text_shouhi (TMP)",
+    "text": "消費時間"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/name/text_waza01 (TMP)",
+    "text": "waza"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/rank/rank03/text_rank03 (TMP)",
+    "text": "Rank3"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/timer/base/text_timer (TMP)",
+    "text": "00\n"
+  },
+  {
+    "path": "m12_cooking01 Variant Variant/rank/rank02/text_rank02 (TMP)",
+    "text": "Rank2"
+  },
+  {
+    "path": "pointaction Variant/ui_search_3d_target00_hit/tab_root/ui_search_3d_target00_00Back/ui_search_3d_target00LayOut/Text (TMP) (1)",
+    "text": "Sample text"
+  },
+  {
+    "path": "pointaction Variant/ui_search_3d_target00_hit/tab_root/ui_search_3d_target00_00Back/ui_search_3d_target00LayOut/Text (TMP)",
+    "text": "Sample text"
+  },
+  {
+    "path": "Toggle/Label",
+    "text": "Leak Check"
+  },
+  {
+    "path": "float_deadtime Variant Variant/adjust/base01/text_deadtime (TMP)",
+    "text": "999"
+  },
+  {
+    "path": "keyboard Variant Variant/display/base01/text_letter (TMP)",
+    "text": "new text"
+  },
+  {
+    "path": "keyboard Variant Variant/operationguide/base01/text_idou (TMP)",
+    "text": "カーソル移動"
+  },
+  {
+    "path": "keyboard Variant Variant/display_double/layout/base_left/text_letter_left (TMP)",
+    "text": "new"
+  },
+  {
+    "path": "keyboard Variant Variant/display_double/layout/base_light/text_letter_light (TMP)",
+    "text": "new text"
+  },
+  {
+    "path": "keyboard Variant Variant/operationguide/base01/text_moji (TMP)",
+    "text": "文字入力"
+  },
+  {
+    "path": "keyboard Variant Variant/keyboard_scale/scale/base/text_scale (TMP)",
+    "text": "New Text"
+  },
+  {
+    "path": "keyboard Variant Variant/keyboard_scale/key_diary01/key/text_nikki (TMP)",
+    "text": "日記を確認\n"
+  },
+  {
+    "path": "seekbar Variant Variant/tag/text_% (TMP)",
+    "text": "%"
+  },
+  {
+    "path": "seekbar Variant Variant/tag/base01/text_zyoukyou (TMP)",
+    "text": "状況再現率"
+  },
+  {
+    "path": "seekbar Variant Variant/bar/markers/base03/mask/text_point (TMP)",
+    "text": "new text new text new"
+  },
+  {
+    "path": "seekbar Variant Variant/tag/text_rate (TMP)",
+    "text": "100"
+  },
+  {
+    "path": "qte/qte_target Variant/adjust/target/release/text_release (TMP)",
+    "text": "ОТПУСТИТЬ!\n"
+  },
+  {
+    "path": "qte/qte_target Variant/adjust/target/keep/text_keep (TMP)",
+    "text": "ДЕРЖАТЬ"
+  },
+  {
+    "path": "qte/qte_target Variant/adjust/target/hold/text_hold (TMP)",
+    "text": "ЗАЖАТЬ\n"
+  },
+  {
+    "path": "r15_HPbar01 Variant Variant/adjust/myself/Text_hp_myself (TMP)",
+    "text": "99\n"
+  },
+  {
+    "path": "r15_HPbar01 Variant Variant/adjust/enemy/Text_hp_enemy (TMP)",
+    "text": "99\n"
+  },
+  {
+    "path": "tutorial_previous Variant Variant/adjust/right/operationguide/base01/text_toziru (TMP)",
+    "text": "閉じる\n"
+  },
+  {
+    "path": "tutorial_previous Variant Variant/adjust/right/tag/text_title (TMP)",
+    "text": "Title"
+  },
+  {
+    "path": "tutorial_previous Variant Variant/adjust/right/pageguide/base02/text_page (TMP)",
+    "text": "9/9"
+  },
+  {
+    "path": "tutorial_previous Variant Variant/adjust/right/pageguide/base02/text_okuri (TMP)",
+    "text": "ページ送り"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list10 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list08 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list05 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list14 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list06 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list09 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list11 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/c570/assistant/base/text_assistant (TMP)",
+    "text": "このマップは推理を補佐するためのものだ\r\n実行地点が分かったらマップを閉じ、\nみんなに伝えるんだ"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list13 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list04 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list12 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list16 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list07 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list01 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list15 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list02 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "mapwindow Variant Variant/point_list15/list03 Variant/back/text_maplist (TMP)",
+    "text": "map name fontsize**"
+  },
+  {
+    "path": "retrywindow Variant/moji/text_saikai (TMP)",
+    "text": "どのチェックポイントから再開しますか？"
+  },
+  {
+    "path": "retrywindow Variant/moji/text_shyouhi (TMP)",
+    "text": "消費カウント数\n"
+  },
+  {
+    "path": "retrywindow Variant/moji/text_nokori (TMP)",
+    "text": "残りRetryカウント"
+  },
+  {
+    "path": "retrywindow Variant/moji/text_point (TMP)",
+    "text": "チェックポイント"
+  },
+  {
+    "path": "m11_swing01 Variant Variant/adjust/operationguide/base/text_kogu (TMP)",
+    "text": "ブランコを漕ぐ"
+  },
+  {
+    "path": "m11_swing01 Variant Variant/adjust/time/base01t/text_nokori (TMP)",
+    "text": "残り"
+  },
+  {
+    "path": "m11_swing01 Variant Variant/adjust/time/base01t/text_time (TMP)",
+    "text": "99.99"
+  },
+  {
+    "path": "m11_swing01 Variant Variant/adjust/gauge/base01g/hurdle/text_koero (TMP)",
+    "text": "over!"
+  },
+  {
+    "path": "scenario_lock Variant Variant/text/text_set/text_roman (TMP)",
+    "text": "yomikata"
+  },
+  {
+    "path": "scenario_lock Variant Variant/text/text_set/text_scenario_lock (TMP)",
+    "text": "scenario_lock"
+  },
+  {
+    "path": "scenario_lock Variant Variant/text/text_set/text_date (TMP)",
+    "text": "何日目・曜日"
+  },
+  {
+    "path": "dance Variant/operationguide/base01/text_uihyouzi (TMP)",
+    "text": "UI表示"
+  },
+  {
+    "path": "dance Variant/guide/practice/base001/text_head01 (TMP)",
+    "text": "「***」練習用\n「***」練習用"
+  },
+  {
+    "path": "dance Variant/guide/grandfinale/base001/text_head02 (TMP)",
+    "text": "「***」グランドフィナーレ"
+  },
+  {
+    "path": "dance Variant/guide/amame/base001/text_amame (TMP)",
+    "text": "歌詞 ON/OFF\nUI ON/OFF\n\n通常再生速度\n早送り/解除\n巻き戻し/解除\nスロー/解除\n\n初めから見る\n一時停止/再生\n\nメニューに戻る"
+  },
+  {
+    "path": "dance Variant/guide/amame/base001/text_head03 (TMP)",
+    "text": "雪に咲く花"
+  },
+  {
+    "path": "dance Variant/lyrics/base003/text_lyrics (TMP)",
+    "text": "歌詞\n歌詞"
+  },
+  {
+    "path": "dance Variant/guide/practice/base001/text_practice (TMP)",
+    "text": "背景\nキャラ\n\n歌詞 ON/OFF\nUI ON/OFF\n\nカメラ切り替え\nカメラズーム\nカメラリセット\n\n通常再生速度\n早送り/解除\n巻き戻し/解除\nスロー/解除\n\n初めから見る\n鏡像反転\n一時停止/再生\n\nグランドフィナーレ再生\nメニューに戻る"
+  },
+  {
+    "path": "dance Variant/guide/grandfinale/base001/text_grandfinale (TMP)",
+    "text": "歌詞 ON/OFF\nUI ON/OFF\n初めから見る\n一時停止/再生\n\n練習用に戻る\nメニューに戻る"
+  },
+  {
+    "path": "fragmentedinformation Variant Variant/tag/base01/text_mokuteki (TMP)",
+    "text": "調査の糸口"
+  },
+  {
+    "path": "fragmentedinformation Variant Variant/infomationdisplay/infomation/text_infomation (TMP)",
+    "text": "New Text infomation\nNew Text infomation"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/restart/text_key (TMP)",
+    "text": "Restart"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/retry/explanation/text_retry (TMP)",
+    "text": "Psync途中から再開"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
+    "text": "Out"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/restart/explanation/text_restart (TMP)",
+    "text": "Psync開始から始める"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/retry/text_key (TMP)",
+    "text": "Retry"
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/out/explanation/text_out (TMP)",
+    "text": "フローチャートを開く"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/window/window02/base/text_keyrule (TMP)",
+    "text": "New Text\nNew Text\nNew Text"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/window/window01/base/text_keyrule (TMP)",
+    "text": "New Text\nNew Text\nNew Text"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/head/base01/text_kagisoku (TMP)",
+    "text": "鍵則\n"
+  },
+  {
+    "path": "lockinfo Variant Variant/decoration/tag/text_target (TMP)",
+    "text": "target name"
+  },
+  {
+    "path": "lockinfo Variant Variant/purpose/head/base01/text_sisin_bun (TMP)",
+    "text": "次に目指すべきこと"
+  },
+  {
+    "path": "lockinfo Variant Variant/progresswindow/progresswindow Variant/adjust/tag/base01/text_sisin (TMP)",
+    "text": "行動指針更新"
+  },
+  {
+    "path": "lockinfo Variant Variant/progresswindow/head/base01/text_sinkoudo (TMP)",
+    "text": "深行度"
+  },
+  {
+    "path": "lockinfo Variant Variant/progress/head/base01/text_mokuteki_bun (TMP)",
+    "text": "Psyncした目的、明かしたい情報"
+  },
+  {
+    "path": "lockinfo Variant Variant/progresswindow/head/base01/text_sinkoudo_bun (TMP)",
+    "text": "現在のPsyncの進行度合い"
+  },
+  {
+    "path": "lockinfo Variant Variant/purpose/head/base01/text_sisin (TMP)",
+    "text": "現在の行動指針\n"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/window/window04/base/text_keyrule (TMP)",
+    "text": "New Text\nNew Text\nNew Text"
+  },
+  {
+    "path": "lockinfo Variant Variant/progresswindow/progresswindow Variant/adjust/guide/base01/text_genzaiti (TMP)",
+    "text": "現在地"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/window/window03/base/text_keyrule (TMP)",
+    "text": "New Text\nNew Text\nNew Text"
+  },
+  {
+    "path": "lockinfo Variant Variant/progresswindow/progresswindow Variant/adjust/guide/base01/text_kaijo (TMP)",
+    "text": "解除済み"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/window/window05/base/text_keyrule (TMP)",
+    "text": "New Text\nNew Text\nNew Text"
+  },
+  {
+    "path": "lockinfo Variant Variant/progress/head/base01/text_mokuteki (TMP)",
+    "text": "Psyncの目的"
+  },
+  {
+    "path": "lockinfo Variant Variant/keyrule/head/base01/text_kagisoku_bun (TMP)",
+    "text": "ソムニウム世界の法則、対象者の性質の情報"
+  },
+  {
+    "path": "tutorial_operation Variant Variant/adjust/base01/text_shisen (TMP)",
+    "text": "視線移動"
+  },
+  {
+    "path": "tutorial_operation Variant Variant/adjust/base01/text_shiraberu (TMP)",
+    "text": "調べる\n"
+  },
+  {
+    "path": "tutorial_operation Variant Variant/adjust/base01/text_kasoru (TMP)",
+    "text": "カーソル移動"
+  },
+  {
+    "path": "qde Variant Variant/adjust/command/qde_left/choice_left Variant/hit_area/base/text_deadtime_left (TMP)",
+    "text": "999"
+  },
+  {
+    "path": "qde Variant Variant/adjust/command/qde_down/choice_down Variant/hit_area/base/text_deadtime_down (TMP)",
+    "text": "999"
+  },
+  {
+    "path": "qde Variant Variant/adjust/command/qde_up/choice_up Variant/hit_area/base/text_deadtime_up (TMP)",
+    "text": "999"
+  },
+  {
+    "path": "qde Variant Variant/adjust/timer/text_timer (TMP)",
+    "text": "99.99\n"
+  },
+  {
+    "path": "qde Variant Variant/adjust/command/qde_right/choice_right Variant/hit_area/base/text_deadtime_right (TMP)",
+    "text": "999"
+  },
+  {
+    "path": "CutscenePlayer/Canvas/ScreenScaler/GameObject/Text (TMP)",
+    "text": "New Text"
+  },
+  {
+    "path": "m11_start Variant Variant/adjust/base/text_ban (TMP)",
+    "text": "絆のばん"
+  },
+  {
+    "path": "m11_start Variant Variant/adjust/base/text_kaime (TMP)",
+    "text": "靴飛ばし3回目"
+  },
+  {
+    "path": "modeselect Variant Variant/adjust/button_tag/operationguide/base01/text_list (TMP)",
+    "text": "長押し：モードリスト"
+  },
+  {
+    "path": "modeselect Variant Variant/adjust/button_tag/operationguide/base01/text_mode (TMP)",
+    "text": "モード切り替え"
+  },
+  {
+    "path": "Lot1/Text",
+    "text": "New Text"
+  },
+  {
+    "path": "telop_present Variant Variant/telop_up/base01/text_present (TMP)",
+    "text": "現在"
+  },
+  {
+    "path": "special_end Variant Variant/text/text_set/text_special_end (TMP)",
+    "text": "完\n"
+  },
+  {
+    "path": "special_end Variant Variant/text/text_set/text_date (TMP)",
+    "text": "何日目・曜日"
+  },
+  {
+    "path": "special_end Variant Variant/text/text_set/text_roman (TMP)",
+    "text": "yomikata"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list05/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list07/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list04/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list08/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list03/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list06/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list01/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  },
+  {
+    "path": "exsight_cluelist Variant Variant/clue_list/ex_list02/back/text_cluelist (TMP)",
+    "text": "item name fontsize**"
+  }
+]
