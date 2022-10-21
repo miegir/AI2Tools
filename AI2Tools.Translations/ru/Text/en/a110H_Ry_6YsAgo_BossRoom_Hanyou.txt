@@ -447,7 +447,7 @@
   "040_001": {
     "src": "It's a chair.",
     "yax": "Это стул.",
-    "trx": "Это стул."
+    "trx": "Это кресло."
   },
   "041_001": {
     "src": "Did you know this doll can talk, Ryuki?",
@@ -477,7 +477,7 @@
   "041_006": {
     "src": "Boss's friend, Mario.",
     "yax": "Друг босса, Марио.",
-    "trx": "Друг босса, Марио."
+    "trx": "Друг Босса, Марио."
   },
   "042_001": {
     "src": "A bookshelf. There are all sorts of things on there.",
