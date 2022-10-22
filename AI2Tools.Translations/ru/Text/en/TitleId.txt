@@ -1452,7 +1452,7 @@
   "title_790": {
     "src": "Conspicuous Mark",
     "yax": "Заметный Знак",
-    "trx": "Заметный знак"
+    "trx": "Подозрительный след"
   },
   "title_791": {
     "src": "Small Object",

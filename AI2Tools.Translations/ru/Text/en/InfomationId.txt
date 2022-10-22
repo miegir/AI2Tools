@@ -277,7 +277,7 @@
   "information_description_526": {
     "src": "There's a tire track on the halfway line.",
     "yax": "На полпути есть след от шин.",
-    "trx": "На центральной линии есть след от шины."
+    "trx": "На разделительной линии есть след от шины."
   },
   "information_name_527": {
     "src": "Screw",
@@ -287,7 +287,7 @@
   "information_description_527": {
     "src": "There's a screw on the halfway line.",
     "yax": "На средней линии есть винт.",
-    "trx": "На центральной линии находится винт."
+    "trx": "На разделительной линии находится винт."
   },
   "information_name_528": {
     "src": "Oil",
@@ -297,7 +297,7 @@
   "information_description_528": {
     "src": "There's oil spilled near the halfway line...",
     "yax": "Около промежуточной линии разлилась нефть...",
-    "trx": "Около центральной линии разлито масло..."
+    "trx": "Около разделительной линии разлито масло..."
   },
   "information_name_529": {
     "src": "Letters on Monument",
