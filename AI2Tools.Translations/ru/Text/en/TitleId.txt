@@ -1097,12 +1097,12 @@
   "title_719": {
     "src": "MK Ultra",
     "yax": "MK Ultra",
-    "trx": "MK Ультра"
+    "trx": "MK Ultra"
   },
   "title_720": {
     "src": "Project Blue Beam",
     "yax": "Проект \"Голубой луч\"",
-    "trx": "Проект \"Голубой луч\""
+    "trx": "Проект Blue Beam"
   },
   "title_721": {
     "src": "Bermuda Triangle",
