@@ -12,12 +12,15 @@ public partial class BundleResource : IResource
         "scene-bonus_bake_scenes_all*.bundle",
         "scene-search_scenes_all*.bundle",
         "scene-title_scenes_all*.bundle",
+        "scene-m11_00_assets_all*.bundle",
+        "scene-cs_m11_00_assets_all*.bundle",
         "scene-r14_00_assets_all*.bundle",
         "fonts*.bundle",
         "image*.bundle",
         "etc*.bundle",
         "ui*.bundle",
-        "item-md_iib???_assets_all*.bundle"
+        "item-md_iib???_assets_all*.bundle",
+        "item-md_m11_01_book_assets_all*.bundle"
     };
 
     private readonly ILogger logger;

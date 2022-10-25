@@ -612,7 +612,7 @@
   "tutorial_088": {
     "src": "Tilt the [Left Stick] in the direction of the swing to charge up the gauge. \nMaintain a <color=yellow>power above the gauge's hurdle</color>.",
     "yax": "Наклоните [левую ручку] в направлении поворота, чтобы зарядить датчик. \nПоддерживайте мощность <color=yellow> выше порога датчика</color>.",
-    "trx": "Наклоняйте [левую рукоятку] джойстика в направлении раскачивания, чтобы накопить энергию. \nПоддерживайте уровень энергии <color=yellow>выше отображаемого порога</color>."
+    "trx": "Наклоняйте [левую рукоятку] джойстика в направлении раскачивания, чтобы накопить энергию. Поддерживайте уровень энергии <color=yellow>выше отображаемого порога</color>."
   },
   "tutorial_089": {
     "src": "When the remaining time hits 0, you will kick your shoe up.\nThe shoe will travel the distance of the gauge.",

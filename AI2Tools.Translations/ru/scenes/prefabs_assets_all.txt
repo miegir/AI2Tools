@@ -837,7 +837,7 @@
   },
   {
     "path": "m11_swing01 Variant Variant/adjust/gauge/base01g/hurdle/text_koero (TMP)",
-    "text": "over!"
+    "text": "выше!"
   },
   {
     "path": "scenario_lock Variant Variant/text/text_set/text_roman (TMP)",
