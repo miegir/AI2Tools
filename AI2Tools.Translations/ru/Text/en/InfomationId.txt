@@ -332,7 +332,7 @@
   "information_name_532": {
     "src": "Pieces of Paper in Balloon",
     "yax": "Кусочки бумаги в воздушном шаре",
-    "trx": "Листки бумаги в воздушном шаре"
+    "trx": "Листок бумаги в воздушном шаре"
   },
   "information_description_532": {
     "src": "The piece of paper inside the balloon had two pairs of intersecting arrows. ",
