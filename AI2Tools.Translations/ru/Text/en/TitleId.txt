@@ -297,12 +297,12 @@
   "title_559": {
     "src": "Tearer's Challenge",
     "yax": "Вызов разрушителя",
-    "trx": "Вызов Рассекателя"
+    "trx": "Вызов от Рассекателя"
   },
   "title_560": {
     "src": "Vochlocho",
     "yax": "Вочлочо",
-    "trx": "Вочлочо" //spell-ignore-line
+    "trx": "Запигочо"
   },
   "title_561": {
     "src": "Moma",
@@ -312,7 +312,7 @@
   "title_562": {
     "src": "Crest",
     "yax": "Гребень",
-    "trx": "Гребень"
+    "trx": "Герб"
   },
   "title_563": {
     "src": "Chinpei",
