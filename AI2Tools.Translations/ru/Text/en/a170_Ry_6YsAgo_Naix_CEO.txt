@@ -287,7 +287,7 @@
   "011_007": {
     "src": "You're saying everything in this world we're living in isn't real...?",
     "yax": "Ты хочешь сказать, что все в этом мире, в котором мы живем, ненастоящее...?",
-    "trx": "Вы хотите сказать, что мире, в котором мы живем, всё ненастоящее...?"
+    "trx": "Вы хотите сказать, что в мире, в котором мы живем, всё ненастоящее...?"
   },
   "011_008": {
     "src": "Yes, it's a false world constructed with specific rules, by a program.",
