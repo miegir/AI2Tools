@@ -447,7 +447,7 @@
   "009_028": {
     "src": "And I know that...",
     "yax": "И я это знаю...",
-    "trx": "И я это знаю..."
+    "trx": "И я знаю, что..."
   },
   "009_029": {
     "src": "Your heart is more pure than anyone else.",

@@ -621,7 +621,7 @@
   },
   {
     "path": "m12_cooking01 Variant Variant/rank/rank01/text_rank01 (TMP)",
-    "text": "Rank1"
+    "text": "Ранг1"
   },
   {
     "path": "m12_cooking01 Variant Variant/timer/base/text_shouhi (TMP)",
@@ -633,7 +633,7 @@
   },
   {
     "path": "m12_cooking01 Variant Variant/rank/rank03/text_rank03 (TMP)",
-    "text": "Rank3"
+    "text": "Ранг3"
   },
   {
     "path": "m12_cooking01 Variant Variant/timer/base/text_timer (TMP)",
@@ -641,7 +641,7 @@
   },
   {
     "path": "m12_cooking01 Variant Variant/rank/rank02/text_rank02 (TMP)",
-    "text": "Rank2"
+    "text": "Ранг2"
   },
   {
     "path": "pointaction Variant/ui_search_3d_target00_hit/tab_root/ui_search_3d_target00_00Back/ui_search_3d_target00LayOut/Text (TMP) (1)",
@@ -893,7 +893,7 @@
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/restart/text_key (TMP)",
-    "text": "Restart"
+    "text": "С начала"
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/retry/explanation/text_retry (TMP)",
@@ -901,7 +901,7 @@
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
-    "text": "Out"
+    "text": "Выйти"
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/restart/explanation/text_restart (TMP)",
@@ -909,7 +909,7 @@
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/retry/text_key (TMP)",
-    "text": "Retry"
+    "text": "Повтор"
   },
   {
     "path": "somnium_gameover Variant Variant/buttons/out/explanation/text_out (TMP)",

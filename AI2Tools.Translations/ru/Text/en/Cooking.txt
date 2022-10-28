@@ -1,0 +1,52 @@
+{
+  "prompt_500": {
+    "src": "Input Cooking Command!",
+    "yax": "Введите команду Приготовления!",
+    "trx": "Введите кулинарную команду!"
+  },
+  "waza_500": {
+    "src": "Iainuki",
+    "yax": "Иайнуки",
+    "trx": "Яйнуки" //spell-ignore:Яйнуки
+  },
+  "waza_501": {
+    "src": "Precision Iai",
+    "yax": "Точность Iai",
+    "trx": "Точность Яй" //spell-ignore:Яй
+  },
+  "waza_502": {
+    "src": "Warrior's Compassion",
+    "yax": "Сострадание воина",
+    "trx": "Сострадание воина"
+  },
+  "waza_503": {
+    "src": "Elegant Salt",
+    "yax": "Элегантная Соль",
+    "trx": "Элегантная соль"
+  },
+  "waza_504": {
+    "src": "Flying Elegant Salt",
+    "yax": "Летящая Элегантная Соль",
+    "trx": "Летающая элегантная соль"
+  },
+  "waza_505": {
+    "src": "Hell's Medium Rare",
+    "yax": "Адская Средне-Редкая",
+    "trx": "Адская средняя обжарка"
+  },
+  "waza_506": {
+    "src": "Foaming Bubble",
+    "yax": "Пенящийся Пузырь",
+    "trx": "Пенящийся пузырь"
+  },
+  "waza_507": {
+    "src": "Fallen Angel's Lament",
+    "yax": "Плач падшего ангела",
+    "trx": "Плач падшего ангела"
+  },
+  "waza_508": {
+    "src": "Challenge Against God",
+    "yax": "Вызов Богу",
+    "trx": "Вызов богам"
+  }
+}

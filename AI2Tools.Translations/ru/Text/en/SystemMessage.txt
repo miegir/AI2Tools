@@ -47,17 +47,17 @@
   "dialog_506": {
     "src": "Restart from Checkpoint",
     "yax": "Перезапуск с контрольной точки",
-    "trx": "Перезапустить с контрольной точки"
+    "trx": "<line-height=4>\nПовторить с контрольной точки"
   },
   "dialog_507": {
     "src": "Restart Psync",
     "yax": "Перезапустить Psync",
-    "trx": "Перезапустить сомниум"
+    "trx": "<line-height=4>\nПерезапустить сомниум"
   },
   "dialog_508": {
     "src": "Open Flowchart",
     "yax": "Открытая блок-схема",
-    "trx": "Открыть хронологию"
+    "trx": "<line-height=4>\nОткрыть хронологию"
   },
   "dialog_007": {
     "src": "Start Somnium from beginning?",
@@ -832,7 +832,7 @@
   "cooking_501": {
     "src": "Input cooking command!",
     "yax": "Введите команду приготовления!",
-    "trx": "Введите команду приготовления!"
+    "trx": "Введите кулинарную команду!"
   },
   "exsight_500": {
     "src": "Start of Investigation",
