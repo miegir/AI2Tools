@@ -502,12 +502,12 @@
   "scale_501": {
     "src": "♪Ti",
     "yax": "♪Ти",
-    "trx": "♪Ти" //spell-ignore-line
+    "trx": "♪Си"
   },
   "scale_502": {
     "src": "♪So",
     "yax": "♪Так",
-    "trx": "♪Со"
+    "trx": "♪Соль"
   },
   "scale_503": {
     "src": "♪Fa",
@@ -522,7 +522,7 @@
   "scale_505": {
     "src": "♪La",
     "yax": "♪Ла",
-    "trx": "♪Ла" //spell-ignore-line
+    "trx": "♪Ля"
   },
   "scale_506": {
     "src": "♪Mi",
@@ -532,7 +532,7 @@
   "scale_507": {
     "src": "Check Diary",
     "yax": "Проверьте Дневник",
-    "trx": "Поверить дневник"
+    "trx": "<size=19>Проверить дневник"
   },
   "fiction_001": {
     "src": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental. ",
