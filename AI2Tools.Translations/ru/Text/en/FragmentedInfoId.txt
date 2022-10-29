@@ -177,17 +177,17 @@
   "fragmented_info_535": {
     "src": "",
     "yax": "",
-    "trx": ""
+    "trx": "Есть что-то еще."
   },
   "fragmented_info_536": {
     "src": "",
     "yax": "",
-    "trx": ""
+    "trx": "Есть что-то еще."
   },
   "fragmented_info_537": {
     "src": "",
     "yax": "",
-    "trx": ""
+    "trx": "Есть что-то еще."
   },
   "fragmented_info_538": {
     "src": "Objects that cannot be seen with the naked eye can be viewed with night-vision mode.",
@@ -202,7 +202,7 @@
   "fragmented_info_540": {
     "src": "There are other mysterious metal plates.",
     "yax": "Есть и другие таинственные металлические пластины.",
-    "trx": "Присутствуют и другие таинственные металлические пластины."
+    "trx": "Присутствуют и другие загадочные металлические пластины."
   },
   "fragmented_info_541": {
     "src": "Confirm the luminol reaction.",

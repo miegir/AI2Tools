@@ -862,7 +862,7 @@
   "exsight_505": {
     "src": "Nightvision",
     "yax": "Ночное видение",
-    "trx": "Ночное зрение"
+    "trx": "Ночное видение"
   },
   "exsight_506": {
     "src": "Sonar",

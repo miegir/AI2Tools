@@ -442,7 +442,7 @@
   "title_588": {
     "src": "Thermite Bomb Stockpile",
     "yax": "Запасы термитных бомб",
-    "trx": "Запасы термитных бомб"
+    "trx": "Термитные бомбы"
   },
   "title_589": {
     "src": "Nirvana Trial",
