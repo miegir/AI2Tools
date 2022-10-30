@@ -26,5 +26,13 @@
   {
     "path": "_root/Canvas2/ScreenScaler2/GameObject/purposeupdate Variant/purpose_new01/target/text_target (TMP)",
     "text": "ЦЕЛЬ"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/purposeupdate Variant/purpose_new02/target_a/text_target_a (TMP)",
+    "text": "ЦЕЛЬ : А"
+  },
+  {
+    "path": "_root/Canvas2/ScreenScaler2/GameObject/purposeupdate Variant/purpose_new02/target_b/text_target_b (TMP)",
+    "text": "ЦЕЛЬ : Б"
   }
 ]
