@@ -132,7 +132,7 @@
   "010_003": {
     "src": "It's a high table.",
     "yax": "Это высокий стол.",
-    "trx": "Хороший высокий стол."
+    "trx": "Это высокий стол."
   },
   "011_001": {
     "src": "Stools are chairs with no backs.",

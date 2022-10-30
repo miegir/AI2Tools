@@ -1132,12 +1132,12 @@
   "file_profile_216": {
     "src": "Iomante, The Sound of Civilization, Old Man Shamo",
     "yax": "Иоманте, Звук Цивилизации, Старик Шамо",
-    "trx": "Иёмантэ, Звук цивилизации, Старика Шамо" //spell-ignore-line
+    "trx": "Иёмантэ, Звук цивилизации, Старика Шамо"
   },
   "file_profile_217": {
     "src": "Shishamo Hell, Greco Roman Style",
     "yax": "Шишамо Ад, Греко-Римский стиль",
-    "trx": "Ад Шишамо, Греко-римский стиль" //spell-ignore-line
+    "trx": "Ад Шишамо, Греко-римский стиль" //spell-ignore:Шишамо
   },
   "file_profile_218": {
     "src": "Old Man Shamo Festival",
