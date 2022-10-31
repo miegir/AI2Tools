@@ -452,7 +452,7 @@
   "evaluation_title_046": {
     "src": "Courtesy Chocolate",
     "yax": "Предоставленный Шоколад",
-    "trx": "Раздающий Шоколад"
+    "trx": "Раздающая Шоколад"
   },
   "evaluation_summary_046": {
     "src": "Mizuki Chapter 4\nGive chocolate to the Detective, Officer, and Shoma.\nGive me one too please.",
