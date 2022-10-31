@@ -207,7 +207,7 @@
   "fragmented_info_541": {
     "src": "Confirm the luminol reaction.",
     "yax": "Подтвердите реакцию с люминолом.",
-    "trx": "Подтвердите реакцию с люминолом."
+    "trx": "Проверьте реакцию с люминолом."
   },
   "fragmented_info_542": {
     "src": "There are parts that have not been completely investigated yet.",

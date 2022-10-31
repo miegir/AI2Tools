@@ -242,12 +242,12 @@
   "trivia_050": {
     "src": "The chocolate I gave you just now was bought in bulk by Mizuki last night. Today is Valentine's Day. Mizuki said, \"I give a guy a 10 yen chocolate and they get really happy about it. Then they'll do anything I ask them\"... She's a terrible woman.",
     "yax": "Шоколад, который я тебе только что дала, был куплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я даю парню шоколадку за 10 иен, и они очень радуются этому. Тогда они сделают все, о чем я их попрошу\"... Она ужасная женщина.",
-    "trx": "Шоколад, который я только что вам дала, был закуплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я дам парню шоколадку за 10 иен, и он будет этому очень рад. После этого он сделает всё, о чем я его попрошу\"... Она ужасная женщина."
+    "trx": "Шоколад, который вы только что видели, был закуплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я дам парню шоколадку за 10 иен, и он будет этому очень рад. После этого он сделает всё, о чем я его попрошу\"... Она ужасная женщина."
   },
   "trivia_051": {
     "src": "The chocolate I gave you just now was bought in bulk by Mizuki last night. Today is Valentine's Day. Mizuki said, \"I give a guy a 10 yen chocolate and they get really happy about it. Then they'll do anything I ask them\"... She's a terrible woman.",
     "yax": "Шоколад, который я тебе только что дала, был куплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я даю парню шоколадку за 10 иен, и они очень радуются этому. Тогда они сделают все, о чем я их попрошу\"... Она ужасная женщина.",
-    "trx": "Шоколад, который я только что вам дала, был закуплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я дам парню шоколадку за 10 иен, и он будет этому очень рад. После этого он сделает всё, о чем я его попрошу\"... Она ужасная женщина."
+    "trx": "Шоколад, который вы только что видели, был закуплен Мизуки оптом прошлой ночью. Сегодня День святого Валентина. Мизуки сказала: \"Я дам парню шоколадку за 10 иен, и он будет этому очень рад. После этого он сделает всё, о чем я его попрошу\"... Она ужасная женщина."
   },
   "trivia_052": {
     "src": "My voice reaches Date's brain right now. That's because there is a reception device in his left eye socket. You can mute me by turning it off, but that's a real hassle so it's still on. This is the same for Mizuki Kuranushi. She hears my voice too. Hm, \"Mizuki Kuranushi\" is kind of long... I'll just call her \"Bibi\"...",
