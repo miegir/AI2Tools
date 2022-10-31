@@ -1,0 +1,87 @@
+{
+  "001_001": {
+    "src": "It's a fountain.",
+    "yax": "Это фонтан.",
+    "trx": "Это фонтан."
+  },
+  "002_001": {
+    "src": "Mizuki, look! It's a Dytiscus sharpi!",
+    "yax": "Мизуки, смотри! Это Дитискус шарпи!",
+    "trx": "Мизуки, смотри! Это Dytiscus sharpi!" //spell-ignore:Dytiscus //spell-ignore:sharpi
+  },
+  "002_002": {
+    "src": "Yeah, yeah! Go, Dytiscus sharpi!",
+    "yax": "Да, да! Вперед, Дитискус шарпи!",
+    "trx": "Да, да! Вперед, Dytiscus sharpi!" //spell-ignore:Dytiscus //spell-ignore:sharpi
+  },
+  "002_003": {
+    "src": "But at this time of year...?",
+    "yax": "Но в это время года...?",
+    "trx": "Но, в это время года...?"
+  },
+  "002_004": {
+    "src": "And isn't it extinct?",
+    "yax": "И разве он не вымер?",
+    "trx": "И разве они не вымерли?"
+  },
+  "002_005": {
+    "src": "There's a a big pond around the fountain.",
+    "yax": "Вокруг фонтана есть большой пруд.",
+    "trx": "Фонтан окружен большим прудом."
+  },
+  "003_001": {
+    "src": "A concrete bench...",
+    "yax": "Бетонная скамейка...",
+    "trx": "Бетонная скамья..."
+  },
+  "004_001": {
+    "src": "The machine room.",
+    "yax": "Машинный зал.",
+    "trx": "Машинный зал."
+  },
+  "005_001": {
+    "src": "There are several vending machines lined up here.",
+    "yax": "Здесь выстроилось несколько торговых автоматов.",
+    "trx": "Здесь расположено несколько торговых автоматов."
+  },
+  "006_001": {
+    "src": "There's a trash can for throwing away empties.",
+    "yax": "Там есть мусорное ведро для выбрасывания пустых бутылок.",
+    "trx": "Там находится мусорный бак для пустых бутылок."
+  },
+  "007_001": {
+    "src": "On that stone monument...",
+    "yax": "На том каменном памятнике...",
+    "trx": "На этом каменном монументе..."
+  },
+  "008_001": {
+    "src": "It's a wooden bench for visitors to rest on.",
+    "yax": "Это деревянная скамейка, на которой посетители могут отдохнуть.",
+    "trx": "Это деревянная скамья, на которой посетители могут отдохнуть."
+  },
+  "009_001": {
+    "src": "Street lights...",
+    "yax": "Уличные фонари...",
+    "trx": "Уличные фонари..."
+  },
+  "010_001": {
+    "src": "There are trees growing throughout the park.",
+    "yax": "По всему парку растут деревья.",
+    "trx": "По всему парку растут деревья."
+  },
+  "011_001": {
+    "src": "It's a directory for the park.",
+    "yax": "Это справочник парка.",
+    "trx": "Это схема парка."
+  },
+  "012_001": {
+    "src": "A holographic boundary line.",
+    "yax": "Голографическая пограничная линия.",
+    "trx": "Голографическая заградительная линия."
+  },
+  "013_001": {
+    "src": "An evidence marker.",
+    "yax": "Маркер улик.",
+    "trx": "Маркер улик."
+  }
+}
