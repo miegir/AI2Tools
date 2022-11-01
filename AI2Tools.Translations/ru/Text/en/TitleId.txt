@@ -1317,7 +1317,7 @@
   "title_763": {
     "src": "Broken Smartphone",
     "yax": "Сломанный Смартфон",
-    "trx": "Сломанный смартфон"
+    "trx": "Разбитый смартфон"
   },
   "title_764": {
     "src": "Weird Machinery",
