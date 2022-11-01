@@ -412,7 +412,7 @@
   "010_004": {
     "src": "If we make that statue's position higher, it'll naturally slide toward the pond...",
     "yax": "Если мы сделаем положение этой статуи выше, она естественным образом соскользнет к пруду...",
-    "trx": "Если мы заставим эту статую стоять выше, она естественным образом соскользнет к пруду..."
+    "trx": "Если мы заставим эту статую стоять выше, она естественным образом съедет к пруду..."
   },
   "010_005": {
     "src": "Do you build an airport every time you need to go to the convenience store?",
