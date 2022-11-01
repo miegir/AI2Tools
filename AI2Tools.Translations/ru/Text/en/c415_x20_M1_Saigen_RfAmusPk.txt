@@ -337,7 +337,7 @@
   "008_004": {
     "src": "Who wouldn't want a lighter suitcase...?",
     "yax": "Кто бы не хотел чемодан полегче...?",
-    "trx": "Кто бы отказался, чтобы его чемодан был легче...?"
+    "trx": "Кто ж откажется от возможности облегчить чемодан...?"
   },
   "008_005": {
     "src": "Could you not make stupid comments while trying to solve a case?",
