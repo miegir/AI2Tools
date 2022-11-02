@@ -617,7 +617,7 @@
   "flowchart_summary_573": {
     "src": "Gen, Lien, and Amame are interrogated by Mizuki. The three of them say they know nothing about the body. Gen will not answer why there's a corpse in the freezer.\n",
     "yax": "Ген, Лиен и Амаме допрашиваются Мизуки. Все трое говорят, что ничего не знают о теле. Джен не ответит, почему в морозильной камере лежит труп.",
-    "trx": "Мизуки допрашивает Гена, Лиена и Амаме. Все трое говорят, что ничего не знают о теле. Ген не говорит, почему в мрозильнике лежит труп."
+    "trx": "Мизуки допрашивает Гена, Лиена и Амаме. Все трое говорят, что ничего не знают о теле. Ген не говорит, почему в морозильнике лежит труп."
   },
   "flowchart_summary_574": {
     "src": "Mizuki leaves the restaurant to find she's surrounded by SAT. A battle begins, but another Gen shows up at the scene. \nThe true identity of the other Gen is Date. Date gets rid of the enemies with perverted powers, and they all head to the old machine room in the park. \nMizuki asks Date about the 6 years he was gone. She finds out it was Amame who asked Gen to hide the corpse. \nAgain they are attacked by SAT. Mizuki surrenders, but Amame steals a gun and runs out. Gen gets mobbed trying to help her. Seeing this, Amame pulls the trigger. The SAT is given permission to shoot and the echo of shots resonate into the night. Gen is shot protecting Amame... Gen passes away as he tells Amame how grateful he is to her. ",
@@ -2147,27 +2147,27 @@
   "flowchart_font_operationguide_500": {
     "src": "Move cursor",
     "yax": "Переместить курсор",
-    "trx": "Переместить курсор"
+    "trx": "<line-height=8>\nПереместить курсор"
   },
   "flowchart_font_operationguide_501": {
     "src": "Enlarge",
     "yax": "Увеличивать",
-    "trx": "Увеличить"
+    "trx": "<line-height=8>\nУвеличить"
   },
   "flowchart_font_operationguide_502": {
     "src": "Switch Flowchart",
     "yax": "Блок-схема переключения",
-    "trx": "Переключить хронологию"
+    "trx": "<line-height=8>\nПереключить хронологию"
   },
   "flowchart_font_operationguide_503": {
     "src": "Move Chapter",
     "yax": "Переместить главу",
-    "trx": "Сменить главу"
+    "trx": "<line-height=8>\nСменить главу"
   },
   "flowchart_font_operationguide_504": {
     "src": "Shrink",
     "yax": "Сокращаться",
-    "trx": "Уменьшить"
+    "trx": "<line-height=8>\nУменьшить"
   },
   "flowchart_font_dot_500": {
     "src": "FatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。\nFatalError:sc_engine part of the system has been damaged.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] \n このエラーが出てたら早急に重要タグをつけてバグチケットを投げてチャットに一言お願いします。\nNirReferenceException:Either the scenario file does not exist or the specified location is wrong.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb] in /sc_engine/projects/nirvana/program/Scenario_loader.cs:3863\n シナリオ参照例外 :シナリオファイルが存在しないか、指定位置が間違っています。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0x0f2fb]\n 警告:ポインタがメモリの範囲外を参照しています。\nNirReferenceException:The argument is missing data or contains invalid data.\n at SpikeChunSoftEngine.System.Render.2d.ui.textsystem ()[0x0c75c] in sc_engine/projects/nirvana/program/flowchart_info_window.cs:326\n 入力もれがあるとこのエラー出るので気を付けて。バグチケットを投げる前にデータの確認をお願いします。\nNirReferenceException:Image file not found. \n at SpikeChunSoftEngine.System.UI.loader () [0xcd8a2] in /sc_engine/projects/nirvana/Texture/Flowchart/ChapterIcon/ChapterIconﾟ8ｴ.png\n テクスチャ参照例外 :チャプターアイコンが見つかりません。\nWarning!:The pointer is referring to something out of range.\n at SpikeChunSoftEngine.System.Scenario.loader () [0xcd8a2]\n 警告:ポインタがメモリの範囲外を参照しています。\nWarning!:The camera position coordinates are not correct.The camera is out of the display range\n at FlowchartScene/UICamera\n 警告:カメラの位置座標が正しくありません、カメラが表示範囲外に出ています。",
