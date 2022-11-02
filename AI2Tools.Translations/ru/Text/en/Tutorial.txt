@@ -622,7 +622,7 @@
   "tutorial_title_044": {
     "src": "Letter Board",
     "yax": "Доска для писем",
-    "trx": "Доска для писем"
+    "trx": "Диаграмма с буквами"
   },
   "tutorial_090": {
     "src": "Obtained a <color=yellow> 『Chart』 </color>.\nYou can check the Chart by pressing <sprite=\"Button_<Platform>\" name=Dial>.",

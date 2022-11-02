@@ -157,17 +157,17 @@
   "target_030": {
     "src": "PC1",
     "yax": "ПК1",
-    "trx": "ПК1"
+    "trx": "ПК 1"
   },
   "target_031": {
     "src": "PC2",
     "yax": "ПК2",
-    "trx": "ПК2"
+    "trx": "ПК 2"
   },
   "target_032": {
     "src": "PC3",
     "yax": "ПК3",
-    "trx": "ПК3"
+    "trx": "ПК 3"
   },
   "target_033": {
     "src": "Button A",

@@ -532,7 +532,7 @@
   "flowchart_summary_556": {
     "src": "Subject: Tearer\nObjective: Uncover the hidden truth of the iron mask!\nSummary: Tearer seems to know something about\nthe HB case... Uncover the hidden truth\nbehind the iron mask!",
     "yax": "Тема: Разрыватель\nЦель: Раскройте скрытую правду о железной маске!\nКраткое описание: Тирр, похоже, знает что-то о\nдело НВ... Раскройте скрытую правду\nза железной маской!",
-    "trx": "Тема: Рассекатель\nЦель: Раскройте правду о железной маске!\nКраткое описание: Рассекатель, похоже, знает что-то о\nделе ПТ... Раскройте правду, кроющуюся\nза железной маской!"
+    "trx": "Субъект: Рассекатель\nЦель: Раскройте правду о железной маске!\nКраткое описание: Рассекатель, похоже, знает что-то о\nделе ПТ... Раскройте правду, кроющуюся\nза железной маской!"
   },
   "flowchart_summary_557": {
     "src": "Jin Furue's parents were Tokiko and Chikara. Tearer's Psync revealed this. However, it is still unknown who Tearer is... He seems to have looked up to Tokiko and even called her \"Mom.\"\n",

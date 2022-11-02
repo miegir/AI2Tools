@@ -1472,7 +1472,7 @@
   "title_794": {
     "src": "Underground Cell",
     "yax": "Подземная ячейка",
-    "trx": "Подпольная ячейка"
+    "trx": "Подземная клетка"
   },
   "title_795": {
     "src": "Naix's Teachings",

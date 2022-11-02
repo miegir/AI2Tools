@@ -83,16 +83,23 @@ internal partial class BundleManager
                 {
                     logger.LogInformation("exporting texture {name}...", name);
 
-                    var textureData = bundleFile.GetTextureData(textureFile);
+                    try
+                    {
+                        var textureData = bundleFile.GetTextureData(textureFile);
 
-                    using var image = Image.LoadPixelData<Bgra32>(
-                        textureData, textureFile.m_Width, textureFile.m_Height);
+                        using var image = Image.LoadPixelData<Bgra32>(
+                            textureData, textureFile.m_Width, textureFile.m_Height);
 
-                    image.Mutate(m => m.Flip(FlipMode.Vertical));
+                        image.Mutate(m => m.Flip(FlipMode.Vertical));
 
-                    using var target = new FileTarget(path);
-                    image.Save(target, PngFormat.Instance);
-                    target.Commit();
+                        using var target = new FileTarget(path);
+                        image.Save(target, PngFormat.Instance);
+                        target.Commit();
+                    }
+                    catch (Exception exception)
+                    {
+                        logger.LogError(exception, "error exporting texture {name}...", name);
+                    }
                 };
             }
 
