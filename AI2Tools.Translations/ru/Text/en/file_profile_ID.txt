@@ -87,7 +87,7 @@
   "file_profile_007": {
     "src": "Raw Fish, Porno Mag Collectors",
     "yax": "Сырая Рыба, Коллекционеры Порнографических журналов",
-    "trx": "Сырые морепродукты, Коллекционеров порнографических журналов"
+    "trx": "Сырые морепродукты, Коллекционеров порножурналов"
   },
   "file_profile_008": {
     "src": "Raising Clione, Collecting Adorabbit Merch",

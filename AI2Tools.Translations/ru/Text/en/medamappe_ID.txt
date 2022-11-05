@@ -4792,7 +4792,7 @@
   "medamappe_parameter_517": {
     "src": "▼Organism\nAdult with a heart full of bravery, love, \nand justice. Always thinking dirty \nthoughts and is dangerously close\nto a lawsuit. Loves porn mags.\n",
     "yax": "▼Организм\nВзрослый человек с сердцем, полным храбрости, любви, \nи правосудие. Всегда думаешь о грязном \nмысли и находится в опасной близости\nк судебному иску. Обожает порнографические журналы.",
-    "trx": "▼Организм\nВзрослый человек с сердцем, полным храбрости, любви, \nи справедливости. Постоянно имеет грязные \nмысли и балансирует на грани\nсудебных исков. Обожает порнографические журналы."
+    "trx": "▼Организм\nВзрослый человек с сердцем, полным храбрости, любви, \nи справедливости. Постоянно имеет грязные \nмысли и балансирует на грани\nсудебных исков. Обожает порножурналы."
   },
   "medamappe_parameter_518": {
     "src": "▼Organism\nA crazy Adult trying to live a clean life.\nWants to make a non-violent gang, so\nuses the minimum amount of violence \nnecessary. Actually loves Iris-ie.",
