@@ -597,7 +597,7 @@
   "010_011": {
     "src": "There was a small safe back there.",
     "yax": "Там был небольшой сейф.",
-    "trx": "Там был небольшой сейф."
+    "trx": "Позади нее был небольшой сейф."
   },
   "010_012": {
     "src": "She put whatever she was looking at in there, closed it, and told me...",
