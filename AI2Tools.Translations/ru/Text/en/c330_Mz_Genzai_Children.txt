@@ -167,7 +167,7 @@
   "004_003": {
     "src": "The signs were there during the Wink Psync the other day.",
     "yax": "Знаки были там во время подмигивания Psync на днях.",
-    "trx": "На днях мы уже видели предпосылки в винк-псинк."
+    "trx": "На днях мы уже видели предпосылки в Винк-псинк."
   },
   "004_004": {
     "src": "Those repressed emotions must have finally boiled over...",
@@ -817,7 +817,7 @@
   "014_011": {
     "src": "Aiba, can I Wink Psync into Lien?",
     "yax": "Айба, могу я включить Psync в залоговое удержание?",
-    "trx": "Айба, могу я попробовать винк-псинк на Лиене?"
+    "trx": "Айба, могу я попробовать Винк-псинк на Лиене?"
   },
   "014_012": {
     "src": "I will not protest, but why?",
@@ -872,7 +872,7 @@
   "015_007": {
     "src": "And see what's inside...",
     "yax": "И посмотреть, что там внутри...",
-    "trx": "И посмотреть, что внутри..."
+    "trx": "И увидеть, что внутри..."
   },
   "015_008": {
     "src": "What did all that mean?",
@@ -972,7 +972,7 @@
   "018_008": {
     "src": "About the Wink Psync...?",
     "yax": "Насчет Wink Psync...?",
-    "trx": "О винк-псинк...?"
+    "trx": "О Винк-псинк...?"
   },
   "018_009": {
     "src": "I mean, it is concerning, but...",

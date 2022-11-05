@@ -247,7 +247,7 @@
   "006_012": {
     "src": "When we Wink Psynced into that Naix member at the shrine, he said this...",
     "yax": "Когда мы подмигнули тому члену Naix в храме, он сказал это...",
-    "trx": "В винк-псинк в храме член Naix сказал вот что..."
+    "trx": "В Винк-псинк в храме член Naix сказал вот что..."
   },
   "006_013": {
     "src": "Heh heh heh... I'm looking forward to the rehearsal tonight.",

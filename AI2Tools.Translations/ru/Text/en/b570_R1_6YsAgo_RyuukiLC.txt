@@ -462,7 +462,7 @@
   "007_027": {
     "src": "We won't get any more info from Wink Psync.",
     "yax": "Мы не получим больше никакой информации от Wink Psync.",
-    "trx": "Мы не получим больше никакой информации от винк-псинк."
+    "trx": "Мы не получим больше никакой информации от Винк-псинк."
   },
   "007_028": {
     "src": "We should confront So Sejima himself.",

@@ -962,7 +962,7 @@
   "022_005": {
     "src": "That was an incredibly pointless Wink Psync...",
     "yax": "Это было невероятно бессмысленное подмигивание Psync...",
-    "trx": "Это был невероятно бессмысленный винк-псинк..."
+    "trx": "Это был невероятно бессмысленный Винк-псинк..."
   },
   "023_001": {
     "src": "I just thought of something listening to Ota.",
