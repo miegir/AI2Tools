@@ -312,7 +312,7 @@
   "005_010": {
     "src": "Yes, so you and I have known each other for about half a year now.",
     "yax": "Да, итак, мы с тобой знаем друг друга уже около полугода.",
-    "trx": "Да, мы с тобой знакомы уже почти полгода."
+    "trx": "Да, мы с тобой знакомы уже около полугода."
   },
   "005_011": {
     "src": "I've lost many things along the way...",
