@@ -222,7 +222,7 @@
   "002_007": {
     "src": "SAT is all over the street.",
     "yax": "SAT находится по всей улице.",
-    "trx": "SAT занял всю улицу."
+    "trx": "SAT преграждает улицу."
   },
   "002_008": {
     "src": "It would be hard to get through there...",
