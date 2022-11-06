@@ -972,7 +972,7 @@
   "026_012": {
     "src": "Huh, that's an interesting group.",
     "yax": "Ха, это интересная группа.",
-    "trx": "Ха, из вас поучилась интересная компания."
+    "trx": "Ха, из вас получилась интересная компания."
   },
   "026_013": {
     "src": "I can't imagine what you three would talk about.",
