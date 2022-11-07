@@ -837,7 +837,7 @@
   "title_667": {
     "src": "Buried Date",
     "yax": "Дата захоронения",
-    "trx": "Дата погружения"
+    "trx": "Датэ под обломками"
   },
   "title_668": {
     "src": "Abandoned Factory Incident",
