@@ -1002,7 +1002,7 @@
   "018_001": {
     "src": "I saw everything...",
     "yax": "Я все видел...",
-    "trx": "Я все видела..."
+    "trx": "Я всё видела..."
   },
   "018_002": {
     "src": "If you don't do as I say... I'm sure you know where this is going.",
