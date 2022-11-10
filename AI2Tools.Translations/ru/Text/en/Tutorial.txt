@@ -667,12 +667,12 @@
   "tutorial_096": {
     "src": "When you are correct with Show Evidence, the <color=yellow>《Current total spent time》</color> will be depleted.",
     "yax": "Когда вы правильно укажете \"Показать доказательства\", <color=yellow>\"Текущее общее затраченное время\"</color> будет исчерпано.",
-    "trx": "Когда вы выберете правильные улики, будет израсходовано <color=yellow>《Общее затраченное время》</color>."
+    "trx": "Когда вы выберете правильные доказательства, будет израсходовано <color=yellow>《Общее затраченное время》</color>."
   },
   "tutorial_097": {
     "src": "<color=yellow>《Look》does not deplete time</color>, so organize your information and choose wisely.",
     "yax": "<color=yellow>\"Внешний вид\"не отнимает много времени</color>, поэтому систематизируйте свою информацию и выбирайте с умом.",
-    "trx": "Действие ☯️<color=yellow>《Просмотреть》не расходует время</color>, поэтому изучите информацию и выбирайте мудро."
+    "trx": "Действие <color=yellow>《Просмотреть》не расходует время</color>, поэтому изучите информацию и выбирайте мудро."
   },
   "tutorial_title_048": {
     "src": "Wink Psync",

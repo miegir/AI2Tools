@@ -122,7 +122,7 @@
   "evaluation_title_013": {
     "src": "All's Right With The World",
     "yax": "С Миром Все В Порядке",
-    "trx": "С миром все в порядке"
+    "trx": "С миром всё в порядке"
   },
   "evaluation_summary_013": {
     "src": "Mizuki Chapter 5\nClear Amame's Somnium\nGood begets good, evil begets evil.",

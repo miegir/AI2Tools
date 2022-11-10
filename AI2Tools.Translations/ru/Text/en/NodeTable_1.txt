@@ -317,7 +317,7 @@
   "target_068": {
     "src": "Elephant Trinket",
     "yax": "Брелок со слоном",
-    "trx": "Фигура слона"
+    "trx": "Фигурка слона"
   },
   "target_069": {
     "src": "Scattered Magazine",

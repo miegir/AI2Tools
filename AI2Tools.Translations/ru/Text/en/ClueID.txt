@@ -1,0 +1,332 @@
+{
+  "clue_001": {
+    "src": "Unlocked Diary",
+    "yax": "Разблокированный дневник",
+    "trx": null
+  },
+  "clue_002": {
+    "src": "Renju's Body Discovery 1",
+    "yax": "Обнаружение тела Рэндзю 1",
+    "trx": null
+  },
+  "clue_003": {
+    "src": "Renju's Murder Scene",
+    "yax": "Место убийства Рэндзю",
+    "trx": null
+  },
+  "clue_004": {
+    "src": "Renju's Corpse",
+    "yax": "Труп Рэндзю",
+    "trx": null
+  },
+  "clue_005": {
+    "src": "Renju's Weight",
+    "yax": "Вес Рэндзю",
+    "trx": null
+  },
+  "clue_006": {
+    "src": "Tranquilizer",
+    "yax": "Транквилизатор",
+    "trx": null
+  },
+  "clue_007": {
+    "src": "Elevator Records",
+    "yax": "Записи о лифте",
+    "trx": null
+  },
+  "clue_008": {
+    "src": "Renju's Watch",
+    "yax": "Часы Рэндзю",
+    "trx": null
+  },
+  "clue_009": {
+    "src": "Oil Drum",
+    "yax": "Масляный барабан",
+    "trx": null
+  },
+  "clue_010": {
+    "src": "Benzodiazepine Formula",
+    "yax": "Бензодиазепиновая формула",
+    "trx": null
+  },
+  "clue_011": {
+    "src": "Renju's Corpse on Counter",
+    "yax": "Труп Рэндзю на прилавке",
+    "trx": null
+  },
+  "clue_012": {
+    "src": "3 Wires on Ceiling Beam",
+    "yax": "3 Провода на потолочной балке",
+    "trx": null
+  },
+  "clue_013": {
+    "src": "3 Beer Kegs on Counter",
+    "yax": "3 Пивных бочонка на прилавке",
+    "trx": null
+  },
+  "clue_014": {
+    "src": "3 Hooks in Kegs",
+    "yax": "3 Крючка в бочонках",
+    "trx": null
+  },
+  "clue_015": {
+    "src": "Oil Drum in Sunfish Pocket",
+    "yax": "Масляный барабан в кармане Sunfish",
+    "trx": null
+  },
+  "clue_016": {
+    "src": "Renju's Corpse",
+    "yax": "Труп Рэндзю",
+    "trx": null
+  },
+  "clue_017": {
+    "src": "3x Beer Barrels Used As Weights",
+    "yax": "3x Пивные Бочки, Используемые В Качестве Утяжелителей",
+    "trx": null
+  },
+  "clue_018": {
+    "src": "Renju",
+    "yax": "Рэндзю",
+    "trx": null
+  },
+  "clue_019": {
+    "src": "Okiura Fishery",
+    "yax": "Рыбный промысел Окиура",
+    "trx": null
+  },
+  "clue_020": {
+    "src": "Delivery Device",
+    "yax": "Устройство для доставки",
+    "trx": null
+  },
+  "clue_021": {
+    "src": "Odorokiman Chocolate",
+    "yax": "Одорокиманский шоколад",
+    "trx": null
+  },
+  "clue_022": {
+    "src": "2 Cars",
+    "yax": "2 Машины",
+    "trx": null
+  },
+  "clue_023": {
+    "src": "Knife with Flower Pattern",
+    "yax": "Нож с Цветочным узором",
+    "trx": null
+  },
+  "clue_024": {
+    "src": "Smartphone",
+    "yax": "Смартфон",
+    "trx": null
+  },
+  "clue_025": {
+    "src": "Iris's Autopsy",
+    "yax": "Вскрытие Айрис",
+    "trx": null
+  },
+  "clue_026": {
+    "src": "Time of Iris's Murder",
+    "yax": "Время убийства Айрис",
+    "trx": null
+  },
+  "clue_027": {
+    "src": "Iris's Corpse Discovery Scene",
+    "yax": "Сцена обнаружения трупа Айрис",
+    "trx": null
+  },
+  "clue_028": {
+    "src": "Visitor at 2AM",
+    "yax": "Посетитель в 2 часа ночи",
+    "trx": null
+  },
+  "clue_029": {
+    "src": "Visitor at 3AM",
+    "yax": "Посетитель в 3 часа ночи",
+    "trx": null
+  },
+  "clue_030": {
+    "src": "Iris's Photo",
+    "yax": "Фотография Айрис",
+    "trx": null
+  },
+  "clue_031": {
+    "src": "Footage of So Exiting Cold Storage",
+    "yax": "Кадры с Таким выходом из Холодильного хранилища",
+    "trx": null
+  },
+  "clue_032": {
+    "src": "Iris's Visitor During Livestream",
+    "yax": "Посетитель Айрис Во Время Прямой Трансляции",
+    "trx": null
+  },
+  "clue_033": {
+    "src": "Okiura Fishery Freezer Storage-Night",
+    "yax": "Хранение в морозильной камере Рыбного хозяйства Окиура-Ночь",
+    "trx": null
+  },
+  "clue_034": {
+    "src": "So Exiting Cold Storage",
+    "yax": "Итак, Выходим Из Холодильного Хранилища",
+    "trx": null
+  },
+  "clue_035": {
+    "src": "Information About Manaka",
+    "yax": "Информация О Манаке",
+    "trx": null
+  },
+  "clue_036": {
+    "src": "Manaka's Autopsy",
+    "yax": "Вскрытие Манаки",
+    "trx": null
+  },
+  "clue_037": {
+    "src": "Manaka's Corpse Discovery Scene",
+    "yax": "Сцена обнаружения трупа Манаки",
+    "trx": null
+  },
+  "clue_038": {
+    "src": "Estimated Time of Manaka's Murder",
+    "yax": "Предполагаемое время убийства Манаки",
+    "trx": null
+  },
+  "clue_039": {
+    "src": "Picture Frame",
+    "yax": "Рамка для фотографий",
+    "trx": "Рамка для фотографии"
+  },
+  "clue_040": {
+    "src": "Note from Bulletin Board",
+    "yax": "Заметка с Доски объявлений",
+    "trx": "Заметка с доски объявлений"
+  },
+  "clue_041": {
+    "src": "Memo from Bed",
+    "yax": "Памятка из постели",
+    "trx": "Записка с кровати"
+  },
+  "clue_042": {
+    "src": "Small Key (Red)",
+    "yax": "Маленькая клавиша (Красная)",
+    "trx": "Маленький ключ (Красный)"
+  },
+  "clue_043": {
+    "src": "Small Key (Blue)",
+    "yax": "Маленькая клавиша (Синяя)",
+    "trx": "Маленький ключ (Синий)"
+  },
+  "clue_044": {
+    "src": "Screwdriver",
+    "yax": "Отвертка",
+    "trx": "Отвертка"
+  },
+  "clue_045": {
+    "src": "Picture of an Old Cruise Liner",
+    "yax": "Фотография старого круизного лайнера",
+    "trx": "Фотография старого круизного лайнера"
+  },
+  "clue_046": {
+    "src": "Stack of Red Key Cards",
+    "yax": "Стопка красных карточек-ключей",
+    "trx": "Стопка красных карт-ключей"
+  },
+  "clue_047": {
+    "src": "Stack of Blue Key Cards",
+    "yax": "Стопка синих карточек-ключей",
+    "trx": "Стопка синих карт-ключей"
+  },
+  "clue_048": {
+    "src": "Corpse Discovery Situation",
+    "yax": "Ситуация с Обнаружением Трупа",
+    "trx": "Ситуация обнаружения тела"
+  },
+  "clue_049": {
+    "src": "CNT Extending from Corpse",
+    "yax": "УНТ, отходящий от трупа",
+    "trx": "УНТ, выходящие из тела"
+  },
+  "clue_050": {
+    "src": "Situation of Corpse Internals",
+    "yax": "Положение внутренних органов трупа",
+    "trx": "Положение внутренних тела"
+  },
+  "clue_051": {
+    "src": "Sign Stabbing Corpse",
+    "yax": "Знак Заколотого Трупа",
+    "trx": "Знак, проткнувший тело"
+  },
+  "clue_052": {
+    "src": "Key: Information in Sound",
+    "yax": "Ключ: Информация в звуке",
+    "trx": "Ключ: Информация в звуке"
+  },
+  "clue_053": {
+    "src": "Key: Right Side Secret",
+    "yax": "Ключ: Секрет С Правой Стороны",
+    "trx": "Ключ: Секрет правой стороны"
+  },
+  "clue_054": {
+    "src": "Key: Memory in Wound",
+    "yax": "Ключ: Память в ране",
+    "trx": "Ключ: Воспоминания о ранах"
+  },
+  "clue_055": {
+    "src": "What Amame Said in Yesterday's Psync",
+    "yax": "Что сказал Амаме во вчерашнем Psync",
+    "trx": "Что Амаме сказала во время вчерашней псинхронизации"
+  },
+  "clue_056": {
+    "src": "Did You See His Murderer, Tearer?",
+    "yax": "Ты Видел Его Убийцу, Тирер?",
+    "trx": "Ты видела его убийцу, Рассекателя?"
+  },
+  "clue_057": {
+    "src": "Did You See His Murderer, Tearer?",
+    "yax": "Ты Видел Его Убийцу, Тирер?",
+    "trx": "Ты видела его убийцу, Рассекателя?"
+  },
+  "clue_058": {
+    "src": "Person Discussing Nirvana Initiative",
+    "yax": "Человек, Обсуждающий инициативу Nirvana",
+    "trx": "Человек, обсуждающий инициативу \"Нирвана\""
+  },
+  "clue_059": {
+    "src": " Naix's Teachings",
+    "yax": " Учения Наикса",
+    "trx": "Учения Naix"
+  },
+  "clue_060": {
+    "src": " Broken Glass Doll",
+    "yax": " Разбитая Стеклянная кукла",
+    "trx": "Разбитая стеклянная кукла"
+  },
+  "clue_061": {
+    "src": "4901095",
+    "yax": "4901095",
+    "trx": "4901095"
+  },
+  "clue_062": {
+    "src": "Threatened by Tokiko",
+    "yax": "Под угрозой со стороны Токико",
+    "trx": "Угрозы от Токико"
+  },
+  "clue_063": {
+    "src": "Borrowed One-wheel Robot",
+    "yax": "Одолженный Одноколесный Робот",
+    "trx": "Позаимствованный одноколесный робот"
+  },
+  "clue_064": {
+    "src": "Basement of Horadori Institute",
+    "yax": "Подвал Института Орадори",
+    "trx": "Подвал института Хорадори"
+  },
+  "clue_065": {
+    "src": " Komeji Liked Sweets",
+    "yax": " Комедзи Любил Сладости",
+    "trx": "Комедзи любил сладости"
+  },
+  "clue_066": {
+    "src": " Fight for Moksha",
+    "yax": " Борьба за Мокшу",
+    "trx": "Борьба за Мокшу"
+  }
+}

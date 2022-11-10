@@ -242,7 +242,7 @@
   "001_007": {
     "src": "One day, a genius scientist created a device that could share the pain of giving birth with the father.",
     "yax": "Однажды гениальный ученый создал устройство, которое могло бы разделить боль родов с отцом.",
-    "trx": "Однажды гениальный ученый создал устройство, которое могло бы разделить боль родов с отцом."
+    "trx": "Однажды гениальный ученый создал устройство, которое позволило бы разделить боль родов с отцом."
   },
   "001_008": {
     "src": "His first test subject was his wife...",
@@ -1102,7 +1102,7 @@
   "001_167": {
     "src": "Ah, a run-of-the-mill balloon. Very normal.",
     "yax": "А, заурядный воздушный шарик. Очень нормально.",
-    "trx": "А, заурядный воздушный шарик. Очень обычный."
+    "trx": "А, заурядный воздушный шар. Очень обычный."
   },
   "001_168": {
     "src": "The kind you take home and the next morning it's shriveled up and on the ground...",

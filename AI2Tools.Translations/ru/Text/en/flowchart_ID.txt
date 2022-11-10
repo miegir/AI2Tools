@@ -557,7 +557,7 @@
   "flowchart_summary_561": {
     "src": "Subject: Amame\nObjective: Uncover Amame's secret\nSummary: Amame knows info about the Nirvana Initiative,\nbut for some reason, she's hiding it...\nUse the intel you got from Ryuki to find out.",
     "yax": "Тема: Amame\nЦель: Раскрыть секрет Амаме\nКраткое описание: Amame знает информацию об инициативе Nirvana,\nно по какой-то причине она это скрывает...\nИспользуй информацию, которую ты получил от Рюки, чтобы выяснить это.",
-    "trx": "Субъект: Амаме\nЦель: Раскрыть секрет Амаме\nКраткое описание: Амаме знает информацию об инициативе \"Нирвана\", но по какой-то причине ее скрывает...\nИспользуйте информацию, которую вы получили от Рюки, чтобы выяснить все."
+    "trx": "Субъект: Амаме\nЦель: Раскройте секрет Амаме\nКраткое описание: Амаме знает информацию об инициативе \"Нирвана\", но по какой-то причине ее скрывает...\nИспользуйте информацию, которую вы получили от Рюки, чтобы выяснить всё."
   },
   "flowchart_summary_562": {
     "src": "Mizuki Psyncs into Amame to find a terrible truth. \nTearer, Uru Somezuki, was killed by Amame. Tokiko wasn't killed, she committed suicide. But why?\n",
