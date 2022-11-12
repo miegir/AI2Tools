@@ -87,7 +87,7 @@
   "006_005": {
     "src": "Yahooo!",
     "yax": "Даооо!",
-    "trx": "Ихуууу!" //spell-ignore-line
+    "trx": "И-хуууу!" //spell-ignore-line
   },
   "006_006": {
     "src": "Hahaha!",
