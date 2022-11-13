@@ -872,7 +872,7 @@
   "file_info_171": {
     "src": "【Remark】\nBodyguard: \"The Subversive Activities Prevention Act shut Naix down for good...\"\n\n",
     "yax": "【Замечание】\nТелохранитель: \"Закон о предотвращении подрывной деятельности закрыл Naix навсегда...\"\n",
-    "trx": "☯️【Замечание】\nТелохранитель: \"Закон о предотвращении подрывной деятельности закрыл Naix навсегда...\"\n"
+    "trx": "☯️【Замечание】\nТелохранитель: \"По закону о предотвращении подрывной деятельности Naix закрыт навсегда...\"\n"
   },
   "file_info_172": {
     "src": "【Explanation】\nA political act created to punish violent, destructive organizations. ",
