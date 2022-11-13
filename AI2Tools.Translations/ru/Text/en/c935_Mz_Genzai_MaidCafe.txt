@@ -217,7 +217,7 @@
   "005_002": {
     "src": "\"Female is 6.607.\"",
     "yax": "\"Женщина - 6,607\".",
-    "trx": "\"Женщина — это 6,607\"."
+    "trx": "\"Женщина — это 6,607.\""
   },
   "005_003": {
     "src": "I'm not sure what that's supposed to mean, but there it is.",

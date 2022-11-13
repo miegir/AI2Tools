@@ -137,7 +137,7 @@
   "005_002": {
     "src": "\"Horizontal is darkness multiplied by light.\"",
     "yax": "\"Горизонталь - это тьма, умноженная на свет\".",
-    "trx": "\"Горизонталь — это тьма, умноженная на свет\"."
+    "trx": "\"Горизонталь — это тьма, умноженная на свет.\""
   },
   "005_003": {
     "src": "I don't understand it, but that's what she told me to tell you.",
