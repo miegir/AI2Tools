@@ -72,7 +72,7 @@
   "HalfToOneSolo_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяются со светом ночи!"
+    "trx": "Разделенные сердца объединяют свет посреди ночи!"
   },
   "HalfToOneSolo_016": {
     "src": "If the boys want to reach us they'll have to keep up",
@@ -107,7 +107,7 @@
   "HalfToOneGF_005": {
     "src": "Now I hear my friend got herself a boyfriend",
     "yax": "Теперь я слышал, что моя подруга завела себе парня",
-    "trx": "Я услышал, что моя подруга завела себе парня"
+    "trx": "Я услышала, что моя подруга завела себе парня"
   },
   "HalfToOneGF_006": {
     "src": "They're going out for barbecue on the weekend",
@@ -157,7 +157,7 @@
   "HalfToOneGF_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяются со светом ночи!"
+    "trx": "Разделенные сердца объединяют свет посреди ночи!"
   },
   "HalfToOneGF_016": {
     "src": "If the boys want to reach us they'll have to keep up",
@@ -192,7 +192,7 @@
   "HalfToOneGF_022": {
     "src": "Hey! I saw a kappa that I really wanna catch!",
     "yax": "Эй! Я увидел каппу, которую очень хочу поймать!",
-    "trx": "Эй! Я видел каппу, которую очень хочу поймать!"
+    "trx": "Эй! Я видела каппу, которую очень хочу поймать!"
   },
   "HalfToOneGF_023": {
     "src": "I don't think that anyone is gonna bring a net...",
@@ -292,7 +292,7 @@
   "HalfToOneGF_042": {
     "src": "So what? I'm for the attention",
     "yax": "Ну и что? Я за внимание",
-    "trx": "Ну и что? Я за внимание"
+    "trx": "Ну и что? Я здесь ради внимания"
   },
   "HalfToOneGF_043": {
     "src": "It's true that we can't get ourselves boyfriends",
@@ -327,7 +327,7 @@
   "HalfToOneGF_049": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяются со светом ночи!"
+    "trx": "Разделенные сердца объединяют свет посреди ночи!"
   },
   "HalfToOneGF_050": {
     "src": "If the boys want to reach us they'll have to keep up",
@@ -632,7 +632,7 @@
   "HalfOfOne_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяются со светом ночи!"
+    "trx": "Разделенные сердца объединяют свет посреди ночи!"
   },
   "HalfOfOne_016": {
     "src": "If the boys want to reach us they'll have to keep up",
@@ -667,7 +667,7 @@
   "HalfOfOne_022": {
     "src": "Hey! I saw a kappa that I really wanna catch!",
     "yax": "Эй! Я увидел каппу, которую очень хочу поймать!",
-    "trx": "Эй! Я видел каппу, которую очень хочу поймать!"
+    "trx": "Эй! Я видела каппу, которую очень хочу поймать!"
   },
   "HalfOfOne_023": {
     "src": "I don't think that anyone is gonna bring a net...",
@@ -767,7 +767,7 @@
   "HalfOfOne_042": {
     "src": "So what? I'm for the attention",
     "yax": "Ну и что? Я за внимание",
-    "trx": "Ну и что? Я за внимание"
+    "trx": "Ну и что? Я здесь ради внимания"
   },
   "HalfOfOne_043": {
     "src": "It's rue that we can't get ourselves boyfriends",
@@ -802,7 +802,7 @@
   "HalfOfOne_049": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяются со светом ночи!"
+    "trx": "Разделенные сердца объединяют свет посреди ночи!"
   },
   "HalfOfOne_050": {
     "src": "If the boys want to reach us they'll have to keep up",
@@ -817,11 +817,11 @@
   "HalfOfOne_052": {
     "src": "And even with all of the sorrow inside, we are the conquerors",
     "yax": "И даже несмотря на всю внутреннюю печаль, мы - победители.",
-    "trx": "И даже несмотря на всю внутреннюю печаль, мы — победители."
+    "trx": "И даже несмотря на всю внутреннюю печаль, мы — победители"
   },
   "HalfOfOne_053": {
     "src": "We achieve our dream together, at last, we truly are whole",
     "yax": "Мы вместе достигаем нашей мечты, наконец-то мы по-настоящему едины",
-    "trx": "Мы вместе достигаем нашей мечты, мы наконец-то по-настоящему едины"
+    "trx": "Мы вместе достигаем нашей мечты, мы наконец по-настоящему едины"
   }
 }
