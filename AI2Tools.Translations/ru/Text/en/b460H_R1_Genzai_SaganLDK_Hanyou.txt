@@ -117,7 +117,7 @@
   "024_001": {
     "src": "There are plants in the room.",
     "yax": "В комнате есть растения.",
-    "trx": "В комнате находятся растения."
+    "trx": "В комнате находится растение."
   },
   "025_001": {
     "src": "There's a calendar and a mysterious object on the shelf.",
