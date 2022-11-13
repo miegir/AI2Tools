@@ -292,7 +292,7 @@
   "file_trivia_053": {
     "src": "\"Ritsy\" is probably the receptionist. Her name is \"Ritsuko\"...",
     "yax": "\"Ритси\", вероятно, секретарша в приемной. Ее зовут \"Рицуко\"...",
-    "trx": "\"Рици\" — это, вероятно, секретарша в приемной. Ее зовут \"Рицуко\"..." //spell-ignore:Рици
+    "trx": "\"Рицу\" — это, вероятно, секретарша в приемной. Ее зовут \"Рицуко\"..." //spell-ignore:Рицу
   },
   "file_trivia_054": {
     "src": "The only people who know about the cloning are members of ABIS. To others, Mizuki Kuranushi and Mizuki Date are just sisters.",
