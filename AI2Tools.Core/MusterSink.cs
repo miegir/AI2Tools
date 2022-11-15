@@ -10,9 +10,11 @@ public class MusterSink
         MessagePackSerializerOptions.Standard.WithCompression(MessagePackCompression.Lz4BlockArray);
 
     private record ObjectEntry(string Name, string Path);
+    private record StreamEntry(string Name, IObjectStreamSource Source);
 
     private readonly HashSet<string> directories = new();
     private readonly List<ObjectEntry> objects = new();
+    private readonly List<StreamEntry> streams = new();
     private readonly ILogger logger;
     private DateTime lastWriteTimeUtc;
 
@@ -40,6 +42,21 @@ public class MusterSink
         if (lastWriteTimeUtc < info.LastWriteTimeUtc)
         {
             lastWriteTimeUtc = info.LastWriteTimeUtc;
+        }
+    }
+
+    public void ReportObject(ObjectPath name, IObjectStreamSource source)
+    {
+        if (!source.Exists)
+        {
+            return;
+        }
+
+        streams.Add(new StreamEntry(name.Name, source));
+
+        if (lastWriteTimeUtc < source.LastWriteTimeUtc)
+        {
+            lastWriteTimeUtc = source.LastWriteTimeUtc;
         }
     }
 
@@ -83,6 +100,14 @@ public class MusterSink
             foreach (var (name, path) in objects)
             {
                 archive.CreateEntryFromFile(path, name);
+            }
+
+            foreach (var (name, source) in streams)
+            {
+                var entry = archive.CreateEntry(name);
+                using var targetStream = entry.Open();
+                using var sourceStream = source.OpenRead();
+                sourceStream.CopyTo(targetStream);
             }
         }
     }

@@ -8,26 +8,41 @@ internal static class VideoClipHelper
             [".m4v"] = new[] { ".mov" },
         };
 
-    public static string ConvertPath(string path)
+    public static ITrackableStreamSource GetStreamSource(string path)
     {
-        if (File.Exists(path))
+        foreach (var candidate in GetBasicCandidates(path))
         {
-            return path;
+            var zippedPath = candidate + ".zip";
+            if (File.Exists(zippedPath + ".001"))
+            {
+                return new StreamSourceZippedFileMultipart(zippedPath);
+            }
+
+            if (File.Exists(zippedPath))
+            {
+                return new StreamSourceZippedFile(zippedPath);
+            }
+
+            if (File.Exists(candidate))
+            {
+                return new StreamSourcePlainFile(candidate);
+            }
         }
+
+        return new StreamSourcePlainFile(path);
+    }
+
+    private static IEnumerable<string> GetBasicCandidates(string path)
+    {
+        yield return path;
 
         var extension = Path.GetExtension(path);
         if (ExtensionMap.TryGetValue(extension, out var candidates))
         {
             foreach (var candidate in candidates)
             {
-                var candidatePath = Path.ChangeExtension(path, candidate);
-                if (File.Exists(candidatePath))
-                {
-                    return candidatePath;
-                }
+                yield return Path.ChangeExtension(path, candidate);
             }
         }
-
-        return path;
     }
 }

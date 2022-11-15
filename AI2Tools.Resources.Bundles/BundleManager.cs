@@ -283,11 +283,11 @@ internal partial class BundleManager
                 var fileData = new VideoClipFileData(baseField);
                 if (!fileData.IsValid) continue;
                 var name = fileData.OriginalPath;
-                var sourcePath = VideoClipHelper.ConvertPath(Path.Combine(arguments.SourceDirectory, name));
-                if (!File.Exists(sourcePath)) continue;
+                var streamSource = VideoClipHelper.GetStreamSource(Path.Combine(arguments.SourceDirectory, name));
+                if (!streamSource.Exists) continue;
                 yield return () =>
                 {
-                    arguments.Sink.ReportObject(root.Append(name), sourcePath);
+                    arguments.Sink.ReportObject(root.Append(name), streamSource);
                 };
             }
 
@@ -470,9 +470,9 @@ internal partial class BundleManager
                 var fileData = new VideoClipFileData(baseField);
                 if (!fileData.IsValid) continue;
                 var name = fileData.OriginalPath;
-                var sourcePath = VideoClipHelper.ConvertPath(Path.Combine(arguments.SourceDirectory, name));
-                sourceChangeTracker.RegisterSource(sourcePath);
-                if (!File.Exists(sourcePath)) continue;
+                var streamSource = VideoClipHelper.GetStreamSource(Path.Combine(arguments.SourceDirectory, name));
+                streamSource.Register(sourceChangeTracker);
+                if (!streamSource.Exists) continue;
                 yield return () =>
                 {
                     logger.LogInformation("importing video clip {name}...", name);
@@ -480,7 +480,7 @@ internal partial class BundleManager
                     resourceCollector.AddResourceReplacer(
                         asset,
                         fileData.ResourceName,
-                        new FileSource(sourcePath),
+                        streamSource,
                         fileData.Write);
                 };
             }
