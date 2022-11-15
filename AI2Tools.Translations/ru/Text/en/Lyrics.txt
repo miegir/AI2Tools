@@ -82,7 +82,7 @@
   "HalfToOneSolo_017": {
     "src": "Without you I am only half, I need to be whole",
     "yax": "Без тебя я только наполовину, мне нужно быть цельным.",
-    "trx": "Без тебя я только половина, мне нужно стать целой"
+    "trx": "Без тебя я только половина, мне нужно стать целым"
   },
   "HalfToOneGF_001": {
     "src": "Step in gum on my way to the station",
@@ -167,7 +167,7 @@
   "HalfToOneGF_017": {
     "src": "Without you I am only half, I need to be whole",
     "yax": "Без тебя я только наполовину, мне нужно быть цельным.",
-    "trx": "Без тебя я только половина, мне нужно стать целой"
+    "trx": "Без тебя я только половина, мне нужно стать целым"
   },
   "HalfToOneGF_018": {
     "src": "My robot, can't forget to set the turbo",
@@ -252,7 +252,7 @@
   "HalfToOneGF_034": {
     "src": "Maybe, not maybe!",
     "yax": "Может быть, а не может быть!",
-    "trx": "Вероятно, не возможно!"
+    "trx": "Возможно, не возможно!"
   },
   "HalfToOneGF_035": {
     "src": "Champions, the day has come, let's take victory!",
@@ -312,7 +312,7 @@
   "HalfToOneGF_046": {
     "src": "But every time you fight it makes you want to cry",
     "yax": "Но каждый раз, когда ты ссоришься, тебе хочется плакать.",
-    "trx": "Но каждый раз, когда ты дерешься, тебе хочется плакать"
+    "trx": "Но каждый раз, когда вы деретесь, вам хочется плакать"
   },
   "HalfToOneGF_047": {
     "src": "The tears all build up on the inside",
@@ -337,7 +337,7 @@
   "HalfToOneGF_051": {
     "src": "Without you I am only half, I need to be whole",
     "yax": "Без тебя я только наполовину, мне нужно быть цельным.",
-    "trx": "Без тебя я только половина, мне нужно стать целой"
+    "trx": "Без тебя я только половина, мне нужно стать целым"
   },
   "HalfToOneGF_052": {
     "src": "And even with all of the sorrow inside, we are the conquerors",
@@ -642,7 +642,7 @@
   "HalfOfOne_017": {
     "src": "Without you I am only half, I need to be whole",
     "yax": "Без тебя я только наполовину, мне нужно быть цельным.",
-    "trx": "Без тебя я только половина, мне нужно стать целой"
+    "trx": "Без тебя я только половина, мне нужно стать целым"
   },
   "HalfOfOne_018": {
     "src": "My robot, can't forget to set the turbo",
@@ -727,7 +727,7 @@
   "HalfOfOne_034": {
     "src": "Maybe, not maybe!",
     "yax": "Может быть, а не может быть!",
-    "trx": "Вероятно, не возможно!"
+    "trx": "Возможно, не возможно!"
   },
   "HalfOfOne_035": {
     "src": "Champions, the day has come, let's take victory!",
@@ -787,7 +787,7 @@
   "HalfOfOne_046": {
     "src": "But every time you fight it makes you want to cry",
     "yax": "Но каждый раз, когда ты ссоришься, тебе хочется плакать.",
-    "trx": "Но каждый раз, когда ты дерешься, тебе хочется плакать"
+    "trx": "Но каждый раз, когда вы деретесь, вам хочется плакать"
   },
   "HalfOfOne_047": {
     "src": "The tears all build up on the inside",
@@ -812,7 +812,7 @@
   "HalfOfOne_051": {
     "src": "Without you I am only half, I need to be whole",
     "yax": "Без тебя я только наполовину, мне нужно быть цельным.",
-    "trx": "Без тебя я только половина, мне нужно стать целой"
+    "trx": "Без тебя я только половина, мне нужно стать целым"
   },
   "HalfOfOne_052": {
     "src": "And even with all of the sorrow inside, we are the conquerors",
