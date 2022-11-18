@@ -182,7 +182,7 @@
   "006_011": {
     "src": "It's all like a butterfly dream.",
     "yax": "Все это похоже на сон бабочки.",
-    "trx": "Всё это похоже на сон бабочки."
+    "trx": "Всё это похоже на сон о бабочке."
   },
   "006_012": {
     "src": "Perhaps you are that butterfly...",

@@ -347,7 +347,7 @@
   "title_569": {
     "src": "The Butterfly Dream",
     "yax": "Мечта о бабочке",
-    "trx": "Сон бабочки"
+    "trx": "Сон о бабочке"
   },
   "title_570": {
     "src": "The Allegory of the Cave",
