@@ -482,7 +482,7 @@
   "purpose_difficulty_detail_001": {
     "src": "Time Reduction Speed: Normal\nInteraction Times: Normal\nRetry count: 3",
     "yax": "Скорость сокращения времени: Нормальная\r\nВремя взаимодействия: Нормальное\r\nКоличество повторных попыток: 3",
-    "trx": "Скорость расхода времени: Обычная\nВремя взаимодействия: Обычное\nКоличество попыток: 3"
+    "trx": "<cspace=-0.5>Скорость расхода времени: Обычная\nВремя взаимодействия: Обычное\nКоличество попыток: 3"
   },
   "purpose_difficulty_detail_002": {
     "src": "Time Reduction Speed: 1/2\nInteraction Times: 1/2\nRetry count: 6",
