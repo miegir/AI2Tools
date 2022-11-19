@@ -292,7 +292,7 @@
   "014_001": {
     "src": "I've been buddies with Genny for a long time!",
     "yax": "Мы с Дженни уже давно дружим!",
-    "trx": "Мы с Генни уже давно дружим!"
+    "trx": "Мы с Генни давние приятели!"
   },
   "014_002": {
     "src": "I can't narc on my bro! That would make me a total scumbag!",

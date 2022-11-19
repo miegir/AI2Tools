@@ -162,7 +162,7 @@
   "005_005": {
     "src": "I guess you can call me a \"designer baby.\"",
     "yax": "Я думаю, вы можете называть меня \"дизайнерским ребенком\".",
-    "trx": "Я думаю, ты можешь называть меня \"дизайнерским ребенком\"."
+    "trx": "Я думаю, можно называть меня \"дизайнерским ребенком\"."
   },
   "005_006": {
     "src": "I don't even know my real parents. I was the result of artificial insemination and genome manipulation.",

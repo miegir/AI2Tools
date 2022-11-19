@@ -127,7 +127,7 @@
   "005_007": {
     "src": "Counting from the bottom, the first is located at the base of the spine, or perinea.",
     "yax": "Считая снизу, первый расположен у основания позвоночника, или промежности.",
-    "trx": "Считая снизу, первая расположен у основания позвоночника, или в промежности."
+    "trx": "Считая снизу, первая расположена у основания позвоночника, или в промежности."
   },
   "005_008": {
     "src": "The second, the sacral chakra, is just below the belly button.",

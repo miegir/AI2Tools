@@ -517,12 +517,12 @@
   "014_005": {
     "src": "Ohhh! And your voice is super mega hot too!",
     "yax": "Ооо! И твой голос тоже супер-мега-горячий!",
-    "trx": "Ооо! И ваш голос тоже супер-мега-горячий!" //spell-ignore-line
+    "trx": "Ооо! И ваш голос тоже супер-мега-горячий!" //spell-ignore:Ооо //spell-ignore:мега
   },
   "014_006": {
     "src": "Hottie for a thottie, slide into my DMs any time, king.",
     "yax": "Красотка для тетки, заходи в мой DMs в любое время, король.",
-    "trx": "Горяченький цыпленок, залезай в мой DM в любое время, мой король."
+    "trx": "Горячий цыпа, залезай в мой DM в любое время, мой король." //spell-ignore:цыпа
   },
   "014_007": {
     "src": "Um... I'm here to ask some questions for an investigation...",

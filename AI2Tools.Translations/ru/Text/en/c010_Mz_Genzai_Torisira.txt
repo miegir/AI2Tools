@@ -82,7 +82,7 @@
   "004_010": {
     "src": "Or the collective unconscious...",
     "yax": "Или коллективное бессознательное...",
-    "trx": "Или коллективное неосознание..." //spell-ignore-line
+    "trx": "Или коллективное бессознательное..."
   },
   "005_001": {
     "src": "Hey Ryuki...do you know the culprit?",
