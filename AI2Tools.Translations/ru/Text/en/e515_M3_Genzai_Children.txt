@@ -562,7 +562,7 @@
   "002_058": {
     "src": "Who are these chicks, the Bitch Avengers or something?",
     "yax": "Кто эти цыпочки, Сучьи Мстители или что-то в этом роде?",
-    "trx": "Кто эти цыпочки, Сучки-Мстители какие-то?"
+    "trx": "Да кто же эти цыпочки, Сучки-Мстители какие-то?"
   },
   "002_059": {
     "src": "Stronger than Black Window, that's for sure!",
