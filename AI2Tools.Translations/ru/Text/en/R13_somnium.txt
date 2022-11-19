@@ -1362,7 +1362,7 @@
   "command_512": {
     "src": "\"Try it\"",
     "yax": "\"Попробуй это\"",
-    "trx": "\"Попробовать это\""
+    "trx": "\"Сыграть\""
   },
   "001_215": {
     "src": "What, you want me to play this? Oh, I'm not good at this...",
