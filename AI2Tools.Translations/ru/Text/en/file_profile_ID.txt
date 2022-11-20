@@ -1117,7 +1117,7 @@
   "file_profile_213": {
     "src": "48",
     "yax": "48",
-    "trx": "☯️48"
+    "trx": "48"
   },
   "file_profile_214": {
     "src": "14-Mar",

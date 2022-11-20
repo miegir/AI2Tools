@@ -1,113 +1,113 @@
-{//TBT
+{
   "aibasroom_selections_001": {
     "src": "Dress-up",
     "yax": "Переодевание",
-    "trx": "☯️Переодевание"
+    "trx": "Переодевание"
   },
   "aibasroom_selections_002": {
     "src": "AI Counseling Service",
     "yax": "Консультационная служба по искусственному интеллекту",
-    "trx": "☯️Консультационная служба по искусственному интеллекту"
+    "trx": "Служба ИИ-консультаций"
   },
   "aibasroom_selections_003": {
     "src": "Eyeballies",
     "yax": "Глазные яблоки",
-    "trx": "☯️Глазные яблоки"
+    "trx": "Глазки"
   },
   "aibasroom_selections_004": {
     "src": "Outfit",
     "yax": "Снаряжение",
-    "trx": "☯️Снаряжение"
+    "trx": "Костюм"
   },
   "aibasroom_selections_005": {
     "src": "Head",
     "yax": "Глава",
-    "trx": "☯️Глава"
+    "trx": "Голова"
   },
   "aibasroom_selections_006": {
     "src": "Body",
     "yax": "Тело",
-    "trx": "☯️Тело"
+    "trx": "Тело"
   },
   "aibasroom_selections_007": {
     "src": "Entomologist Outfit",
     "yax": "Снаряжение энтомолога",
-    "trx": "☯️Снаряжение энтомолога"
+    "trx": "Снаряжение энтомолога"
   },
   "aibasroom_selections_008": {
     "src": "Mizuki's Clothes",
     "yax": "Одежда Мизуки",
-    "trx": "☯️Одежда Мизуки"
+    "trx": "Одежда Мизуки"
   },
   "aibasroom_selections_009": {
     "src": "Mermaid Outfit",
     "yax": "Наряд Русалки",
-    "trx": "☯️Наряд Русалки"
+    "trx": "Костюм русалки"
   },
   "aibasroom_selections_010": {
     "src": "Blue Person",
     "yax": "Синий Человек",
-    "trx": "☯️Синий Человек"
+    "trx": "Синий человек"
   },
   "aibasroom_selections_011": {
     "src": "T-shirt: ABIS",
     "yax": "Футболка: ABIS",
-    "trx": "☯️Футболка: ABIS"
+    "trx": "Футболка: ABIS"
   },
   "aibasroom_selections_012": {
     "src": "T-shirt: Smart",
     "yax": "Футболка: Умная",
-    "trx": "☯️Футболка: Умная"
+    "trx": "Футболка: Нарядная"
   },
   "aibasroom_selections_013": {
     "src": "T-shirt: AI2",
     "yax": "Футболка: AI2",
-    "trx": "☯️Футболка: AI2"
+    "trx": "Футболка: AI2"
   },
   "aibasroom_selections_014": {
     "src": "Prisoner's Uniform",
     "yax": "Униформа заключенного",
-    "trx": "☯️Униформа заключенного"
+    "trx": "Униформа заключенного"
   },
   "aibasroom_selections_015": {
     "src": "Ryuki's Clothes",
     "yax": "Одежда Рюки",
-    "trx": "☯️Одежда Рюки"
+    "trx": "Одежда Рюки"
   },
   "aibasroom_selections_016": {
     "src": "Mermaid Outfit",
     "yax": "Наряд Русалки",
-    "trx": "☯️Наряд Русалки"
+    "trx": "Костюм русалки"
   },
   "aibasroom_selections_017": {
     "src": "Blue Person",
     "yax": "Синий Человек",
-    "trx": "☯️Синий Человек"
+    "trx": "Синий человек"
   },
   "aibasroom_selections_018": {
     "src": "T-shirt: ABIS",
     "yax": "Футболка: ABIS",
-    "trx": "☯️Футболка: ABIS"
+    "trx": "Футболка: ABIS"
   },
   "aibasroom_selections_019": {
     "src": "T-shirt: Nice Face",
     "yax": "Футболка: Милое личико",
-    "trx": "☯️Футболка: Милое личико"
+    "trx": "Футболка: Милое личико"
   },
   "aibasroom_selections_020": {
     "src": "T-shirt: AI2",
     "yax": "Футболка: AI2",
-    "trx": "☯️Футболка: AI2"
+    "trx": "Футболка: AI2"
   },
   "aibasroom_selections_021": {
     "src": "Tama's Hat",
     "yax": "Шляпа Тамы",
-    "trx": "☯️Шляпа Тамы"
+    "trx": "Шляпа Тамы"
   },
   "aibasroom_selections_022": {
     "src": "Cat Ears",
     "yax": "Кошачьи Уши",
-    "trx": "☯️Кошачьи Уши"
+    "trx": "Кошачьи ушки"
   },
   "aibasroom_selections_023": {
     "src": "Former CEO Glasses",
@@ -117,197 +117,197 @@
   "aibasroom_selections_024": {
     "src": "Wanderer Hat",
     "yax": "Шляпа странника",
-    "trx": "☯️Шляпа странника"
+    "trx": "Шляпа странника"
   },
   "aibasroom_selections_025": {
     "src": "Despair Bear Head",
     "yax": "Отчаяние Медвежья Голова",
-    "trx": "☯️Отчаяние Медвежья Голова"
+    "trx": "Медвежья голова Goodbye Despair"
   },
   "aibasroom_selections_026": {
     "src": "K Head",
     "yax": "K Голова",
-    "trx": "☯️K Голова"
+    "trx": "Голова K"
   },
   "aibasroom_selections_027": {
     "src": "Q Head",
     "yax": "Q Головка",
-    "trx": "☯️Q Головка"
+    "trx": "Голова Q"
   },
   "aibasroom_selections_028": {
     "src": "Black Hair",
     "yax": "Черные Волосы",
-    "trx": "☯️Черные Волосы"
+    "trx": "Черные волосы"
   },
   "aibasroom_selections_029": {
     "src": "Cat Hands and Tail",
     "yax": "Кошачьи Лапы и Хвост",
-    "trx": "☯️Кошачьи Лапы и Хвост"
+    "trx": "Кошачьи лапы и хвост"
   },
   "aibasroom_selections_030": {
     "src": "Hero Belt",
     "yax": "Пояс Героя",
-    "trx": "☯️Пояс Героя"
+    "trx": "Пояс героя"
   },
   "aibasroom_selections_031": {
     "src": "Robot Arm",
     "yax": "Рука робота",
-    "trx": "☯️Рука робота"
+    "trx": "Руки робота"
   },
   "aibasroom_selections_032": {
     "src": "Ador-Pet",
     "yax": "Обожаемый Питомец",
-    "trx": "☯️Обожаемый Питомец"
+    "trx": "Обожаемый питомец"
   },
   "aibasroom_selections_033": {
     "src": "Burning Hand",
     "yax": "Горящая Рука",
-    "trx": "☯️Горящая Рука"
+    "trx": "Горящие руки"
   },
   "aibasroom_selections_034": {
     "src": "Chibi Tama",
     "yax": "Чиби Тама",
-    "trx": "☯️Чиби Тама"
+    "trx": "Чиби-Тама" //spell-ignore-line
   },
   "aibasroom_selections_035": {
     "src": "Chibi Aiba",
     "yax": "Чиби Айба",
-    "trx": "☯️Чиби Айба"
+    "trx": "Чиби-Айба" //spell-ignore-line
   },
   "aibasroom_selections_036": {
     "src": "Bracelet",
     "yax": "Браслет",
-    "trx": "☯️Браслет"
+    "trx": "Браслет"
   },
   "aibasroom_selections_500": {
     "src": "Iris Yukata",
     "yax": "Ирис Юката",
-    "trx": "☯️Ирис Юката"
+    "trx": "Айрис Юката" //spell-ignore-line
   },
   "aibasroom_selections_501": {
     "src": "Dark Mode Aiba",
     "yax": "Темный режим Aiba",
-    "trx": "☯️Темный режим Aiba"
+    "trx": "Темный режим Айбы"
   },
   "aibasroom_selections_502": {
     "src": "Hot Dog Costume",
     "yax": "Костюм для хот-Дога",
-    "trx": "☯️Костюм для хот-Дога"
+    "trx": "Костюм хот-дога"
   },
   "aibasroom_selections_503": {
     "src": "T-shirt: Space Aiba",
     "yax": "Футболка: Space Aiba",
-    "trx": "☯️Футболка: Space Aiba"
+    "trx": "Футболка: Космическая Айба"
   },
   "aibasroom_selections_504": {
     "src": "T-shirt: High Tension",
     "yax": "Футболка: Высокое натяжение",
-    "trx": "☯️Футболка: Высокое натяжение"
+    "trx": "Футболка: Высокое натяжение"
   },
   "aibasroom_selections_505": {
     "src": "T-shirt: Atami",
     "yax": "Футболка: Atami",
-    "trx": "☯️Футболка: Atami"
+    "trx": "Футболка: Атами"
   },
   "aibasroom_selections_506": {
     "src": "Chrysanthemum Kimono",
     "yax": "Кимоно с хризантемами",
-    "trx": "☯️Кимоно с хризантемами"
+    "trx": "Кимоно с хризантемами"
   },
   "aibasroom_selections_507": {
     "src": "Light Mode Tama",
     "yax": "Световой режим Tama",
-    "trx": "☯️Световой режим Tama"
+    "trx": "Светлый режим Тамы"
   },
   "aibasroom_selections_508": {
     "src": "Hot Dog Costume",
     "yax": "Костюм для хот-Дога",
-    "trx": "☯️Костюм для хот-Дога"
+    "trx": "Костюм хот-дога"
   },
   "aibasroom_selections_509": {
     "src": "T-shirt: Space Tama",
     "yax": "Футболка: Space Tama",
-    "trx": "☯️Футболка: Space Tama"
+    "trx": "Футболка: Космическая Тама"
   },
   "aibasroom_selections_510": {
     "src": "T-shirt: High Tension",
     "yax": "Футболка: Высокое натяжение",
-    "trx": "☯️Футболка: Высокое натяжение"
+    "trx": "Футболка: Высокое натяжение"
   },
   "aibasroom_selections_511": {
     "src": "T-shirt: Atami",
     "yax": "Футболка: Atami",
-    "trx": "☯️Футболка: Atami"
+    "trx": "Футболка: Атами"
   },
   "aibasroom_selections_512": {
     "src": "Shark",
     "yax": "Акула",
-    "trx": "☯️Акула"
+    "trx": "Акула"
   },
   "aibasroom_selections_513": {
     "src": "Ringleader's Mask",
     "yax": "Маска главаря",
-    "trx": "☯️Маска главаря"
+    "trx": "Маска главаря"
   },
   "aibasroom_selections_514": {
     "src": "Zombie Makeup",
     "yax": "Макияж Зомби",
-    "trx": "☯️Макияж Зомби"
+    "trx": "Макияж зомби"
   },
   "aibasroom_selections_037": {
     "src": "?",
     "yax": "?",
-    "trx": "☯️?"
+    "trx": "?"
   },
   "aibasroom_fukidashi_001": {
     "src": "Hm, I will wear anything.",
     "yax": "Хм, я надену что угодно.",
-    "trx": "☯️Хм, я надену что угодно."
+    "trx": "Хм, я надену что угодно."
   },
   "aibasroom_fukidashi_002": {
     "src": "Let's change up the mood.",
     "yax": "Давайте изменим настроение.",
-    "trx": "☯️Давайте изменим настроение."
+    "trx": "Давай сменим настроение."
   },
   "aibasroom_fukidashi_003": {
     "src": "Yay! It's dress up time!",
     "yax": "Ура! Пришло время одеваться!",
-    "trx": "☯️Ура! Пришло время одеваться!"
+    "trx": "Ура! Пришло время одеваться!"
   },
   "aibasroom_fukidashi_004": {
     "src": "I look good in anything, so it's hard to \nchoose an outfit.",
     "yax": "Я хорошо выгляжу во всем, так что мне трудно \nвыбери наряд.",
-    "trx": "☯️Я хорошо выгляжу во всем, так что мне трудно \nвыбери наряд."
+    "trx": "Я во всём хорошо выгляжу, поэтому мне \nтрудно подобрать наряю."
   },
   "aibasroom_fukidashi_005": {
     "src": "Don't worry, I'm cute in any outfit.",
     "yax": "Не волнуйся, я симпатична в любом наряде.",
-    "trx": "☯️Не волнуйся, я симпатична в любом наряде."
+    "trx": "Не волнуйся, я симпатична в любом наряде."
   },
   "aibasroom_fukidashi_006": {
     "src": "I will wear anything, I don't mind taking it \noff either.",
     "yax": "Я надену что угодно, я не против взять это \nвыключен либо.",
-    "trx": "☯️Я надену что угодно, я не против взять это \nвыключен либо."
+    "trx": "Я надену что угодно, а также могу \nвсё снять."
   },
   "aibasroom_fukidashi_007": {
     "src": "How bout I take it all off instead?",
     "yax": "Как насчет того, чтобы я вместо этого все это снял?",
-    "trx": "☯️Как насчет того, чтобы я вместо этого все это снял?"
+    "trx": "Может мне просто всё это снять?"
   },
   "aibasroom_fukidashi_008": {
     "src": "Cosplay is good too.",
     "yax": "Косплей тоже хорош.",
-    "trx": "☯️Косплей тоже хорош."
+    "trx": "Косплей я тоже люблю."
   },
   "aibasroom_fukidashi_009": {
     "src": "It's fine, dress me as you please.",
     "yax": "Все в порядке, одевай меня, как тебе заблагорассудится.",
-    "trx": "☯️Все в порядке, одевай меня, как тебе заблагорассудится."
+    "trx": "Одевай меня, как тебе хочется."
   },
   "aibasroom_fukidashi_010": {
     "src": "I'll dress up the way you like.",
     "yax": "Я оденусь так, как тебе нравится.",
-    "trx": "☯️Я оденусь так, как тебе нравится."
+    "trx": "Я оденусь так, как тебе нравится."
   },
   "aibasroom_fukidashi_011": {
     "src": "Worried about work?",
@@ -6357,7 +6357,7 @@
   "aibasroom_invitation_006": {
     "src": "You don't have a costume for this category.\n\nYou can get costumes in the Bonus Menu by trading in eyeballs.",
     "yax": "У вас нет костюма для этой категории.\n\nВы можете получить костюмы в Бонусном меню, торгуя глазными яблоками.",
-    "trx": "☯️У вас нет костюма для этой категории.\n\nВы можете получить костюмы в Бонусном меню, торгуя глазными яблоками."
+    "trx": "У вас нет костюмов этой категории.\n\nВы можете приобрести костюмы в меню Бонус за глазные яблоки."
   },
   "aibasroom_invitation_007": {
     "src": "Stop displaying this notification?",
@@ -6372,7 +6372,7 @@
   "aibasroom_caption_002": {
     "src": "AI Counseling Service",
     "yax": "Консультационная служба по искусственному интеллекту",
-    "trx": "☯️Консультационная служба по искусственному интеллекту"
+    "trx": "Служба ИИ-консультаций"
   },
   "aibasroom_caption_003": {
     "src": "Eyeballies",
@@ -6387,7 +6387,7 @@
   "aibasroom_message_002": {
     "src": "Life Advice",
     "yax": "Жизненный совет",
-    "trx": "Жизненный совет"
+    "trx": "<size=90%><cspace=-1.5>Жизненный совет"
   },
   "aibasroom_message_003": {
     "src": "Eyeballies",
@@ -6452,96 +6452,96 @@
   "aibasroom_message_503": {
     "src": "Kimono Set",
     "yax": "Комплект кимоно",
-    "trx": "☯️Комплект кимоно"
+    "trx": "Кимоно"
   },
   "aibasroom_message_504": {
     "src": "Monochrome Set",
     "yax": "Монохромный Набор",
-    "trx": "☯️Монохромный Набор"
+    "trx": "Монохромный костюм"
   },
   "aibasroom_message_505": {
     "src": "Hot Dog Costume Set",
     "yax": "Набор костюмов для хот-Догов",
-    "trx": "☯️Набор костюмов для хот-Догов"
+    "trx": "Костюм хот-дога"
   },
   "aibasroom_message_506": {
     "src": "5 Pattern T-Shirt Set",
     "yax": "Комплект футболок с рисунком 5 шт.",
-    "trx": "☯️Комплект футболок с рисунком 5 шт."
+    "trx": "Футболка с рисунком"
   },
   "aibasroom_message_507": {
     "src": "B-Horror Movie Set",
     "yax": "B-Съемочная площадка Фильма ужасов",
-    "trx": "☯️B-Съемочная площадка Фильма ужасов"
+    "trx": "Костюм для фильма ужасов"
   },
   "aibasroom_message_508": {
     "src": "Costume added!",
     "yax": "Костюм добавлен!",
-    "trx": "☯️Костюм добавлен!"
+    "trx": "Доступны новые костюмы!"
   },
   "aibasroom_operationguide_001": {
     "src": "Inspect closer",
     "yax": "Осмотрите поближе",
-    "trx": "☯️Осмотрите поближе"
+    "trx": "Осмотреть внимательнее"
   },
   "aibasroom_operationguide_002": {
     "src": "Revert to Original",
     "yax": "Вернуться к исходному",
-    "trx": "☯️Вернуться к исходному"
+    "trx": "Вернуться к исходному"
   },
   "aibasroom_operationguide_003": {
     "src": "Zoom",
     "yax": "Увеличение",
-    "trx": "☯️Увеличение"
+    "trx": "Увеличить"
   },
   "aibasroom_operationguide_004": {
     "src": "Look",
     "yax": "Смотри",
-    "trx": "☯️Смотри"
+    "trx": "Осмотреть"
   },
   "aibasroom_operationguide_005": {
     "src": "Rotate",
     "yax": "Вращать",
-    "trx": "☯️Вращать"
+    "trx": "Повернуть"
   },
   "aibasroom_operationguide_006": {
     "src": "Pose",
     "yax": "Позировать",
-    "trx": "☯️Позировать"
+    "trx": "Позировать"
   },
   "aibasroom_operationguide_007": {
     "src": "Reset",
     "yax": "Сброс",
-    "trx": "☯️Сброс"
+    "trx": "Сброс"
   },
   "aibasroom_operationguide_008": {
     "src": "Reset",
     "yax": "Сброс",
-    "trx": "☯️Сброс"
+    "trx": "Сброс"
   },
   "aibasroom_operationguide_009": {
     "src": "Notification ON",
     "yax": "Уведомление О",
-    "trx": "☯️Уведомление О"
+    "trx": "Уведомления ВКЛ"
   },
   "aibasroom_operationguide_010": {
     "src": "Reset",
     "yax": "Сброс",
-    "trx": "☯️Сброс"
+    "trx": "Сброс"
   },
   "aibasroom_operationguide_011": {
     "src": "Notification OFF",
     "yax": "Уведомление ОТКЛЮЧЕНО",
-    "trx": "☯️Уведомление ОТКЛЮЧЕНО"
+    "trx": "Уведомления ВЫКЛ"
   },
   "aibasroom_operationguide_012": {
     "src": "Costume [Achievement Evaluation] increase in class will be displayed in [BONUS]",
     "yax": "Костюм [Оценка достижений] повышение класса будет отображаться в [БОНУС]",
-    "trx": "☯️Костюм [Оценка достижений] повышение класса будет отображаться в [БОНУС]"
+    "trx": "Костюмы за повышение класса [Эффективности] доступны в меню [БОНУС]"
   },
   "aibasroom_operationguide_500": {
     "src": "Costumes are now available for previously-cleared scenes.",
     "yax": "Костюмы теперь доступны для ранее очищенных сцен.",
-    "trx": "☯️Костюмы теперь доступны для ранее очищенных сцен."
+    "trx": "Доступны костюмы для ранее пройденных сцен."
   }
 }
