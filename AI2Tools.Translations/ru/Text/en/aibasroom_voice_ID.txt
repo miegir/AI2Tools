@@ -307,7 +307,7 @@
   "aibasroom_voice_tama_006": {
     "src": "Just resting? Or staying the night?",
     "yax": "Просто отдыхаешь? Или останешься на ночь?",
-    "trx": "Ты просто отдохнуть?\nИли останешься на ночь?"
+    "trx": "Ты зашел просто отдохнуть?\nИли останешься на ночь?"
   },
   "aibasroom_voice_tama_007": {
     "src": "Take your time. I'll be gentle...",

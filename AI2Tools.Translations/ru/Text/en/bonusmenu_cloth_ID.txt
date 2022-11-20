@@ -27,7 +27,7 @@
   "bonusmenu_cloth_006": {
     "src": "T-shirt: Smart/Cute",
     "yax": "Футболка: Нарядная/Симпатичная",
-    "trx": "Футболка: Нарядная/Симпатичная"
+    "trx": "Футболка: Умная/Симпатичная"
   },
   "bonusmenu_cloth_007": {
     "src": "Former CEO Glasses",
