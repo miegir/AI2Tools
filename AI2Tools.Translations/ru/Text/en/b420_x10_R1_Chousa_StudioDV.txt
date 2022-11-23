@@ -352,7 +352,7 @@
   "008_006": {
     "src": "Can you tell whose prints they are?",
     "yax": "Можете ли вы сказать, чьи это отпечатки?",
-    "trx": "Можешь ли ты сказать, чьи это отпечатки?"
+    "trx": "Можешь ли ты сказать, чьи это следы?"
   },
   "008_007": {
     "src": "Judging from the shape and size, absolutely Amame's.",
