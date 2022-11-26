@@ -767,7 +767,7 @@
   "choice_004": {
     "src": "That's a nice watch...",
     "yax": "Это хорошие часы...",
-    "trx": "Чудесно..."
+    "trx": "У вас красивые часы..."
   },
   "016_001": {
     "src": "Say this world really is a simulation...",
