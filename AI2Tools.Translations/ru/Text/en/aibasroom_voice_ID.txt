@@ -112,7 +112,7 @@
   "aibasroom_voice_aiball_023": {
     "src": "Really?",
     "yax": "Действительно?",
-    "trx": "Правда?"
+    "trx": "В самом деле?"
   },
   "aibasroom_voice_aiball_024": {
     "src": "Mhm.",
@@ -152,12 +152,12 @@
   "aibasroom_voice_aiball_031": {
     "src": "What are you saying?",
     "yax": "О чем ты говоришь?",
-    "trx": "О чем это ты?"
+    "trx": "О чем это вы?"
   },
   "aibasroom_voice_aiball_032": {
     "src": "Are you kidding me?",
     "yax": "Ты что, издеваешься надо мной?",
-    "trx": "Ты издеваешься?"
+    "trx": "Вы издеваетесь?"
   },
   "aibasroom_voice_aiball_033": {
     "src": "That must be rough.",
@@ -167,12 +167,12 @@
   "aibasroom_voice_aiball_034": {
     "src": "You must be working hard.",
     "yax": "Вы, должно быть, много работаете.",
-    "trx": "Ты, должно быть, много работаешь."
+    "trx": "Вы, должно быть, много работаете."
   },
   "aibasroom_voice_aiball_035": {
     "src": "I see, I think you are doing well.",
     "yax": "Я вижу, я думаю, что у тебя все хорошо.",
-    "trx": "Понятно, я думаю, что у тебя всё хорошо."
+    "trx": "Понятно, я думаю, ничего страшного."
   },
   "aibasroom_voice_aiball_036": {
     "src": "I can see how that would be difficult.",
@@ -187,12 +187,12 @@
   "aibasroom_voice_aiball_038": {
     "src": "That's what I thought.",
     "yax": "Вот что я подумал.",
-    "trx": "Вот что я подумала."
+    "trx": "Я так и думала."
   },
   "aibasroom_voice_aiball_039": {
     "src": "I suppose that would be the case.",
     "yax": "Я полагаю, что так оно и было бы.",
-    "trx": "Полагаю, что так оно и было бы."
+    "trx": "Полагаю, что так оно и есть."
   },
   "aibasroom_voice_aiball_040": {
     "src": "Seriously?",
@@ -202,7 +202,7 @@
   "aibasroom_voice_aiball_041": {
     "src": "Really?",
     "yax": "Действительно?",
-    "trx": "Правда?"
+    "trx": "В самом деле?"
   },
   "aibasroom_voice_aiball_042": {
     "src": "What? Is that true?",
@@ -222,12 +222,12 @@
   "aibasroom_voice_aiball_045": {
     "src": "Correct.",
     "yax": "Правильный.",
-    "trx": "Правильно."
+    "trx": "Верно."
   },
   "aibasroom_voice_aiball_046": {
     "src": "I understand.",
     "yax": "Я понимаю.",
-    "trx": "Я понимаю."
+    "trx": "Понятно."
   },
   "aibasroom_voice_aiball_047": {
     "src": "Yes, yes.",
@@ -237,7 +237,7 @@
   "aibasroom_voice_aiball_048": {
     "src": "R-Right...",
     "yax": "Р-Правильно...",
-    "trx": "П-правильно..."
+    "trx": "Х-хорошо..."
   },
   "aibasroom_voice_aiball_049": {
     "src": "O-Oh, I see...",
@@ -427,17 +427,17 @@
   "aibasroom_voice_tama_030": {
     "src": "What did you say?",
     "yax": "Что ты сказал?",
-    "trx": "Что ты сказал?"
+    "trx": "Что вы сказали?"
   },
   "aibasroom_voice_tama_031": {
     "src": "Are you malfunctioning?",
     "yax": "У вас что-то не так?",
-    "trx": "У тебя что-то не так?"
+    "trx": "У вас что-то не так?"
   },
   "aibasroom_voice_tama_032": {
     "src": "You're messing around, right?",
     "yax": "Ты валяешь дурака, верно?",
-    "trx": "Ты валяешь дурака, верно?"
+    "trx": "Вы валяете дурака, верно?"
   },
   "aibasroom_voice_tama_033": {
     "src": "That must be rough.",
@@ -447,12 +447,12 @@
   "aibasroom_voice_tama_034": {
     "src": "I know you're working hard.",
     "yax": "Я знаю, что ты усердно работаешь.",
-    "trx": "Я знаю, что ты усердно трудишься."
+    "trx": "Я знаю, что вы усердно трудитесь."
   },
   "aibasroom_voice_tama_035": {
     "src": "You're doing well.",
     "yax": "У тебя все хорошо получается.",
-    "trx": "У тебя всё хорошо получается."
+    "trx": "У вас всё хорошо."
   },
   "aibasroom_voice_tama_036": {
     "src": "That must be tough...",
@@ -482,7 +482,7 @@
   "aibasroom_voice_tama_041": {
     "src": "Really?",
     "yax": "Действительно?",
-    "trx": "Правда?"
+    "trx": "В самом деле?"
   },
   "aibasroom_voice_tama_042": {
     "src": "Eh...? Eh...?",
