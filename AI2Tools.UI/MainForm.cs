@@ -95,7 +95,7 @@ public partial class MainForm : Form
 
     private bool UpdateActions()
     {
-        var canPatch = ResourceNameBox.SelectedIndex >= 0;
+        var canPatch = game != null && ResourceNameBox.SelectedIndex >= 0;
 
         RollButton.Enabled = canPatch;
         UnrollButton.Enabled = canPatch;
