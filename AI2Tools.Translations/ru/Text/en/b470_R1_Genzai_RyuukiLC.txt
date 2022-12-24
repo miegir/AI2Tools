@@ -2,7 +2,7 @@
   "001_001": {
     "src": "After that, we searched all over the city to look for Mame.",
     "yax": "После этого мы обыскали весь город в поисках Мэйм.",
-    "trx": "Мы обыскали весь город в поисках Мэйми."
+    "trx": "Мы объехали весь город в поисках Мэйми."
   },
   "001_002": {
     "src": "But ultimately, we couldn't find her.",
