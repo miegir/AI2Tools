@@ -367,7 +367,7 @@
   "007_020": {
     "src": "\"'I'm so sorry for everything I've done.' I've heard him say it a million times.\"",
     "yax": "\"Я так сожалею обо всем, что я сделал\". Я слышал, как он говорил это миллион раз\".",
-    "trx": "\"'Я так сожалею обо всем, что я сделал.' Я слышал, как он говорил это миллион раз.\""
+    "trx": "\"'Я так сожалею обо всём, что я сделал.' Я слышал, как он говорил это миллион раз.\""
   },
   "007_021": {
     "src": "\"Things turned red all of a sudden. Next thing I knew, he was on the ground.\"",

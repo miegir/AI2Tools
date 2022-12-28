@@ -67,7 +67,7 @@
   "004_002": {
     "src": "Yakuza have connections all throughout the underworld.",
     "yax": "У якудзы есть связи по всему преступному миру.",
-    "trx": "У якудзы есть связи во всем преступном мире."
+    "trx": "У якудзы есть связи во всём преступном мире."
   },
   "004_003": {
     "src": "So I thought you might know something...",
@@ -162,7 +162,7 @@
   "005_001": {
     "src": "Eh, that's all I know about that.",
     "yax": "Эх, это все, что я знаю об этом.",
-    "trx": "Эх, это все, что я об этом знаю."
+    "trx": "Эх, это всё, что я об этом знаю."
   },
   "005_002": {
     "src": "But I do have some more dirt on Chikara...",

@@ -312,7 +312,7 @@
   "012_002": {
     "src": "Of course he's not okay!",
     "yax": "Конечно, с ним не все в порядке!",
-    "trx": "Конечно, с ним не все в порядке!"
+    "trx": "Конечно, с ним не всё в порядке!"
   },
   "012_003": {
     "src": "Komeji was his father!",
@@ -562,7 +562,7 @@
   "020_021": {
     "src": "Naturally, I was quite flustered by this rowdy display.",
     "yax": "Естественно, я был очень взволнован этой шумной демонстрацией.",
-    "trx": "Естественно, меня все это очень взволновало."
+    "trx": "Естественно, меня всё это очень взволновало."
   },
   "020_022": {
     "src": "And so, I continued to fumble for three, four...no, perhaps even five minutes or so.",
@@ -582,7 +582,7 @@
   "020_025": {
     "src": "What were the other three in the back seat doing during all that?",
     "yax": "Что делали остальные трое на заднем сиденье во время всего этого?",
-    "trx": "Что все это время делали остальные трое на заднем сиденье?"
+    "trx": "Что всё это время делали остальные трое на заднем сиденье?"
   },
   "020_026": {
     "src": "They were waiting the entire time.",

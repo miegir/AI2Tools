@@ -177,7 +177,7 @@
   "008_003": {
     "src": "It was just made to seem that way.",
     "yax": "Это просто было сделано так, чтобы так казалось.",
-    "trx": "Убийца хотел, чтобы все так выглядело."
+    "trx": "Убийца хотел, чтобы всё так выглядело."
   },
   "008_004": {
     "src": "It should have been obvious when you think about it. Teleportation? It's impossible.",
@@ -232,12 +232,12 @@
   "008_014": {
     "src": "All the pieces would fit together if Naix is the one that made the QR video...",
     "yax": "Все части сошлись бы воедино, если бы Naix был тем, кто сделал QR-видео...",
-    "trx": "Все встало бы на свои места, если бы это QR-видео было создано в Naix..."
+    "trx": "Всё встало бы на свои места, если бы это QR-видео было создано в Naix..."
   },
   "008_015": {
     "src": "The falsified paranormal phenomenon, what was written on the signboard... It all advances your agenda.",
     "yax": "Фальсифицированное паранормальное явление, как было написано на вывеске... Все это продвигает вашу повестку дня.",
-    "trx": "Фальсифицированный паранормальный феномен, надпись на знаке... Все это продвигает вашу идеологию."
+    "trx": "Фальсифицированный паранормальный феномен, надпись на знаке... Всё это продвигает вашу идеологию."
   },
   "008_016": {
     "src": "Could it be that you wanted to spread the QR video by showing that sign along with the corpse on stream?",
@@ -427,7 +427,7 @@
   "010_014": {
     "src": "To them, this place is a true utopia... A dream world where they're allowed to do anything they want, with no real consequences.",
     "yax": "Для них это место - настоящая утопия... Мир мечты, где им позволено делать все, что они хотят, без каких-либо реальных последствий.",
-    "trx": "Для них это место — настоящая утопия... Мир мечты, в котором им позволено делать все, что они хотят, без каких-либо реальных последствий."
+    "trx": "Для них это место — настоящая утопия... Мир мечты, в котором им позволено делать всё, что они хотят, без каких-либо реальных последствий."
   },
   "010_015": {
     "src": "That's why they want to live here forever?",

@@ -227,7 +227,7 @@
   "010_003": {
     "src": "You say it like you don't care...",
     "yax": "Ты говоришь это так, как будто тебе все равно...",
-    "trx": "Вы сказали это так, как будто вам все равно..."
+    "trx": "Вы сказали это так, как будто вам всё равно..."
   },
   "010_004": {
     "src": "That's not true.",
@@ -262,7 +262,7 @@
   "010_010": {
     "src": "Well, I suppose it's not that bad.",
     "yax": "Ну, я полагаю, все не так уж плохо.",
-    "trx": "Ну, я полагаю, все не так уж плохо."
+    "trx": "Ну, я полагаю, всё не так уж плохо."
   },
   "010_011": {
     "src": "Is this getting a little too scripted?",
@@ -382,7 +382,7 @@
   "011_002": {
     "src": "There are many factors to consider. Taking into account probability and all...",
     "yax": "Есть много факторов, которые следует учитывать. Принимая во внимание вероятность и все такое...",
-    "trx": "Следует учитывать множество факторов. Принять во внимание вероятность и все такое..."
+    "trx": "Следует учитывать множество факторов. Принять во внимание вероятность и всё такое..."
   },
   "011_003": {
     "src": "What dating app should I use?!",
@@ -917,7 +917,7 @@
   "021_006": {
     "src": "Everything in this world is false. False is this world to the core.",
     "yax": "Все в этом мире фальшиво. Фальшивый этот мир до мозга костей.",
-    "trx": "Все в этом мире ненастоящее. Этот мир ненастоящий по своей сути."
+    "trx": "Всё в этом мире ненастоящее. Этот мир ненастоящий по своей сути."
   },
   "021_007": {
     "src": "Shotoku Taishi, who spread Buddhism in Japan, said something similar.",
@@ -952,7 +952,7 @@
   "021_013": {
     "src": "The sole truth of this world is enlightenment. Everything else is a falsehood.",
     "yax": "Единственная истина этого мира - просветление. Все остальное - ложь.",
-    "trx": "Единственная истина этого мира — просветление. Все остальное — ложь."
+    "trx": "Единственная истина этого мира — просветление. Всё остальное — ложь."
   },
   "021_014": {
     "src": "I will give another example.",
@@ -992,7 +992,7 @@
   "021_021": {
     "src": "Why is that? Could there be a truth hidden in all this?",
     "yax": "Это почему? Может быть, во всем этом скрыта правда?",
-    "trx": "Почему так? Быть может, во всем этом сокрыта истина?"
+    "trx": "Почему так? Быть может, во всём этом сокрыта истина?"
   },
   "022_001": {
     "src": "\"The Allegory of the Cave\" is a story first told by Plato, the ancient Greek philosopher.",
@@ -1012,7 +1012,7 @@
   "022_004": {
     "src": "All they can see are shadows projected on the walls in front of them...",
     "yax": "Все, что они могут видеть, - это тени, проецируемые на стены перед ними...",
-    "trx": "Все, что они могут видеть, — это тени, проецируемые на стены перед ними..."
+    "trx": "Всё, что они могут видеть, — это тени, проецируемые на стены перед ними..."
   },
   "022_005": {
     "src": "Merely the shadows of grass and trees, flocks of birds...",
@@ -1052,7 +1052,7 @@
   "022_012": {
     "src": "Everything we've seen until now have been shadows! False images!",
     "yax": "Все, что мы видели до сих пор, было тенями! Ложные образы!",
-    "trx": "Все, что мы видели до сих пор, было тенями! Ложными образами!"
+    "trx": "Всё, что мы видели до сих пор, было тенями! Ложными образами!"
   },
   "022_013": {
     "src": "The outside world is completely different!",

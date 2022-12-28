@@ -122,7 +122,7 @@
   "003_014": {
     "src": "But I just had to do it!",
     "yax": "Но я просто должен был это сделать!",
-    "trx": "Но я все равно должна была это сказать!"
+    "trx": "Но я всё равно должна была это сказать!"
   },
   "003_015": {
     "src": "I mean, look! The corpse is completely missing its guts!",

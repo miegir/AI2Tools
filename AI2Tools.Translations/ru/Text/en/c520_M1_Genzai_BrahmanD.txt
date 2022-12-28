@@ -247,7 +247,7 @@
   "004_005": {
     "src": "Yeah, I'm sorry about all this, you guys...",
     "yax": "Да, я сожалею обо всем этом, ребята...",
-    "trx": "Да, я сожалею обо всем этом, ребята..."
+    "trx": "Да, я сожалею обо всём этом, ребята..."
   },
   "005_001": {
     "src": "I suppose Big Sis has already told you everything.",

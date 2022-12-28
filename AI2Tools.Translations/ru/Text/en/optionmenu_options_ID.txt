@@ -27,7 +27,7 @@
   "optionmenu_options_006": {
     "src": "Display all\nSkip\n\n\n\nJapanese",
     "yax": "Отобразить все\nПропускать\n\n\n\nЯпонский",
-    "trx": "<size=16><line-height=29.5>Показать все\nМгновенно\n\n\n\nЯпонский"
+    "trx": "<size=16><line-height=29.5>Показать всё\nМгновенно\n\n\n\nЯпонский"
   },
   "optionmenu_options_007": {
     "src": "L\u3000\u3000\u3000\u3000\u3000  M\u3000\u3000\u3000\u3000\u3000S",

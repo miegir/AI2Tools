@@ -227,7 +227,7 @@
   "006_012": {
     "src": "But that's not all.",
     "yax": "Но это еще не все.",
-    "trx": "Но это еще не все."
+    "trx": "Но это еще не всё."
   },
   "006_013": {
     "src": "In theory, using PERGE, even immortality is achievable...",
@@ -382,7 +382,7 @@
   "010_003": {
     "src": "But you're still taking a look inside their dreams.",
     "yax": "Но ты все равно заглядываешь в их сны.",
-    "trx": "Но с ее помощью все равно можно заглянуть в сон субъекта."
+    "trx": "Но с ее помощью всё равно можно заглянуть в сон субъекта."
   },
   "010_004": {
     "src": "And dreams are made from memories...",

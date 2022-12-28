@@ -942,7 +942,7 @@
   "language_select_513": {
     "src": "Okay, it's ready!",
     "yax": "Хорошо, все готово!",
-    "trx": "Хорошо, все готово!"
+    "trx": "Хорошо, всё готово!"
   },
   "language_select_514": {
     "src": "What?! You got a problem with that?!",

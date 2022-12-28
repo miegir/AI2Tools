@@ -117,7 +117,7 @@
   "005_011": {
     "src": "That's not all.",
     "yax": "Это еще не все.",
-    "trx": "Это еще не все."
+    "trx": "Это еще не всё."
   },
   "005_012": {
     "src": "The appearance of Jin's corpse was made to seem like a paranormal phenomenon.",
@@ -142,7 +142,7 @@
   "005_016": {
     "src": "Could she have done all this to give her claim credibility...?",
     "yax": "Могла ли она сделать все это, чтобы придать правдоподобность своему заявлению...?",
-    "trx": "Могла ли она совершить все это, чтобы придать правдоподобность своему заявлению...?"
+    "trx": "Могла ли она совершить всё это, чтобы придать правдоподобность своему заявлению...?"
   },
   "005_017": {
     "src": "I don't know, but it's possible...",

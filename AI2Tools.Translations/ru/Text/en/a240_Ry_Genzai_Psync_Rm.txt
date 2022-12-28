@@ -82,7 +82,7 @@
   "006_004": {
     "src": "And yet...",
     "yax": "И все же...",
-    "trx": "И все же..."
+    "trx": "И всё же..."
   },
   "006_005": {
     "src": "Could you please visit me at my office again at 10 o'clock tonight?",

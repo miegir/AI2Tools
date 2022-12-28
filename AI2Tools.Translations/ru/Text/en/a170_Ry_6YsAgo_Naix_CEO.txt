@@ -142,7 +142,7 @@
   "007_007": {
     "src": "I'll do anything, as long as it's not illegal!",
     "yax": "Я сделаю все, что угодно, лишь бы это не было противозаконно!",
-    "trx": "Я готов делать все, что угодно, лишь бы это не было противозаконно!"
+    "trx": "Я готов делать всё, что угодно, лишь бы это не было противозаконно!"
   },
   "008_001": {
     "src": "It's Tokiko Shigure, the president of the Naix Japan branch.",
@@ -157,7 +157,7 @@
   "009_002": {
     "src": "After all, Naix is a secret organization hidden from the public.",
     "yax": "В конце концов, Naix - это секретная организация, скрытая от общественности.",
-    "trx": "Все-таки Naix — это секретная организация, скрытая от общественности."
+    "trx": "Всё-таки Naix — это секретная организация, скрытая от общественности."
   },
   "009_003": {
     "src": "It's a good thing Boss just happened to know someone who knew this location. Otherwise, we would've been out of luck.",
@@ -222,12 +222,12 @@
   "010_006": {
     "src": "But that's all nonsense.",
     "yax": "Но все это чепуха.",
-    "trx": "Но все это чепуха."
+    "trx": "Но всё это чепуха."
   },
   "010_007": {
     "src": "Made-up stories that become more and more embellished as they were passed on.",
     "yax": "Выдуманные истории, которые становятся все более и более приукрашенными по мере их передачи.",
-    "trx": "Выдуманные истории, которые все больше и больше приукрашиваются при пересказе."
+    "trx": "Выдуманные истории, которые всё больше и больше приукрашиваются при пересказе."
   },
   "010_008": {
     "src": "Rumors are quite a terrifying thing.",
@@ -772,7 +772,7 @@
   "025_002": {
     "src": "Then that would mean you're not a Frayer after all.",
     "yax": "Тогда это означало бы, что ты все-таки не Фраер.",
-    "trx": "Тогда это означает, что вы все-таки не Фрейер."
+    "trx": "Тогда это означает, что вы всё-таки не Фрейер."
   },
   "026_001": {
     "src": "Ryuki, what's gotten into you?!",

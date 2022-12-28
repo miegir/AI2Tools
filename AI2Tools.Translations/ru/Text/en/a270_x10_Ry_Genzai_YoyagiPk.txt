@@ -32,7 +32,7 @@
   "001_007": {
     "src": "What was I doing all this time?",
     "yax": "Что я делал все это время?",
-    "trx": "Что я делал все это время?"
+    "trx": "Что я делал всё это время?"
   },
   "001_008": {
     "src": "You've been standing there.",

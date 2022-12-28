@@ -497,7 +497,7 @@
   "011_013": {
     "src": "I was caught in an explosion, and yet I survived.",
     "yax": "Я был захвачен взрывом, и все же я выжил.",
-    "trx": "Я оказалась в эпицентре взрыва, но все же выжила."
+    "trx": "Я оказалась в эпицентре взрыва, но всё же выжила."
   },
   "011_014": {
     "src": "It is a miracle that I am still alive. To not appreciate that fact would be a sin.",
@@ -862,7 +862,7 @@
   "015_009": {
     "src": "I don't care what happens!",
     "yax": "Мне все равно, что произойдет!",
-    "trx": "Мне все равно, что произошло!"
+    "trx": "Мне всё равно, что произошло!"
   },
   "015_010": {
     "src": "You and I...",

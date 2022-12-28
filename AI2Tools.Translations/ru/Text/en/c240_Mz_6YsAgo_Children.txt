@@ -377,7 +377,7 @@
   "008_016": {
     "src": "Hm, but how does it all fit together...?",
     "yax": "Хм, но как все это сочетается...?",
-    "trx": "Хм, но как все это сочетается...?"
+    "trx": "Хм, но как всё это сочетается...?"
   },
   "008_017": {
     "src": "Whatever the case, the nurse may have just given us a vital clue.",

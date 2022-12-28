@@ -237,7 +237,7 @@
   "006_011": {
     "src": "These are all false. Untrue.",
     "yax": "Все это ложь. Неверный.",
-    "trx": "Все это ложь. Неправда."
+    "trx": "Всё это ложь. Неправда."
   },
   "006_012": {
     "src": "Kennedy was in a 6-seater. There is a vulture along with a cobra on the golden mask...",

@@ -137,7 +137,7 @@
   "HalfToOneGF_011": {
     "src": "Enough of that nonsense, drop all the pretense,",
     "yax": "Хватит этой чепухи, отбрось все притворство.,",
-    "trx": "Хватит этой чепухи, отбрось все притворство,"
+    "trx": "Хватит этой чепухи, отбрось всё притворство,"
   },
   "HalfToOneGF_012": {
     "src": "You've got to break the chains of fate on your own!",
@@ -612,7 +612,7 @@
   "HalfOfOne_011": {
     "src": "Enough of that nonsense, drop all the pretense,",
     "yax": "Хватит этой чепухи, отбрось все притворство.,",
-    "trx": "Хватит этой чепухи, отбрось все притворство,"
+    "trx": "Хватит этой чепухи, отбрось всё притворство,"
   },
   "HalfOfOne_012": {
     "src": "You've got to break the chains of fate on your own!",

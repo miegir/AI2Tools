@@ -122,7 +122,7 @@
   "004_002": {
     "src": "I hope Shoma is okay...",
     "yax": "Я надеюсь, с Семой все в порядке...",
-    "trx": "Я надеюсь, с Шомой все в порядке..."
+    "trx": "Я надеюсь, с Шомой всё в порядке..."
   },
   "004_003": {
     "src": "Mizuki, do you know about the video uploaded to ViewQube?",

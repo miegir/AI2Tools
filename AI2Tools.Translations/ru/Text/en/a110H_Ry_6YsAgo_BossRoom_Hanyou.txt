@@ -67,7 +67,7 @@
   "007_001": {
     "src": "I'm a sucker for anything shiny or black.",
     "yax": "Я обожаю все блестящее или черное.",
-    "trx": "Я обожаю все блестящее и черное."
+    "trx": "Я обожаю всё блестящее и черное."
   },
   "007_002": {
     "src": "What about cockroaches, Boss? They're shiny and black.",

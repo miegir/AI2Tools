@@ -92,7 +92,7 @@
   "003_015": {
     "src": "They told me to keep it all a secret.",
     "yax": "Они сказали мне держать все это в секрете.",
-    "trx": "Меня просили держать все это в секрете."
+    "trx": "Меня просили держать всё это в секрете."
   },
   "003_016": {
     "src": "You cannot tell anyone about the secret of the world...",
@@ -187,7 +187,7 @@
   "005_001": {
     "src": "It all started with a test.",
     "yax": "Все началось с теста.",
-    "trx": "Все началось с теста."
+    "trx": "Всё началось с теста."
   },
   "005_002": {
     "src": "The results from my health checkup at my elementary school came back abnormal, so they wanted to do more tests...",
@@ -282,7 +282,7 @@
   "006_009": {
     "src": "It was all for the sake of research...",
     "yax": "Все это было сделано ради исследования...",
-    "trx": "Все это делалось ради исследования..."
+    "trx": "Всё это делалось ради исследования..."
   },
   "006_010": {
     "src": "Horadori Institute was rewriting my genetic code!",
@@ -362,7 +362,7 @@
   "007_004": {
     "src": "No, not really. It's the same as usual...",
     "yax": "Нет, не совсем. Все так же, как обычно...",
-    "trx": "Нет, никаких. Все так же, как обычно..."
+    "trx": "Нет, никаких. Всё так же, как обычно..."
   },
   "007_005": {
     "src": "Does your father know about this?",
@@ -432,7 +432,7 @@
   "008_006": {
     "src": "Things are different now...",
     "yax": "Теперь все по-другому...",
-    "trx": "Теперь все по-другому..."
+    "trx": "Теперь всё по-другому..."
   },
   "008_007": {
     "src": "Good for him.",
@@ -452,7 +452,7 @@
   "009_001": {
     "src": "Thanks for telling me all this.",
     "yax": "Спасибо, что рассказали мне все это.",
-    "trx": "Спасибо, что рассказал мне все это."
+    "trx": "Спасибо, что рассказал мне всё это."
   },
   "009_002": {
     "src": "It's going to be a huge help for the investigation.",

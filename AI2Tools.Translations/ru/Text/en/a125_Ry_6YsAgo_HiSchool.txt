@@ -837,7 +837,7 @@
   "019_003": {
     "src": "Everything he makes is so good, my tongue could fall right off...",
     "yax": "Все, что он готовит, настолько вкусно, что у меня может отвалиться язык...",
-    "trx": "Все, что он готовит, так вкусно, прям язык откусить можно..."
+    "trx": "Всё, что он готовит, так вкусно, прям язык откусить можно..."
   },
   "019_004": {
     "src": "Personally, I think his place and Matsushita Diner are competing for the number one spot.",

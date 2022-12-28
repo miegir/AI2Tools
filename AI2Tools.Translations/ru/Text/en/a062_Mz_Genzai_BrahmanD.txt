@@ -232,7 +232,7 @@
   "006_002": {
     "src": "I want to know all about what happened back then.",
     "yax": "Я хочу знать все о том, что тогда произошло.",
-    "trx": "Я хочу все знать о том, что тогда произошло."
+    "trx": "Я хочу всё знать о том, что тогда произошло."
   },
   "006_003": {
     "src": "The HB case and the explosion are related.",

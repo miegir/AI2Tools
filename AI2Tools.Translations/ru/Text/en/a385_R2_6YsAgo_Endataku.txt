@@ -207,7 +207,7 @@
   "001_042": {
     "src": "I don't care! I'm Shoma's father!",
     "yax": "Мне все равно! Я отец Семы!",
-    "trx": "Мне все равно! Я отец Шомы!"
+    "trx": "Мне всё равно! Я отец Шомы!"
   },
   "001_043": {
     "src": "I can't just sit here and do nothing!",

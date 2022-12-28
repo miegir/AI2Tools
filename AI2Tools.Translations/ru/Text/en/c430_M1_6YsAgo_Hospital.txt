@@ -22,7 +22,7 @@
   "001_005": {
     "src": "Basically strangers, but still familiar...",
     "yax": "В основном незнакомые, но все же знакомые...",
-    "trx": "В целом незнакомцы, но все же знакомые..."
+    "trx": "В целом незнакомцы, но всё же знакомые..."
   },
   "001_006": {
     "src": "I shared that thought with Shoma, which got him to open up a little.",
