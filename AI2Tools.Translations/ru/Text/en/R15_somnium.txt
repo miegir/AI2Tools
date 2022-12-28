@@ -1552,7 +1552,7 @@
   "001_239": {
     "src": "I'm surprised the Aiba in Iris's head reacted to that.",
     "yax": "Я удивлен, что Аиба в голове Айрис отреагировала на это.",
-    "trx": "Я удивлен, что Айба в голове Айрис отреагировала на него."
+    "trx": "Я удивлена, что Айба в голове Айрис отреагировала на него."
   },
   "001_240": {
     "src": "It was popular on ViewQube for a little bit. The Trachelismus tenuissimus dance challenge!",

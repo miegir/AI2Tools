@@ -1392,7 +1392,7 @@
   "024_007": {
     "src": "Find the differences...?",
     "yax": "Найди отличия...?",
-    "trx": "Найди отличия...?"
+    "trx": "Найти отличия...?"
   },
   "024_008": {
     "src": "There are three monitors in the room.",
@@ -1407,7 +1407,7 @@
   "024_010": {
     "src": "You have to spot these differences.",
     "yax": "Вы должны заметить эти различия.",
-    "trx": "Вы должны заметить эти отличия."
+    "trx": "Вы должны найти эти отличия."
   },
   "024_011": {
     "src": "Compare the monitor and the real scene. There are four differences.",

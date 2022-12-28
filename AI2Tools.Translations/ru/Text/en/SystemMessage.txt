@@ -197,67 +197,67 @@
   "r15_dialog_509": {
     "src": "Kaniza",
     "yax": "Каниза",
-    "trx": "<line-height=11>\nКаниза"
+    "trx": "Каниза"
   },
   "r15_dialog_510": {
     "src": "Kagami",
     "yax": "Кагами",
-    "trx": "<line-height=11>\nКагами"
+    "trx": "Кагами"
   },
   "r15_dialog_511": {
     "src": "Mama",
     "yax": "Мама",
-    "trx": "<line-height=11>\nМама"
+    "trx": "Мама"
   },
   "r15_dialog_512": {
     "src": "Pewter",
     "yax": "Оловянный",
-    "trx": "<line-height=11>\nПьютер"
+    "trx": "Пьютер"
   },
   "r15_dialog_513": {
     "src": "Ota",
     "yax": "Ota",
-    "trx": "<line-height=11>\nОта"
+    "trx": "Ота"
   },
   "r15_dialog_514": {
     "src": "Moma",
     "yax": "Мома",
-    "trx": "<line-height=11>\nМома"
+    "trx": "Мома"
   },
   "r15_dialog_515": {
     "src": "Boss",
     "yax": "Босс",
-    "trx": "<line-height=11>\nБосс"
+    "trx": "Босс"
   },
   "r15_dialog_516": {
     "src": "Date",
     "yax": "Дата",
-    "trx": "<line-height=11>\nДатэ"
+    "trx": "Датэ"
   },
   "r15_dialog_517": {
     "src": "Aiba",
     "yax": "Aiba",
-    "trx": "<line-height=11>\nАйба"
+    "trx": "Айба"
   },
   "r15_dialog_518": {
     "src": "Mizuki",
     "yax": "Мизуки",
-    "trx": "<line-height=11>\nМизуки"
+    "trx": "Мизуки"
   },
   "r15_dialog_519": {
     "src": "F",
     "yax": "F",
-    "trx": "<line-height=11>\nF"
+    "trx": "F"
   },
   "r15_dialog_520": {
     "src": "BW Bear",
     "yax": "Медведь BW",
-    "trx": "<line-height=11>\nЧ/Б медведь"
+    "trx": "Ч/Б медведь"
   },
   "r15_dialog_521": {
     "src": "Wanderer",
     "yax": "Странник",
-    "trx": "<line-height=11>\nСтранник"
+    "trx": "Странник"
   },
   "r15_dialog_522": {
     "src": "Which should we replace?",
@@ -277,32 +277,32 @@
   "r15_dialog_525": {
     "src": "Red Assassin",
     "yax": "Красный Убийца",
-    "trx": "<line-height=11>\nКрасный убийца"
+    "trx": "Красный убийца"
   },
   "r15_dialog_526": {
     "src": "Blue Assassin",
     "yax": "Синий Убийца",
-    "trx": "<line-height=11>\nСиний убийца"
+    "trx": "Синий убийца"
   },
   "r15_dialog_527": {
     "src": "Green Assassin",
     "yax": "Зеленый Убийца",
-    "trx": "<line-height=11>\nЗеленый убийца"
+    "trx": "Зеленый убийца"
   },
   "r15_dialog_528": {
     "src": "Mansion Leader",
     "yax": "Особняк Лидера",
-    "trx": "<line-height=11>\nЛидер особняка"
+    "trx": "Лидер особняка"
   },
   "r15_dialog_529": {
     "src": "T. Mansion Leader",
     "yax": "Т. Особняк Лидера",
-    "trx": "<line-height=11>\nИст. лидер особняка"
+    "trx": "Ист. лидер особняка"
   },
   "r15_dialog_530": {
     "src": "F",
     "yax": "F",
-    "trx": "<line-height=11>\nF"
+    "trx": "F"
   },
   "information_001": {
     "src": "Checkpoint Saved",
