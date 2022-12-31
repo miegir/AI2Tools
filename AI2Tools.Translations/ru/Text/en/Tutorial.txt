@@ -342,7 +342,7 @@
   "tutorial_051": {
     "src": "By unlocking <color=yellow>《Mental Locks》</color>, you can go deeper into the dream.\nBy unlocking them all, you might be able to learn\nvaluable information.",
     "yax": "Отпирая <color=yellow>\"Ментальные замки\"</color>, вы можете глубже погрузиться в сон.\nОткрыв их все, вы, возможно, сможете научиться\nценная информация.",
-    "trx": "Отпирая <color=yellow>《Ментальные замки》</color> вы глубже погружаетесь в сон.\nОткрыв их все, вы, возможно, сможете узнать\nценную информацию."
+    "trx": "Отпирая <color=yellow>《Ментальные замки》</color>, вы глубже погружаетесь в сон.\nОткрыв их все, вы, возможно, сможете узнать\nценную информацию."
   },
   "tutorial_title_027": {
     "src": "Objectives",
