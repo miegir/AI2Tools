@@ -512,7 +512,7 @@
   "evaluation_rankup_004": {
     "src": "Increased Psyncer Class to [B2]\n\nThese costumes were added to BONUS: \n\"T-shirt: Smart\"\n\"T-shirt: Cute\"\n\"Former CEO Glasses\"",
     "yax": "Увеличен класс Psyncer до [B2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: Умная\"\n\"Футболка: Симпатичная\"\n\"Очки бывшего генерального директора\"",
-    "trx": "Класс псинкера повышен до [B2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: Нарядная\"\n\"Футболка: Симпатичная\"\n\"Очки бывшего исполнительного директора\""
+    "trx": "Класс псинкера повышен до [B2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: Нарядная\"\n\"Футболка: Симпатичная\"\n\"Очки бывшего генерального директора\""
   },
   "evaluation_rankup_005": {
     "src": "Increased Psyncer Class to [B1]\n\nThese costumes were added to BONUS: \n\"T-shirt: ABIS\"\n\"Hero Belt\"",

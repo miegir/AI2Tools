@@ -502,7 +502,7 @@
   "012_006": {
     "src": "His main job was being the CEO of Music Food... I guess that's like the president of the company?",
     "yax": "Его основной работой было быть генеральным директором Music Food... Я полагаю, это похоже на президента компании?",
-    "trx": "Он был исполнительным директором Music Food... Я полагаю, это что-то вроде президента компании?"
+    "trx": "Он был генеральным директором Music Food... Я полагаю, это что-то вроде президента компании?"
   },
   "012_007": {
     "src": "I think I read an article online that said he started the business when he was 22...",

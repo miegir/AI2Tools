@@ -112,7 +112,7 @@
   "aibasroom_selections_023": {
     "src": "Former CEO Glasses",
     "yax": "Бывший генеральный директор Очки",
-    "trx": "Очки бывшего исполнительного директора"
+    "trx": "Очки бывшего генерального директора"
   },
   "aibasroom_selections_024": {
     "src": "Wanderer Hat",

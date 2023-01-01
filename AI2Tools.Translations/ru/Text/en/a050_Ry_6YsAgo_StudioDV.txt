@@ -962,7 +962,7 @@
   "035_002": {
     "src": "Jin Furue...29 years old. The CEO of Music Food Co., Ltd.",
     "yax": "Цзинь Фуруэ... 29 лет. Генеральный директор компании Music Food Co., Ltd.",
-    "trx": "Джин Фуруэ... 29 лет. Исполнительный директор компании Music Food Co., Ltd."
+    "trx": "Джин Фуруэ... 29 лет. Генеральный директор компании Music Food Co., Ltd."
   },
   "035_003": {
     "src": "He's also an executive at several IT firms, consultation companies, investment firms, and advertising agencies.",
