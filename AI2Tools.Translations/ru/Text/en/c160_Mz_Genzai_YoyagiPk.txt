@@ -212,7 +212,7 @@
   "004_019": {
     "src": "But even then, it is still the most likely possibility that his robot carried the body.",
     "yax": "Но даже в этом случае наиболее вероятной остается вероятность того, что его робот нес тело.",
-    "trx": "Но даже в этом случае весома вероятно, что для перемещения тела был использован его робот."
+    "trx": "Но даже в этом случае весьма вероятно, что для перемещения тела был использован его робот."
   },
   "004_020": {
     "src": "Do you think someone used Shoma's robot without his permission?",
