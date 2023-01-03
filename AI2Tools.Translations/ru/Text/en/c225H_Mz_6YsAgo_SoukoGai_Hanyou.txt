@@ -12,7 +12,7 @@
   "001_003": {
     "src": "You like fish too...?",
     "yax": "Ты тоже любишь рыбу...?",
-    "trx": "Ты тоже любишь рыбу...?"
+    "trx": "Тебе и рыба нравится...?"
   },
   "001_004": {
     "src": "It's Tokyo Bay. There's a school of flathead grey mullets!",
