@@ -1622,7 +1622,7 @@
   "045_008": {
     "src": "Or perhaps it is only his desire to escape manifesting.",
     "yax": "Или, возможно, это всего лишь его желание избежать проявления.",
-    "trx": "Или, возможно, так всего лишь проявляется его желание избежать."
+    "trx": "Или, возможно, так всего лишь проявляется его желание сбежать."
   },
   "045_009": {
     "src": "If he was literally imprisoned, that would logically follow.",
