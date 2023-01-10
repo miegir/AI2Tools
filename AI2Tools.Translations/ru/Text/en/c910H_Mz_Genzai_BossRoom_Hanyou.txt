@@ -547,7 +547,7 @@
   "029_005": {
     "src": "That includes both of you.",
     "yax": "Это касается и вас обоих.",
-    "trx": "Это касается и вас обоих."
+    "trx": "Это касается и вас обеих."
   },
   "029_006": {
     "src": "I guess it's a coffee grinder that looks like a stationary bike?",
