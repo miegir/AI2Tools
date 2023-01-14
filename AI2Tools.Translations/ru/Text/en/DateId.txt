@@ -372,7 +372,7 @@
   "date_574": {
     "src": "6 Years Later",
     "yax": "6 Лет Спустя",
-    "trx": "6 лет назад"
+    "trx": "6 лет спустя"
   },
   "date_575": {
     "src": "February 15th",

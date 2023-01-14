@@ -187,7 +187,7 @@
   "009_002": {
     "src": "Though it's true I was removed from the world outside.",
     "yax": "Хотя это правда, что я был удален от внешнего мира.",
-    "trx": "Но я на действительно находился вдали от внешнего мира."
+    "trx": "Но я действительно находился вдали от внешнего мира."
   },
   "009_003": {
     "src": "Because six years ago, you opened the freezer at Brahman, Mr. Ryuki.",

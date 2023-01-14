@@ -5232,7 +5232,7 @@
   "098_010": {
     "src": "Huh? It's not the blue key?",
     "yax": "А? Это не синий ключ?",
-    "trx": "А? Это не синий ключ?"
+    "trx": "А? Синий ключ не подходит?"
   },
   "098_011": {
     "src": "The size matches, but the key does not go in.",
