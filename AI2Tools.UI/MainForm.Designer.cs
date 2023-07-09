@@ -29,142 +29,150 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            this.GamePathBrowseDialog = new System.Windows.Forms.OpenFileDialog();
-            this.ResourceNameLabel = new System.Windows.Forms.Label();
-            this.ResourceNameBox = new System.Windows.Forms.ComboBox();
-            this.GamePathLabel = new System.Windows.Forms.Label();
-            this.GamePathBox = new System.Windows.Forms.TextBox();
-            this.GamePathBrowseButton = new System.Windows.Forms.Button();
-            this.RollButton = new System.Windows.Forms.Button();
-            this.UnrollButton = new System.Windows.Forms.Button();
-            this.CancellationButton = new System.Windows.Forms.Button();
-            this.LogBox = new System.Windows.Forms.ListBox();
-            this.SuspendLayout();
+            GamePathBrowseDialog = new OpenFileDialog();
+            ResourceNameLabel = new Label();
+            ResourceNameBox = new ComboBox();
+            GamePathLabel = new Label();
+            GamePathBox = new TextBox();
+            GamePathBrowseButton = new Button();
+            RollButton = new Button();
+            UnrollButton = new Button();
+            CancellationButton = new Button();
+            LogBox = new ListBox();
+            SteamBox = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)SteamBox).BeginInit();
+            SuspendLayout();
             // 
             // GamePathBrowseDialog
             // 
-            this.GamePathBrowseDialog.FileName = "AI_TheSomniumFiles2.exe";
-            this.GamePathBrowseDialog.Filter = "Game Executable|AI_TheSomniumFiles2.exe|Executable Files|*.exe|All Files|*.*";
+            GamePathBrowseDialog.FileName = "AI_TheSomniumFiles2.exe";
+            GamePathBrowseDialog.Filter = "Game Executable|AI_TheSomniumFiles2.exe|Executable Files|*.exe|All Files|*.*";
             // 
             // ResourceNameLabel
             // 
-            this.ResourceNameLabel.AutoSize = true;
-            this.ResourceNameLabel.Location = new System.Drawing.Point(12, 9);
-            this.ResourceNameLabel.Name = "ResourceNameLabel";
-            this.ResourceNameLabel.Size = new System.Drawing.Size(93, 15);
-            this.ResourceNameLabel.TabIndex = 0;
-            this.ResourceNameLabel.Text = "&Resource Name:";
+            ResourceNameLabel.AutoSize = true;
+            ResourceNameLabel.Location = new Point(12, 9);
+            ResourceNameLabel.Name = "ResourceNameLabel";
+            ResourceNameLabel.Size = new Size(93, 15);
+            ResourceNameLabel.TabIndex = 0;
+            ResourceNameLabel.Text = "&Resource Name:";
             // 
             // ResourceNameBox
             // 
-            this.ResourceNameBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.ResourceNameBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.ResourceNameBox.FormattingEnabled = true;
-            this.ResourceNameBox.Location = new System.Drawing.Point(12, 27);
-            this.ResourceNameBox.Name = "ResourceNameBox";
-            this.ResourceNameBox.Size = new System.Drawing.Size(760, 23);
-            this.ResourceNameBox.TabIndex = 1;
-            this.ResourceNameBox.SelectionChangeCommitted += new System.EventHandler(this.ResourceNameBox_SelectionChangeCommitted);
+            ResourceNameBox.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            ResourceNameBox.DropDownStyle = ComboBoxStyle.DropDownList;
+            ResourceNameBox.FormattingEnabled = true;
+            ResourceNameBox.Location = new Point(12, 27);
+            ResourceNameBox.Name = "ResourceNameBox";
+            ResourceNameBox.Size = new Size(760, 23);
+            ResourceNameBox.TabIndex = 1;
+            ResourceNameBox.SelectionChangeCommitted += ResourceNameBox_SelectionChangeCommitted;
             // 
             // GamePathLabel
             // 
-            this.GamePathLabel.AutoSize = true;
-            this.GamePathLabel.Location = new System.Drawing.Point(12, 53);
-            this.GamePathLabel.Name = "GamePathLabel";
-            this.GamePathLabel.Size = new System.Drawing.Size(68, 15);
-            this.GamePathLabel.TabIndex = 2;
-            this.GamePathLabel.Text = "&Game Path:";
+            GamePathLabel.AutoSize = true;
+            GamePathLabel.Location = new Point(12, 53);
+            GamePathLabel.Name = "GamePathLabel";
+            GamePathLabel.Size = new Size(68, 15);
+            GamePathLabel.TabIndex = 2;
+            GamePathLabel.Text = "&Game Path:";
             // 
             // GamePathBox
             // 
-            this.GamePathBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.GamePathBox.Location = new System.Drawing.Point(12, 71);
-            this.GamePathBox.Name = "GamePathBox";
-            this.GamePathBox.ReadOnly = true;
-            this.GamePathBox.Size = new System.Drawing.Size(679, 23);
-            this.GamePathBox.TabIndex = 3;
+            GamePathBox.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            GamePathBox.Location = new Point(12, 71);
+            GamePathBox.Name = "GamePathBox";
+            GamePathBox.ReadOnly = true;
+            GamePathBox.Size = new Size(679, 23);
+            GamePathBox.TabIndex = 3;
             // 
             // GamePathBrowseButton
             // 
-            this.GamePathBrowseButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.GamePathBrowseButton.Location = new System.Drawing.Point(697, 71);
-            this.GamePathBrowseButton.Name = "GamePathBrowseButton";
-            this.GamePathBrowseButton.Size = new System.Drawing.Size(75, 23);
-            this.GamePathBrowseButton.TabIndex = 4;
-            this.GamePathBrowseButton.Text = "&Browse...";
-            this.GamePathBrowseButton.UseVisualStyleBackColor = true;
-            this.GamePathBrowseButton.Click += new System.EventHandler(this.GamePathBrowseButton_Click);
+            GamePathBrowseButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            GamePathBrowseButton.Location = new Point(697, 71);
+            GamePathBrowseButton.Name = "GamePathBrowseButton";
+            GamePathBrowseButton.Size = new Size(75, 23);
+            GamePathBrowseButton.TabIndex = 4;
+            GamePathBrowseButton.Text = "&Browse...";
+            GamePathBrowseButton.UseVisualStyleBackColor = true;
+            GamePathBrowseButton.Click += GamePathBrowseButton_Click;
             // 
             // RollButton
             // 
-            this.RollButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.RollButton.Location = new System.Drawing.Point(535, 100);
-            this.RollButton.Name = "RollButton";
-            this.RollButton.Size = new System.Drawing.Size(75, 23);
-            this.RollButton.TabIndex = 7;
-            this.RollButton.Text = "&Roll";
-            this.RollButton.UseVisualStyleBackColor = true;
-            this.RollButton.Click += new System.EventHandler(this.RollButton_Click);
+            RollButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            RollButton.Location = new Point(535, 100);
+            RollButton.Name = "RollButton";
+            RollButton.Size = new Size(75, 23);
+            RollButton.TabIndex = 7;
+            RollButton.Text = "&Roll";
+            RollButton.UseVisualStyleBackColor = true;
+            RollButton.Click += RollButton_Click;
             // 
             // UnrollButton
             // 
-            this.UnrollButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.UnrollButton.Location = new System.Drawing.Point(616, 100);
-            this.UnrollButton.Name = "UnrollButton";
-            this.UnrollButton.Size = new System.Drawing.Size(75, 23);
-            this.UnrollButton.TabIndex = 8;
-            this.UnrollButton.Text = "&Unroll";
-            this.UnrollButton.UseVisualStyleBackColor = true;
-            this.UnrollButton.Click += new System.EventHandler(this.UnrollButton_Click);
+            UnrollButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            UnrollButton.Location = new Point(616, 100);
+            UnrollButton.Name = "UnrollButton";
+            UnrollButton.Size = new Size(75, 23);
+            UnrollButton.TabIndex = 8;
+            UnrollButton.Text = "&Unroll";
+            UnrollButton.UseVisualStyleBackColor = true;
+            UnrollButton.Click += UnrollButton_Click;
             // 
             // CancellationButton
             // 
-            this.CancellationButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.CancellationButton.Location = new System.Drawing.Point(697, 100);
-            this.CancellationButton.Name = "CancellationButton";
-            this.CancellationButton.Size = new System.Drawing.Size(75, 23);
-            this.CancellationButton.TabIndex = 9;
-            this.CancellationButton.Text = "&Cancel";
-            this.CancellationButton.UseVisualStyleBackColor = true;
+            CancellationButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            CancellationButton.Location = new Point(697, 100);
+            CancellationButton.Name = "CancellationButton";
+            CancellationButton.Size = new Size(75, 23);
+            CancellationButton.TabIndex = 9;
+            CancellationButton.Text = "&Cancel";
+            CancellationButton.UseVisualStyleBackColor = true;
             // 
             // LogBox
             // 
-            this.LogBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.LogBox.FormattingEnabled = true;
-            this.LogBox.IntegralHeight = false;
-            this.LogBox.ItemHeight = 15;
-            this.LogBox.Location = new System.Drawing.Point(12, 129);
-            this.LogBox.Name = "LogBox";
-            this.LogBox.Size = new System.Drawing.Size(760, 380);
-            this.LogBox.TabIndex = 10;
+            LogBox.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            LogBox.FormattingEnabled = true;
+            LogBox.IntegralHeight = false;
+            LogBox.ItemHeight = 15;
+            LogBox.Location = new Point(12, 138);
+            LogBox.Name = "LogBox";
+            LogBox.Size = new Size(760, 371);
+            LogBox.TabIndex = 10;
+            // 
+            // SteamBox
+            // 
+            SteamBox.Image = Properties.Resources.Steam;
+            SteamBox.Location = new Point(12, 100);
+            SteamBox.Name = "SteamBox";
+            SteamBox.Size = new Size(32, 32);
+            SteamBox.TabIndex = 11;
+            SteamBox.TabStop = false;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 521);
-            this.Controls.Add(this.LogBox);
-            this.Controls.Add(this.CancellationButton);
-            this.Controls.Add(this.UnrollButton);
-            this.Controls.Add(this.RollButton);
-            this.Controls.Add(this.GamePathBrowseButton);
-            this.Controls.Add(this.GamePathBox);
-            this.Controls.Add(this.GamePathLabel);
-            this.Controls.Add(this.ResourceNameBox);
-            this.Controls.Add(this.ResourceNameLabel);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MinimumSize = new System.Drawing.Size(600, 380);
-            this.Name = "MainForm";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "AI2Tools";
-            this.Load += new System.EventHandler(this.MainForm_Load);
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(784, 521);
+            Controls.Add(SteamBox);
+            Controls.Add(LogBox);
+            Controls.Add(CancellationButton);
+            Controls.Add(UnrollButton);
+            Controls.Add(RollButton);
+            Controls.Add(GamePathBrowseButton);
+            Controls.Add(GamePathBox);
+            Controls.Add(GamePathLabel);
+            Controls.Add(ResourceNameBox);
+            Controls.Add(ResourceNameLabel);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            MinimumSize = new Size(600, 380);
+            Name = "MainForm";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "AI2Tools";
+            Load += MainForm_Load;
+            ((System.ComponentModel.ISupportInitialize)SteamBox).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -179,5 +187,6 @@
         private Button UnrollButton;
         private Button CancellationButton;
         private ListBox LogBox;
+        private PictureBox SteamBox;
     }
 }
