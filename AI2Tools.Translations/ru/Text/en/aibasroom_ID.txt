@@ -6465,7 +6465,7 @@
     "trx": "Костюм хот-дога"
   },
   "aibasroom_message_506": {
-    "src": "5 Pattern T-Shirt Set",
+    "src": "3 Pattern T-Shirt Set",
     "yax": "Комплект футболок с рисунком 5 шт.",
     "trx": "Футболка с рисунком"
   },

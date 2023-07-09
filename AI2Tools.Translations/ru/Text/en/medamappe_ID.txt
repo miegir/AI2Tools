@@ -4701,7 +4701,7 @@
     "trx": "Со-ай"
   },
   "medamappe_selection_510": {
-    "src": "Ristuko-ie",
+    "src": "Ritsuko-ie",
     "yax": "Ристуко-ие",
     "trx": "Рицуко-ай"
   },
@@ -4801,7 +4801,7 @@
     "trx": "Со-ай"
   },
   "medamappe_parameter_015": {
-    "src": "Ristuko-ie",
+    "src": "Ritsuko-ie",
     "yax": "Ристуко-ие",
     "trx": "Рицуко-ай"
   },
@@ -5071,7 +5071,7 @@
     "trx": "Дорос до Со-ай!\n*Награда уже получена."
   },
   "medamappe_window_030": {
-    "src": "Evolved to Ristsuko-ie!\n*This reward has already been collected.",
+    "src": "Evolved to Ritsuko-ie!\n *This reward has already been collected.",
     "yax": "Эволюционировал в Рицуко-ие!\n*Эта награда уже собрана.",
     "trx": "Дорос до Рицуко-ай!\n*Награда уже получена."
   },
@@ -5136,7 +5136,7 @@
     "trx": "Со-ай отправился в путешествие, став респектабельным взрослым!"
   },
   "medamappe_window_511": {
-    "src": "Ristuko-ie went off on a journey after becoming a respectable adult!",
+    "src": "Ritsuko-ie went off on a journey after becoming a respectable adult!",
     "yax": "Ристуко-ие отправилась в путешествие, став респектабельной взрослой женщиной!",
     "trx": "Рицуко-ай отправился в путешествие, став респектабельным взрослым!"
   },

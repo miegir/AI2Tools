@@ -5,9 +5,9 @@
     "trx": "В других переводах Рассекателя называют Tearer... Это имя происходит от слова \"Tear\", которое имеет два значения. Первое значение — лить слезы. Второе — разрывать. Имя преступника в деле ПТ — это отсылка ко второму значению. При добавлении суффикса \"-er\" (тот, кто это делает) как раз и получается \"Tearer\". В русском переводе авторы решили назвать его Рассекателем, потому что он не просто рвет тела, а \"рассекает\" их пополам."
   },
   "file_trivia_002": {
-    "src": "Date is an ABIS Special Agent who lived with Mizuki until seven years ago. He's Mizuki's adoptive father. Back then, I was Date's partner on investigations. I was nestled in Date's left eye socket. Ever since the explosion six years ago, he's been missing...",
+    "src": "Date is an ABIS Special Agent who lived with Mizuki until six years ago. He's Mizuki's adoptive father. Back then, I was Date's partner on investigations. I was nestled in Date's left eye socket. Ever since the explosion six years ago, he's been missing...",
     "yax": "Дата - специальный агент АБИС, который жил с Мизуки до семи лет назад. Он приемный отец Мизуки. В то время я был партнером Дейта по расследованиям. Я примостился в левой глазнице Дейта. С момента взрыва шесть лет назад он пропал без вести...",
-    "trx": "Датэ — это специальный агент ABIS. Он приемный отец Мизуки. Семь лет назад они с Мизуки жили вместе. В то время я была партнером Датэ по расследованиям. Я располагалась в левой глазнице Датэ. После взрыва, который случился шесть лет назад, Датэ пропал без вести..."
+    "trx": "Датэ — это специальный агент ABIS. Он приемный отец Мизуки. Шесть лет назад они с Мизуки жили вместе. В то время я была партнером Датэ по расследованиям. Я располагалась в левой глазнице Датэ. После взрыва, который случился шесть лет назад, Датэ пропал без вести..."
   },
   "file_trivia_003": {
     "src": "Regarding Mizuki's smartphone. If it gets reception, I can connect to any network. I can make calls and send and receive messages on NILE... Mizuki says \"I don't want you to know about my private life. If I leave my eyes closed, you won't be able to see it, right Aiba?\" Which is why she still carries her smartphone around.",
@@ -170,9 +170,9 @@
     "trx": "<size=95%>Позвольте мне объяснить \"Эксперимент с двумя щелями\". Мы направляем луч света на доску с двумя щелями, за которой находится экран. Световые лучи при этом искажаются и выглядят как полосы. Это происходит потому, что свет обладает волновыми свойствами... Что же тогда произойдет, если молекулы света выпускать по одной за раз? Молекулы света будут отображаться на экране в виде точек. Если этот процесс выполнять непрерывно, полосы появятся снова. Почему это происходит? Молекулы света выпускаются одна за другой, так что доска не должна оказывать никакого эффекта... Следующая часть этого эксперимента использует детектор, позволяющий определить, через какую щель прошла молекула. При этом полосы исчезают, и на экране остаются лишь две линии... Разве это не интересно? Если не проводить наблюдение, они проявляются в виде волн, но как только вы начинаете наблюдение, появляются линии. Это и есть суть \"проблемы наблюдения в молекулярной теории\"..."
   },
   "file_trivia_034": {
-    "src": "Don't ask where the -ie went!",
+    "src": "Sometimes a cigar is just a cigar.",
     "yax": "Не спрашивай, куда делся -ie!",
-    "trx": "Не спрашивайте, куда делось -ай!"
+    "trx": "Иногда сигара — это всего лишь сигара."
   },
   "file_trivia_035": {
     "src": "You would think \"10 yen\" is the correct answer. If the price of the ball was 10 yen, that would make the price of the bat 110 yen, which would add up to 120 yen, and therefore the answer is 5 yen and the bat 105 yen... How cheap is that?! It's probably more expensive than Ryuki's \"bat and balls\"...",
@@ -290,7 +290,7 @@
     "trx": "Мэйдо-кафе \"Sunfish Pocket\" изначально принадлежало приемному отцу Мизуки, Рэндзю Окиуре. Из-за определенных событий шестилетней давности теперь им владеет Мизуки."
   },
   "file_trivia_053": {
-    "src": "\"Ritsy\" is probably the receptionist. Her name is \"Ritsuko\"...",
+    "src": "\"Ritsu\" is probably the receptionist. Her name is \"Ritsuko\"...",
     "yax": "\"Ритси\", вероятно, секретарша в приемной. Ее зовут \"Рицуко\"...",
     "trx": "\"Рицу\" — это, вероятно, секретарша в приемной. Ее зовут \"Рицуко\"..." //spell-ignore:Рицу
   },

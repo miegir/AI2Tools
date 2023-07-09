@@ -900,7 +900,7 @@
     "trx": "Нет, я просто..."
   },
   "022_004": {
-    "src": "Is this your fist time here?",
+    "src": "Is this your first time here?",
     "yax": "Это твой первый раз здесь?",
     "trx": "Ты здесь в первый раз?"
   },

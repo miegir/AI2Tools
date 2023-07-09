@@ -390,7 +390,7 @@
     "trx": "О Таме..."
   },
   "choice_005": {
-    "src": "About Maruko...",
+    "src": "About Marco...",
     "yax": "О Маруко...",
     "trx": "О Марко..."
   },

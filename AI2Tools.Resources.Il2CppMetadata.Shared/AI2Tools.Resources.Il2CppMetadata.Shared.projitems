@@ -11,6 +11,5 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Il2CppMetadataManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Il2CppMetadataResource.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Il2CppMetadataTranslation.cs" />
   </ItemGroup>
 </Project>

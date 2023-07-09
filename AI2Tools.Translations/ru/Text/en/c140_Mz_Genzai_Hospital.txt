@@ -47,7 +47,7 @@
   "004_001": {
     "src": "My name is Hanayo Nasu.",
     "yax": "Меня зовут Ханайо Насу.",
-    "trx": "Меня зовут Каё Насу."
+    "trx": "Меня зовут Ханаё Насу."
   },
   "005_001": {
     "src": "I can get them in in the tightest spots...",

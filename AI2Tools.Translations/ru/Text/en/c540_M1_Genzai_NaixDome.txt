@@ -695,7 +695,7 @@
     "trx": "После этого все мы обменялись информацией. "
   },
   "013_002": {
-    "src": "Aiba, Tama, and Maruko shared everything on the local network.",
+    "src": "Aiba, Tama, and Marco shared everything on the local network.",
     "yax": "Айба, Тама и Маруко делились всем в локальной сети.",
     "trx": "Айба, Тама и Марко поделились сведениями по локальной сети."
   },

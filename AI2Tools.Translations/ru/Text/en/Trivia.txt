@@ -5,9 +5,9 @@
     "trx": "В других переводах Рассекателя называют Tearer... Это имя происходит от слова \"Tear\", которое имеет два значения. Первое значение — лить слезы. Второе — разрывать. Имя преступника в деле ПТ — это отсылка ко второму значению. При добавлении суффикса \"-er\" (тот, кто это делает) как раз и получается \"Tearer\". В русском переводе авторы решили назвать его Рассекателем, потому что он не просто рвет тела, а \"рассекает\" их пополам."
   },
   "trivia_003": {
-    "src": "Date is an ABIS Special Agent who lived with Mizuki until seven years ago. He's Mizuki's adoptive father. Back then, I was Date's partner on investigations. I was nestled in Date's left eye socket. Ever since the explosion incident six years ago, he's been missing...",
+    "src": "Date is an ABIS Special Agent who lived with Mizuki until six years ago. He's Mizuki's adoptive father. Back then, I was Date's partner on investigations. I was nestled in Date's left eye socket. Ever since the explosion six years ago, he's been missing...",
     "yax": "Дата - специальный агент АБИС, который жил с Мизуки до семи лет назад. Он приемный отец Мизуки. В то время я был партнером Дейта по расследованиям. Я примостился в левой глазнице Дейта. С тех пор, как шесть лет назад произошел взрыв, он пропал без вести...",
-    "trx": "Датэ — это специальный агент ABIS. Он приемный отец Мизуки. Семь лет назад они с Мизуки жили вместе. В то время я была партнером Датэ по расследованиям. Я располагалась в левой глазнице Датэ. После взрыва, который случился шесть лет назад, Датэ пропал без вести..."
+    "trx": "Датэ — это специальный агент ABIS. Он приемный отец Мизуки. Шесть лет назад они с Мизуки жили вместе. В то время я была партнером Датэ по расследованиям. Я располагалась в левой глазнице Датэ. После взрыва, который случился шесть лет назад, Датэ пропал без вести..."
   },
   "trivia_004": {
     "src": "Regarding Mizuki's smartphone. If it gets reception, I can connect to any network. I can make calls and send and receive messages on NILE... Mizuki says \"I don't want you to know about my private life. If I leave my eyes closed, you won't be able to see it, right Aiba?\" Which is why she still carries her smartphone around.",
@@ -275,7 +275,7 @@
     "trx": "Мэйдо-кафе \"Sunfish Pocket\" изначально принадлежало приемному отцу Мизуки, Рэндзю Окиуре. Из-за определенных событий шестилетней давности теперь им владеет Мизуки."
   },
   "trivia_057": {
-    "src": "\"Ritsy\" is probably the receptionist. Her name is \"Ritsuko\"...",
+    "src": "\"Ritsu\" is probably the receptionist. Her name is \"Ritsuko\"...",
     "yax": "\"Ритси\", вероятно, секретарша в приемной. Ее зовут \"Рицуко\"...",
     "trx": "\"Рицу\" — это, вероятно, секретарша в приемной. Ее зовут \"Рицуко\"..." //spell-ignore:Рицу
   },
@@ -285,9 +285,9 @@
     "trx": "Единственные, кто знает о клонировании, — это члены ABIS. Для остальных Мизуки Курануши и Мизуки Датэ — просто сестры."
   },
   "trivia_059": {
-    "src": "The information Ryuki got in his investigation has already been transmitted. We know about Bodai. What he was doing and where. ",
+    "src": "The information Ryuki got in his investigation has already been transmitted. We know about Mamoru. What he was doing and where.",
     "yax": "Информация, которую Рюки получил в ходе своего расследования, уже была передана. Мы знаем о Бодае. Что он делал и где. ",
-    "trx": "Информация, которую Рюки получил в ходе своего расследования, уже была передана. Мы знаем о Бодае. Что он делал и где. "
+    "trx": "Информация, которую Рюки получил в ходе своего расследования, уже была передана. Мы знаем о Мамору. Что он делал и где. "
   },
   "trivia_060": {
     "src": "Such a complex story. TC-PERGE was created using PERGE technology. If Riichi didn't invest in Horadori Institute, it would never have happened. At the same time, Mizuki Kuranushi's heart condition wouldn't have been treated. The technology itself is neither good or evil. It's dependent on the person who uses it... I guess I can comment on moral issues every now and then.",

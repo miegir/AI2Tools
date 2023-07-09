@@ -1005,7 +1005,7 @@
     "trx": "Шкаф"
   },
   "Psync装置": {
-    "src": "Pysnc Machine",
+    "src": "Psync Machine",
     "yax": "Машина Pysnc",
     "trx": "Псинк-машина"
   },

@@ -28,8 +28,7 @@ public partial class Il2CppMetadataResource
             logger.LogInformation("exporting il2cpp metadata file {name}...", name);
 
             var translations = manager.StringLiterals
-                .Select(src => new Il2CppMetadataTranslation { Src = src })
-                .ToArray();
+                .ToDictionary(src => src, src => default(string));
 
             using var target = new FileTarget(path);
             JsonSerializer.Serialize(target.Stream, translations, JsonOptions);
@@ -61,7 +60,7 @@ public partial class Il2CppMetadataResource
                 
                 using var stream = File.OpenRead(sourcePath);
                 
-                var translations = JsonSerializer.Deserialize<Il2CppMetadataTranslation[]>(stream, JsonOptions);
+                var translations = JsonSerializer.Deserialize<Dictionary<string, string?>>(stream, JsonOptions);
                 var hasWarnings = Translate(manager.StringLiterals, translations);
 
                 Save(manager);
@@ -91,17 +90,22 @@ public partial class Il2CppMetadataResource
                 logger.LogInformation("building il2cpp metadata file {name}...", name);
 
                 var translations =
-                    JsonSerializer.Deserialize<Il2CppMetadataTranslation[]>(stream, JsonOptions)
-                        ?? Array.Empty<Il2CppMetadataTranslation>();
+                    JsonSerializer.Deserialize<Dictionary<string, string?>>(stream, JsonOptions)
+                        ?? new();
 
-                foreach (var item in translations)
+                // compress
+                var untranslated = new HashSet<string>();
+                foreach (var entry in translations)
                 {
-                    if (item.Trx == null || item.Trx == item.Src)
+                    if (entry.Value == null || entry.Value == entry.Key)
                     {
-                        // sparse compression
-                        item.Src = null;
-                        item.Trx = null;
+                        untranslated.Add(entry.Key);
                     }
+                }
+
+                foreach (var item in untranslated)
+                {
+                    translations.Remove(item);
                 }
 
                 return translations;

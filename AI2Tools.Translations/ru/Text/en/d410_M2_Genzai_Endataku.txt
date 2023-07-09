@@ -135,7 +135,7 @@
     "trx": "Понятно..."
   },
   "003_012": {
-    "src": "You're don't seem surprised.",
+    "src": "You don't seem surprised.",
     "yax": "Ты, кажется, не удивлен.",
     "trx": "Ты, кажется, не удивлен."
   },

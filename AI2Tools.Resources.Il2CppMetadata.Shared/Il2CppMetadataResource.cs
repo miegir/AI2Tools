@@ -28,7 +28,7 @@ public partial class Il2CppMetadataResource : IResource
                 logger.LogInformation("unpacking il2cpp metadata {name}...", name);
 
                 var manager = new Il2CppMetadataManager(logger, source);
-                var translations = entry.AsObjectSource<Il2CppMetadataTranslation[]>().Deserialize();
+                var translations = entry.AsObjectSource<Dictionary<string, string?>>().Deserialize();
 
                 Translate(manager.StringLiterals, translations);
                 Save(manager);
@@ -48,57 +48,33 @@ public partial class Il2CppMetadataResource : IResource
         }
     }
 
-    private bool Translate(string[] strings, Il2CppMetadataTranslation[]? translations)
+    private bool Translate(string[] strings, Dictionary<string, string?>? translations)
     {
         logger.LogInformation("importing il2cpp metadata file {name}...", name);
         using (logger.BeginScope("importing metadata file {name}", name))
         {
             var hasWarnings = false;
 
-            if (translations == null || translations.Length == 0)
+            if (translations == null || translations.Count == 0)
             {
                 return hasWarnings;
             }
 
-            var i = 0;
-            for (; i < strings.Length; i++)
+            var unapplied = translations.Keys.ToHashSet();
+            for (var i = 0; i < strings.Length; i++)
             {
                 var s = strings[i];
-
-                if (translations.Length <= i)
+                if (translations.TryGetValue(s, out var translated) && translated != null)
                 {
-                    hasWarnings = true;
-                    logger.LogWarning("Missing translation for index {index}. Expected: '{expected}'.", i, s);
-                    continue;
+                    strings[i] = translated;
+                    unapplied.Remove(s);
                 }
-
-                var t = translations[i];
-
-                if (t.Src == null)
-                {
-                    // sparse compression
-                    continue;
-                }
-
-                if (s != t.Src)
-                {
-                    hasWarnings = true;
-                    logger.LogWarning("Invalid source for index {index}. Expected: '{expected}'. Actual: '{actual}'.", i, s, t.Src);
-                    continue;
-                }
-
-                if (t.Trx == null || t.Trx == t.Src)
-                {
-                    continue;
-                }
-
-                strings[i] = t.Trx;
             }
 
-            for (; i < translations.Length; i++)
+            foreach (var s in unapplied)
             {
                 hasWarnings = true;
-                logger.LogWarning("Extra translation for index {index}. Actual: '{actual}'.", i, translations[i].Src);
+                logger.LogWarning("Unapplied translation: {expected}.", s);
             }
 
             return hasWarnings;

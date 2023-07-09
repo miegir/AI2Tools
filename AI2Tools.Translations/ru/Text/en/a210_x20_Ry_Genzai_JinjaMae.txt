@@ -180,7 +180,7 @@
     "trx": "Я буду поддерживать тебя, пока ты не будешь удовлетворен..."
   },
   "choice_001": {
-    "src": "What about the security cameras as Sekiba High...?",
+    "src": "What about the security cameras at Sekiba High...?",
     "yax": "А как насчет камер наблюдения в школе Секиба? ..",
     "trx": "Насчет камер видеонаблюдения в школе Секиба..."
   },

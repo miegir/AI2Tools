@@ -167,7 +167,7 @@
   "006_001": {
     "src": "Oh, that's Dokuta Yogano.",
     "yax": "О, это Докута Йогано.",
-    "trx": "О, это Докута Ямино."
+    "trx": "О, это Докута Йогано."
   },
   "006_002": {
     "src": "He's a Tesa fan too. Probably why he was at Lemniscate.",
