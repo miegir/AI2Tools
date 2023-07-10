@@ -27,7 +27,21 @@ public partial class Game
         metadataDir = Path.Combine(dataDir, "il2cpp_data", "Metadata");
     }
 
-    public GameVersionInfo GetVersionInfo() => new(gamePath);
+    public GameVersionInfo? FindVersionInfo()
+    {
+        if (File.Exists(gamePath))
+        {
+            try
+            {
+                return new(gamePath);
+            }
+            catch (IOException)
+            {
+            }
+        }
+
+        return null;
+    }
 
     public GamePipeline CreatePipeline()
     {
@@ -35,7 +49,7 @@ public partial class Game
 
         IEnumerable<IResource> EnumerateResources()
         {
-            yield return new GameVersionResource(logger, GetVersionInfo);
+            yield return new GameVersionResource(logger, this);
 
             foreach (var source in FileSource.EnumerateFiles(metadataDir, "*.dat"))
             {

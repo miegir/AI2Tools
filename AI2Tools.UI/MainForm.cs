@@ -35,7 +35,7 @@ public partial class MainForm : Form
         PopulateResources();
 
         var gamePath = Settings.GamePath;
-        if (!string.IsNullOrEmpty(gamePath))
+        if (!string.IsNullOrEmpty(gamePath) && File.Exists(gamePath))
         {
             OpenGame(gamePath);
         }
@@ -200,8 +200,8 @@ public partial class MainForm : Form
     {
         if (game is not null)
         {
-            var version = game.GetVersionInfo().GameVersion;
-            GameVersionBox.Text = version.ProductVersionString;
+            var version = game.FindVersionInfo()?.GameVersion;
+            GameVersionBox.Text = version?.ProductVersionString ?? "<not found>";
         }
         else
         {

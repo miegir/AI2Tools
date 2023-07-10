@@ -5,12 +5,12 @@ namespace AI2Tools;
 internal partial class GameVersionResource : IResource
 {
     private readonly ILogger logger;
-    private readonly Func<GameVersionInfo> versionGetter;
+    private readonly Game game;
 
-    public GameVersionResource(ILogger logger, Func<GameVersionInfo> versionGetter)
+    public GameVersionResource(ILogger logger, Game game)
     {
         this.logger = logger;
-        this.versionGetter = versionGetter;
+        this.game = game;
     }
 
     public IEnumerable<Action> BeginUnpack(UnpackArguments arguments)

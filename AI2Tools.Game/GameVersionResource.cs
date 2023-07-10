@@ -20,9 +20,16 @@ internal partial class GameVersionResource
         {
             logger.LogInformation("mustering game version...");
 
+            var versionInfo = game.FindVersionInfo();
+            if (versionInfo is null)
+            {
+                logger.LogError("game version info not found.");
+                return;
+            }
+
             arguments.Sink.ReportObject(
                 GameVersionStatics.Path,
-                new GameVersionStreamSource(versionGetter()));
+                new GameVersionStreamSource(versionInfo));
         };
     }
 
