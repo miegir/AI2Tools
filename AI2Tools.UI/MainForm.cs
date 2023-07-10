@@ -101,6 +101,8 @@ public partial class MainForm : Form
         UnrollButton.Enabled = canPatch;
         CancellationButton.Enabled = false;
 
+        UpdateVersionInfo();
+
         return canPatch;
     }
 
@@ -192,5 +194,30 @@ public partial class MainForm : Form
     private void UnrollButton_Click(object sender, EventArgs e)
     {
         PerformAction(context => context.Pipeline.Unroll());
+    }
+
+    private void UpdateVersionInfo()
+    {
+        if (game is not null)
+        {
+            var version = game.GetVersionInfo().GameVersion;
+            GameVersionBox.Text = version.ProductVersionString;
+        }
+        else
+        {
+            GameVersionBox.Text = "<none>";
+        }
+
+        if (ResourceNameBox.SelectedItem is ManifestResource selectedResource)
+        {
+            using var stream = selectedResource.OpenRead();
+            using var container = new ObjectContainer(stream);
+            var version = container.FindGameVersion();
+            ResourceVersionBox.Text = version?.ProductVersionString ?? "<not found>";
+        }
+        else
+        {
+            ResourceVersionBox.Text = "<none>";
+        }
     }
 }

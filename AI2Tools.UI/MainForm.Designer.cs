@@ -40,6 +40,10 @@
             CancellationButton = new Button();
             LogBox = new ListBox();
             SteamBox = new PictureBox();
+            ResourceVersionLabel = new Label();
+            ResourceVersionBox = new Label();
+            GameVersionLabel = new Label();
+            GameVersionBox = new Label();
             ((System.ComponentModel.ISupportInitialize)SteamBox).BeginInit();
             SuspendLayout();
             // 
@@ -100,7 +104,7 @@
             // RollButton
             // 
             RollButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            RollButton.Location = new Point(535, 100);
+            RollButton.Location = new Point(535, 109);
             RollButton.Name = "RollButton";
             RollButton.Size = new Size(75, 23);
             RollButton.TabIndex = 7;
@@ -111,7 +115,7 @@
             // UnrollButton
             // 
             UnrollButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            UnrollButton.Location = new Point(616, 100);
+            UnrollButton.Location = new Point(616, 109);
             UnrollButton.Name = "UnrollButton";
             UnrollButton.Size = new Size(75, 23);
             UnrollButton.TabIndex = 8;
@@ -122,7 +126,7 @@
             // CancellationButton
             // 
             CancellationButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            CancellationButton.Location = new Point(697, 100);
+            CancellationButton.Location = new Point(697, 109);
             CancellationButton.Name = "CancellationButton";
             CancellationButton.Size = new Size(75, 23);
             CancellationButton.TabIndex = 9;
@@ -149,11 +153,51 @@
             SteamBox.TabIndex = 11;
             SteamBox.TabStop = false;
             // 
+            // ResourceVersionLabel
+            // 
+            ResourceVersionLabel.AutoSize = true;
+            ResourceVersionLabel.Location = new Point(50, 100);
+            ResourceVersionLabel.Name = "ResourceVersionLabel";
+            ResourceVersionLabel.Size = new Size(99, 15);
+            ResourceVersionLabel.TabIndex = 12;
+            ResourceVersionLabel.Text = "Resource Version:";
+            // 
+            // ResourceVersionBox
+            // 
+            ResourceVersionBox.AutoSize = true;
+            ResourceVersionBox.Location = new Point(155, 100);
+            ResourceVersionBox.Name = "ResourceVersionBox";
+            ResourceVersionBox.Size = new Size(73, 15);
+            ResourceVersionBox.TabIndex = 13;
+            ResourceVersionBox.Text = "<unknown>";
+            // 
+            // GameVersionLabel
+            // 
+            GameVersionLabel.AutoSize = true;
+            GameVersionLabel.Location = new Point(67, 117);
+            GameVersionLabel.Name = "GameVersionLabel";
+            GameVersionLabel.Size = new Size(82, 15);
+            GameVersionLabel.TabIndex = 14;
+            GameVersionLabel.Text = "Game Version:";
+            // 
+            // GameVersionBox
+            // 
+            GameVersionBox.AutoSize = true;
+            GameVersionBox.Location = new Point(155, 117);
+            GameVersionBox.Name = "GameVersionBox";
+            GameVersionBox.Size = new Size(73, 15);
+            GameVersionBox.TabIndex = 15;
+            GameVersionBox.Text = "<unknown>";
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 521);
+            Controls.Add(GameVersionBox);
+            Controls.Add(GameVersionLabel);
+            Controls.Add(ResourceVersionBox);
+            Controls.Add(ResourceVersionLabel);
             Controls.Add(SteamBox);
             Controls.Add(LogBox);
             Controls.Add(CancellationButton);
@@ -188,5 +232,9 @@
         private Button CancellationButton;
         private ListBox LogBox;
         private PictureBox SteamBox;
+        private Label ResourceVersionLabel;
+        private Label ResourceVersionBox;
+        private Label GameVersionLabel;
+        private Label GameVersionBox;
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using System.Diagnostics;
+using System.IO;
+using Microsoft.Extensions.Logging;
 
 namespace AI2Tools;
 
@@ -25,12 +27,16 @@ public partial class Game
         metadataDir = Path.Combine(dataDir, "il2cpp_data", "Metadata");
     }
 
+    public GameVersionInfo GetVersionInfo() => new(gamePath);
+
     public GamePipeline CreatePipeline()
     {
         return new GamePipeline(logger, EnumerateResources());
 
         IEnumerable<IResource> EnumerateResources()
         {
+            yield return new GameVersionResource(logger, GetVersionInfo);
+
             foreach (var source in FileSource.EnumerateFiles(metadataDir, "*.dat"))
             {
                 yield return new Il2CppMetadataResource(logger, source);
