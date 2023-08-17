@@ -273,7 +273,13 @@ internal partial class BundleManager
 
                 yield return () =>
                 {
-                    arguments.Sink.ReportObject(root.Append(name), sourcePath);
+                    var objectName = name + ".pak";
+                    var objectPath = Path.Combine(arguments.ObjectDirectory, objectName);
+                    var builder = new ObjectBuilder(sourcePath, objectPath, arguments.ForceObjects);
+
+                    BuildTextObject(builder, name);
+
+                    arguments.Sink.ReportObject(root.Append(objectName), objectPath);
                 };
             }
 
