@@ -1,5 +1,4 @@
-﻿using System.IO;
-using AssetsTools.NET;
+﻿using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
 
@@ -10,6 +9,7 @@ internal partial class BundleFile : IDisposable
     private readonly Dictionary<long, string> paths = new();
     private readonly Dictionary<long, GameObject> gameObjectMap = new();
     private readonly GameObjectCollection gameObjects = new();
+    private readonly FileTargetCollector fileTargetCollector = new();
     private readonly ILogger logger;
     private readonly AssetsManager assetsManager;
     private readonly BundleFileInstance bundleFileInstance;
@@ -26,6 +26,8 @@ internal partial class BundleFile : IDisposable
         Initialize();
     }
 
+    public IFileTargetCollector FileTargetCollector => fileTargetCollector;
+
     public void Dispose()
     {
         Dispose(true);
@@ -38,6 +40,8 @@ internal partial class BundleFile : IDisposable
         {
             assetsManager.UnloadAll();
         }
+
+        fileTargetCollector.Commit();
     }
 
     public BundleResourceCollector CreateResourceCollector()

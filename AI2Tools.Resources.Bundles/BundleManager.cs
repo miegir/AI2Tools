@@ -353,7 +353,7 @@ internal partial class BundleManager
             .Scoped(logger, "asset")
             .Run();
 
-        resourceCollector.Write(source, compression);
+        resourceCollector.Write(source, bundleFile.FileTargetCollector, compression);
 
         return true;
 

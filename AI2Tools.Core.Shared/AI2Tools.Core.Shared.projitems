@@ -10,9 +10,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)BundleCompressionType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileTargetCollector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameVersion.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameVersionInfo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameVersionStatics.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IFileTargetCollector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ObjectContainerExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ObjectSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)EnumerableExtensions.cs" />

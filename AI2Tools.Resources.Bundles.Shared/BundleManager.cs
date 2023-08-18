@@ -35,7 +35,7 @@ internal partial class BundleManager
             _ => AssetBundleCompressionType.NONE,
         };
 
-        resourceCollector.Write(source, compression);
+        resourceCollector.Write(source, bundleFile.FileTargetCollector, compression);
 
         IEnumerable<Action> Enumerate()
         {

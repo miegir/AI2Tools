@@ -1,5 +1,4 @@
-﻿using System.Xml.Linq;
-using AssetsTools.NET;
+﻿using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using Microsoft.Extensions.Logging;
 
@@ -103,7 +102,7 @@ internal class BundleResourceCollector
         }));
     }
 
-    public void Write(FileSource source, AssetBundleCompressionType compression)
+    public void Write(FileSource source, IFileTargetCollector fileTargetCollector, AssetBundleCompressionType compression)
     {
         if (assetReplacers.Count == 0)
         {
@@ -117,7 +116,7 @@ internal class BundleResourceCollector
             return;
         }
 
-        var writer = new BundleWriter(logger, bundleFileInstance.file, source);
+        var writer = new BundleWriter(logger, fileTargetCollector, bundleFileInstance.file, source);
 
         writer.Replacers.Add(new BundleReplacerFromAssets(
             oldName: assetsFileInstance.name,

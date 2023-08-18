@@ -6,12 +6,14 @@ namespace AI2Tools;
 internal class BundleWriter
 {
     private readonly ILogger logger;
+    private readonly IFileTargetCollector fileTargetCollector;
     private readonly AssetBundleFile bundleFile;
     private readonly FileSource source;
 
-    public BundleWriter(ILogger logger, AssetBundleFile bundleFile, FileSource source)
+    public BundleWriter(ILogger logger, IFileTargetCollector fileTargetCollector, AssetBundleFile bundleFile, FileSource source)
     {
         this.logger = logger;
+        this.fileTargetCollector = fileTargetCollector;
         this.bundleFile = bundleFile;
         this.source = source;
     }
@@ -22,10 +24,18 @@ internal class BundleWriter
     {
         if (compressionType == AssetBundleCompressionType.NONE)
         {
-            using var target = source.CreateTarget();
-            if (WriteUncompressed(target.Stream))
+            var target = source.CreateTarget();
+            try
             {
-                target.Commit();
+                if (WriteUncompressed(target.Stream))
+                {
+                    fileTargetCollector.AddTarget(target);
+                    target = null;
+                }
+            }
+            finally
+            {
+                target?.Dispose();
             }
         }
         else
