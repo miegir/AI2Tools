@@ -10,7 +10,7 @@
   <Import Project="..\AI2Tools.Core.Shared\AI2Tools.Core.Shared.projitems" Label="Shared" />
 
   <ItemGroup>
-    <PackageReference Include="MessagePack" Version="2.4.35" />
+    <PackageReference Include="MessagePack" Version="2.5.187" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.1" />
   </ItemGroup>
 
