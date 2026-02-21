@@ -112,7 +112,7 @@
   "001_023": {
     "src": "Mmm! Mmm!!!",
     "yax": "Ммм! Ммм!!!",
-    "trx": "☯️Ммм! Ммм!!!" //spell-ignore-line
+    "trx": "Ммм! Ммм!!!" //spell-ignore-line
   },
   "001_024": {
     "src": "Rahhh!",

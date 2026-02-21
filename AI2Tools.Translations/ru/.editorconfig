@@ -1,0 +1,32 @@
+[*]
+# VSSPELL: Spell checker settings from ru.vsspell
+vsspell_section_id = c52acd6db43d43268dee4c7763ecaf76
+vsspell_spell_check_as_you_type = true
+vsspell_include_in_project_spell_check = true
+vsspell_detect_doubled_words = true
+vsspell_ignore_words_with_digits = true
+vsspell_ignore_words_in_all_uppercase = true
+vsspell_ignore_words_in_mixed_case = true
+vsspell_ignore_format_specifiers = true
+vsspell_ignore_filenames_and_email_addresses = true
+vsspell_ignore_xml_elements_in_text = true
+vsspell_treat_underscore_as_separator = false
+vsspell_ignore_mnemonics = true
+vsspell_ignored_character_class = None
+vsspell_cad_import_code_analysis_dictionaries = true
+vsspell_cad_recognized_word_handling = IgnoreAllWords
+vsspell_cad_treat_unrecognized_words_as_misspelled = true
+vsspell_cad_treat_deprecated_terms_as_misspelled = true
+vsspell_cad_treat_compound_terms_as_misspelled = true
+vsspell_cad_treat_casing_exceptions_as_ignored_words = false
+vsspell_additional_dictionary_folders_c52acd6db43d43268dee4c7763ecaf76 = clear_inherited|..\dic
+vsspell_ignored_words_c52acd6db43d43268dee4c7763ecaf76 = clear_inherited
+vsspell_exclusion_expressions_c52acd6db43d43268dee4c7763ecaf76 = clear_inherited(?@@PND@@/Options/).*//spell-ignore-line(?@@PND@@/Options/None)//spell-ignore:\w+\b(?@@PND@@/Options/None)\"(src|yax|path)\".*$(?@@PND@@/Options/None)\"trx\"\:(?@@PND@@ trx header)(?@@PND@@/Options/None)\*хррр\*(?@@PND@@/Options/None)\\"-er\\"(?@@PND@@/Options/None)\\"Нави\\"(?@@PND@@/Options/None)\\n(?@@PND@@/Options/None)\b(\w+)(?=\b.*//spell-ignore:(?i:\1)\b)(?@@PND@@/Options/None)\b[Аа]аа+!(?@@PND@@/Options/None)\b[Аа]нти-тел(?@@PND@@/Options/None)\b[Аа]хх+\b(?@@PND@@/Options/None)\b[Бб]ой-бенд(?@@PND@@/Options/None)\b[Вв]инк-псинк(?@@PND@@/Options/None)\b[Гг]рр+\b(?@@PND@@/Options/None)\b[Гг]ун-фу\b(?@@PND@@/Options/None)\b[Дд]о скольки\b(?@@PND@@/Options/None)\b[Кк]и-я!(?@@PND@@/Options/None)\b[Мм]анэки-нэко\b(?@@PND@@/Options/None)\b[Мм]эйдо-кафе(?@@PND@@/Options/None)\b[Оо]х+\b(?@@PND@@/Options/None)\b[Уу]ти-пути\b(?@@PND@@/Options/None)\b[Хх]мм+\b(?@@PND@@/Options/None)\bа(ха)+\b(?@@PND@@/Options/None)\bАма-но Ивато\b(?@@PND@@/Options/None)\bАматэрасу-о-миками\b(?@@PND@@/Options/None)\bАмэ-но Удзумэ\b(?@@PND@@/Options/None)\bбукинг-агентство\b(?@@PND@@/Options/None)\bвы?кл\.(?@@PND@@/Options/None)\bМачу-Пикчу\b(?@@PND@@/Options/None)\bмм+\b(?@@PND@@/Options/None)\bнее+т\b(?@@PND@@/Options/None)\bХа(ха)+\b(?@@PND@@/Options/None)\bЧжуан-цзы\b(?@@PND@@/Options/None)\bэкшн-игр(?@@PND@@/Options/None)^\s*\"[^"]+\": \{$(?@@PND@@/Options/Multiline)\bАма-но-Ивато\b(?@@PND@@/Options/None)
+vsspell_ignored_classifications_c52acd6db43d43268dee4c7763ecaf76 = clear_inherited
+vsspell_dictionary_languages_c52acd6db43d43268dee4c7763ecaf76 = ru-RU,en-US
+
+[*.code.txt]
+# VSSPELL: Ignored file pattern from ru.vsspell
+vsspell_spell_check_as_you_type = false
+vsspell_include_in_project_spell_check = false
+

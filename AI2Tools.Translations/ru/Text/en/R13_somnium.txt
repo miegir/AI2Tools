@@ -2402,7 +2402,7 @@
   "001_407": {
     "src": "Like when I first brought Shoma here...",
     "yax": "Как тогда, когда я впервые привел сюда Сему...",
-    "trx": "Например, как я впервые привел сюда Сему..."
+    "trx": "Например, как я впервые привел сюда Шому..."
   },
   "001_408": {
     "src": "The ride stopped when we were at the top, and I thought Shoma would be scared...",

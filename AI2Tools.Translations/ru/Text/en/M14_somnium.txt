@@ -2132,7 +2132,7 @@
   "053_010": {
     "src": "This is the answer!",
     "yax": "Это и есть ответ!",
-    "trx": "☯️Это и есть ответ!"
+    "trx": "Вот мой ответ!"
   },
   "053_011": {
     "src": "I want to think about it a little more.",

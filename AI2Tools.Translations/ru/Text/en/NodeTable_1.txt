@@ -12,22 +12,22 @@
   "target_003": {
     "src": "Punch ",
     "yax": "Удар ",
-    "trx": "☯️Удар (Punch) "
+    "trx": "Ударить "
   },
   "target_004": {
     "src": "Kick ",
     "yax": "Удар ",
-    "trx": "☯️Удар (Kick) "
+    "trx": "Пнуть "
   },
   "target_005": {
     "src": "Punch ",
     "yax": "Удар ",
-    "trx": "☯️Удар (Punch) "
+    "trx": "Ударить "
   },
   "target_006": {
     "src": "Punch ",
     "yax": "Удар ",
-    "trx": "☯️Удар (Punch) "
+    "trx": "Ударить "
   },
   "target_008": {
     "src": "Barrel",
@@ -42,7 +42,7 @@
   "target_009": {
     "src": "M11_Test",
     "yax": "M11_Test",
-    "trx": "☯️M11_Test"
+    "trx": null
   },
   "target_010": {
     "src": "Large Picture Book",

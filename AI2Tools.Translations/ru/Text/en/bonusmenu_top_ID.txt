@@ -127,6 +127,6 @@
   "bonus_menu_aiba_006": {
     "src": "Woo, woo!",
     "yax": "Ву, ву!",
-    "trx": "☯️Ву, ву!" //spell-ignore-line
+    "trx": "Ву, ву!" //spell-ignore-line
   }
 }
