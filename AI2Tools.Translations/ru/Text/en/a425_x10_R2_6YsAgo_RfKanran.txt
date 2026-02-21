@@ -17,12 +17,12 @@
   "002_001": {
     "src": "Shoma is sitting in front of me. He's looking at me with a gentle expression, as if a weight has been lifted from his shoulders.",
     "yax": "Сема сидит передо мной. Он смотрит на меня с нежным выражением лица, как будто с его плеч свалилась тяжесть.",
-    "trx": "Шома сидит передо мной. Он смотрит на меня с нежным выражением лица, как будто с его плеч свалился тяжелый груз."
+    "trx": "Шома сидит передо мной. Он смотрит на меня с нежным выражением лица, как будто с его плеч свалился тяжёлый груз."
   },
   "003_001": {
     "src": "I decoded the message and went where it led me...",
     "yax": "Я расшифровал сообщение и пошел туда, куда оно меня привело...",
-    "trx": "Я расшифровал сообщение и пошел туда, куда оно меня привело..."
+    "trx": "Я расшифровал сообщение и пошёл туда, куда оно меня привело..."
   },
   "003_002": {
     "src": "To an underground floor of the Naix Japan building.",
@@ -162,7 +162,7 @@
   "004_009": {
     "src": "Well, he is still a kid...",
     "yax": "Что ж, он все еще ребенок...",
-    "trx": "Что ж, он все еще ребенок..."
+    "trx": "Что ж, он всё ещё ребёнок..."
   },
   "004_010": {
     "src": "Horadori Institute was the first place that popped into my head.",
@@ -252,7 +252,7 @@
   "006_003": {
     "src": "I found it on my doctor's desk...",
     "yax": "Я нашел его на столе моего врача...",
-    "trx": "Я нашел его на столе моего врача..."
+    "trx": "Я нашёл его на столе моего врача..."
   },
   "006_004": {
     "src": "It said it was top secret, so I thought it must be super important. So I grabbed it and put it in my pocket.",
@@ -312,7 +312,7 @@
   "006_015": {
     "src": "But he acted like he did nothing wrong...",
     "yax": "Но он вел себя так, как будто не сделал ничего плохого...",
-    "trx": "Но он вел себя так, как будто не сделал ничего плохого..."
+    "trx": "Но он вёл себя так, как будто не сделал ничего плохого..."
   },
   "006_016": {
     "src": "Why are you upset with me? You should be grateful.",
@@ -322,7 +322,7 @@
   "006_017": {
     "src": "Your body is now special thanks to genome editing.",
     "yax": "Ваше тело теперь особенное благодаря редактированию генома.",
-    "trx": "Твое тело теперь особенное благодаря редактированию генома."
+    "trx": "Твоё тело теперь особенное благодаря редактированию генома."
   },
   "006_018": {
     "src": "Also, I would advise against pulling out of the experiments now.",
@@ -332,7 +332,7 @@
   "006_019": {
     "src": "Your body is still in a transitionary stage. It needs regular testing and medication.",
     "yax": "Ваше тело все еще находится в переходной стадии. Он нуждается в регулярном обследовании и приеме лекарств.",
-    "trx": "Твое тело все еще в переходной стадии. Ты нуждаешься в регулярном обследовании и приеме лекарств."
+    "trx": "Твоё тело всё ещё в переходной стадии. Ты нуждаешься в регулярном обследовании и приёме лекарств."
   },
   "006_020": {
     "src": "If you stop now...all the cells in your body will falter and dissolve.",
@@ -357,7 +357,7 @@
   "007_003": {
     "src": "Do you notice any changes in your body?",
     "yax": "Замечаете ли вы какие-либо изменения в своем теле?",
-    "trx": "Замечаешь ли ты какие-либо изменения в своем теле?"
+    "trx": "Замечаешь ли ты какие-либо изменения в своём теле?"
   },
   "007_004": {
     "src": "No, not really. It's the same as usual...",
@@ -417,7 +417,7 @@
   "008_003": {
     "src": "He's waiting in a corner of the park.",
     "yax": "Он ждет в углу парка.",
-    "trx": "Он ждет в углу парка."
+    "trx": "Он ждёт в углу парка."
   },
   "008_004": {
     "src": "I thought it would be easier for you to talk if we were alone.",
@@ -487,7 +487,7 @@
   "009_008": {
     "src": "You know, I actually wanted to spell the \"Sho\" part of your name with the kanji for \"laughter.\"",
     "yax": "Знаешь, я вообще-то хотел написать часть твоего имени \"Шо\" с помощью иероглифа, означающего \"смех\".",
-    "trx": "Знаешь, я хотел изобразить звук \"Шо\" в твоем имени при помощи иероглифа, означающего \"смех\"." //spell-ignore:Шо
+    "trx": "Знаешь, я хотел изобразить звук \"Шо\" в твоём имени при помощи иероглифа, означающего \"смех\"." //spell-ignore:Шо
   },
   "009_009": {
     "src": "It was going to be spelled with the character for \"laughter\" and \"shine,\" like a shining smile.",
@@ -552,7 +552,7 @@
   "009_021": {
     "src": "I couldn't see their face because they had a metal mask on.",
     "yax": "Я не мог видеть их лица, потому что на них были металлические маски.",
-    "trx": "Я не мог видеть его лица, потому что на нем была металлическая маска."
+    "trx": "Я не мог видеть его лица, потому что на нём была металлическая маска."
   },
   "009_022": {
     "src": "But I'm sure it was Tearer.",
@@ -572,12 +572,12 @@
   "009_025": {
     "src": "Of course, that isn't my real name.",
     "yax": "Конечно, это не мое настоящее имя.",
-    "trx": "Это, конечно же, не настоящее мое имя."
+    "trx": "Это, конечно же, не настоящее моё имя."
   },
   "009_026": {
     "src": "I'll tell you and only you my true name...",
     "yax": "Я скажу тебе и только тебе свое истинное имя...",
-    "trx": "Я скажу тебе и только тебе свое истинное имя..."
+    "trx": "Я скажу тебе и только тебе своё истинное имя..."
   },
   "009_027": {
     "src": "Would you like to hear?",

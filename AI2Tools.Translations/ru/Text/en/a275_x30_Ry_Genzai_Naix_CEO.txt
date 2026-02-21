@@ -27,7 +27,7 @@
   "001_006": {
     "src": "And the way he got in.",
     "yax": "И то, как он вошел.",
-    "trx": "И то, как он вошел."
+    "trx": "И то, как он вошёл."
   },
   "001_007": {
     "src": "Tearer used this elevator to bring Tokiko's right half into the room...",

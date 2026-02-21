@@ -382,7 +382,7 @@
   "target_542": {
     "src": "Komeji at Airplane Ride",
     "yax": "Комедзи во время полета на самолете",
-    "trx": "Комедзи у самолета"
+    "trx": "Комедзи у самолёта"
   },
   "target_543": {
     "src": "Komeji with Something",
@@ -437,7 +437,7 @@
   "target_553": {
     "src": "Inspect airplane ride",
     "yax": "Осмотрите полет на самолете",
-    "trx": "Осмотреть самолет"
+    "trx": "Осмотреть самолёт"
   },
   "target_554": {
     "src": "Inspect mini train ride",

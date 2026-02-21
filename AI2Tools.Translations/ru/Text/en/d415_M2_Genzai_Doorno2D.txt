@@ -12,7 +12,7 @@
   "001_003": {
     "src": "It is locked quite securely.",
     "yax": "Она заперта довольно надежно.",
-    "trx": "Дверь надежно заперта."
+    "trx": "Дверь надёжно заперта."
   },
   "001_004": {
     "src": "This wasn't here six years ago!",

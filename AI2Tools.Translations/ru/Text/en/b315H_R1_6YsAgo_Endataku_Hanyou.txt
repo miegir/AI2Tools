@@ -12,7 +12,7 @@
   "002_002": {
     "src": "What are you talking about?! We don't have time for that!",
     "yax": "О чем ты говоришь?! У нас нет на это времени!",
-    "trx": "О чем ты?! У нас нет на это времени!"
+    "trx": "О чём ты?! У нас нет на это времени!"
   },
   "002_003": {
     "src": "I need to look for \"it.\"",

@@ -87,7 +87,7 @@
   "evaluation_summary_009": {
     "src": "Mizuki Chapter 2\nClear Gen's Somnium\nSolid, unbreakable, stoic.",
     "yax": "Мизуки Глава 2\nЯсный сон Гена\nТвердый, несокрушимый, стойкий.",
-    "trx": "Мизуки, глава 2\nЗавершите сомниум Гена.\nТвердый, несокрушимый, стойкий."
+    "trx": "Мизуки, глава 2\nЗавершите сомниум Гена.\nТвёрдый, несокрушимый, стойкий."
   },
   "evaluation_title_010": {
     "src": "Inevitability",
@@ -372,7 +372,7 @@
   "evaluation_title_038": {
     "src": "A...do...roo...ster...",
     "yax": "А... до...ру...стер...",
-    "trx": "А...до...ру...стер..."
+    "trx": "А...до...ру...стёр..."
   },
   "evaluation_summary_038": {
     "src": "Ryuki Chapter 4\nAlmost get cursed by Adorooster during Shoma's Somnium.\nThe chicken curse...",
@@ -402,7 +402,7 @@
   "evaluation_title_041": {
     "src": "Kunoichi vs. Mad Scientist",
     "yax": "Куноичи против Безумный ученый",
-    "trx": "Куноити против Безумного ученого"
+    "trx": "Куноити против Безумного учёного"
   },
   "evaluation_summary_041": {
     "src": "Mizuki Chapter 3\nClear M1 route with no game over and no QTE fails during Masked Woman's Somnium.",
@@ -542,7 +542,7 @@
   "evaluation_rankup_010": {
     "src": "Increased Psyncer Class to [S2]\n\nThese costumes were added to BONUS: \n\"T-shirt: AI2\"\n\"Black Hair\"",
     "yax": "Увеличен класс Psyncer до [S2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: AI2\"\n\"Черные волосы\"",
-    "trx": "Класс псинкера повышен до [S2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: AI2\"\n\"Черные волосы\""
+    "trx": "Класс псинкера повышен до [S2]\n\nВ БОНУС были добавлены костюмы: \n\"Футболка: AI2\"\n\"Чёрные волосы\""
   },
   "evaluation_rankup_011": {
     "src": "Increased Psyncer Class to [S1]\n\nThese costumes were added to BONUS: \n\"Blue Person\"",

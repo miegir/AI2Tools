@@ -97,7 +97,7 @@
   "bonusmenu_cloth_020": {
     "src": "Black Hair",
     "yax": "Черные Волосы",
-    "trx": "Черные волосы"
+    "trx": "Чёрные волосы"
   },
   "bonusmenu_cloth_021": {
     "src": "Blue Person",

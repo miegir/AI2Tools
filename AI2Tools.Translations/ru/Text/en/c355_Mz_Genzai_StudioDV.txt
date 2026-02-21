@@ -72,7 +72,7 @@
   "003_003": {
     "src": "Ryuki came here with Komeji in an attempt to contact Tearer.",
     "yax": "Рюки пришел сюда с Комедзи в попытке связаться с Тирером.",
-    "trx": "Рюки пришел сюда с Комедзи в попытке вступить в контакт с Рассекателем."
+    "trx": "Рюки пришёл сюда с Комедзи в попытке вступить в контакт с Рассекателем."
   },
   "003_004": {
     "src": "He was attacked and rendered unconscious, which also disabled Tama.",
@@ -112,7 +112,7 @@
   "004_003": {
     "src": "Komeji was kidnapped here and taken underground at Horadori Institute...",
     "yax": "Комедзи был похищен здесь и уведен в подполье в Институте Хорадори...",
-    "trx": "Комедзи был похищен здесь и отвезен в подземелье института Хорадори..."
+    "trx": "Комедзи был похищен здесь и отвезён в подземелье института Хорадори..."
   },
   "004_004": {
     "src": "Indeed.",
@@ -172,7 +172,7 @@
   "006_005": {
     "src": "Let's get going.",
     "yax": "Давайте начнем.",
-    "trx": "Пойдем."
+    "trx": "Пойдём."
   },
   "choice_001": {
     "src": "Circumstances of the body...",

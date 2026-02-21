@@ -82,7 +82,7 @@
   "aibasroom_voice_aiball_017": {
     "src": "I never thought I would end up going to \nthat abandoned factory again... I have a bad \nfeeling about this.",
     "yax": "Я никогда не думал, что в конечном итоге попаду в \nснова эта заброшенная фабрика... У меня плохое \nчувства по этому поводу.",
-    "trx": "Никогда бы не подумала, что снова окажусь \nна этой заброшенной фабрике... У меня плохое \nпредчувствие на этот счет."
+    "trx": "Никогда бы не подумала, что снова окажусь \nна этой заброшенной фабрике... У меня плохое \nпредчувствие на этот счёт."
   },
   "aibasroom_voice_aiball_018": {
     "src": "Valentine's Day... An important holiday to \nmany and great boon on the economy.",
@@ -92,12 +92,12 @@
   "aibasroom_voice_aiball_019": {
     "src": "True love... This is a scene that you would \nnever witness in a million years if you were \nwith Date.",
     "yax": "Настоящая любовь... Это сцена, которую вы бы \nникогда за миллион лет не станешь свидетелем, если бы ты был \nс Датой.",
-    "trx": "Настоящая любовь... Даже если бы прошел \nмиллион лет, мне никогда бы не увидеть этой \nсцены, находись я с Датэ."
+    "trx": "Настоящая любовь... Даже если бы прошёл \nмиллион лет, мне никогда бы не увидеть этой \nсцены, находись я с Датэ."
   },
   "aibasroom_voice_aiball_020": {
     "src": "Now, it's about time... Ah, you will have to \nwait and see what's going to happen!",
     "yax": "А теперь самое время... Ах, вам придется \nподождите и посмотрите, что произойдет!",
-    "trx": "Время почти пришло... Ах, тебе придется \nподождать и увидеть, что произойдет!"
+    "trx": "Время почти пришло... Ах, тебе придётся \nподождать и увидеть, что произойдёт!"
   },
   "aibasroom_voice_aiball_021": {
     "src": "I see.",
@@ -152,7 +152,7 @@
   "aibasroom_voice_aiball_031": {
     "src": "What are you saying?",
     "yax": "О чем ты говоришь?",
-    "trx": "О чем это вы?"
+    "trx": "О чём это вы?"
   },
   "aibasroom_voice_aiball_032": {
     "src": "Are you kidding me?",
@@ -307,7 +307,7 @@
   "aibasroom_voice_tama_006": {
     "src": "Just resting? Or staying the night?",
     "yax": "Просто отдыхаешь? Или останешься на ночь?",
-    "trx": "Ты зашел просто отдохнуть?\nИли останешься на ночь?"
+    "trx": "Ты зашёл просто отдохнуть?\nИли останешься на ночь?"
   },
   "aibasroom_voice_tama_007": {
     "src": "Take your time. I'll be gentle...",
@@ -347,7 +347,7 @@
   "aibasroom_voice_tama_014": {
     "src": "A spacious place like this would be perfect \nfor shooting action films.",
     "yax": "Такое просторное место, как это, было бы идеальным \nдля съемок остросюжетных фильмов.",
-    "trx": "Такое просторное место, как это, было бы \nидеальным для съемок остросюжетных фильмов."
+    "trx": "Такое просторное место, как это, было бы \nидеальным для съёмок остросюжетных фильмов."
   },
   "aibasroom_voice_tama_015": {
     "src": "Happy Valentine's... No, now's not the time \nfor celebrating...",
@@ -357,7 +357,7 @@
   "aibasroom_voice_tama_016": {
     "src": "This isn't really a good chat to be having in a \nFerris wheel, but this was the only place we \ncould take the kid...",
     "yax": "Это не очень хорошая беседа, чтобы вести ее в \nКолесо обозрения, но это было единственное место, где мы \nмог бы забрать ребенка...",
-    "trx": "Не то, чтобы это была подходящая беседа для \nколеса обозрения, но это было единственное место,\nкуда мы могли отвести ребенка..."
+    "trx": "Не то, чтобы это была подходящая беседа для \nколеса обозрения, но это было единственное место,\nкуда мы могли отвести ребёнка..."
   },
   "aibasroom_voice_tama_017": {
     "src": "Ryuki... Why...? Why do you try so hard...?",
@@ -587,7 +587,7 @@
   "aibasroom_voice_aiball_059": {
     "src": "Same to you... I hope that I can remain your \npartner in the future.",
     "yax": "Тебе того же... Я надеюсь, что смогу остаться твоим \nпартнер в будущем.",
-    "trx": "И тебе тоже... Я надеюсь, что смогу остаться \nтвоим партнером в будущем."
+    "trx": "И тебе тоже... Я надеюсь, что смогу остаться \nтвоим партнёром в будущем."
   },
   "aibasroom_voice_mizuki_004": {
     "src": "I appreciate your support, Aiba.",
@@ -607,7 +607,7 @@
   "aibasroom_voice_aiball_061": {
     "src": "If you image search the word \"insect,\" you\nwill be bouncing off of the walls with \nexcitement.",
     "yax": "Если вы выполните поиск по изображению слова \"насекомое\", вы\nбудет отскакивать от стен с \nволнение.",
-    "trx": "Если ты выполнишь поиск по слову \n\"насекомое\", твое волнение будет \nотскакивать от стен."
+    "trx": "Если ты выполнишь поиск по слову \n\"насекомое\", твоё волнение будет \nотскакивать от стен."
   },
   "aibasroom_voice_mizuki_006": {
     "src": "Guh, I'm bored...",
@@ -622,7 +622,7 @@
   "aibasroom_voice_mizuki_007": {
     "src": "Look at me, I'm gonna take pics of food and  post them on social media!",
     "yax": "Посмотри на меня, я собираюсь делать фотографии еды и публиковать их в социальных сетях!",
-    "trx": "Взгляни на меня, я буду фотографировать еду и выкладывать ее в социальных сетях!"
+    "trx": "Взгляни на меня, я буду фотографировать еду и выкладывать её в социальных сетях!"
   },
   "aibasroom_voice_aiball_063": {
     "src": "Mizuki...enough with the typical \nteenage behavior...",
@@ -667,7 +667,7 @@
   "aibasroom_voice_aiball_067": {
     "src": "Yes, they truly are... Is this what girls \ntalk about?",
     "yax": "Да, это действительно так... Это то, что девушки \nпоговорить о чем?",
-    "trx": "Да, это действительно так... Это то, \nо чем разговаривают девушки?"
+    "trx": "Да, это действительно так... Это то, \nо чём разговаривают девушки?"
   },
   "aibasroom_voice_mizuki_012": {
     "src": "Hey... Wouldn't it be cool to get a new  weapon or something?",
@@ -687,7 +687,7 @@
   "aibasroom_voice_aiball_069": {
     "src": "Do not waste my batteries to ask something \nlike that. Ask the AI in your smartphone.",
     "yax": "Не тратьте мои батарейки впустую, чтобы что-то спросить \nкак это. Спросите искусственный интеллект в вашем смартфоне.",
-    "trx": "Не трать момой заряд впустую, \nспрашивая о подобных вещах. \nСпроси ИИ в своем смартфоне."
+    "trx": "Не трать момой заряд впустую, \nспрашивая о подобных вещах. \nСпроси ИИ в своём смартфоне."
   },
   "aibasroom_voice_mizuki_014": {
     "src": "If I ever get fired, maybe I'll go work at  Sunfish Pocket.",
@@ -742,7 +742,7 @@
   "aibasroom_voice_mizuki_019": {
     "src": "This is a tough job, huh... But even Date can do it...",
     "yax": "Это тяжелая работа, да... Но даже Свидание может это сделать...",
-    "trx": "Это тяжелая работа, да... Но даже Датэ может с ней справиться..."
+    "trx": "Это тяжёлая работа, да... Но даже Датэ может с ней справиться..."
   },
   "aibasroom_voice_aiball_075": {
     "src": "Think of it this way. Perhaps you need to \nbe that stupid in order to pull it off.",
@@ -827,7 +827,7 @@
   "aibasroom_voice_tama_063": {
     "src": "What kind of thing? I want to hear you \nsay it...",
     "yax": "Что это за штука? Я хочу услышать тебя \nскажи это...",
-    "trx": "О каких вещах? Я хочу услышать, как \nты это произнесешь..."
+    "trx": "О каких вещах? Я хочу услышать, как \nты это произнесёшь..."
   },
   "aibasroom_voice_ryuuki_008": {
     "src": "Pretty girls don't just fall from the sky!",
@@ -837,7 +837,7 @@
   "aibasroom_voice_tama_064": {
     "src": "But a certain director once said that \neroticism rains down from the sky.",
     "yax": "Но один режиссер однажды сказал, что \nэротизм льется дождем с неба.",
-    "trx": "Но один режиссер как-то сказал, что \nэротизм льется дождем с неба."
+    "trx": "Но один режиссёр как-то сказал, что \nэротизм льётся дождём с неба."
   },
   "aibasroom_voice_ryuuki_009": {
     "src": "Tama, what's tomorrow's weather like?",
@@ -892,7 +892,7 @@
   "aibasroom_voice_ryuuki_014": {
     "src": "Tama, let's talk about something normal for once.",
     "yax": "Тама, давай хоть раз поговорим о чем-нибудь нормальном.",
-    "trx": "Тама, давай хоть раз поговорим о чем-нибудь нормальном."
+    "trx": "Тама, давай хоть раз поговорим о чём-нибудь нормальном."
   },
   "aibasroom_voice_tama_070": {
     "src": "Oh, so vanilla kinks then? Sure, we can \ntalk about that.",
@@ -917,7 +917,7 @@
   "aibasroom_voice_tama_072": {
     "src": "Yes, and I've already processed it so the \ngirls appear naked.",
     "yax": "Да, и я уже обработал его, так что \nдевушки появляются обнаженными.",
-    "trx": "Да, и я уже обработала его, чтобы \nдевушки в нем выглядели обнаженными."
+    "trx": "Да, и я уже обработала его, чтобы \nдевушки в нем выглядели обнажёнными."
   },
   "aibasroom_voice_ryuuki_017": {
     "src": "Maybe I'll get some fancy fake glasses, like the kind that great authors wear.",
@@ -932,7 +932,7 @@
   "aibasroom_voice_ryuuki_018": {
     "src": "I feel kind of hot... Maybe it's just my imagination...",
     "yax": "Мне немного жарко... Может быть, это просто мое воображение...",
-    "trx": "Мне немного жарко... Может быть, это просто мое воображение..."
+    "trx": "Мне немного жарко... Может быть, это просто моё воображение..."
   },
   "aibasroom_voice_tama_074": {
     "src": "I didn't do anything! I didn't do \nanything, okay?!",
@@ -942,7 +942,7 @@
   "aibasroom_voice_ryuuki_019": {
     "src": "Oh, uh... It's that thing, Tama... What is it again?",
     "yax": "О, э-э-э... Это та штука, Тама... Что это опять?",
-    "trx": "О, э-э-э... Та штука, Тама... Что это, еще раз?"
+    "trx": "О, э-э-э... Та штука, Тама... Что это, ещё раз?"
   },
   "aibasroom_voice_tama_075": {
     "src": "How am I supposed to know...? The only \nthing I know is yours...",

@@ -52,7 +52,7 @@
   "001_011": {
     "src": "I need to find her, no matter what it takes!",
     "yax": "Мне нужно найти ее, чего бы это ни стоило!",
-    "trx": "Мне нужно найти ее, чего бы это ни стоило!"
+    "trx": "Мне нужно найти её, чего бы это ни стоило!"
   },
   "001_012": {
     "src": "I'm gonna get going!",
@@ -62,7 +62,7 @@
   "001_013": {
     "src": "Huh, there he goes...",
     "yax": "Ха, вот он где...",
-    "trx": "Ха, вот он и ушел..."
+    "trx": "Ха, вот он и ушёл..."
   },
   "001_014": {
     "src": "The restaurant is empty. Is it okay to just leave it like this?",

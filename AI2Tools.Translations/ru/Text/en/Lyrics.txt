@@ -7,7 +7,7 @@
   "HalfToOneSolo_002": {
     "src": "The crowd squeezes out my frustration",
     "yax": "Толпа выдавливает мое разочарование",
-    "trx": "Толпа выжимает мое разочарование"
+    "trx": "Толпа выжимает моё разочарование"
   },
   "HalfToOneSolo_003": {
     "src": "And now I'm taking heat in the classroom",
@@ -62,7 +62,7 @@
   "HalfToOneSolo_013": {
     "src": "Let's go, let's go, let's go!",
     "yax": "Вперед, вперед, вперед!",
-    "trx": "Вперед, вперед, вперед!"
+    "trx": "Вперёд, вперёд, вперёд!"
   },
   "HalfToOneSolo_014": {
     "src": "Lonely girls across the world let's wake up and fight!",
@@ -72,12 +72,12 @@
   "HalfToOneSolo_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяют свет посреди ночи!"
+    "trx": "Разделённые сердца объединяют свет посреди ночи!"
   },
   "HalfToOneSolo_016": {
     "src": "If the boys want to reach us they'll have to keep up",
     "yax": "Если ребята хотят добраться до нас, им придется не отставать",
-    "trx": "Если парни хотят заполучить нас, им придется поспевать"
+    "trx": "Если парни хотят заполучить нас, им придётся поспевать"
   },
   "HalfToOneSolo_017": {
     "src": "Without you I am only half, I need to be whole",
@@ -92,7 +92,7 @@
   "HalfToOneGF_002": {
     "src": "The crowd squeezes out my frustration",
     "yax": "Толпа выдавливает мое разочарование",
-    "trx": "Толпа выжимает мое разочарование"
+    "trx": "Толпа выжимает моё разочарование"
   },
   "HalfToOneGF_003": {
     "src": "And now I'm taking heat in the band room",
@@ -157,12 +157,12 @@
   "HalfToOneGF_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяют свет посреди ночи!"
+    "trx": "Разделённые сердца объединяют свет посреди ночи!"
   },
   "HalfToOneGF_016": {
     "src": "If the boys want to reach us they'll have to keep up",
     "yax": "Если ребята хотят добраться до нас, им придется не отставать",
-    "trx": "Если парни хотят заполучить нас, им придется поспевать"
+    "trx": "Если парни хотят заполучить нас, им придётся поспевать"
   },
   "HalfToOneGF_017": {
     "src": "Without you I am only half, I need to be whole",
@@ -197,7 +197,7 @@
   "HalfToOneGF_023": {
     "src": "I don't think that anyone is gonna bring a net...",
     "yax": "Я не думаю, что кто-нибудь принесет сеть...",
-    "trx": "Я не думаю, что кто-нибудь принесет мне сеть..."
+    "trx": "Я не думаю, что кто-нибудь принесёт мне сеть..."
   },
   "HalfToOneGF_024": {
     "src": "Nice idea! I've got cucumbers!",
@@ -227,7 +227,7 @@
   "HalfToOneGF_029": {
     "src": "Worlds apart, I've come for you, love",
     "yax": "Миры разделены, я пришел за тобой, любимая.",
-    "trx": "Разделенные сердца, я пришел за тобой, любимая"
+    "trx": "Разделённые сердца, я пришёл за тобой, любимая"
   },
   "HalfToOneGF_030": {
     "src": "Take the glass slipper, be my princess",
@@ -312,7 +312,7 @@
   "HalfToOneGF_046": {
     "src": "But every time you fight it makes you want to cry",
     "yax": "Но каждый раз, когда ты ссоришься, тебе хочется плакать.",
-    "trx": "Но каждый раз, когда вы деретесь, вам хочется плакать"
+    "trx": "Но каждый раз, когда вы дерётесь, вам хочется плакать"
   },
   "HalfToOneGF_047": {
     "src": "The tears all build up on the inside",
@@ -327,12 +327,12 @@
   "HalfToOneGF_049": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяют свет посреди ночи!"
+    "trx": "Разделённые сердца объединяют свет посреди ночи!"
   },
   "HalfToOneGF_050": {
     "src": "If the boys want to reach us they'll have to keep up",
     "yax": "Если ребята хотят добраться до нас, им придется не отставать",
-    "trx": "Если парни хотят заполучить нас, им придется поспевать"
+    "trx": "Если парни хотят заполучить нас, им придётся поспевать"
   },
   "HalfToOneGF_051": {
     "src": "Without you I am only half, I need to be whole",
@@ -382,7 +382,7 @@
   "YukiNiSakuHana_007": {
     "src": "Rejoice, you're not alone, you are renewed",
     "yax": "Радуйся, ты не одинок, ты обновлен",
-    "trx": "Радуйся, ты не одинок, ты обновлен"
+    "trx": "Радуйся, ты не одинок, ты обновлён"
   },
   "YukiNiSakuHana_008": {
     "src": "Everyone is here with you",
@@ -402,7 +402,7 @@
   "YukiNiSakuHana_011": {
     "src": "There is rain within those tearful eyes",
     "yax": "В этих полных слез глазах дождь",
-    "trx": "Дождь идет из этих полных слез глаз"
+    "trx": "Дождь идёт из этих полных слез глаз"
   },
   "YukiNiSakuHana_012": {
     "src": "Where it falls a gorgeous green will grow",
@@ -432,7 +432,7 @@
   "YukiNiSakuHana_017": {
     "src": "You are near, but still so far away",
     "yax": "Ты рядом, но все еще так далеко",
-    "trx": "Ты рядом, но все еще так далеко"
+    "trx": "Ты рядом, но всё ещё так далеко"
   },
   "YukiNiSakuHana_018": {
     "src": "My hand reaches out, but it's falling",
@@ -447,7 +447,7 @@
   "YukiNiSakuHana_020": {
     "src": "Even if the wind steals my breath",
     "yax": "Даже если ветер украдет мое дыхание.",
-    "trx": "Даже если ветер крадет мое дыхание"
+    "trx": "Даже если ветер крадёт моё дыхание"
   },
   "YukiNiSakuHana_021": {
     "src": "Even if the pain pervades my chest",
@@ -477,7 +477,7 @@
   "YukiNiSakuHana_026": {
     "src": "There is rain within those tearful eyes",
     "yax": "В этих полных слез глазах дождь",
-    "trx": "Дождь идет из этих полных слез глаз"
+    "trx": "Дождь идёт из этих полных слез глаз"
   },
   "YukiNiSakuHana_027": {
     "src": "Where it falls a gorgeous green will grow",
@@ -512,7 +512,7 @@
   "YukiNiSakuHana_033": {
     "src": "And quietly, you await the happy days",
     "yax": "И спокойно, ты ждешь счастливых дней",
-    "trx": "И ты молча ждешь счастливых дней"
+    "trx": "И ты молча ждёшь счастливых дней"
   },
   "YukiNiSakuHana_034": {
     "src": "But I swear, they are not too far away",
@@ -522,7 +522,7 @@
   "YukiNiSakuHana_035": {
     "src": "I will go beyond the darkest night",
     "yax": "Я выйду за пределы самой темной ночи",
-    "trx": "Я выйду за пределы самой темной ночи"
+    "trx": "Я выйду за пределы самой тёмной ночи"
   },
   "YukiNiSakuHana_036": {
     "src": "And sow the seeds throughout the fields of snow",
@@ -532,7 +532,7 @@
   "YukiNiSakuHana_037": {
     "src": "Even if my body turns to dust",
     "yax": "Даже если мое тело превратится в прах",
-    "trx": "Даже если мое тело превратится в прах"
+    "trx": "Даже если моё тело превратится в прах"
   },
   "YukiNiSakuHana_038": {
     "src": "Above, the heavens erupt",
@@ -567,7 +567,7 @@
   "HalfOfOne_002": {
     "src": "The crowd squeezes out my frustration",
     "yax": "Толпа выдавливает мое разочарование",
-    "trx": "Толпа выжимает мое разочарование"
+    "trx": "Толпа выжимает моё разочарование"
   },
   "HalfOfOne_003": {
     "src": "And now I'm taking heat in the band room",
@@ -632,12 +632,12 @@
   "HalfOfOne_015": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяют свет посреди ночи!"
+    "trx": "Разделённые сердца объединяют свет посреди ночи!"
   },
   "HalfOfOne_016": {
     "src": "If the boys want to reach us they'll have to keep up",
     "yax": "Если ребята хотят добраться до нас, им придется не отставать",
-    "trx": "Если парни хотят заполучить нас, им придется поспевать"
+    "trx": "Если парни хотят заполучить нас, им придётся поспевать"
   },
   "HalfOfOne_017": {
     "src": "Without you I am only half, I need to be whole",
@@ -672,7 +672,7 @@
   "HalfOfOne_023": {
     "src": "I don't think that anyone is gonna bring a net...",
     "yax": "Я не думаю, что кто-нибудь принесет сеть...",
-    "trx": "Я не думаю, что кто-нибудь принесет мне сеть..."
+    "trx": "Я не думаю, что кто-нибудь принесёт мне сеть..."
   },
   "HalfOfOne_024": {
     "src": "Nice idea! I've got cucumbers!",
@@ -702,7 +702,7 @@
   "HalfOfOne_029": {
     "src": "Worlds apart, I've come for you, love",
     "yax": "Миры разделены, я пришел за тобой, любимая.",
-    "trx": "Разделенные сердца, я пришел за тобой, любимая"
+    "trx": "Разделённые сердца, я пришёл за тобой, любимая"
   },
   "HalfOfOne_030": {
     "src": "Take the glass slipper, be my princess",
@@ -787,7 +787,7 @@
   "HalfOfOne_046": {
     "src": "But every time you fight it makes you want to cry",
     "yax": "Но каждый раз, когда ты ссоришься, тебе хочется плакать.",
-    "trx": "Но каждый раз, когда вы деретесь, вам хочется плакать"
+    "trx": "Но каждый раз, когда вы дерётесь, вам хочется плакать"
   },
   "HalfOfOne_047": {
     "src": "The tears all build up on the inside",
@@ -802,12 +802,12 @@
   "HalfOfOne_049": {
     "src": "Worlds apart with beating hearts unite the light through the night!",
     "yax": "Миры, разделенные бьющимися сердцами, объединяют свет в ночи!",
-    "trx": "Разделенные сердца объединяют свет посреди ночи!"
+    "trx": "Разделённые сердца объединяют свет посреди ночи!"
   },
   "HalfOfOne_050": {
     "src": "If the boys want to reach us they'll have to keep up",
     "yax": "Если ребята хотят добраться до нас, им придется не отставать",
-    "trx": "Если парни хотят заполучить нас, им придется поспевать"
+    "trx": "Если парни хотят заполучить нас, им придётся поспевать"
   },
   "HalfOfOne_051": {
     "src": "Without you I am only half, I need to be whole",

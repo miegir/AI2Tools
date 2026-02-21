@@ -37,7 +37,7 @@
   "002_002": {
     "src": "Why don't you press it?",
     "yax": "Почему бы тебе не нажать на нее?",
-    "trx": "Почему бы тебе на нее не нажать?"
+    "trx": "Почему бы тебе на неё не нажать?"
   },
   "002_003": {
     "src": "Tama...",
@@ -67,7 +67,7 @@
   "004_001": {
     "src": "What? You're joking, right? What are you talking about?",
     "yax": "Что? Ты шутишь, да? О чем ты говоришь?",
-    "trx": "А? Ты что, шутишь? О чем это ты?"
+    "trx": "А? Ты что, шутишь? О чём это ты?"
   },
   "005_001": {
     "src": "Just press the button already...",
@@ -82,7 +82,7 @@
   "005_003": {
     "src": "Push it and you get to answer the question.",
     "yax": "Нажми на нее, и ты получишь ответ на вопрос.",
-    "trx": "Нажми на нее, и можно будет ответить на вопрос."
+    "trx": "Нажми на неё, и можно будет ответить на вопрос."
   },
   "006_001": {
     "src": "\"In Indian mythology, what is the name of the half-god, half-beast spirits...",
@@ -107,7 +107,7 @@
   "007_002": {
     "src": "The person asking the questions must be the host.",
     "yax": "Человек, задающий вопросы, должен быть ведущим.",
-    "trx": "Человек, который задает вопросы, должно быть ведущий."
+    "trx": "Человек, который задаёт вопросы, должно быть ведущий."
   },
   "007_003": {
     "src": "But why is he all blue? Maybe he's feeling down...",
@@ -307,7 +307,7 @@
   "020_003": {
     "src": "I don't understand what you're saying...",
     "yax": "Я не понимаю, о чем ты говоришь...",
-    "trx": "Не понимаю, о чем ты..."
+    "trx": "Не понимаю, о чём ты..."
   },
   "021_001": {
     "src": "The host who's all blue...",
@@ -357,7 +357,7 @@
   "025_004": {
     "src": "I want you to take this question very seriously.",
     "yax": "Я хочу, чтобы вы отнеслись к этому вопросу очень серьезно.",
-    "trx": "Я хочу, чтобы вы отнеслись к этому вопросу очень серьезно."
+    "trx": "Я хочу, чтобы вы отнеслись к этому вопросу очень серьёзно."
   },
   "025_005": {
     "src": "The New Cyclops Serial Killings... The incident in which many victims got their eye gouged out and murdered...",
@@ -432,7 +432,7 @@
   "028_002": {
     "src": "Let's give you a simple test just to make sure.",
     "yax": "Давайте проведем простой тест, просто чтобы убедиться.",
-    "trx": "Давайте проведем простой тест, просто чтобы убедиться."
+    "trx": "Давайте проведём простой тест, просто чтобы убедиться."
   },
   "028_003": {
     "src": "The one who resolved the New Cyclops Serial Killings was Kaname Date of ABIS...",
@@ -462,7 +462,7 @@
   "029_002": {
     "src": "Let's try that again.",
     "yax": "Давайте попробуем это еще раз.",
-    "trx": "Давайте попробуем еще раз."
+    "trx": "Давайте попробуем ещё раз."
   },
   "030_001": {
     "src": "Oh, so close!",
@@ -477,7 +477,7 @@
   "030_003": {
     "src": "Oh, but I feel bad for you. I'll give you one more chance.",
     "yax": "О, но мне жаль тебя. Я дам тебе еще один шанс.",
-    "trx": "О, мне вас так жаль. Но я дам вам еще один шанс."
+    "trx": "О, мне вас так жаль. Но я дам вам ещё один шанс."
   },
   "030_004": {
     "src": "Think about it now, okay? The name of the person who was shot in the leg by the culprit.",
@@ -487,7 +487,7 @@
   "031_001": {
     "src": "Wow... I'm surprised you know the name of such an obscure character!",
     "yax": "Вау... Я удивлен, что вы знаете имя такого малоизвестного персонажа!",
-    "trx": "Ух ты... Я удивлен, что вы знаете имя такого малоизвестного персонажа!"
+    "trx": "Ух ты... Я удивлён, что вы знаете имя такого малоизвестного персонажа!"
   },
   "031_002": {
     "src": "10 points for you!",
@@ -512,7 +512,7 @@
   "033_001": {
     "src": "That's the big-boobie Receptionist's name!",
     "yax": "Это имя сисястой Секретарши в Приемной!",
-    "trx": "Это имя пышногрудой секретарши в приемной!"
+    "trx": "Это имя пышногрудой секретарши в приёмной!"
   },
   "033_002": {
     "src": "Obviously the wrong answer!",
@@ -532,7 +532,7 @@
   "035_001": {
     "src": "You're pretty hardcore if you know that one...",
     "yax": "Ты довольно крут, если знаешь это...",
-    "trx": "Удивлен, что вы это знаете..."
+    "trx": "Удивлён, что вы это знаете..."
   },
   "035_002": {
     "src": "It's actually kinda weird... I'm a bit creeped out, honestly.",
@@ -572,7 +572,7 @@
   "038_003": {
     "src": "But you could have just gotten lucky. How about we go for one more round?",
     "yax": "Но тебе могло просто повезти. Как насчет того, чтобы пропустить еще один раунд?",
-    "trx": "Но вам могло просто повезти. Устроим для уверенности еще один раунд."
+    "trx": "Но вам могло просто повезти. Устроим для уверенности ещё один раунд."
   },
   "038_004": {
     "src": "Who is the true culprit of the New Cyclops Serial Killings?",
@@ -597,7 +597,7 @@
   "039_002": {
     "src": "Okay, let's try that again. Answer please!",
     "yax": "Хорошо, давайте попробуем еще раз. Ответьте, пожалуйста!",
-    "trx": "Ладно, давайте попробуем еще раз. Отвечайте."
+    "trx": "Ладно, давайте попробуем ещё раз. Отвечайте."
   },
   "040_001": {
     "src": "You really think he would be the culprit?",
@@ -612,7 +612,7 @@
   "041_001": {
     "src": "Come on, you can't possibly think that's right.",
     "yax": "Да ладно, ты же не можешь думать, что это правильно.",
-    "trx": "Да ладно, вы же не можете говорить это серьезно."
+    "trx": "Да ладно, вы же не можете говорить это серьёзно."
   },
   "041_002": {
     "src": "If Mama from Marble was the real culprit, it'd be all over the internet!",
@@ -672,7 +672,7 @@
   "047_001": {
     "src": "Wonderful, that's another right answer!",
     "yax": "Замечательно, это еще один правильный ответ!",
-    "trx": "Замечательно! Еще один правильный ответ!"
+    "trx": "Замечательно! Ещё один правильный ответ!"
   },
   "047_002": {
     "src": "Sorry for doubting you...",
@@ -812,7 +812,7 @@
   "choice_003": {
     "src": "What was the question again...?",
     "yax": "Что это был за вопрос еще раз...?",
-    "trx": "Какой был вопрос, еще раз...?"
+    "trx": "Какой был вопрос, ещё раз...?"
   },
   "choice_004": {
     "src": "Who are you...?",

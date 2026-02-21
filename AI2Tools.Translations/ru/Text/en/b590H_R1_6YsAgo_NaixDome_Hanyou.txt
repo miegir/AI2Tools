@@ -27,7 +27,7 @@
   "006_001": {
     "src": "There's a ladder on the pillar.",
     "yax": "На столбе есть лестница.",
-    "trx": "К колонне ведет лестница."
+    "trx": "К колонне ведёт лестница."
   },
   "007_001": {
     "src": "It's the bridge that we used to get here.",

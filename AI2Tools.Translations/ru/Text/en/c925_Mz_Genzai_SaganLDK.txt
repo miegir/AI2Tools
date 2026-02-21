@@ -67,7 +67,7 @@
   "004_005": {
     "src": "Any damaged neurons in the brain should be repairable with nanomachines.",
     "yax": "Любые поврежденные нейроны в мозге должны быть восстановлены с помощью наномашин.",
-    "trx": "Все поврежденные нейроны в мозгу могут быть восстановлены с помощью наномашин." //spell-ignore:наномашин
+    "trx": "Все повреждённые нейроны в мозгу могут быть восстановлены с помощью наномашин." //spell-ignore:наномашин
   },
   "004_006": {
     "src": "However, such a treatment is not simple or easy.",

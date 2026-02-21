@@ -42,7 +42,7 @@
   "001_009": {
     "src": "How else can you explain what happened with Jin?",
     "yax": "Как еще ты можешь объяснить то, что случилось с Джином?",
-    "trx": "Как еще ты можешь объяснить то, что случилось с Джином?"
+    "trx": "Как ещё ты можешь объяснить то, что случилось с Джином?"
   },
   "001_010": {
     "src": "We can't deny that his right half suddenly appeared out of nowhere...",

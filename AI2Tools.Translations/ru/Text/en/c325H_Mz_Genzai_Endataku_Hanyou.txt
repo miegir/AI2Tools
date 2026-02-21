@@ -37,7 +37,7 @@
   "006_003": {
     "src": "Yeah, but I didn't make it.",
     "yax": "Да, но у меня ничего не получилось.",
-    "trx": "Да, но ее сделал не я."
+    "trx": "Да, но её сделал не я."
   },
   "006_004": {
     "src": "Dad just bought one that could talk.",

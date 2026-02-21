@@ -12,7 +12,7 @@
   "001_003": {
     "src": "Shoma's one-wheeled robot.",
     "yax": "Одноколесный робот Семы.",
-    "trx": "Одноколесный робот Шомы."
+    "trx": "Одноколёсный робот Шомы."
   },
   "001_004": {
     "src": "Do you recall the grooves on that tire?",
@@ -62,7 +62,7 @@
   "001_013": {
     "src": "His smartphone is either off or somewhere with no reception...",
     "yax": "Его смартфон либо выключен, либо где-то отсутствует прием...",
-    "trx": "Его смартфон либо выключен, либо находится вне зоны приема..."
+    "trx": "Его смартфон либо выключен, либо находится вне зоны приёма..."
   },
   "001_014": {
     "src": "So sending a NILE message is pointless too...",

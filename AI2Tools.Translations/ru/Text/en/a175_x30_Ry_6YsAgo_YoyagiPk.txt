@@ -62,7 +62,7 @@
   "003_003": {
     "src": "But could they really predict when rigor mortis would dissipate so accurately?",
     "yax": "Но могли ли они действительно так точно предсказать, когда трупное окоченение рассеется?",
-    "trx": "Но действительно ли он мог так точно рассчитать, когда пройдет трупное окоченение?"
+    "trx": "Но действительно ли он мог так точно рассчитать, когда пройдёт трупное окоченение?"
   },
   "003_004": {
     "src": "The culprit didn't put the corpse up on the ceiling beams while it was completely stiff.",
@@ -77,7 +77,7 @@
   "003_006": {
     "src": "That way, they could estimate that the body would fall in a few hours or so.",
     "yax": "Таким образом, они могли бы оценить, что тело упадет примерно через несколько часов.",
-    "trx": "Таким образом, он мог предположить, что тело упадет через несколько часов."
+    "trx": "Таким образом, он мог предположить, что тело упадёт через несколько часов."
   },
   "003_007": {
     "src": "The stream was scheduled for a whole six hours...",
@@ -177,7 +177,7 @@
   "006_001": {
     "src": "So, to wrap it all up...",
     "yax": "Итак, подведем итог всему этому...",
-    "trx": "Итак, подведем окончательный итог..."
+    "trx": "Итак, подведём окончательный итог..."
   },
   "006_002": {
     "src": "The culprit's motive was to make this seem like a supernatural phenomenon and to spread the QR video, right?",
@@ -207,7 +207,7 @@
   "006_007": {
     "src": "It hasn't been found yet.",
     "yax": "Его еще не нашли.",
-    "trx": "Ее еще не нашли."
+    "trx": "Её ещё не нашли."
   },
   "006_008": {
     "src": "Anyway, starting our search with the people who might have the intel we need is the number one rule of investigation, right?",
@@ -237,7 +237,7 @@
   "006_013": {
     "src": "The director, Chinpei Wagai!",
     "yax": "Режиссер, Чинпей Вагай!",
-    "trx": "Режиссер, Чинпей Вагай!"
+    "trx": "Режиссёр, Чинпей Вагай!"
   },
   "006_014": {
     "src": "Right.",
@@ -267,7 +267,7 @@
   "choice_001": {
     "src": "About the time rigor mortis would subside...",
     "yax": "Примерно к тому времени, когда трупное окоченение пройдет...",
-    "trx": "Насчет времени, когда проходит трупное окоченение..."
+    "trx": "Насчёт времени, когда проходит трупное окоченение..."
   },
   "choice_002": {
     "src": "Why did the culprit blow up the corpse?",
@@ -277,6 +277,6 @@
   "choice_003": {
     "src": "About the reason the corpse's cross section was facing downward...",
     "yax": "О причине, по которой поперечное сечение трупа было обращено вниз...",
-    "trx": "Почему поперечный разрез трупа был обращен вниз..."
+    "trx": "Почему поперечный разрез трупа был обращён вниз..."
   }
 }

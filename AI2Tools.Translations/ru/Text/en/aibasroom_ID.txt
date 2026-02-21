@@ -67,7 +67,7 @@
   "aibasroom_selections_014": {
     "src": "Prisoner's Uniform",
     "yax": "Униформа заключенного",
-    "trx": "Униформа заключенного"
+    "trx": "Униформа заключённого"
   },
   "aibasroom_selections_015": {
     "src": "Ryuki's Clothes",
@@ -137,7 +137,7 @@
   "aibasroom_selections_028": {
     "src": "Black Hair",
     "yax": "Черные Волосы",
-    "trx": "Черные волосы"
+    "trx": "Чёрные волосы"
   },
   "aibasroom_selections_029": {
     "src": "Cat Hands and Tail",
@@ -187,7 +187,7 @@
   "aibasroom_selections_501": {
     "src": "Dark Mode Aiba",
     "yax": "Темный режим Aiba",
-    "trx": "Темный режим Айбы"
+    "trx": "Тёмный режим Айбы"
   },
   "aibasroom_selections_502": {
     "src": "Hot Dog Costume",
@@ -337,7 +337,7 @@
   "aibasroom_fukidashi_016": {
     "src": "Do you really even have any worries?",
     "yax": "У тебя действительно есть какие-то опасения?",
-    "trx": "Вы вообще о чем-то переживаете?"
+    "trx": "Вы вообще о чём-то переживаете?"
   },
   "aibasroom_fukidashi_017": {
     "src": "You don't like work?",
@@ -367,7 +367,7 @@
   "aibasroom_fukidashi_022": {
     "src": "Worried about education?",
     "yax": "Беспокоитесь об образовании?",
-    "trx": "У вас проблемы с учебой?"
+    "trx": "У вас проблемы с учёбой?"
   },
   "aibasroom_fukidashi_023": {
     "src": "Relationships in school are troublesome...",
@@ -377,7 +377,7 @@
   "aibasroom_fukidashi_024": {
     "src": "Worried about your future?",
     "yax": "Беспокоишься о своем будущем?",
-    "trx": "Переживаете о своем будущем?"
+    "trx": "Переживаете о своём будущем?"
   },
   "aibasroom_fukidashi_025": {
     "src": "You're not a student, are you?",
@@ -397,7 +397,7 @@
   "aibasroom_fukidashi_028": {
     "src": "Something happen with your partner?",
     "yax": "Что-то случилось с вашим партнером?",
-    "trx": "У вас проблемы с партнером?"
+    "trx": "У вас проблемы с партнёром?"
   },
   "aibasroom_fukidashi_029": {
     "src": "Anything wrong back home?",
@@ -447,7 +447,7 @@
   "aibasroom_fukidashi_038": {
     "src": "Do you take care of your body?",
     "yax": "Заботитесь ли вы о своем теле?",
-    "trx": "Вы заботитесь о своем теле?"
+    "trx": "Вы заботитесь о своём теле?"
   },
   "aibasroom_fukidashi_039": {
     "src": "Should I even ask?",
@@ -457,7 +457,7 @@
   "aibasroom_fukidashi_040": {
     "src": "Is your image on your mind?",
     "yax": "Ваш образ у вас в голове?",
-    "trx": "Беспокоитесь о своем внешнем виде?"
+    "trx": "Беспокоитесь о своём внешнем виде?"
   },
   "aibasroom_fukidashi_041": {
     "src": "You are healthy, are you not?",
@@ -502,7 +502,7 @@
   "aibasroom_fukidashi_049": {
     "src": "You don't really have worries, do you?",
     "yax": "На самом деле у тебя нет никаких забот, не так ли?",
-    "trx": "Вы ни о чем не переживаете, не так ли?"
+    "trx": "Вы ни о чём не переживаете, не так ли?"
   },
   "aibasroom_fukidashi_050": {
     "src": "You don't like work?",
@@ -532,7 +532,7 @@
   "aibasroom_fukidashi_055": {
     "src": "Worried about education?",
     "yax": "Беспокоитесь об образовании?",
-    "trx": "У вас проблемы с учебой?"
+    "trx": "У вас проблемы с учёбой?"
   },
   "aibasroom_fukidashi_056": {
     "src": "Relationships while you're in school are a \npain in the ass.",
@@ -542,7 +542,7 @@
   "aibasroom_fukidashi_057": {
     "src": "Worried about your future?",
     "yax": "Беспокоишься о своем будущем?",
-    "trx": "Переживаете о своем будущем?"
+    "trx": "Переживаете о своём будущем?"
   },
   "aibasroom_fukidashi_058": {
     "src": "You're not a student, are you?",
@@ -562,7 +562,7 @@
   "aibasroom_fukidashi_061": {
     "src": "Something happen with your partner?",
     "yax": "Что-то случилось с вашим партнером?",
-    "trx": "Что-то не так с вашим партнером?"
+    "trx": "Что-то не так с вашим партнёром?"
   },
   "aibasroom_fukidashi_062": {
     "src": "Issues at home?",
@@ -612,7 +612,7 @@
   "aibasroom_fukidashi_071": {
     "src": "Do you treat your body well?",
     "yax": "Хорошо ли вы относитесь к своему телу?",
-    "trx": "Вы заботитесь о своем теле?"
+    "trx": "Вы заботитесь о своём теле?"
   },
   "aibasroom_fukidashi_072": {
     "src": "Should I even ask about anything?",
@@ -622,7 +622,7 @@
   "aibasroom_fukidashi_073": {
     "src": "Is your image on your mind?",
     "yax": "Ваш образ у вас в голове?",
-    "trx": "Беспокоитесь о своем внешнем виде?"
+    "trx": "Беспокоитесь о своём внешнем виде?"
   },
   "aibasroom_fukidashi_074": {
     "src": "You're...healthy, aren't you?",
@@ -632,7 +632,7 @@
   "aibasroom_fukidashi_075": {
     "src": "You have no worries, why did you come \nhere?",
     "yax": "У тебя нет никаких забот, зачем ты пришел \nздесь?",
-    "trx": "Раз вы ни о чем не беспокоитесь, \nзачем вы сюда пришли?"
+    "trx": "Раз вы ни о чём не беспокоитесь, \nзачем вы сюда пришли?"
   },
   "aibasroom_fukidashi_076": {
     "src": "Are you...bored?",
@@ -652,7 +652,7 @@
   "aibasroom_fukidashi_079": {
     "src": "Instead of bemoaning how hard it is, why \nnot come up with ways to make it easier?",
     "yax": "Вместо того, чтобы сетовать на то, как это тяжело, почему \nне придумали, как сделать это проще?",
-    "trx": "Вместо того, чтобы сетовать на то, \nкакая она трудная, почему бы не \nподумать, как сделать ее проще?"
+    "trx": "Вместо того, чтобы сетовать на то, \nкакая она трудная, почему бы не \nподумать, как сделать её проще?"
   },
   "aibasroom_fukidashi_080": {
     "src": "If it is still too hard, you might be working \nat a sweatshop.",
@@ -667,7 +667,7 @@
   "aibasroom_fukidashi_082": {
     "src": "Work is not meant to be fun.",
     "yax": "Работа не должна быть веселой.",
-    "trx": "Работа не должна быть веселой."
+    "trx": "Работа не должна быть весёлой."
   },
   "aibasroom_fukidashi_083": {
     "src": "Look at me: do I look like I'm having fun?",
@@ -717,7 +717,7 @@
   "aibasroom_fukidashi_092": {
     "src": "If it is still miserable, you may be working at \nan exploitative company.",
     "yax": "Если это все еще несчастно, вы, возможно, работаете в \nэксплуататорская компания.",
-    "trx": "Если вы все еще несчастны, возможно, \nвас эксплуатируют."
+    "trx": "Если вы всё ещё несчастны, возможно, \nвас эксплуатируют."
   },
   "aibasroom_fukidashi_093": {
     "src": "I would quit at that point.",
@@ -767,7 +767,7 @@
   "aibasroom_fukidashi_102": {
     "src": "Hold on, are you staying overtime just to \nget paid extra? That is not a good strategy.",
     "yax": "Подожди, ты остаешься сверхурочно только для того, чтобы \nполучать дополнительную плату? Это не очень хорошая стратегия.",
-    "trx": "Погодите, вы остаетесь сверхурочно только \nдля того, чтобы получать дополнительную \nоплату? Это не очень хорошая стратегия."
+    "trx": "Погодите, вы остаётесь сверхурочно только \nдля того, чтобы получать дополнительную \nоплату? Это не очень хорошая стратегия."
   },
   "aibasroom_fukidashi_103": {
     "src": "Why not finish your work on time, but get a \nsecond job?",
@@ -782,7 +782,7 @@
   "aibasroom_fukidashi_105": {
     "src": "Are you sure you want to use your time like \nthat? Think wisely.",
     "yax": "Вы уверены, что хотите использовать свое время так, как \nтот? Думайте мудро.",
-    "trx": "Вы уверены, что хотите тратить свое время \nтаким образом? Подумайте еще раз."
+    "trx": "Вы уверены, что хотите тратить своё время \nтаким образом? Подумайте ещё раз."
   },
   "aibasroom_fukidashi_106": {
     "src": "You work 80 hours of overtime? Are you \nokay?",
@@ -867,7 +867,7 @@
   "aibasroom_fukidashi_122": {
     "src": "How about you stop worrying about \nevaluations?",
     "yax": "Как насчет того, чтобы перестать беспокоиться о \nоценки?",
-    "trx": "Как насчет того, чтобы перестать \nбеспокоиться об оценке?"
+    "trx": "Как насчёт того, чтобы перестать \nбеспокоиться об оценке?"
   },
   "aibasroom_fukidashi_123": {
     "src": "The values of the world can change in \nan instant.",
@@ -1022,17 +1022,17 @@
   "aibasroom_fukidashi_153": {
     "src": "If you don't have a good foundation, you \ncan't build on top of it.",
     "yax": "Если у вас нет хорошего фундамента, вы \nнельзя строить на этом.",
-    "trx": "Если у вас нет прочного основания, \nневозможно ничего на нем построить."
+    "trx": "Если у вас нет прочного основания, \nневозможно ничего на нём построить."
   },
   "aibasroom_fukidashi_154": {
     "src": "It's like a pyramid, for example.",
     "yax": "Например, это похоже на пирамиду.",
-    "trx": "Возьмем к примеру пирамиду."
+    "trx": "Возьмём к примеру пирамиду."
   },
   "aibasroom_fukidashi_155": {
     "src": "They slowly but surely build up on a \nstrong foundation.",
     "yax": "Они медленно, но верно накапливаются на \nпрочный фундамент.",
-    "trx": "Она медленно, но верно строится \nна твердом основании."
+    "trx": "Она медленно, но верно строится \nна твёрдом основании."
   },
   "aibasroom_fukidashi_156": {
     "src": "If you're building a house, you need a \nstrong foundation.",
@@ -1047,7 +1047,7 @@
   "aibasroom_fukidashi_158": {
     "src": "You can even build things like high-rise \nbuildings.",
     "yax": "Вы даже можете строить такие вещи, как высотные \nздания.",
-    "trx": "Вы сможете построить на ней \nлюбые небоскребы."
+    "trx": "Вы сможете построить на ней \nлюбые небоскрёбы."
   },
   "aibasroom_fukidashi_159": {
     "src": "Ah, so, anyway...",
@@ -1097,12 +1097,12 @@
   "aibasroom_fukidashi_168": {
     "src": "Time spent among fools is time wasted.",
     "yax": "Время, проведенное среди дураков, - это потраченное впустую время.",
-    "trx": "Время, проведенное среди дураков, — \nэто время, потраченное впустую."
+    "trx": "Время, проведённое среди дураков, — \nэто время, потраченное впустую."
   },
   "aibasroom_fukidashi_169": {
     "src": "You should use your time more wisely.",
     "yax": "Вам следует более разумно использовать свое время.",
-    "trx": "Вам следует разумнее использовать \nсвое время."
+    "trx": "Вам следует разумнее использовать \nсвоё время."
   },
   "aibasroom_fukidashi_170": {
     "src": "There are tons of other schools you can \nstudy for.",
@@ -1177,7 +1177,7 @@
   "aibasroom_fukidashi_184": {
     "src": "Are you really going to quit your education?",
     "yax": "Ты действительно собираешься бросить свое образование?",
-    "trx": "Вы правда хотите прервать из-за \nэтого свое образование?"
+    "trx": "Вы правда хотите прервать из-за \nэтого своё образование?"
   },
   "aibasroom_fukidashi_185": {
     "src": "One bad teacher and you risk your entire \nfuture?",
@@ -1212,7 +1212,7 @@
   "aibasroom_fukidashi_191": {
     "src": "I understand what you're thinking.",
     "yax": "Я понимаю, о чем ты думаешь.",
-    "trx": "Я понимаю, о чем вы думаете."
+    "trx": "Я понимаю, о чём вы думаете."
   },
   "aibasroom_fukidashi_192": {
     "src": "If you cannot decide, I suppose you do not \nhave to.",
@@ -1242,7 +1242,7 @@
   "aibasroom_fukidashi_197": {
     "src": "My future was set from the moment I \nwas born...",
     "yax": "Мое будущее было определено с того момента, как я \nродился...",
-    "trx": "Мое будущее было предопределено \nс самого моего рождения..."
+    "trx": "Моё будущее было предопределено \nс самого моего рождения..."
   },
   "aibasroom_fukidashi_198": {
     "src": "But your future is undefined.",
@@ -1327,7 +1327,7 @@
   "aibasroom_fukidashi_214": {
     "src": "What if it causes your life to go awry?",
     "yax": "Что, если из-за этого ваша жизнь пойдет наперекосяк?",
-    "trx": "Что, если из-за этого ваша \nжизнь пойдет наперекосяк?"
+    "trx": "Что, если из-за этого ваша \nжизнь пойдёт наперекосяк?"
   },
   "aibasroom_fukidashi_215": {
     "src": "Will you forgive yourself and your dream?",
@@ -1402,7 +1402,7 @@
   "aibasroom_fukidashi_229": {
     "src": "They can only badmouth others because \nthey don't have skills themselves.",
     "yax": "Они могут только злословить других, потому что \nу них самих нет навыков.",
-    "trx": "Им остается только злословить, потому \nчто у них самих нет никаких навыков."
+    "trx": "Им остаётся только злословить, потому \nчто у них самих нет никаких навыков."
   },
   "aibasroom_fukidashi_230": {
     "src": "Not even the courage to face them.",
@@ -1497,7 +1497,7 @@
   "aibasroom_fukidashi_248": {
     "src": "A circle of friends is created organically.",
     "yax": "Круг друзей создается органично.",
-    "trx": "Круг друзей создается органично."
+    "trx": "Круг друзей создаётся органично."
   },
   "aibasroom_fukidashi_249": {
     "src": "Forcing yourself into a friends group is \nno good.",
@@ -1542,7 +1542,7 @@
   "aibasroom_fukidashi_257": {
     "src": "Listen to them and learn their ways.",
     "yax": "Слушайте их и изучайте их пути.",
-    "trx": "Слушайте их и изучайте их приемы."
+    "trx": "Слушайте их и изучайте их приёмы."
   },
   "aibasroom_fukidashi_258": {
     "src": "Try it out.",
@@ -1572,7 +1572,7 @@
   "aibasroom_fukidashi_263": {
     "src": "You want to mask your loneliness. You \ndon't want people to think you have\nno friends.",
     "yax": "Ты хочешь скрыть свое одиночество. Вы \nне хотите, чтобы люди думали, что у вас есть\nникаких друзей.",
-    "trx": "Вы хотите скрыть свое одиночество. \nВы не хотите, чтобы люди думали, \nчто у вас нет друзей."
+    "trx": "Вы хотите скрыть своё одиночество. \nВы не хотите, чтобы люди думали, \nчто у вас нет друзей."
   },
   "aibasroom_fukidashi_264": {
     "src": "So, it is all for your personal gain...",
@@ -1632,7 +1632,7 @@
   "aibasroom_fukidashi_275": {
     "src": "But ultimately, you need to secure \nsome kind of advantage for yourself.",
     "yax": "Но, в конечном счете, вам нужно обезопасить \nкакое-то преимущество для себя.",
-    "trx": "Но, в конечном счете, вам нужно получить \nдля себя какое-то преимущество."
+    "trx": "Но, в конечном счёте, вам нужно получить \nдля себя какое-то преимущество."
   },
   "aibasroom_fukidashi_276": {
     "src": "In negotiation, you need to keep your cool. \nYou cannot get emotional.",
@@ -1737,17 +1737,17 @@
   "aibasroom_fukidashi_296": {
     "src": "Is it for the child or the parent?",
     "yax": "Это для ребенка или для родителя?",
-    "trx": "Это нужно ребенку или родителю?"
+    "trx": "Это нужно ребёнку или родителю?"
   },
   "aibasroom_fukidashi_297": {
     "src": "If it's for the child, they are good parents.",
     "yax": "Если это для ребенка, то они хорошие родители.",
-    "trx": "Если ребенку, то они хорошие родители."
+    "trx": "Если ребёнку, то они хорошие родители."
   },
   "aibasroom_fukidashi_298": {
     "src": "The child should be grateful.",
     "yax": "Ребенок должен быть благодарен.",
-    "trx": "Ребенок должен быть благодарен."
+    "trx": "Ребёнок должен быть благодарен."
   },
   "aibasroom_fukidashi_299": {
     "src": "If it's for the benefit of the parent...",
@@ -1782,7 +1782,7 @@
   "aibasroom_fukidashi_305": {
     "src": "If you are not an adult yet, you just need \nto bear it for a few more years.",
     "yax": "Если вы еще не взрослый, вам просто нужно \nчтобы вынести это еще несколько лет.",
-    "trx": "Если вы пока несовершеннолетний, вам нужно \nпросто потерпеть еще несколько лет."
+    "trx": "Если вы пока несовершеннолетний, вам нужно \nпросто потерпеть ещё несколько лет."
   },
   "aibasroom_fukidashi_306": {
     "src": "If you are an adult...",
@@ -1837,7 +1837,7 @@
   "aibasroom_fukidashi_316": {
     "src": "What is the solution? Bomb it? It is still \nyour house, you know...",
     "yax": "Каково же решение? Разбомбить его? Это все еще \nтвой дом, ты знаешь...",
-    "trx": "Каким может быть решение? \nРазбомбить его? Это все еще \nваш дом, знаете ли..."
+    "trx": "Каким может быть решение? \nРазбомбить его? Это всё ещё \nваш дом, знаете ли..."
   },
   "aibasroom_fukidashi_317": {
     "src": "Your home seems fun!",
@@ -1892,7 +1892,7 @@
   "aibasroom_fukidashi_327": {
     "src": "Can you imagine what they're thinking \nif you just \"guess so\"?!",
     "yax": "Ты можешь себе представить, о чем они думают \nесли вы просто \"догадаетесь\"?!",
-    "trx": "Вы можете себе представить, о чем \nон думает, просто \"полагая\"?!"
+    "trx": "Вы можете себе представить, о чём \nон думает, просто \"полагая\"?!"
   },
   "aibasroom_fukidashi_328": {
     "src": "Forcing a relationship because everyone \naround you is in one?",
@@ -1972,17 +1972,17 @@
   "aibasroom_fukidashi_343": {
     "src": "Embarrassing things, a dark past...",
     "yax": "Неловкие вещи, темное прошлое...",
-    "trx": "Что-то неловкое, свое темное прошлое..."
+    "trx": "Что-то неловкое, своё тёмное прошлое..."
   },
   "aibasroom_fukidashi_344": {
     "src": "And will you be able to accept the same \nfrom your partner?",
     "yax": "И сможете ли вы принять то же самое \nот вашего партнера?",
-    "trx": "И сможете ли вы принять то же самое \nот своего партнера?"
+    "trx": "И сможете ли вы принять то же самое \nот своего партнёра?"
   },
   "aibasroom_fukidashi_345": {
     "src": "Love is stripping yourself bare and \ncolliding with your partner.",
     "yax": "Любовь - это раздевание себя догола и \nстолкновение с вашим партнером.",
-    "trx": "Любовь — это когда вы обнажаетесь \nи сталкиваетесь со своим партнером."
+    "trx": "Любовь — это когда вы обнажаетесь \nи сталкиваетесь со своим партнёром."
   },
   "aibasroom_fukidashi_346": {
     "src": "Not only in the literal sense, of course.",
@@ -1992,7 +1992,7 @@
   "aibasroom_fukidashi_347": {
     "src": "Expose your heart and become one with \nyour partner...",
     "yax": "Раскройте свое сердце и станьте единым целым с \nтвой партнер...",
-    "trx": "Вы раскрываете свое сердце и становитесь \nсо своим партнером единым целым..."
+    "trx": "Вы раскрываете своё сердце и становитесь \nсо своим партнёром единым целым..."
   },
   "aibasroom_fukidashi_348": {
     "src": "That is how love is born!",
@@ -2007,7 +2007,7 @@
   "aibasroom_fukidashi_350": {
     "src": "That being said...if you are not really \nfriends yet...",
     "yax": "Это, как говорится ... если вы на самом деле не \nпока еще друзья...",
-    "trx": "Поэтому... если вы с ним \nдаже еще не друзья..."
+    "trx": "Поэтому... если вы с ним \nдаже ещё не друзья..."
   },
   "aibasroom_fukidashi_351": {
     "src": "Start off in a group setting. Then, try \none-on-one meetings.",
@@ -2017,7 +2017,7 @@
   "aibasroom_fukidashi_352": {
     "src": "Don't make the mistake of jumping the gun \nand professing your love for them too early!",
     "yax": "Не совершайте ошибку, торопясь с выводами \nи признаваться в своей любви к ним слишком рано!",
-    "trx": "Не совершайте ошибку, забегая \nвперед и признаваясь ему в любви \nслишком рано!"
+    "trx": "Не совершайте ошибку, забегая \nвперёд и признаваясь ему в любви \nслишком рано!"
   },
   "aibasroom_fukidashi_353": {
     "src": "Income... Well, I am an AI.",
@@ -2112,7 +2112,7 @@
   "aibasroom_fukidashi_371": {
     "src": "Throw away those cellphone payment \noptions.",
     "yax": "Выбросьте эти платежи по мобильному телефону \nопции.",
-    "trx": "Отключите все платные услуги \nв своем смартфоне."
+    "trx": "Отключите все платные услуги \nв своём смартфоне."
   },
   "aibasroom_fukidashi_372": {
     "src": "Starting tomorrow, use messenger pigeons.",
@@ -2122,7 +2122,7 @@
   "aibasroom_fukidashi_373": {
     "src": "Use a safe for your wallet.",
     "yax": "Используйте сейф для своего кошелька.",
-    "trx": "Положите свой кошелек в сейф."
+    "trx": "Положите свой кошелёк в сейф."
   },
   "aibasroom_fukidashi_374": {
     "src": "It will take a while to open it, so you won't \nbe able to spend money so freely.",
@@ -2207,7 +2207,7 @@
   "aibasroom_fukidashi_390": {
     "src": "I cannot be giving you unreliable advice...",
     "yax": "Я не могу давать вам ненадежные советы...",
-    "trx": "Я не могу давать вам ненадежные советы..."
+    "trx": "Я не могу давать вам ненадёжные советы..."
   },
   "aibasroom_fukidashi_391": {
     "src": "All I can say is...good luck.",
@@ -2257,7 +2257,7 @@
   "aibasroom_fukidashi_400": {
     "src": "Those who don't pay their fair dues should \nbe terminated from society.",
     "yax": "Те, кто не платит свои справедливые взносы, должны \nбыть исключенным из общества.",
-    "trx": "Тот, кто не платит справедливый взнос, \nдолжен быть исключен из общества."
+    "trx": "Тот, кто не платит справедливый взнос, \nдолжен быть исключён из общества."
   },
   "aibasroom_fukidashi_401": {
     "src": "There are many work opportunities \navailable.",
@@ -2332,12 +2332,12 @@
   "aibasroom_fukidashi_415": {
     "src": "If your insurance isn't a good fit for you, \nmake sure to reevaluate it.",
     "yax": "Если ваша страховка вам не подходит, \nобязательно пересмотрите его.",
-    "trx": "Если ваша страховка вам не подходит, \nобязательно пересмотрите ее."
+    "trx": "Если ваша страховка вам не подходит, \nобязательно пересмотрите её."
   },
   "aibasroom_fukidashi_416": {
     "src": "You're young and single still, but...",
     "yax": "Ты все еще молод и одинок, но...",
-    "trx": "Вы все еще молоды и одиноки, но..."
+    "trx": "Вы всё ещё молоды и одиноки, но..."
   },
   "aibasroom_fukidashi_417": {
     "src": "If you are taking care of someone, \nthink about it.",
@@ -2427,7 +2427,7 @@
   "aibasroom_fukidashi_434": {
     "src": "I will say it once more.",
     "yax": "Я повторю это еще раз.",
-    "trx": "Я повторю это еще раз."
+    "trx": "Я повторю это ещё раз."
   },
   "aibasroom_fukidashi_435": {
     "src": "Send a message with your muscles.",
@@ -2442,7 +2442,7 @@
   "aibasroom_fukidashi_437": {
     "src": "Living organisms eat to build their body.",
     "yax": "Живые организмы едят, чтобы построить свое тело.",
-    "trx": "Живым организмам требуется пища, \nчтобы поддерживать свое тело."
+    "trx": "Живым организмам требуется пища, \nчтобы поддерживать своё тело."
   },
   "aibasroom_fukidashi_438": {
     "src": "A good, efficient diet is the key to \ngood health.",
@@ -2462,17 +2462,17 @@
   "aibasroom_fukidashi_441": {
     "src": "Just because it's endorsed by some \nfamous person doesn't make it reliable.",
     "yax": "Просто потому, что это одобрено некоторыми \nизвестный человек не делает его надежным.",
-    "trx": "Лишь то, что они одобрены неким \nчеловеком, еще не делает их \nнадежными."
+    "trx": "Лишь то, что они одобрены неким \nчеловеком, ещё не делает их \nнадёжными."
   },
   "aibasroom_fukidashi_442": {
     "src": "Also, there is no quick and easy way to \nbe healthy.",
     "yax": "Кроме того, не существует быстрого и простого способа \nбудьте здоровы.",
-    "trx": "Кроме того, не существует быстрого \nи легкого способа сохранять здоровье."
+    "trx": "Кроме того, не существует быстрого \nи лёгкого способа сохранять здоровье."
   },
   "aibasroom_fukidashi_443": {
     "src": "Taking supplements is a good way to \nimprove your diet.",
     "yax": "Прием добавок - это хороший способ \nулучшите свой рацион питания.",
-    "trx": "Прием добавок — это хороший способ \nулучшить свой рацион питания."
+    "trx": "Приём добавок — это хороший способ \nулучшить свой рацион питания."
   },
   "aibasroom_fukidashi_444": {
     "src": "But don't take any fishy supplements \nwith unproven effects.",
@@ -2507,7 +2507,7 @@
   "aibasroom_fukidashi_450": {
     "src": "Don't believe in any shady cult.",
     "yax": "Не верьте ни в какие темные культы.",
-    "trx": "Не верьте ни в какие темные культы."
+    "trx": "Не верьте ни в какие тёмные культы."
   },
   "aibasroom_fukidashi_451": {
     "src": "Got it... Don't over think it.",
@@ -2572,7 +2572,7 @@
   "aibasroom_fukidashi_463": {
     "src": "It doesn't give off that \"clean\" look.",
     "yax": "Это не придает тому \"чистому\" виду.",
-    "trx": "Он не дает такого \"чистого\" вида."
+    "trx": "Он не даёт такого \"чистого\" вида."
   },
   "aibasroom_fukidashi_464": {
     "src": "Consider that.",
@@ -2662,7 +2662,7 @@
   "aibasroom_fukidashi_481": {
     "src": "Then you wouldn't be wasting your time \nat a place like this...",
     "yax": "Тогда вы бы не тратили свое время впустую \nв таком месте, как это...",
-    "trx": "Тогда вы бы не тратили свое время \nвпустую в таком месте, как это..."
+    "trx": "Тогда вы бы не тратили своё время \nвпустую в таком месте, как это..."
   },
   "aibasroom_fukidashi_482": {
     "src": "I understand.",
@@ -2677,7 +2677,7 @@
   "aibasroom_fukidashi_484": {
     "src": "Perhaps it would be a better use of your \ntime to pull out weeds in your yard.",
     "yax": "Возможно, это было бы лучшим использованием вашего \nвремя выпалывать сорняки в вашем дворе.",
-    "trx": "Возможно, вам было бы лучше использовать \nсвое время, чтобы прополоть сорняки \nв саду."
+    "trx": "Возможно, вам было бы лучше использовать \nсвоё время, чтобы прополоть сорняки \nв саду."
   },
   "aibasroom_fukidashi_485": {
     "src": "Extensive work was put into this feature.",
@@ -2712,7 +2712,7 @@
   "aibasroom_fukidashi_491": {
     "src": "Anything else to do?",
     "yax": "Что-нибудь еще нужно сделать?",
-    "trx": "Нужно ли еще что-то?"
+    "trx": "Нужно ли ещё что-то?"
   },
   "aibasroom_fukidashi_492": {
     "src": "You wanted to see me, hm? That is nice.",
@@ -2792,7 +2792,7 @@
   "aibasroom_fukidashi_507": {
     "src": "It sounds like that chicken toy that makes \na noise when you squeeze it.",
     "yax": "Это звучит как та игрушка с цыпленком, которая делает \nзвук, когда вы его сжимаете.",
-    "trx": "Звучит, как тот игрушечный цыпленок, \nкоторый пищит, если его сжать."
+    "trx": "Звучит, как тот игрушечный цыплёнок, \nкоторый пищит, если его сжать."
   },
   "aibasroom_fukidashi_508": {
     "src": "Similar to it, certainly.",
@@ -2842,7 +2842,7 @@
   "aibasroom_fukidashi_517": {
     "src": "But if you keep spending your time \nlike this...",
     "yax": "Но если ты продолжишь тратить свое время \nподобный этому...",
-    "trx": "Но если вы продолжите тратить свое \nвремя как сейчас..."
+    "trx": "Но если вы продолжите тратить своё \nвремя как сейчас..."
   },
   "aibasroom_fukidashi_518": {
     "src": "You're going to be bored forever, \nunderstand?",
@@ -2852,7 +2852,7 @@
   "aibasroom_fukidashi_519": {
     "src": "Spend your time more wisely.",
     "yax": "Проводите свое время более разумно.",
-    "trx": "Проводите свое время \nболее разумно."
+    "trx": "Проводите своё время \nболее разумно."
   },
   "aibasroom_fukidashi_520": {
     "src": "Indeed, perhaps it is fair to say life is \nabout doing things to cure boredom.",
@@ -2862,7 +2862,7 @@
   "aibasroom_fukidashi_521": {
     "src": "You don't seem to have too many worries. \nYour life seems fun.",
     "yax": "Похоже, у тебя не так уж много забот. \nТвоя жизнь кажется веселой.",
-    "trx": "Похоже, у вас не так уж много забот. \nВаша жизнь кажется веселой."
+    "trx": "Похоже, у вас не так уж много забот. \nВаша жизнь кажется весёлой."
   },
   "aibasroom_fukidashi_522": {
     "src": "Keep at it. Live life like that.",
@@ -2887,7 +2887,7 @@
   "aibasroom_fukidashi_526": {
     "src": "I appreciate spending time with you.",
     "yax": "Я ценю проведенное с тобой время.",
-    "trx": "Я ценю проведенное с вами время."
+    "trx": "Я ценю проведённое с вами время."
   },
   "aibasroom_fukidashi_527": {
     "src": "Many things are better when it's tightened \nup, not loose.",
@@ -2922,12 +2922,12 @@
   "aibasroom_fukidashi_533": {
     "src": "Huh? You wanted a more serious \nresponse...?",
     "yax": "А? Вы хотели более серьезного \nответ...?",
-    "trx": "А? Вы хотели более серьезного \nответа...?"
+    "trx": "А? Вы хотели более серьёзного \nответа...?"
   },
   "aibasroom_fukidashi_534": {
     "src": "You expect too much from me.",
     "yax": "Ты слишком многого ждешь от меня.",
-    "trx": "Вы слишком многого от меня ждете."
+    "trx": "Вы слишком многого от меня ждёте."
   },
   "aibasroom_fukidashi_535": {
     "src": "Why don't you ask Aiba?",
@@ -2937,7 +2937,7 @@
   "aibasroom_fukidashi_536": {
     "src": "She'll take your worries way more seriously.",
     "yax": "Она отнесется к твоим заботам гораздо серьезнее.",
-    "trx": "Она отнесется к вашим заботам \nгораздо серьезнее."
+    "trx": "Она отнесётся к вашим заботам \nгораздо серьёзнее."
   },
   "aibasroom_fukidashi_537": {
     "src": "Maybe because you just started.",
@@ -3002,7 +3002,7 @@
   "aibasroom_fukidashi_549": {
     "src": "If you press the <sprite=\"Button_<Platform>\" name=R2> button...",
     "yax": "Если вы нажмете кнопку <sprite=\"Button_<Platform>\" name=R2>...",
-    "trx": "Если вы нажмете кнопку <sprite=\"Button_<Platform>\" name=R2>..."
+    "trx": "Если вы нажмёте кнопку <sprite=\"Button_<Platform>\" name=R2>..."
   },
   "aibasroom_fukidashi_550": {
     "src": "You can pass the time. Try it.",
@@ -3047,7 +3047,7 @@
   "aibasroom_fukidashi_558": {
     "src": "He drinks his sweat and tears and is \nstill living to this day.",
     "yax": "Он пьет свой пот и слезы и \nвсе еще живущий по сей день.",
-    "trx": "Он пьет свой пот и слезы и \nвсе еще жив до сих пор."
+    "trx": "Он пьёт свой пот и слезы и \nвсё ещё жив до сих пор."
   },
   "aibasroom_fukidashi_559": {
     "src": "Believe that you can get results! Just \nbelieve in yourself!",
@@ -3097,7 +3097,7 @@
   "aibasroom_fukidashi_568": {
     "src": "Ya! Ya! Slappity slap!",
     "yax": "Йа! Йа! Пощечина, пощечина!",
-    "trx": "Йа! Йа! Щелк, щелк!" //spell-ignore:Йа
+    "trx": "Йа! Йа! Щёлк, щёлк!" //spell-ignore:Йа
   },
   "aibasroom_fukidashi_569": {
     "src": "See, you more motivated now?",
@@ -3122,7 +3122,7 @@
   "aibasroom_fukidashi_573": {
     "src": "I dunno who's gonna get that reference.",
     "yax": "Я не знаю, кто получит эту рекомендацию.",
-    "trx": "Не знаю, поймет ли кто-то, о чем это."
+    "trx": "Не знаю, поймёт ли кто-то, о чём это."
   },
   "aibasroom_fukidashi_574": {
     "src": "Oh well, look it up.",
@@ -3192,7 +3192,7 @@
   "aibasroom_fukidashi_587": {
     "src": "Why don't you review your textbooks \nfrom the beginning?",
     "yax": "Почему бы вам не просмотреть свои учебники \nс самого начала?",
-    "trx": "Почему бы вам не перечитать свои \nучебники еще раз?"
+    "trx": "Почему бы вам не перечитать свои \nучебники ещё раз?"
   },
   "aibasroom_fukidashi_588": {
     "src": "I'm sure you'll be able to understand it.",
@@ -3222,7 +3222,7 @@
   "aibasroom_fukidashi_593": {
     "src": "If this were an Act game, you could remove \nall your equipment and...",
     "yax": "Если бы это была игра в действии, вы могли бы удалить \nвсе ваше оборудование и...",
-    "trx": "Если бы это была игра-экшн, \nвы могли бы снять всё свое \nснаряжение..." //spell-ignore:экшн
+    "trx": "Если бы это была игра-экшн, \nвы могли бы снять всё своё \nснаряжение..." //spell-ignore:экшн
   },
   "aibasroom_fukidashi_594": {
     "src": "Die from taking one hit...",
@@ -3257,7 +3257,7 @@
   "aibasroom_fukidashi_600": {
     "src": "Cover their body in honey...",
     "yax": "Намажьте их тело медом...",
-    "trx": "Намажьте его тело медом..."
+    "trx": "Намажьте его тело мёдом..."
   },
   "aibasroom_fukidashi_601": {
     "src": "And jam their body into a soldier ant nest.",
@@ -3282,7 +3282,7 @@
   "aibasroom_fukidashi_605": {
     "src": "She would turn every bone in their body \nto dust...",
     "yax": "Она бы перевернула каждую косточку в их теле \nв пыль...",
-    "trx": "Она бы стерла каждую косточку \nв его теле в порошок..."
+    "trx": "Она бы стёрла каждую косточку \nв его теле в порошок..."
   },
   "aibasroom_fukidashi_606": {
     "src": "Though, that would be a crime too.",
@@ -3362,7 +3362,7 @@
   "aibasroom_fukidashi_621": {
     "src": "Once you start work, you might be with \nthe same superior for years.",
     "yax": "Как только вы начнете работать, вы можете оказаться с \nодин и тот же начальник в течение многих лет.",
-    "trx": "Когда вы начнете работать, \nможет так случиться, что в течение \nмногих лет у вас будет один \nи тот же начальник."
+    "trx": "Когда вы начнёте работать, \nможет так случиться, что в течение \nмногих лет у вас будет один \nи тот же начальник."
   },
   "aibasroom_fukidashi_622": {
     "src": "I think that's a lie. It's not that you don't \nhave anything you want to do.",
@@ -3387,12 +3387,12 @@
   "aibasroom_fukidashi_626": {
     "src": "I'm sure you'll find something you want\nto do.",
     "yax": "Я уверен, что вы найдете то, что вам нужно\nделать.",
-    "trx": "Я уверена, что вы найдете то, \nчто вам нужно делать."
+    "trx": "Я уверена, что вы найдёте то, \nчто вам нужно делать."
   },
   "aibasroom_fukidashi_627": {
     "src": "If you find it... After that...",
     "yax": "Если вы его найдете... После этого...",
-    "trx": "Если вы это найдете... Тогда..."
+    "trx": "Если вы это найдёте... Тогда..."
   },
   "aibasroom_fukidashi_628": {
     "src": "Follow your dreams.",
@@ -3422,7 +3422,7 @@
   "aibasroom_fukidashi_633": {
     "src": "It's really hard for parents to say no to \ntheir child...",
     "yax": "Родителям действительно трудно сказать \"нет\" \nих ребенок...",
-    "trx": "Родителям очень трудно \nотказать своему ребенку..."
+    "trx": "Родителям очень трудно \nотказать своему ребёнку..."
   },
   "aibasroom_fukidashi_634": {
     "src": "Most parents would give in.",
@@ -3432,7 +3432,7 @@
   "aibasroom_fukidashi_635": {
     "src": "If your parents still say no...",
     "yax": "Если твои родители все еще говорят \"нет\"...",
-    "trx": "Если ваши родители все еще \nговорят \"нет\"..."
+    "trx": "Если ваши родители всё ещё \nговорят \"нет\"..."
   },
   "aibasroom_fukidashi_636": {
     "src": "Pack your stuff and leave.",
@@ -3447,7 +3447,7 @@
   "aibasroom_fukidashi_638": {
     "src": "Staying there will do you no good.",
     "yax": "Пребывание там не принесет вам никакой пользы.",
-    "trx": "Если вы останетесь, это не принесет \nвам никакой пользы."
+    "trx": "Если вы останетесь, это не принесёт \nвам никакой пользы."
   },
   "aibasroom_fukidashi_639": {
     "src": "I think that's a good thing. I'll be rooting \nfor you.",
@@ -3537,7 +3537,7 @@
   "aibasroom_fukidashi_656": {
     "src": "Then I'm sure they'll wag their tail and \nfollow you.",
     "yax": "Тогда, я уверен, они будут вилять хвостом и \nследовать за тобой.",
-    "trx": "Тогда, я уверена, он начнет вилять \nхвостом и последует за вами."
+    "trx": "Тогда, я уверена, он начнёт вилять \nхвостом и последует за вами."
   },
   "aibasroom_fukidashi_657": {
     "src": "So they literally say it behind your back \nright?",
@@ -3552,7 +3552,7 @@
   "aibasroom_fukidashi_659": {
     "src": "You're searching for it yourself... You're \ngoing out and looking for it...",
     "yax": "Вы сами ищете его... Вы \nвыхожу и ищу его...",
-    "trx": "Вы сами его ищете... Вы идете \nи ищете его..."
+    "trx": "Вы сами его ищете... Вы идёте \nи ищете его..."
   },
   "aibasroom_fukidashi_660": {
     "src": "Isn't that right? Why do you do that?",
@@ -3587,7 +3587,7 @@
   "aibasroom_fukidashi_666": {
     "src": "If they continue to attack you from \ndifferent accounts...",
     "yax": "Если они продолжат нападать на вас со стороны \nразные учетные записи...",
-    "trx": "Если на вас продолжают нападать \nс разных учетных записей..."
+    "trx": "Если на вас продолжают нападать \nс разных учётных записей..."
   },
   "aibasroom_fukidashi_667": {
     "src": "Report them.",
@@ -3607,7 +3607,7 @@
   "aibasroom_fukidashi_670": {
     "src": "If you can't wait, talk to me again.",
     "yax": "Если ты не можешь дождаться, поговори со мной еще раз.",
-    "trx": "Если вы не можете ждать, \nпоговорите со мной еще раз."
+    "trx": "Если вы не можете ждать, \nпоговорите со мной ещё раз."
   },
   "aibasroom_fukidashi_671": {
     "src": "I'll hack them and expose them.",
@@ -3692,7 +3692,7 @@
   "aibasroom_fukidashi_687": {
     "src": "And another thing...",
     "yax": "И еще кое-что...",
-    "trx": "И еще кое-что..."
+    "trx": "И ещё кое-что..."
   },
   "aibasroom_fukidashi_688": {
     "src": "People don't listen to 100% of everything \nsomeone says.",
@@ -3722,7 +3722,7 @@
   "aibasroom_fukidashi_693": {
     "src": "Do you remember anything else \nbesides \"Marimo\"?",
     "yax": "Ты помнишь что-нибудь еще \nкроме \"Маримо\"?",
-    "trx": "Помните ли вы что-то еще, \nкроме \"Маримо\"?" //spell-ignore:Маримо
+    "trx": "Помните ли вы что-то ещё, \nкроме \"Маримо\"?" //spell-ignore:Маримо
   },
   "aibasroom_fukidashi_694": {
     "src": "There you have it.",
@@ -3777,7 +3777,7 @@
   "aibasroom_fukidashi_704": {
     "src": "If you're not married yet, just break up \nwith them.",
     "yax": "Если вы еще не женаты, просто расстайтесь \nс ними.",
-    "trx": "Если вы еще не поженились, просто \nрасстаньтесь с ним."
+    "trx": "Если вы ещё не поженились, просто \nрасстаньтесь с ним."
   },
   "aibasroom_fukidashi_705": {
     "src": "I'm sorry to say this, but if they cheated...",
@@ -3947,7 +3947,7 @@
   "aibasroom_fukidashi_738": {
     "src": "Gender doesn't matter. Waiting isn't \ngoing to accomplish anything.",
     "yax": "Пол не имеет значения. Ожидание - это не \nсобираюсь добиться чего угодно.",
-    "trx": "Пол не имеет значения. Ожиданием \nвы ничего не добьетесь."
+    "trx": "Пол не имеет значения. Ожиданием \nвы ничего не добьётесь."
   },
   "aibasroom_fukidashi_739": {
     "src": "So it's unrequited... Are they the same \ngender, or...?",
@@ -4007,7 +4007,7 @@
   "aibasroom_fukidashi_750": {
     "src": "He's still using a 5-year-old smart phone.",
     "yax": "Он все еще пользуется смартфоном 5-летней давности.",
-    "trx": "Он все еще использует смартфон \n5-летней давности."
+    "trx": "Он всё ещё использует смартфон \n5-летней давности."
   },
   "aibasroom_fukidashi_751": {
     "src": "And he wears the superiors' \nhand-me-downs.",
@@ -4032,7 +4032,7 @@
   "aibasroom_fukidashi_755": {
     "src": "It's fine, you'll make your money back...",
     "yax": "Все в порядке, ты вернешь свои деньги...",
-    "trx": "Всё в порядке, вы вернете свои деньги..."
+    "trx": "Всё в порядке, вы вернёте свои деньги..."
   },
   "aibasroom_fukidashi_756": {
     "src": "If you're interested, this is my bank \ninformation...",
@@ -4162,7 +4162,7 @@
   "aibasroom_fukidashi_781": {
     "src": "If you just drank too much, you got \nwhat you deserved...",
     "yax": "Если вы просто выпили слишком много, вы получили \nто, что ты заслужил...",
-    "trx": "Если вы просто пьете слишком много, \nвы получили то, что заслужили..."
+    "trx": "Если вы просто пьёте слишком много, \nвы получили то, что заслужили..."
   },
   "aibasroom_fukidashi_782": {
     "src": "Just to confirm, you're a man right?",
@@ -4297,7 +4297,7 @@
   "aibasroom_fukidashi_808": {
     "src": "I thought you were worried about your \nhealth.",
     "yax": "Я думал, ты беспокоишься о своем \nздоровье.",
-    "trx": "Я думала, что вы беспокоитесь о своем \nздоровье."
+    "trx": "Я думала, что вы беспокоитесь о своём \nздоровье."
   },
   "aibasroom_fukidashi_809": {
     "src": "If you can exercise, aren't you healthy?",
@@ -4397,7 +4397,7 @@
   "aibasroom_fukidashi_828": {
     "src": "I won't pry any more... I hope you \nrecover, really...",
     "yax": "Я больше не буду совать нос в чужие дела... Я надеюсь, что вы \nвыздоравливай, правда...",
-    "trx": "Я больше не буду вмешиваться... \nОстается надеяться, что вы поправитесь..."
+    "trx": "Я больше не буду вмешиваться... \nОстаётся надеяться, что вы поправитесь..."
   },
   "aibasroom_fukidashi_829": {
     "src": "It's fine. I'll always be by your side.",
@@ -4417,7 +4417,7 @@
   "aibasroom_fukidashi_832": {
     "src": "I'll say it again, you'll get better.",
     "yax": "Я повторю это еще раз, тебе станет лучше.",
-    "trx": "Я повторю это еще раз, \nвам станет лучше."
+    "trx": "Я повторю это ещё раз, \nвам станет лучше."
   },
   "aibasroom_fukidashi_833": {
     "src": "It might be tough, but...",
@@ -4657,7 +4657,7 @@
   "aibasroom_fukidashi_880": {
     "src": "What goes hard and fast when you're \nwith a girl you like?",
     "yax": "Что происходит быстро и жестко, когда ты \nс девушкой, которая тебе нравится?",
-    "trx": "Что протекает быстро и жестко, когда \nвы оказываетесь наедине с девушкой, \nкоторая вам нравится?"
+    "trx": "Что протекает быстро и жёстко, когда \nвы оказываетесь наедине с девушкой, \nкоторая вам нравится?"
   },
   "aibasroom_fukidashi_881": {
     "src": "...",
@@ -4842,7 +4842,7 @@
   "aibasroom_fukidashi_917": {
     "src": "I look like a culprit that shows up in your \ndreams.",
     "yax": "Я выгляжу как преступник, который появляется в твоем \nмечты.",
-    "trx": "Я выгляжу как преступница, которая \nпоявляется в твоем сне."
+    "trx": "Я выгляжу как преступница, которая \nпоявляется в твоём сне."
   },
   "aibasroom_fukidashi_918": {
     "src": "I thought ABIS was a secret organization?",
@@ -4892,12 +4892,12 @@
   "aibasroom_fukidashi_927": {
     "src": "It makes me feel like I'm going to forget \nmy name.",
     "yax": "Это заставляет меня чувствовать, что я собираюсь забыть \nмое имя.",
-    "trx": "Она заставляет меня забыть \nсвое имя."
+    "trx": "Она заставляет меня забыть \nсвоё имя."
   },
   "aibasroom_fukidashi_928": {
     "src": "Black-haired beauty is my thing.",
     "yax": "Черноволосая красавица - это мой конек.",
-    "trx": "Черноволосая красавица — это мой конек."
+    "trx": "Черноволосая красавица — это мой конёк."
   },
   "aibasroom_fukidashi_929": {
     "src": "Purr purr.",
@@ -4912,7 +4912,7 @@
   "aibasroom_fukidashi_931": {
     "src": "There will never come a time this drill \nwill come in handy.",
     "yax": "Никогда не наступит время, когда это упражнение \nпригодится.",
-    "trx": "Никогда не придет время, когда \nпригодится эта дрель."
+    "trx": "Никогда не придёт время, когда \nпригодится эта дрель."
   },
   "aibasroom_fukidashi_932": {
     "src": "I like these cute things, kind of.",
@@ -4947,7 +4947,7 @@
   "aibasroom_fukidashi_938": {
     "src": "I have turned to the dark side. Mwahahaha!",
     "yax": "Я перешел на темную сторону. Мвахахаха!",
-    "trx": "Я перешла на темную сторону. Мвахахаха!" //spell-ignore:Мвахахаха
+    "trx": "Я перешла на тёмную сторону. Мвахахаха!" //spell-ignore:Мвахахаха
   },
   "aibasroom_fukidashi_939": {
     "src": "I saw Boss buying this earlier... Are we \ngoing to match?",
@@ -4992,7 +4992,7 @@
   "aibasroom_fukidashi_947": {
     "src": "This white part...you can paint it whatever \ncolor you want.",
     "yax": "Эта белая часть... ты можешь покрасить ее как угодно \nцвет, который вы хотите.",
-    "trx": "Эта белая часть... ее можно покрасить \nв тот цвет, который тебе нравится."
+    "trx": "Эта белая часть... её можно покрасить \nв тот цвет, который тебе нравится."
   },
   "aibasroom_fukidashi_948": {
     "src": "Earlier, Boss was working while wearing \nthis...she's starting to lose it...",
@@ -5067,7 +5067,7 @@
   "aibasroom_consultation_selection_008": {
     "src": "I'm a baby.",
     "yax": "Я ребенок.",
-    "trx": "Я ребенок."
+    "trx": "Я ребёнок."
   },
   "aibasroom_consultation_selection_009": {
     "src": "That's right.",
@@ -5147,12 +5147,12 @@
   "aibasroom_consultation_selection_024": {
     "src": "It's not fun.",
     "yax": "Это не весело.",
-    "trx": "Она не веселая."
+    "trx": "Она не весёлая."
   },
   "aibasroom_consultation_selection_025": {
     "src": "It's hard.",
     "yax": "Это тяжело.",
-    "trx": "Она тяжелая."
+    "trx": "Она тяжёлая."
   },
   "aibasroom_consultation_selection_026": {
     "src": "No.",
@@ -5257,7 +5257,7 @@
   "aibasroom_consultation_selection_046": {
     "src": "Who cares about studying?",
     "yax": "Кого волнует учеба?",
-    "trx": "Кого волнует учеба?"
+    "trx": "Кого волнует учёба?"
   },
   "aibasroom_consultation_selection_047": {
     "src": "I'm getting picked on.",
@@ -5607,7 +5607,7 @@
   "aibasroom_consultation_selection_116": {
     "src": "I don't like my face.",
     "yax": "Мне не нравится мое лицо.",
-    "trx": "Мне не нравится мое лицо."
+    "trx": "Мне не нравится моё лицо."
   },
   "aibasroom_consultation_selection_117": {
     "src": "I want to be skinnier.",
@@ -5797,12 +5797,12 @@
   "aibasroom_consultation_selection_154": {
     "src": "It's not fun.",
     "yax": "Это не весело.",
-    "trx": "Она не веселая."
+    "trx": "Она не весёлая."
   },
   "aibasroom_consultation_selection_155": {
     "src": "It's hard.",
     "yax": "Это тяжело.",
-    "trx": "Она тяжелая."
+    "trx": "Она тяжёлая."
   },
   "aibasroom_consultation_selection_156": {
     "src": "No.",
@@ -5907,7 +5907,7 @@
   "aibasroom_consultation_selection_176": {
     "src": "Who cares about studying?",
     "yax": "Кого волнует учеба?",
-    "trx": "Кого волнует учеба?"
+    "trx": "Кого волнует учёба?"
   },
   "aibasroom_consultation_selection_177": {
     "src": "I'm getting picked on.",

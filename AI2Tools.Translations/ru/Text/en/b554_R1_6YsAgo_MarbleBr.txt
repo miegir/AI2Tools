@@ -37,7 +37,7 @@
   "003_005": {
     "src": "Let's get started.",
     "yax": "Давайте начнем.",
-    "trx": "Давай начнем."
+    "trx": "Давай начнём."
   },
   "003_006": {
     "src": "O balls, overflowing with wisdom... Who is Ryuki's favorite person?",
@@ -87,7 +87,7 @@
   "003_015": {
     "src": "Okay, seriously this time!",
     "yax": "Ладно, на этот раз серьезно!",
-    "trx": "Ладно, на этот раз серьезно!"
+    "trx": "Ладно, на этот раз серьёзно!"
   },
   "003_016": {
     "src": "O magnificent, mighty balls... Please find someone for me.",
@@ -107,7 +107,7 @@
   "003_019": {
     "src": "She is being hidden by some unknown power...",
     "yax": "Ее скрывает какая-то неведомая сила...",
-    "trx": "Ее скрывает какая-то неведомая сила..."
+    "trx": "Её скрывает какая-то неведомая сила..."
   },
   "003_020": {
     "src": "Whew... I'm so much more tired than usual...",
@@ -177,6 +177,6 @@
   "choice_001": {
     "src": "Anything regarding Kizuna?",
     "yax": "Что-нибудь относительно Кидзуны?",
-    "trx": "Что-нибудь насчет Кизуны?"
+    "trx": "Что-нибудь насчёт Кизуны?"
   }
 }

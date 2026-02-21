@@ -267,7 +267,7 @@
   "target_054": {
     "src": "Rope",
     "yax": "Веревка",
-    "trx": "Веревка"
+    "trx": "Верёвка"
   },
   "target_055": {
     "src": "Camera Tripod",
@@ -362,7 +362,7 @@
   "target_072": {
     "src": "Rope",
     "yax": "Веревка",
-    "trx": "Веревка"
+    "trx": "Верёвка"
   },
   "target_073": {
     "src": "Camera Tripod",
@@ -682,7 +682,7 @@
   "target_137": {
     "src": "Airplane Ride",
     "yax": "Полет на самолете",
-    "trx": "Самолет"
+    "trx": "Самолёт"
   },
   "target_138": {
     "src": "Sky Cycle",
@@ -737,7 +737,7 @@
   "target_148": {
     "src": "Airplane Ride",
     "yax": "Полет на самолете",
-    "trx": "Самолет"
+    "trx": "Самолёт"
   },
   "target_149": {
     "src": "Sky Cycle",

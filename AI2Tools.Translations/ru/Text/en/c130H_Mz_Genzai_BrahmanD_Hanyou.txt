@@ -32,7 +32,7 @@
   "006_002": {
     "src": "Yay! Go, little Hispella testacea!",
     "yax": "Ура! Вперед, маленькая Испелла тестацея!",
-    "trx": "Ура! Вперед, маленькая Hispella testacea!" //spell-ignore:Hispella //spell-ignore:testacea
+    "trx": "Ура! Вперёд, маленькая Hispella testacea!" //spell-ignore:Hispella //spell-ignore:testacea
   },
   "006_003": {
     "src": "A houseplant.",
@@ -127,7 +127,7 @@
   "015_001": {
     "src": "A liquor bottle.",
     "yax": "Бутылка ликера.",
-    "trx": "Бутылка ликера."
+    "trx": "Бутылка ликёра."
   },
   "016_001": {
     "src": "The kitchen.",

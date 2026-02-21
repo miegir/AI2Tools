@@ -517,7 +517,7 @@
   "character_105": {
     "src": "Yakuza Underling",
     "yax": "Подчиненный якудзы",
-    "trx": "Подчиненный Якудзы"
+    "trx": "Подчинённый Якудзы"
   },
   "character_106": {
     "src": "Yakuza Street Boss",
@@ -677,7 +677,7 @@
   "character_137": {
     "src": "Kid",
     "yax": "Ребенок",
-    "trx": "Ребенок"
+    "trx": "Ребёнок"
   },
   "character_138": {
     "src": "Torso",
@@ -1017,47 +1017,47 @@
   "character_205": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_206": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_207": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_208": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_209": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_210": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_211": {
     "src": "Scientists",
     "yax": "Ученые",
-    "trx": "Ученые"
+    "trx": "Учёные"
   },
   "character_212": {
     "src": "Scientist",
     "yax": "Ученый",
-    "trx": "Ученый"
+    "trx": "Учёный"
   },
   "character_213": {
     "src": "Escaped Prisoner",
     "yax": "Сбежавший заключенный",
-    "trx": "Сбежавший заключенный"
+    "trx": "Сбежавший заключённый"
   },
   "character_214": {
     "src": "NAIX Member",
@@ -1197,7 +1197,7 @@
   "character_242": {
     "src": "Tiger Rug",
     "yax": "Тигровый ковер",
-    "trx": "Тигровый ковер"
+    "trx": "Тигровый ковёр"
   },
   "character_243": {
     "src": "Mizuki and Masked Woman",

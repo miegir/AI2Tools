@@ -32,7 +32,7 @@
   "001_007": {
     "src": "I'm searching your place.",
     "yax": "Я обыскиваю твою квартиру.",
-    "trx": "Я обыскиваю твое заведение."
+    "trx": "Я обыскиваю твоё заведение."
   },
   "001_008": {
     "src": "Stop, hey, come on!",
@@ -92,7 +92,7 @@
   "003_001": {
     "src": "I don't know what you're talking about...",
     "yax": "Я не понимаю, о чем ты говоришь...",
-    "trx": "Я не понимаю, о чем ты говоришь..."
+    "trx": "Я не понимаю, о чём ты говоришь..."
   },
   "003_002": {
     "src": "There was a report of someone seeing the balloon at around 8:30AM at the warehouse district...",
@@ -242,7 +242,7 @@
   "008_012": {
     "src": "Then you're coming with me.",
     "yax": "Тогда ты пойдешь со мной.",
-    "trx": "Тогда ты пойдешь со мной."
+    "trx": "Тогда ты пойдёшь со мной."
   },
   "008_013": {
     "src": "Or, I can have the cops bust in here and close you down for the day to search every inch of this place.",

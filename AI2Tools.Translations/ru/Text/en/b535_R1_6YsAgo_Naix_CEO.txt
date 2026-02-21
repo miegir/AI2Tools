@@ -62,7 +62,7 @@
   "001_013": {
     "src": "In my absence, would you like to hear me speak about one of these three themes?",
     "yax": "В мое отсутствие, не хотели бы вы услышать, как я расскажу об одной из этих трех тем?",
-    "trx": "В мое отсутствие, не желаете ли вы услышать мой рассказ об одной из этих трех тем?"
+    "trx": "В моё отсутствие, не желаете ли вы услышать мой рассказ об одной из этих трёх тем?"
   },
   "001_014": {
     "src": "\"Chakra,\" \"Mandela Effect,\" \"Birthday.\"",
@@ -137,7 +137,7 @@
   "005_009": {
     "src": "The third is located on the solar plexus, the fourth in the center of the chest.",
     "yax": "Третья расположена на солнечном сплетении, четвертая - в центре грудной клетки.",
-    "trx": "Третья расположена на солнечном сплетении, четвертая — в центре грудной клетки."
+    "trx": "Третья расположена на солнечном сплетении, четвёртая — в центре грудной клетки."
   },
   "005_010": {
     "src": "Five, six, and seven are on the throat, between the brows, and on top of the head, respectively.",
@@ -152,12 +152,12 @@
   "005_012": {
     "src": "What will happen to the chakras?",
     "yax": "Что произойдет с чакрами?",
-    "trx": "Что произойдет с чакрами?"
+    "trx": "Что произойдёт с чакрами?"
   },
   "005_013": {
     "src": "Chakras are points. By definition, a point cannot be reduced further. It cannot be severed from itself.",
     "yax": "Чакры - это точки. По определению, точка не может быть уменьшена дальше. Его нельзя отделить от самого себя.",
-    "trx": "Чакры — это точки. По своему определению, точку невозможно как-либо уменьшить. От нее нельзя ничего отделить."
+    "trx": "Чакры — это точки. По своему определению, точку невозможно как-либо уменьшить. От неё нельзя ничего отделить."
   },
   "005_014": {
     "src": "So the chakras will remain, tethered between the left and right sides of the body.",
@@ -222,12 +222,12 @@
   "006_008": {
     "src": "On passenger planes, are the engines completely tucked beneath the wings?",
     "yax": "На пассажирских самолетах двигатели полностью спрятаны под крыльями?",
-    "trx": "На пассажирских самолетах двигатели полностью накрыты крыльями?"
+    "trx": "На пассажирских самолётах двигатели полностью накрыты крыльями?"
   },
   "006_009": {
     "src": "On Shakespeare's portrait, he wasn't wearing earrings, was he?",
     "yax": "На портрете Шекспира он не носил сережек, не так ли?",
-    "trx": "На портрете Шекспира не нем не было сережек, не так ли?" //spell-ignore:Шекспира
+    "trx": "На портрете Шекспира не нем не было серёжек, не так ли?" //spell-ignore:Шекспира
   },
   "006_010": {
     "src": "Do you remember a certain human/cyborg relations robot character from a famous space opera being gold all over?",
@@ -242,7 +242,7 @@
   "006_012": {
     "src": "Kennedy was in a 6-seater. There is a vulture along with a cobra on the golden mask...",
     "yax": "Кеннеди был в 6-местном самолете. На золотой маске изображен стервятник вместе с коброй...",
-    "trx": "Кеннеди находился в 6-местной машине. На золотой маске рядом с коброй изображен стервятник..." //spell-ignore:Кеннеди
+    "trx": "Кеннеди находился в 6-местной машине. На золотой маске рядом с коброй изображён стервятник..." //spell-ignore:Кеннеди
   },
   "006_013": {
     "src": "Our solar system is not at the edge of the Milky Way, but nestled within it. Our hearts are nearer to the center of our chests.",
@@ -252,7 +252,7 @@
   "006_014": {
     "src": "Passenger plane engines are often installed in front of, not entirely underneath, the wings.",
     "yax": "Двигатели пассажирских самолетов часто устанавливаются перед крыльями, а не полностью под ними.",
-    "trx": "Двигатели пассажирских самолетов часто устанавливаются перед крыльями, а не полностью под ними."
+    "trx": "Двигатели пассажирских самолётов часто устанавливаются перед крыльями, а не полностью под ними."
   },
   "006_015": {
     "src": "Shakespeare has an earring. The golden robot's lower right leg is actually silver.",
@@ -287,7 +287,7 @@
   "006_021": {
     "src": "Or more intriguingly, are they really false memories?",
     "yax": "Или, что еще более интригующе, действительно ли это ложные воспоминания?",
-    "trx": "Или, что еще более интригующе, действительно ли это ложные воспоминания?"
+    "trx": "Или, что ещё более интригующе, действительно ли это ложные воспоминания?"
   },
   "006_022": {
     "src": "Is it possible memory is more correct than history?",

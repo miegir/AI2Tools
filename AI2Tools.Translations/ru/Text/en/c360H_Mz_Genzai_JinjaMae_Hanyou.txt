@@ -7,7 +7,7 @@
   "002_001": {
     "src": "Let's tie them up with the rope!",
     "yax": "Давайте свяжем их веревкой!",
-    "trx": "Давай свяжем их веревкой!"
+    "trx": "Давай свяжем их верёвкой!"
   },
   "002_002": {
     "src": "That's sacrilegious!",
@@ -17,12 +17,12 @@
   "002_003": {
     "src": "It's the shimenawa, the sacred rope.",
     "yax": "Это шименава, священная веревка.",
-    "trx": "Это симэнава, священная веревка."
+    "trx": "Это симэнава, священная верёвка."
   },
   "003_001": {
     "src": "We'll distract them with the bell! And then...",
     "yax": "Мы отвлечем их звонком! И затем...",
-    "trx": "Мы отвлечем их звоном! А затем..."
+    "trx": "Мы отвлечём их звоном! А затем..."
   },
   "003_002": {
     "src": "Why the subterfuge...?",
@@ -32,7 +32,7 @@
   "003_003": {
     "src": "There's a rope hanging from the bell.",
     "yax": "С колокола свисает веревка.",
-    "trx": "С колокола свисает веревка."
+    "trx": "С колокола свисает верёвка."
   },
   "004_001": {
     "src": "Let's hit them with the offering box!",
@@ -142,7 +142,7 @@
   "010_004": {
     "src": "There's a tree here.",
     "yax": "Здесь есть дерево.",
-    "trx": "Здесь растет дерево."
+    "trx": "Здесь растёт дерево."
   },
   "011_001": {
     "src": "The torii is totally unrelated to this predicament!",

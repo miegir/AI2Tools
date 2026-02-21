@@ -22,7 +22,7 @@
   "001_005": {
     "src": "I plan on it. That's why I came here...",
     "yax": "Я планирую это сделать. Вот почему я пришел сюда...",
-    "trx": "Я как раз это планировал. Вот почему я пришел сюда..."
+    "trx": "Я как раз это планировал. Вот почему я пришёл сюда..."
   },
   "001_006": {
     "src": "This place is always therapeutic for me.",
@@ -57,7 +57,7 @@
   "001_012": {
     "src": "Let's go find out.",
     "yax": "Давай пойдем и выясним.",
-    "trx": "Давай подойдем и выясним."
+    "trx": "Давай подойдём и выясним."
   },
   "001_013": {
     "src": "Oh, it's you...",
@@ -87,7 +87,7 @@
   "003_004": {
     "src": "I've dreamed about being up in the sky since I was a little kid.",
     "yax": "Я мечтал о том, чтобы оказаться в небе, с тех пор, как был маленьким ребенком.",
-    "trx": "Еще с тех пор, как я был маленьким ребенком, я мечтал оказаться в небе."
+    "trx": "Ещё с тех пор, как я был маленьким ребёнком, я мечтал оказаться в небе."
   },
   "003_005": {
     "src": "I always wanted to be a pirate.",
@@ -147,7 +147,7 @@
   "005_006": {
     "src": "But what were you thinking about?",
     "yax": "Но о чем ты думал?",
-    "trx": "Но о чем вы думали?"
+    "trx": "Но о чём вы думали?"
   },
   "005_007": {
     "src": "...",
@@ -217,7 +217,7 @@
   "007_001": {
     "src": "Well, I don't know the situation exactly, but I understand what you're asking.",
     "yax": "Ну, я точно не знаю ситуацию, но я понимаю, о чем вы спрашиваете.",
-    "trx": "Что ж, я не в курсе этой ситуации, но я понимаю, о чем вы просите."
+    "trx": "Что ж, я не в курсе этой ситуации, но я понимаю, о чём вы просите."
   },
   "007_002": {
     "src": "You want to get inside that facility and take a look around...",
@@ -297,7 +297,7 @@
   "008_001": {
     "src": "Anyway, I'll be going now.",
     "yax": "В любом случае, я сейчас пойду.",
-    "trx": "Ну, я пошел."
+    "trx": "Ну, я пошёл."
   },
   "008_002": {
     "src": "Looks like you've got a lot on your plate, but try not to overdo it.",
@@ -312,7 +312,7 @@
   "008_004": {
     "src": "By the way, Ryuki, about the Nirvana Trial...",
     "yax": "Кстати, Рюки, насчет суда над Нирваной...",
-    "trx": "Кстати, Рюки, насчет Испытания нирваны..."
+    "trx": "Кстати, Рюки, насчёт Испытания нирваны..."
   },
   "008_005": {
     "src": "Now that you bring it up, we haven't watched the video yet.",
@@ -417,7 +417,7 @@
   "choice_002": {
     "src": "What are you drinking?",
     "yax": "Что ты пьешь?",
-    "trx": "Что вы пьете?"
+    "trx": "Что вы пьёте?"
   },
   "choice_003": {
     "src": "Why are you here?",

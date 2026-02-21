@@ -142,7 +142,7 @@
   "difficulty_002": {
     "src": "Easy",
     "yax": "Легко",
-    "trx": "Легкая"
+    "trx": "Лёгкая"
   },
   "difficulty_001": {
     "src": "Standard",
@@ -287,7 +287,7 @@
   "r15_dialog_527": {
     "src": "Green Assassin",
     "yax": "Зеленый Убийца",
-    "trx": "Зеленый убийца"
+    "trx": "Зелёный убийца"
   },
   "r15_dialog_528": {
     "src": "Mansion Leader",
@@ -472,7 +472,7 @@
   "purpose_difficulty_003": {
     "src": "Easy",
     "yax": "Легко",
-    "trx": "Легкая"
+    "trx": "Лёгкая"
   },
   "purpose_difficulty_004": {
     "src": "Story",
@@ -552,7 +552,7 @@
   "title_info_001": {
     "src": "Choose save data to load",
     "yax": "Выберите сохранить данные для загрузки",
-    "trx": "Загрузка сохраненной игры"
+    "trx": "Загрузка сохранённой игры"
   },
   "title_info_002": {
     "src": "Start from beginning",
@@ -747,7 +747,7 @@
   "difficulty_info_002": {
     "src": "Relatively easy difficulty.\n・Time Limit: 1.5x\n・Button Mash: 1/2",
     "yax": "Относительно легкая сложность.\r\n・Ограничение по времени: 1,5 раза\r\n・Пюре из пуговиц: 1/2",
-    "trx": "Более легкий уровень.\n・Ограничение времени: 1.5x\n・Разброс кнопок: 1/2"
+    "trx": "Более лёгкий уровень.\n・Ограничение времени: 1.5x\n・Разброс кнопок: 1/2"
   },
   "difficulty_info_001": {
     "src": "This is the recommended difficulty for QTEs.\nShould provide just the right amount of tension.",
@@ -767,12 +767,12 @@
   "difficulty_info_006": {
     "src": "For players who want to focus on the story.\nEven more time to explore.\n・Time Reduction Speed: 1/4\n・Interaction Times: 1/4\n・Retry Count: Unlimited",
     "yax": "Для игроков, которые хотят сосредоточиться на сюжете.\r\nЕще больше времени для изучения.\r\n・Скорость сокращения времени: 1/4\r\n・Время взаимодействия: 1/4\r\n・Количество повторных попыток: Неограниченно",
-    "trx": "Для игроков, желающих сфокусироваться на истории.\nЕще больше времени для исследования.\n・Скорость расхода времени: 1/4\n・Время взаимодействия: 1/4\n・Количество попыток: Не ограничено"
+    "trx": "Для игроков, желающих сфокусироваться на истории.\nЕщё больше времени для исследования.\n・Скорость расхода времени: 1/4\n・Время взаимодействия: 1/4\n・Количество попыток: Не ограничено"
   },
   "difficulty_info_005": {
     "src": "Relatively easy difficulty. \nAmple time to explore.\n・Time Reduction Speed: 1/2\n・Interaction Times: 1/2\n・Retry Count: 6",
     "yax": "Относительно легкая сложность. \r\nДостаточно времени для изучения.\r\n・Скорость сокращения времени: 1/2\r\n・Время взаимодействия: 1/2\r\n・Количество повторных попыток: 6",
-    "trx": "Более легкий уровень. \nБольше времени для исследования.\n・Скорость расхода времени: 1/2\n・Время взаимодействия: 1/2\n・Количество попыток: 6"
+    "trx": "Более лёгкий уровень. \nБольше времени для исследования.\n・Скорость расхода времени: 1/2\n・Время взаимодействия: 1/2\n・Количество попыток: 6"
   },
   "difficulty_info_004": {
     "src": "This is the recommended setting.\nShould provide just the right amount of tension.\n・Time Reduction Speed: Normal\n・Interaction Times: Normal\n・Retry Count: 3",
@@ -792,7 +792,7 @@
   "timer_remain_500": {
     "src": "Real-time Countdown",
     "yax": "Обратный отсчет в реальном времени",
-    "trx": "Отсчет в реальном времени"
+    "trx": "Отсчёт в реальном времени"
   },
   "evaluation_500": {
     "src": "Performance Result",
@@ -887,7 +887,7 @@
   "language_select_502": {
     "src": "Simplified Chinese",
     "yax": "Упрощенный китайский",
-    "trx": "Китайский (упрощенный)"
+    "trx": "Китайский (упрощённый)"
   },
   "language_select_503": {
     "src": "Traditional Chinese",

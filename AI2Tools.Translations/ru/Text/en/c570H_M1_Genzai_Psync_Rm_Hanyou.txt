@@ -17,7 +17,7 @@
   "004_001": {
     "src": "A monitor. There's nothing being displayed.",
     "yax": "Монитор. Там ничего не отображается.",
-    "trx": "Монитор. На нем нет изображения."
+    "trx": "Монитор. На нём нет изображения."
   },
   "005_001": {
     "src": "A Braun-tube style monitor.",

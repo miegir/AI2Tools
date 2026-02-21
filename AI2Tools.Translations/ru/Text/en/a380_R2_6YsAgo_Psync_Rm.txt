@@ -2,7 +2,7 @@
   "001_001": {
     "src": "Komeji is still asleep...",
     "yax": "Комедзи все еще спит...",
-    "trx": "Комедзи все еще спит..."
+    "trx": "Комедзи всё ещё спит..."
   },
   "001_002": {
     "src": "It's taking longer than usual for him to wake up for some reason...",
@@ -72,7 +72,7 @@
   "001_015": {
     "src": "No point thinking about it. We'll have to ask Shoma directly.",
     "yax": "Нет смысла думать об этом. Нам придется спросить Сему напрямую.",
-    "trx": "Нет смысла размышлять об этом. Нам придется спросить Шому напрямую."
+    "trx": "Нет смысла размышлять об этом. Нам придётся спросить Шому напрямую."
   },
   "001_016": {
     "src": "The problem is whether he'll answer...",
@@ -102,7 +102,7 @@
   "001_021": {
     "src": "But he's still Shoma's father.",
     "yax": "Но он все еще отец Семы.",
-    "trx": "Но он все еще отец Шомы."
+    "trx": "Но он всё ещё отец Шомы."
   },
   "001_022": {
     "src": "Yeah, he should be able to get closer to Shoma's heart than any of us.",
@@ -127,6 +127,6 @@
   "001_026": {
     "src": "Then let's go see Shoma as soon as he does.",
     "yax": "Тогда давай навестим Сему, как только он это сделает.",
-    "trx": "Тогда давай навестим Шому, как только он проснется."
+    "trx": "Тогда давай навестим Шому, как только он проснётся."
   }
 }

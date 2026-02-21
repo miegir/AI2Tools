@@ -217,7 +217,7 @@
   "clue_044": {
     "src": "Screwdriver",
     "yax": "Отвертка",
-    "trx": "Отвертка"
+    "trx": "Отвёртка"
   },
   "clue_045": {
     "src": "Picture of an Old Cruise Liner",
@@ -312,7 +312,7 @@
   "clue_063": {
     "src": "Borrowed One-wheel Robot",
     "yax": "Одолженный Одноколесный Робот",
-    "trx": "Позаимствованный одноколесный робот"
+    "trx": "Позаимствованный одноколёсный робот"
   },
   "clue_064": {
     "src": "Basement of Horadori Institute",

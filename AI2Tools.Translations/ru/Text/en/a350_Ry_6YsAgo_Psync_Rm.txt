@@ -27,7 +27,7 @@
   "001_006": {
     "src": "Let's get right to it then.",
     "yax": "Тогда давайте сразу перейдем к делу.",
-    "trx": "Перейдем тогда сразу к делу."
+    "trx": "Перейдём тогда сразу к делу."
   },
   "001_007": {
     "src": "Ryuki, I'm sure you already know this, but the time limit inside Somnium is...",

@@ -197,7 +197,7 @@
   "005_018": {
     "src": "And as for who's drivin'...",
     "yax": "А что касается того, кто за рулем...",
-    "trx": "Что же касается того, кто будет за рулем..."
+    "trx": "Что же касается того, кто будет за рулём..."
   },
   "005_019": {
     "src": "I know a guy.",
@@ -267,7 +267,7 @@
   "008_005": {
     "src": "Seriously?!",
     "yax": "Серьезно?!",
-    "trx": "Серьезно?!"
+    "trx": "Серьёзно?!"
   },
   "008_006": {
     "src": "You know how the press began to report on our deeds at the stadium?",
@@ -387,7 +387,7 @@
   "choice_004": {
     "src": "About the gatling gun...",
     "yax": "О пушке Гатлинга...",
-    "trx": "О пулемете Гатлинга..." //spell-ignore:Гатлинга
+    "trx": "О пулемёте Гатлинга..." //spell-ignore:Гатлинга
   },
   "choice_005": {
     "src": "What happened to running away together?",

@@ -12,7 +12,7 @@
   "002_002": {
     "src": "Yeah, yeah! Go, Dytiscus sharpi!",
     "yax": "Да, да! Вперед, Дитискус шарпи!",
-    "trx": "Да, да! Вперед, Dytiscus sharpi!" //spell-ignore:Dytiscus //spell-ignore:sharpi
+    "trx": "Да, да! Вперёд, Dytiscus sharpi!" //spell-ignore:Dytiscus //spell-ignore:sharpi
   },
   "002_003": {
     "src": "But at this time of year...?",
@@ -27,7 +27,7 @@
   "002_005": {
     "src": "There's a a big pond around the fountain.",
     "yax": "Вокруг фонтана есть большой пруд.",
-    "trx": "Фонтан окружен большим прудом."
+    "trx": "Фонтан окружён большим прудом."
   },
   "003_001": {
     "src": "A concrete bench...",

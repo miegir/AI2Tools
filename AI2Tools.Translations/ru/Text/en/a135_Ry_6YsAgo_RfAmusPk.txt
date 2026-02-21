@@ -22,7 +22,7 @@
   "001_005": {
     "src": "Then Shoma saw my face and started busting out laughing.",
     "yax": "Потом Сема увидел мое лицо и начал заливаться смехом.",
-    "trx": "Потом Шома увидел мое лицо и залился смехом."
+    "trx": "Потом Шома увидел моё лицо и залился смехом."
   },
   "001_006": {
     "src": "And I was thinking, what's so funny?",
@@ -62,7 +62,7 @@
   "001_013": {
     "src": "Another story about Shoma...",
     "yax": "Еще одна история о Семе...",
-    "trx": "Еще одна история о Шоме..."
+    "trx": "Ещё одна история о Шоме..."
   },
   "001_014": {
     "src": "One day, I got a call from school, and a rather heavy-set vice principal told me...",
@@ -72,7 +72,7 @@
   "001_015": {
     "src": "\"Your Shoma called me a pig of all things!\"",
     "yax": "\"Твой Сема назвал меня свиньей из всех вещей!\"",
-    "trx": "\"Ваш Шома называет меня свиньей!\""
+    "trx": "\"Ваш Шома называет меня свиньёй!\""
   },
   "001_016": {
     "src": "I apologized, then gave Shoma a talking to.",
@@ -87,7 +87,7 @@
   "001_018": {
     "src": "He said, \"Okay... I won't call the vice principal a pig anymore.\"",
     "yax": "Он сказал: \"Хорошо... Я больше не буду называть заместителя директора свиньей.\"",
-    "trx": "Он сказал: \"Хорошо... Я больше не буду называть директора свиньей.\""
+    "trx": "Он сказал: \"Хорошо... Я больше не буду называть директора свиньёй.\""
   },
   "001_019": {
     "src": "\"But it's okay if I call a pig 'vice principal,' right?\"",
@@ -162,7 +162,7 @@
   "001_033": {
     "src": "Then let's go somewhere else to talk...",
     "yax": "Тогда давай пойдем куда-нибудь еще и поговорим...",
-    "trx": "Тогда давайте пойдем куда-нибудь и поговорим..."
+    "trx": "Тогда давайте пойдём куда-нибудь и поговорим..."
   },
   "001_034": {
     "src": "You'd prefer some place quieter, right?",

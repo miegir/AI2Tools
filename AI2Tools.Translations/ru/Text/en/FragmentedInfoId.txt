@@ -57,7 +57,7 @@
   "fragmented_info_511": {
     "src": "There is another unnatural reaction of matter below the floor.",
     "yax": "Существует еще одна неестественная реакция материи под полом.",
-    "trx": "Присутствует еще одна неестественная реакция материи под полом."
+    "trx": "Присутствует ещё одна неестественная реакция материи под полом."
   },
   "fragmented_info_512": {
     "src": "There is an unnatural reaction of infrared light.",
@@ -67,7 +67,7 @@
   "fragmented_info_513": {
     "src": "There is another unnatural reaction of infrared light.",
     "yax": "Существует еще одна неестественная реакция инфракрасного света.",
-    "trx": "Присутствует еще одна неестественная реакция инфракрасного света."
+    "trx": "Присутствует ещё одна неестественная реакция инфракрасного света."
   },
   "fragmented_info_514": {
     "src": "Confirm the status of Komeji's corpse.",
@@ -77,7 +77,7 @@
   "fragmented_info_515": {
     "src": "There is an unnatural spot on the rope that was used to tie up Ryuki.",
     "yax": "На веревке, которой был связан Рюки, есть неестественное пятно.",
-    "trx": "На веревке, которой был связан Рюки, есть неестественное пятно."
+    "trx": "На верёвке, которой был связан Рюки, есть неестественное пятно."
   },
   "fragmented_info_516": {
     "src": "The camera tripod is tipped over.",
@@ -127,7 +127,7 @@
   "fragmented_info_525": {
     "src": "Something other than snow was detected somewhere on the ground.",
     "yax": "Где-то на земле было обнаружено что-то еще, кроме снега.",
-    "trx": "Где-то на земле было обнаружено что-то еще, кроме снега."
+    "trx": "Где-то на земле было обнаружено что-то ещё, кроме снега."
   },
   "fragmented_info_526": {
     "src": "There is an unnatural heat source somewhere in the stone monument.",
@@ -177,22 +177,22 @@
   "fragmented_info_535": {
     "src": "",
     "yax": "",
-    "trx": "Есть что-то еще."
+    "trx": "Есть что-то ещё."
   },
   "fragmented_info_536": {
     "src": "",
     "yax": "",
-    "trx": "Есть что-то еще."
+    "trx": "Есть что-то ещё."
   },
   "fragmented_info_537": {
     "src": "",
     "yax": "",
-    "trx": "Есть что-то еще."
+    "trx": "Есть что-то ещё."
   },
   "fragmented_info_538": {
     "src": "Objects that cannot be seen with the naked eye can be viewed with night-vision mode.",
     "yax": "Объекты, которые не видны невооруженным глазом, можно просматривать в режиме ночного видения.",
-    "trx": "Объекты, которые не видны невооруженным глазом, можно рассмотреть в режиме ночного видения."
+    "trx": "Объекты, которые не видны невооружённым глазом, можно рассмотреть в режиме ночного видения."
   },
   "fragmented_info_539": {
     "src": "There is a mysterious metal plate.",
@@ -212,7 +212,7 @@
   "fragmented_info_542": {
     "src": "There are parts that have not been completely investigated yet.",
     "yax": "Есть части, которые еще не были полностью исследованы.",
-    "trx": "Есть части, которые еще не были полностью исследованы."
+    "trx": "Есть части, которые ещё не были полностью исследованы."
   },
   "fragmented_info_543": {
     "src": "What is inside the trash can?",

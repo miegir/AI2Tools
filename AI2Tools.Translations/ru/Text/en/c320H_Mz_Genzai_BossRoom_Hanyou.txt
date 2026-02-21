@@ -62,7 +62,7 @@
   "013_001": {
     "src": "There's a floor brush leaning against the wall.",
     "yax": "К стене прислонена щетка для пола.",
-    "trx": "Метла, прислоненная к стене."
+    "trx": "Метла, прислонённая к стене."
   },
   "014_001": {
     "src": "There's BL manga under the rug...",
@@ -87,7 +87,7 @@
   "018_001": {
     "src": "It's a Matryoshka doll.",
     "yax": "Это матрешка.",
-    "trx": "Это матрешка."
+    "trx": "Это матрёшка."
   },
   "019_001": {
     "src": "There's a large key.",
@@ -142,12 +142,12 @@
   "029_001": {
     "src": "It's a stationary bike for indoor training.",
     "yax": "Это велотренажер для тренировок в помещении.",
-    "trx": "Это велотренажер для тренировок в помещении."
+    "trx": "Это велотренажёр для тренировок в помещении."
   },
   "030_001": {
     "src": "It's a Christmas tree.",
     "yax": "Это рождественская елка.",
-    "trx": "Это рождественская елка."
+    "trx": "Это рождественская ёлка."
   },
   "031_001": {
     "src": "There are all sorts of things hanging on the coat hangers.",

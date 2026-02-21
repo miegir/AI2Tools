@@ -77,7 +77,7 @@
   "004_005": {
     "src": "Ah, yeah, you should definitely just head home...",
     "yax": "Ах, да, тебе определенно стоит просто отправиться домой...",
-    "trx": "Ах, да, тебе определенно стоит отправиться домой..."
+    "trx": "Ах, да, тебе определённо стоит отправиться домой..."
   },
   "004_006": {
     "src": "It's all right now! Because I am here! Half Might!",
@@ -142,7 +142,7 @@
   "005_004": {
     "src": "This is my case...",
     "yax": "Это мое дело...",
-    "trx": "Это мое дело..."
+    "trx": "Это моё дело..."
   },
   "005_005": {
     "src": "But Ryuki, you're...",
@@ -307,7 +307,7 @@
   "008_007": {
     "src": "There he goes...",
     "yax": "Вот он идет...",
-    "trx": "И он ушел..."
+    "trx": "И он ушёл..."
   },
   "008_008": {
     "src": "There is nothing we can do for him. It is best to let him be.",
@@ -347,7 +347,7 @@
   "008_015": {
     "src": "Let's get going.",
     "yax": "Давайте начнем.",
-    "trx": "Пойдем отсюда."
+    "trx": "Пойдём отсюда."
   },
   "choice_001": {
     "src": "Are you okay?",

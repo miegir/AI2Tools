@@ -2,7 +2,7 @@
   "001_001": {
     "src": "Before we begin, I want to point something out.",
     "yax": "Прежде чем мы начнем, я хочу кое на что обратить внимание.",
-    "trx": "Прежде чем мы начнем, я хочу кое на что обратить внимание."
+    "trx": "Прежде чем мы начнём, я хочу кое на что обратить внимание."
   },
   "001_002": {
     "src": "The side with the window is the south...",
@@ -12,7 +12,7 @@
   "001_003": {
     "src": "And the waterfall is to the north.",
     "yax": "А водопад находится на севере.",
-    "trx": "А водопад обращен на север."
+    "trx": "А водопад обращён на север."
   },
   "001_004": {
     "src": "I know that... Why are you mentioning it?",
@@ -57,7 +57,7 @@
   "002_004": {
     "src": "And she was also bisected while she was still alive.",
     "yax": "И ее тоже разделили пополам, когда она была еще жива.",
-    "trx": "И ее, как и других, разрезали пополам, когда она была еще жива."
+    "trx": "И её, как и других, разрезали пополам, когда она была ещё жива."
   },
   "002_005": {
     "src": "In other words, it's highly likely that it was the same killer.",
@@ -122,12 +122,12 @@
   "003_007": {
     "src": "Tokiko has a grown child?!",
     "yax": "У Токико есть взрослый ребенок?!",
-    "trx": "У Токико есть взрослый ребенок?!"
+    "trx": "У Токико есть взрослый ребёнок?!"
   },
   "003_008": {
     "src": "Yes, but there are no records of this anywhere in her family register...",
     "yax": "Да, но в ее семейном реестре нет никаких записей об этом...",
-    "trx": "Да, но в ее семейном реестре нет об этом никаких записей..."
+    "trx": "Да, но в её семейном реестре нет об этом никаких записей..."
   },
   "003_009": {
     "src": "She hasn't filed birth registration, and there aren't any records of it in any medical institutions in Japan...",
@@ -182,12 +182,12 @@
   "006_004": {
     "src": "Then brought the right half of her body to this room... But how?",
     "yax": "Затем принесла правую половину своего тела в эту комнату... Но как?",
-    "trx": "Затем принес правую половину тела в этот кабинет... Но как?"
+    "trx": "Затем принёс правую половину тела в этот кабинет... Но как?"
   },
   "006_005": {
     "src": "There's no blood on the table, or anywhere else in the room.",
     "yax": "Ни на столе, ни где-либо еще в комнате нет крови.",
-    "trx": "Ни на столе, ни где-либо еще в комнате нет крови."
+    "trx": "Ни на столе, ни где-либо ещё в комнате нет крови."
   },
   "007_001": {
     "src": "It's the Nonuple-X symbol.",
@@ -212,7 +212,7 @@
   "008_004": {
     "src": "Maybe there's some way to move it...",
     "yax": "Может быть, есть какой-то способ переместить его...",
-    "trx": "Может быть, есть какой-то способ переместить ее..."
+    "trx": "Может быть, есть какой-то способ переместить её..."
   },
   "008_006": {
     "src": "There's a device for entering a PIN code on the other side of the wall...but the frame won't budge.",
@@ -407,7 +407,7 @@
   "017_001": {
     "src": "There's something coming out of it...",
     "yax": "Из этого что-то выходит...",
-    "trx": "Из нее что-то выходит..."
+    "trx": "Из неё что-то выходит..."
   },
   "017_002": {
     "src": "It's an infrared laser.",
@@ -437,7 +437,7 @@
   "017_007": {
     "src": "An infrared laser is coming out of this statue too.",
     "yax": "Из этой статуи тоже исходит инфракрасный лазер.",
-    "trx": "Из этой статуи тоже идет луч инфракрасного лазера."
+    "trx": "Из этой статуи тоже идёт луч инфракрасного лазера."
   },
   "017_008": {
     "src": "It's crossing with that other beam...",
@@ -467,7 +467,7 @@
   "019_001": {
     "src": "There's something coming out of it...",
     "yax": "Из этого что-то выходит...",
-    "trx": "Из нее что-то выходит..."
+    "trx": "Из неё что-то выходит..."
   },
   "019_002": {
     "src": "It's an infrared laser.",
@@ -497,7 +497,7 @@
   "019_007": {
     "src": "An infrared laser is coming out of this statue too.",
     "yax": "Из этой статуи тоже исходит инфракрасный лазер.",
-    "trx": "Из этой статуи тоже идет луч инфракрасного лазера."
+    "trx": "Из этой статуи тоже идёт луч инфракрасного лазера."
   },
   "019_008": {
     "src": "It's crossing with that other beam...",

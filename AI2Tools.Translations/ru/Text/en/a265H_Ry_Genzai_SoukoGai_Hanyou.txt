@@ -2,7 +2,7 @@
   "001_001": {
     "src": "Ryuki, look! There's a flock of angry finless porpoises over there!",
     "yax": "Рюки, смотри! Вон там стая разъяренных морских свиней без плавников!",
-    "trx": "Рюки, смотри! Вон там стая разъяренных морских свиней без плавников!"
+    "trx": "Рюки, смотри! Вон там стая разъярённых морских свиней без плавников!"
   },
   "001_002": {
     "src": "They're probably here to protest against microplastics.",

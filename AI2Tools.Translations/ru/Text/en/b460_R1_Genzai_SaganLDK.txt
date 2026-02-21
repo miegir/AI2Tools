@@ -62,7 +62,7 @@
   "004_006": {
     "src": "Like her head was somewhere else...",
     "yax": "Как будто ее голова была где-то в другом месте...",
-    "trx": "Как будто ее голова была где-то в другом месте..."
+    "trx": "Как будто её голова была где-то в другом месте..."
   },
   "004_007": {
     "src": "While Iris was preparing to leave, she just stared off into the distance...",
@@ -142,7 +142,7 @@
   "007_002": {
     "src": "There's no such thing as wasting time when you're investigating.",
     "yax": "Нет такой вещи, как пустая трата времени, когда вы ведете расследование.",
-    "trx": "Когда идет расследование, не может быть и речи о пустой трате времени."
+    "trx": "Когда идёт расследование, не может быть и речи о пустой трате времени."
   },
   "007_003": {
     "src": "Even the most insignificant piece of information could be relevant.",
@@ -167,7 +167,7 @@
   "007_007": {
     "src": "Let's get going.",
     "yax": "Давайте начнем.",
-    "trx": "Пойдем."
+    "trx": "Пойдём."
   },
   "007_008": {
     "src": "We need to find Mame...",

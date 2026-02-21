@@ -67,7 +67,7 @@
   "saveload_common_008": {
     "src": "Not enough storage\nCould not Auto Save\nRetry?",
     "yax": "Недостаточно места для хранения\r\nНе удалось выполнить автоматическое сохранение\r\nПовторить попытку?",
-    "trx": "Недостаточно места\nНе удается выполнить автосохранение\nПопробовать снова?"
+    "trx": "Недостаточно места\nНе удаётся выполнить автосохранение\nПопробовать снова?"
   },
   "saveload_common_009": {
     "src": "Load this save data?",
@@ -77,12 +77,12 @@
   "saveload_common_010": {
     "src": "Loading\nDo not turn off the game",
     "yax": "Погрузка\r\nНе выключайте игру",
-    "trx": "Идет загрузка\nНе завершайте игру"
+    "trx": "Идёт загрузка\nНе завершайте игру"
   },
   "saveload_common_011": {
     "src": "Loading\nDo not turn off the game",
     "yax": "Погрузка\r\nНе выключайте игру",
-    "trx": "Идет загрузка\nНе завершайте игру"
+    "trx": "Идёт загрузка\nНе завершайте игру"
   },
   "saveload_common_012": {
     "src": "Data loaded",
@@ -92,12 +92,12 @@
   "saveload_common_013": {
     "src": "Could not find Save Data\nCould not load data",
     "yax": "Не удалось найти Сохраненные данные\r\nНе удалось загрузить данные",
-    "trx": "Не удается найти сохранение\nЗагрузка невозможна"
+    "trx": "Не удаётся найти сохранение\nЗагрузка невозможна"
   },
   "saveload_common_014": {
     "src": "File is corrupted\nCould not load data",
     "yax": "Файл поврежден\r\nНе удалось загрузить данные",
-    "trx": "Файл поврежден\nЗагрузка невозможна"
+    "trx": "Файл повреждён\nЗагрузка невозможна"
   },
   "saveload_common_015": {
     "src": "Could not load data",
@@ -112,12 +112,12 @@
   "saveload_common_500": {
     "src": "Controller was disconnected.\nReconnect the controller and press the A button.",
     "yax": "Контроллер был отключен.\r\nСнова подключите контроллер и нажмите кнопку A.",
-    "trx": "Контроллер был отключен.\nПодключите контроллер и нажмите кнопку A."
+    "trx": "Контроллер был отключён.\nПодключите контроллер и нажмите кнопку A."
   },
   "saveload_common_501": {
     "src": "Sign-in has been changed.",
     "yax": "Вход в систему был изменен.",
-    "trx": "Учетная запись изменена."
+    "trx": "Учётная запись изменена."
   },
   "saveload_common_502": {
     "src": "Cannot make consecutive saves.\nPlease wait ~10 seconds and try again.",
@@ -127,21 +127,21 @@
   "saveload_common_503": {
     "src": "Couldn't sign in.\nExiting the game...",
     "yax": "Не удалось войти в систему.\r\nВыход из игры...",
-    "trx": "Не удается выполнить вход.\nЗавершение игры..."
+    "trx": "Не удаётся выполнить вход.\nЗавершение игры..."
   },
   "saveload_common_504": {
     "src": "Profile has been changed.",
     "yax": "Профиль был изменен.",
-    "trx": "Профиль был изменен."
+    "trx": "Профиль был изменён."
   },
   "saveload_common_505": {
     "src": "Cannot proceed due to the change in profile.\nExiting the game...",
     "yax": "Не удается продолжить из-за изменения профиля.\r\nВыход из игры...",
-    "trx": "Не удается продолжить из-за изменения профиля.\nЗавершение игры..."
+    "trx": "Не удаётся продолжить из-за изменения профиля.\nЗавершение игры..."
   },
   "saveload_common_506": {
     "src": "※Warning※\nPre-existing auto save data will be overwritten and a new game will be started.\nProceed?",
     "yax": "※Предупреждение※\r\nРанее существовавшие данные автосохранения будут перезаписаны, и будет запущена новая игра.\r\nПродолжить?",
-    "trx": "※Предупреждение※\nСуществующее автосохранение будет перезаписано и начнется новая игра.\nПродолжить?"
+    "trx": "※Предупреждение※\nСуществующее автосохранение будет перезаписано и начнётся новая игра.\nПродолжить?"
   }
 }

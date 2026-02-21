@@ -17,7 +17,7 @@
   "004_001": {
     "src": "A monitor. There's nothing being displayed.",
     "yax": "Монитор. Там ничего не отображается.",
-    "trx": "Монитор. На нем нет изображения."
+    "trx": "Монитор. На нём нет изображения."
   },
   "005_001": {
     "src": "Creepy girls used to climb out of those things in the old days...",
@@ -72,7 +72,7 @@
   "010_001": {
     "src": "I'm still here...",
     "yax": "Я все еще здесь...",
-    "trx": "Я все еще здесь..."
+    "trx": "Я всё ещё здесь..."
   },
   "010_002": {
     "src": "I've always been here...",

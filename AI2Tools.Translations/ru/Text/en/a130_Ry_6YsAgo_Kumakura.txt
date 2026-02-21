@@ -2,7 +2,7 @@
   "001_001": {
     "src": "Wait, you're the director of that quiz show, Chinpei?!",
     "yax": "Подожди, ты режиссер этого викторин-шоу, Чинпей?!",
-    "trx": "Погодите, вы режиссер этой викторины, Чинпей?!"
+    "trx": "Погодите, вы режиссёр этой викторины, Чинпей?!"
   },
   "001_002": {
     "src": "You got a problem with that?",
@@ -17,7 +17,7 @@
   "001_004": {
     "src": "I told you he got out.",
     "yax": "Я же говорил тебе, что он вышел.",
-    "trx": "Я же говорил вам, что он ушел."
+    "trx": "Я же говорил вам, что он ушёл."
   },
   "001_005": {
     "src": "He's making an honest living as a civilian these days. Ain't that right?",
@@ -212,7 +212,7 @@
   "008_002": {
     "src": "So, we decided to get married, but her parents wouldn't approve of it.",
     "yax": "Итак, мы решили пожениться, но ее родители этого не одобрили.",
-    "trx": "Из-за этого мы решили пожениться, но ее родители этого не одобрили."
+    "trx": "Из-за этого мы решили пожениться, но её родители этого не одобрили."
   },
   "008_003": {
     "src": "Said they wouldn't let me have their daughter unless I got out of the business.",
@@ -227,7 +227,7 @@
   "008_005": {
     "src": "So much that I could only eat two slices of pizza instead of the usual three...",
     "yax": "Так много, что я смог съесть только два куска пиццы вместо обычных трех...",
-    "trx": "Так тяжело, что я съел всего два куска пиццы вместо обычных трех..."
+    "trx": "Так тяжело, что я съел всего два куска пиццы вместо обычных трёх..."
   },
   "008_006": {
     "src": "But a man has to do what a man has to do, right?",
@@ -282,17 +282,17 @@
   "009_003": {
     "src": "Then I was promoted to director right away.",
     "yax": "Затем меня сразу же повысили до директора.",
-    "trx": "Меня практически сразу повысили до режиссера."
+    "trx": "Меня практически сразу повысили до режиссёра."
   },
   "009_004": {
     "src": "Supposedly, the last director ran away, so they really needed me to take his place.",
     "yax": "Предположительно, последний директор сбежал, так что им действительно нужно было, чтобы я занял его место.",
-    "trx": "Предыдущий режиссер, похоже, сбежал, поэтому им потребовалось, чтобы я занял его место."
+    "trx": "Предыдущий режиссёр, похоже, сбежал, поэтому им потребовалось, чтобы я занял его место."
   },
   "choice_002": {
     "src": "Why was the director one of the contestants?",
     "yax": "Почему режиссер был одним из участников конкурса?",
-    "trx": "Почему режиссер сам участвовал в конкурсе?"
+    "trx": "Почему режиссёр сам участвовал в конкурсе?"
   },
   "010_001": {
     "src": "We didn't have enough people.",
@@ -327,7 +327,7 @@
   "010_007": {
     "src": "It was a request from one of my precious underlings, after all.",
     "yax": "В конце концов, это была просьба одного из моих драгоценных подчиненных.",
-    "trx": "Меня ведь просил об этом один из моих драгоценных подчиненных, в конце концов."
+    "trx": "Меня ведь просил об этом один из моих драгоценных подчинённых, в конце концов."
   },
   "010_008": {
     "src": "I convinced him by saying Tesa would be there too.",
@@ -352,12 +352,12 @@
   "011_001": {
     "src": "Sorry, but I haven't found anything that might be a lead...",
     "yax": "Извините, но я не нашел ничего, что могло бы быть зацепкой...",
-    "trx": "Извините, но я не нашел ничего, что могло бы быть зацепкой..."
+    "trx": "Извините, но я не нашёл ничего, что могло бы быть зацепкой..."
   },
   "011_002": {
     "src": "What about the rest of the staff?",
     "yax": "А как насчет остального персонала?",
-    "trx": "А что насчет остального персонала?"
+    "trx": "А что насчёт остального персонала?"
   },
   "011_003": {
     "src": "They'll probably tell you the same thing.",
@@ -372,7 +372,7 @@
   "011_005": {
     "src": "Their report is uploaded on the database.",
     "yax": "Их отчет загружается в базу данных.",
-    "trx": "Их отчет загружается в базу данных."
+    "trx": "Их отчёт загружается в базу данных."
   },
   "011_006": {
     "src": "Zero clues... There isn't any information that could help us at all.",
@@ -382,7 +382,7 @@
   "choice_003": {
     "src": "What about the other contestants?",
     "yax": "А как насчет других участников?",
-    "trx": "Что насчет остальных участников?"
+    "trx": "Что насчёт остальных участников?"
   },
   "012_001": {
     "src": "That show was supposed to run for six hours straight, from six to midnight.",
@@ -422,7 +422,7 @@
   "013_001": {
     "src": "I came to say thanks to the boss for yesterday.",
     "yax": "Я пришел поблагодарить босса за вчерашний день.",
-    "trx": "Я пришел поблагодарить босса за вчерашний день."
+    "trx": "Я пришёл поблагодарить босса за вчерашний день."
   },
   "013_002": {
     "src": "I was thinking of going to Akiba, and this place is on the way...",
@@ -467,7 +467,7 @@
   "014_003": {
     "src": "Let's figure that out later.",
     "yax": "Давайте разберемся с этим позже.",
-    "trx": "Давай разберемся с этим позже."
+    "trx": "Давай разберёмся с этим позже."
   },
   "014_004": {
     "src": "You need to gather intel for now.",
@@ -482,7 +482,7 @@
   "014_006": {
     "src": "Then let's go somewhere else...",
     "yax": "Тогда давай пойдем куда-нибудь еще...",
-    "trx": "Тогда давай отправимся куда-нибудь еще..."
+    "trx": "Тогда давай отправимся куда-нибудь ещё..."
   },
   "choice_004": {
     "src": "About the case...",
@@ -497,17 +497,17 @@
   "choice_006": {
     "src": "Did Chinpei's resignation go smoothly?",
     "yax": "Прошла ли отставка Чинпея гладко?",
-    "trx": "Уход Чинпея прошел гладко?"
+    "trx": "Уход Чинпея прошёл гладко?"
   },
   "choice_007": {
     "src": "About why you left the group...",
     "yax": "О том, почему ты покинул группу...",
-    "trx": "Насчет того, почему вы покинули группу..."
+    "trx": "Насчёт того, почему вы покинули группу..."
   },
   "choice_008": {
     "src": "Why did you become the director for the show?",
     "yax": "Почему вы стали режиссером этого шоу?",
-    "trx": "Почему вы стали режиссером этого шоу?"
+    "trx": "Почему вы стали режиссёром этого шоу?"
   },
   "choice_009": {
     "src": "About the case...",

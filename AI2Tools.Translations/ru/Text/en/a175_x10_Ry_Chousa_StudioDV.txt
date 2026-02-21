@@ -7,7 +7,7 @@
   "001_002": {
     "src": "Are you serious?",
     "yax": "Ты серьезно?",
-    "trx": "Ты серьезно?"
+    "trx": "Ты серьёзно?"
   },
   "001_003": {
     "src": "We're in Studio Dvaita, aren't we...?",
@@ -47,7 +47,7 @@
   "001_010": {
     "src": "Uncensored is fine...",
     "yax": "Без цензуры - это нормально...",
-    "trx": "Нет, сойдет и без цензуры..."
+    "trx": "Нет, сойдёт и без цензуры..."
   },
   "001_011": {
     "src": "Now, less digressing and more investigating.",
@@ -62,7 +62,7 @@
   "001_013": {
     "src": "All right, let's start looking around.",
     "yax": "Хорошо, давайте начнем осматриваться.",
-    "trx": "Ну ладно, начнем с того, что осмотримся здесь."
+    "trx": "Ну ладно, начнём с того, что осмотримся здесь."
   },
   "002_001": {
     "src": "Like I mentioned yesterday, Jin's estimated time of death is 6 o'clock on February 9th...",
@@ -87,7 +87,7 @@
   "002_005": {
     "src": "It's not completely gone yet, but the body has somewhat softened at this point.",
     "yax": "Это еще не полностью прошло, но на данный момент тело несколько смягчилось.",
-    "trx": "Оно еще не полностью прошло, но на данный момент тело несколько размягчилось."
+    "trx": "Оно ещё не полностью прошло, но на данный момент тело несколько размягчилось."
   },
   "002_006": {
     "src": "It should take more time to get to this stage if it's been on a rooftop in the winter...",
@@ -112,7 +112,7 @@
   "002_011": {
     "src": "It's like a spider's thread... No, even thinner...",
     "yax": "Это как паутинная нить... Нет, еще тоньше...",
-    "trx": "Выглядит как паучья нить... Только еще тоньше..."
+    "trx": "Выглядит как паучья нить... Только ещё тоньше..."
   },
   "002_012": {
     "src": "My analysis concludes that this is a CNT, or carbon nanotube.",
@@ -127,7 +127,7 @@
   "002_014": {
     "src": "These were rolled into a cylindrical shape to make these nanotubes.",
     "yax": "Они были свернуты в цилиндрическую форму, чтобы получить эти нанотрубки.",
-    "trx": "Нанотрубки состоят из одной или нескольких таких плоскостей, свернутых в цилиндр."
+    "trx": "Нанотрубки состоят из одной или нескольких таких плоскостей, свёрнутых в цилиндр."
   },
   "002_015": {
     "src": "The diameter is about 0.4 nanometers...",
@@ -137,12 +137,12 @@
   "002_016": {
     "src": "A single nanometer is one billionth of one meter, so it's not visible to the naked eye.",
     "yax": "Один нанометр - это одна миллиардная часть одного метра, поэтому он не виден невооруженным глазом.",
-    "trx": "Один нанометр — это одна миллиардная часть метра, поэтому она не видна невооруженным глазом."
+    "trx": "Один нанометр — это одна миллиардная часть метра, поэтому она не видна невооружённым глазом."
   },
   "002_017": {
     "src": "What? But I can see it...",
     "yax": "Что? Но я это вижу...",
-    "trx": "Что? Но я ее вижу..."
+    "trx": "Что? Но я её вижу..."
   },
   "002_018": {
     "src": "That's because this thread is made by bundling multiple CNTs.",
@@ -152,7 +152,7 @@
   "002_019": {
     "src": "I've also enhanced your vision so you'd be able to see it.",
     "yax": "Я также улучшил твое зрение, чтобы ты мог это видеть.",
-    "trx": "А также я улучшила твое зрение, чтобы ты мог ее видеть."
+    "trx": "А также я улучшила твоё зрение, чтобы ты мог её видеть."
   },
   "002_020": {
     "src": "By the way, CNTs are extremely durable.",
@@ -167,7 +167,7 @@
   "002_022": {
     "src": "Anyway, where is the other end of this CNT connected...?",
     "yax": "В любом случае, где находится другой конец этого CNT, подключенный...?",
-    "trx": "Ладно, а куда подсоединен второй конец этой УНТ...?"
+    "trx": "Ладно, а куда подсоединён второй конец этой УНТ...?"
   },
   "002_023": {
     "src": "That way...",
@@ -262,7 +262,7 @@
   "006_002": {
     "src": "Three things catch my attention.",
     "yax": "Три вещи привлекают мое внимание.",
-    "trx": "Три вещи привлекают мое внимание."
+    "trx": "Три вещи привлекают моё внимание."
   },
   "006_003": {
     "src": "First, a mixture of potassium chlorate, sulfur, and red phosphorus...",
@@ -407,7 +407,7 @@
   "012_003": {
     "src": "Anyone who climbs up there might accidentally fall off.",
     "yax": "Любой, кто заберется туда, может случайно упасть.",
-    "trx": "Любой, кто заберется туда, может случайно упасть."
+    "trx": "Любой, кто заберётся туда, может случайно упасть."
   },
   "012_004": {
     "src": "There are beams on the ceiling...",
@@ -432,7 +432,7 @@
   "014_001": {
     "src": "I can see the back of the set.",
     "yax": "Я вижу заднюю часть съемочной площадки.",
-    "trx": "Я могу видеть заднюю часть съемочной площадки."
+    "trx": "Я могу видеть заднюю часть съёмочной площадки."
   },
   "014_002": {
     "src": "There are a bunch of mannequins here.",

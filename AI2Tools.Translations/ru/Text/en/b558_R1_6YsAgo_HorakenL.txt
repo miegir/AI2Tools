@@ -27,7 +27,7 @@
   "003_001": {
     "src": "Yes, I know her.",
     "yax": "Да, я ее знаю.",
-    "trx": "Да, я ее знаю."
+    "trx": "Да, я её знаю."
   },
   "003_002": {
     "src": "She's the daughter of Riichi Chieda, a big stakeholder in this facility.",
@@ -62,7 +62,7 @@
   "003_008": {
     "src": "I don't know her personally or anything...",
     "yax": "Я не знаю ее лично или что-то в этом роде...",
-    "trx": "Я не знаю ее лично..."
+    "trx": "Я не знаю её лично..."
   },
   "003_009": {
     "src": "Just to be sure, I talked to the other researchers.",
@@ -207,7 +207,7 @@
   "008_003": {
     "src": "True, we can't say for sure that she isn't there.",
     "yax": "Правда, мы не можем с уверенностью сказать, что ее там нет.",
-    "trx": "Мы действительно не можем с уверенностью сказать, что ее там нет."
+    "trx": "Мы действительно не можем с уверенностью сказать, что её там нет."
   },
   "008_004": {
     "src": "But we're taking a lot of time looking for some hidden room that might not even exist.",
@@ -217,7 +217,7 @@
   "008_005": {
     "src": "We should focus our attention somewhere else, at least for now.",
     "yax": "Мы должны сосредоточить наше внимание на чем-то другом, по крайней мере сейчас.",
-    "trx": "Мы должны сосредоточить свое внимание на чем-то другом, по крайней мере сейчас."
+    "trx": "Мы должны сосредоточить своё внимание на чем-то другом, по крайней мере сейчас."
   },
   "008_006": {
     "src": "...",
@@ -237,7 +237,7 @@
   "choice_003": {
     "src": "You're still working after your boss was killed...?",
     "yax": "Ты все еще работаешь после того, как твой босс был убит...?",
-    "trx": "Вы все еще работаете, когда ваш босс был убит...?"
+    "trx": "Вы всё ещё работаете, когда ваш босс был убит...?"
   },
   "choice_004": {
     "src": "Information regarding Chikara...",

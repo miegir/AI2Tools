@@ -7,7 +7,7 @@
   "tutorial_007": {
     "src": "Inspecting <color=yellow>people</color> and <color=yellow>objects</color>  will progress the story. ",
     "yax": "Проверка <color=yellow>людей</color> и <color=yellow>объектов</color> продвинет историю вперед. ",
-    "trx": "Историю продвигает вперед взаимодействие с <color=yellow>персонажами</color> и <color=yellow>объектами</color>. "
+    "trx": "Историю продвигает вперёд взаимодействие с <color=yellow>персонажами</color> и <color=yellow>объектами</color>. "
   },
   "tutorial_008": {
     "src": "You can freely move the <color=yellow>《Cursor》</color> and <color=yellow>《Camera》</color>.",
@@ -192,12 +192,12 @@
   "tutorial_title_015": {
     "src": "The case isn't closed yet.",
     "yax": "Дело еще не закрыто.",
-    "trx": "Дело еще не закрыто."
+    "trx": "Дело ещё не закрыто."
   },
   "tutorial_033": {
     "src": "There are many mysteries remaining.\nThe truth of the HB case, Tearer's objective...\nThe future of the main characters...",
     "yax": "Остается еще много загадок.\nПравда о деле НВ, цель Тиррера...\nБудущее главных героев...",
-    "trx": "Остается еще много загадок.\nПравда о деле с половинами тел, цель Рассекателя...\nБудущее главных героев..."
+    "trx": "Остаётся ещё много загадок.\nПравда о деле с половинами тел, цель Рассекателя...\nБудущее главных героев..."
   },
   "tutorial_034": {
     "src": "In this game, <color=yellow>《the story branches at the Somnia》</color>.",
@@ -247,7 +247,7 @@
   "tutorial_040": {
     "src": "This is Aiba's room. \nYou can communicate with Aiba, ask for life advice, or dress her in different clothes.",
     "yax": "Это комната Айбы. \nВы можете пообщаться с Айбой, попросить совета по жизни или одеть ее в другую одежду.",
-    "trx": "Это комната Айбы. \nЗдесь можно пообщаться с Айбой, попросить жизненного совета или сменить ее одежду."
+    "trx": "Это комната Айбы. \nЗдесь можно пообщаться с Айбой, попросить жизненного совета или сменить её одежду."
   },
   "tutorial_title_019": {
     "src": "TAMA'S ROOM",
@@ -257,7 +257,7 @@
   "tutorial_041": {
     "src": "This is Tama's room. \nYou can communicate with Tama, ask for life advice, or dress her in different clothes.",
     "yax": "Это комната Тамы. \nВы можете пообщаться с Тамой, попросить совета по жизни или одеть ее в другую одежду.",
-    "trx": "Это комната Тамы. \nЗдесь можно пообщаться с Тамой, попросить жизненного совета или сменить ее одежду."
+    "trx": "Это комната Тамы. \nЗдесь можно пообщаться с Тамой, попросить жизненного совета или сменить её одежду."
   },
   "tutorial_title_020": {
     "src": "Dresser",
@@ -272,7 +272,7 @@
   "tutorial_043": {
     "src": "Different outfits will be added to the <color=yellow>《BONUS MENU》</color> as you level up your <color=yellow>《evaluation》 class</color>.\nThey can be purchased by <color=yellow>using eyeballs</color>.",
     "yax": "Различные наряды будут добавлены в <color=yellow>《БОНУСНОЕ МЕНЮ》</color> по мере повышения уровня вашего <color=yellow>《оценка》 класс</color>.\nИх можно приобрести с помощью <color=yellow>, используя eyeballs</color>.",
-    "trx": "Новая одежда будет добавлена в меню <color=yellow>《БОНУСЫ》</color> по мере повышения вашего <color=yellow>класса 《эффективности》</color>.\nПриобрести ее можно, потратив <color=yellow>собранные глазные яблоки</color>."
+    "trx": "Новая одежда будет добавлена в меню <color=yellow>《БОНУСЫ》</color> по мере повышения вашего <color=yellow>класса 《эффективности》</color>.\nПриобрести её можно, потратив <color=yellow>собранные глазные яблоки</color>."
   },
   "tutorial_title_021": {
     "src": "Life Advice",
@@ -307,12 +307,12 @@
   "tutorial_047": {
     "src": "You can check your evaluation by <color=yellow>performing certain actions </color> during the story.\nAchievements will be unlocked and your inspector rank will go up.",
     "yax": "Вы можете проверить свою оценку, выполнив <color=yellow>определенные действия </color> во время рассказа.\nДостижения будут разблокированы, и ваш ранг инспектора повысится.",
-    "trx": "Вы доказываете свою эффективность, выполняя <color=yellow>определенные действия</color> во время игры.\nПри этом разблокируются достижения и повышается ваш ранг инспектора."
+    "trx": "Вы доказываете свою эффективность, выполняя <color=yellow>определённые действия</color> во время игры.\nПри этом разблокируются достижения и повышается ваш ранг инспектора."
   },
   "tutorial_048": {
     "src": "Higher ranks earn <color=yellow>better prizes</color>.",
     "yax": "Более высокие звания приносят <color=yellow>лучшие призы</color>.",
-    "trx": "Более высокий ранг дает <color=yellow>лучшие награды</color>."
+    "trx": "Более высокий ранг даёт <color=yellow>лучшие награды</color>."
   },
   "tutorial_title_024": {
     "src": "Somnium",
@@ -487,7 +487,7 @@
   "tutorial_071": {
     "src": "Using the Map, you can confirm your current location and things that you can investigate.",
     "yax": "Используя карту, вы можете подтвердить свое текущее местоположение и то, что вы можете исследовать.",
-    "trx": "На карте вы можете увидеть свое текущее местоположение и объекты, доступные для исследования."
+    "trx": "На карте вы можете увидеть своё текущее местоположение и объекты, доступные для исследования."
   },
   "tutorial_072": {
     "src": "Map has a convenient <color=yellow>《Navigation feature》</color>.\nWhen lost, try opening the map and <color=yellow>set the navigation to what you want to investigate</color>.",
@@ -512,7 +512,7 @@
   "tutorial_074": {
     "src": "A <color=yellow>《Timie》is a time item</color>.\nThey can be obtained by selecting certain options.",
     "yax": "A <color=yellow>《Timie》 - это элемент времени</color>.\nИх можно получить, выбрав определенные параметры.",
-    "trx": "<color=yellow>《Тайми》 управляют временем</color>.\nИх можно получить, выбрав определенные варианты."
+    "trx": "<color=yellow>《Тайми》 управляют временем</color>.\nИх можно получить, выбрав определённые варианты."
   },
   "tutorial_075": {
     "src": "Timies <color=yellow>can only be used to make selections</color> and <color=yellow>lessen the amount of time used</color>. ",
@@ -522,7 +522,7 @@
   "tutorial_076": {
     "src": "You can <color=yellow>hold up to 3</color> Timies. \nIf you obtain one when you have three, the oldest one\nwill be discarded.",
     "yax": "Вы можете <color=yellow>удерживать до 3 таймов</color>. \nЕсли вы получите один, когда у вас будет три, самый старый из них\nбудут отброшены.",
-    "trx": "Можно <color=yellow>хранить до 3 тайми</color>. \nЕсли у вас их уже три и вы получаете еще один, самый старый из них\nбудет потерян."
+    "trx": "Можно <color=yellow>хранить до 3 тайми</color>. \nЕсли у вас их уже три и вы получаете ещё один, самый старый из них\nбудет потерян."
   },
   "tutorial_077": {
     "src": "Timies are depleted when used, but you should try to use them aggressively.",
@@ -537,7 +537,7 @@
   "tutorial_078": {
     "src": "《Retry》 allows you to <color=yellow>go back to the mid-save point</color> after unlocking a Mental Lock.",
     "yax": "\"Повторная попытка\" позволяет <color=yellow> вернуться к середине сохранения</color> после разблокировки ментальной блокировки.",
-    "trx": "《Повтор》 позволяет <color=yellow>вернуться к контрольной точке</color>, сохраненной после открытия ментального замка."
+    "trx": "《Повтор》 позволяет <color=yellow>вернуться к контрольной точке</color>, сохранённой после открытия ментального замка."
   },
   "tutorial_079": {
     "src": "You can only perform a Retry <color=yellow>3 times</color>.\nUse 1 retry point to go back 1 point, 2 points to go back 2, and 3 points to go back 3.",
@@ -562,7 +562,7 @@
   "tutorial_082": {
     "src": "Even if you run out of time, don't give up till the very end, you might still be able to clear the Somnium.\n",
     "yax": "Даже если у вас закончится время, не сдавайтесь до самого конца, возможно, вы все еще сможете очистить Сон.",
-    "trx": "Даже если у вас заканчивается время, не сдавайтесь до самого конца, возможно, вы все еще сможете пройти сомниум."
+    "trx": "Даже если у вас заканчивается время, не сдавайтесь до самого конца, возможно, вы всё ещё сможете пройти сомниум."
   },
   "tutorial_title_040": {
     "src": "Pewter's Sleep Talking",
@@ -617,7 +617,7 @@
   "tutorial_089": {
     "src": "When the remaining time hits 0, you will kick your shoe up.\nThe shoe will travel the distance of the gauge.",
     "yax": "Когда оставшееся время достигнет 0, вы поднимете свой ботинок вверх.\nБашмак пройдет расстояние, указанное датчиком.",
-    "trx": "Когда счетчик времени достигнет 0, вы подбросите свою туфлю.\nТуфля пролетит расстояние, указанное датчиком."
+    "trx": "Когда счётчик времени достигнет 0, вы подбросите свою туфлю.\nТуфля пролетит расстояние, указанное датчиком."
   },
   "tutorial_title_044": {
     "src": "Letter Board",
@@ -682,12 +682,12 @@
   "tutorial_098": {
     "src": "《Wink Psync》is a simplified version of Psyncing.\nYou can analyze the brainwaves of the Psync subject\nand temporarily <color=yellow>look into their dream</color>.",
     "yax": "\"Wink Psync\" - это упрощенная версия Psyncing.\nВы можете анализировать мозговые волны субъекта Psync\nи временно <color=yellow>загляни в их сон</color>.",
-    "trx": "《Винк-псинк》 — это упрощенная версия псинхронизации.\nС ее помощью можно проанализировать мозговые волны субъекта\nпсинхронизации и временно <color=yellow>заглянуть в его сон</color>."
+    "trx": "《Винк-псинк》 — это упрощённая версия псинхронизации.\nС её помощью можно проанализировать мозговые волны субъекта\nпсинхронизации и временно <color=yellow>заглянуть в его сон</color>."
   },
   "tutorial_099": {
     "src": "Select Chikara with the cursor. \nChoose <color=yellow>Wink Psync icon</color> to view a simplified version\nof his dream.",
     "yax": "Выберите Chikara с помощью курсора. \nВыберите <color=yellow>Значок подмигивания Psync</color>, чтобы просмотреть упрощенную версию\nо его мечте.",
-    "trx": "Выберите Чикару при помощи курсора. \nИспользуйте <color=yellow>значок Винк-псинк</color>, чтобы просмотреть упрощенную версию\nего сна."
+    "trx": "Выберите Чикару при помощи курсора. \nИспользуйте <color=yellow>значок Винк-псинк</color>, чтобы просмотреть упрощённую версию\nего сна."
   },
   "tutorial_title_500": {
     "src": "Cooking Command",
@@ -697,7 +697,7 @@
   "tutorial_500": {
     "src": "Within the time limit, input the Cooking Commands in order from left and complete Cooking Skill.",
     "yax": "В течение отведенного времени введите Команды приготовления в порядке слева направо и завершите Навык приготовления.",
-    "trx": "Введите кулинарные команды за отведенное время в порядке слева направо и получите Кулинарный навык."
+    "trx": "Введите кулинарные команды за отведённое время в порядке слева направо и получите Кулинарный навык."
   },
   "tutorial_501": {
     "src": "Completing more Cooking Commands leads to gaining Rank, and by linking the Cooking Skills, it can become an even higher quality Cooking Skill.",
@@ -707,7 +707,7 @@
   "tutorial_502": {
     "src": "If unable to input any of the Cooking Commands, time will be depleted and you have to start over.\nEven if you don't have confidence, make sure to at least input Rank 1 Cooking Commands.",
     "yax": "Если не удастся ввести ни одну из команд приготовления, время будет израсходовано, и вам придется начинать сначала.\nДаже если у вас нет уверенности, убедитесь, что вы хотя бы вводите команды приготовления 1-го ранга.",
-    "trx": "Если вы не сможете ввести ни одну Кулинарную команду, будет израсходовано время и вам придется начинать сначала.\nПоэтому постарайтесь ввести Кулинарную команду хотя бы 1-го уровня."
+    "trx": "Если вы не сможете ввести ни одну Кулинарную команду, будет израсходовано время и вам придётся начинать сначала.\nПоэтому постарайтесь ввести Кулинарную команду хотя бы 1-го уровня."
   },
   "tutorial_title_501": {
     "src": "Navigation Controls",
@@ -812,7 +812,7 @@
   "tutorial_517": {
     "src": "This map will assist you.\nUse this to infer where the plan will take place.",
     "yax": "Эта карта поможет вам.\nИспользуйте это, чтобы определить, где будет осуществляться план.",
-    "trx": "Эта карта вам поможет.\nОпределите с ее помощью место, где будет осуществляться план."
+    "trx": "Эта карта вам поможет.\nОпределите с её помощью место, где будет осуществляться план."
   },
   "tutorial_518": {
     "src": "When you figure out the location, close the map and tell everyone.",
