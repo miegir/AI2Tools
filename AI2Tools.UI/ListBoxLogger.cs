@@ -13,7 +13,7 @@ internal class ListBoxLogger : ILogger
         this.listBox = listBox;
     }
 
-    public IDisposable BeginScope<TState>(TState state)
+    public IDisposable? BeginScope<TState>(TState state) where TState : notnull
     {
         while (true)
         {
